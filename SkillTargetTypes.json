@@ -1,0 +1,37 @@
+[
+  {
+    "SkillTargetTypeId": 1,
+    "Name": "Single Enemy",
+    "Identifier": "single_enemy"
+  },
+  {
+    "SkillTargetTypeId": 2,
+    "Name": "All Enemies",
+    "Identifier": "all_enemies"
+  },
+  {
+    "SkillTargetTypeId": 3,
+    "Name": "Single Ally",
+    "Identifier": "single_ally"
+  },
+  {
+    "SkillTargetTypeId": 4,
+    "Name": "All Allies",
+    "Identifier": "all_allies"
+  },
+  {
+    "SkillTargetTypeId": 5,
+    "Name": "Self",
+    "Identifier": "self"
+  },
+  {
+    "SkillTargetTypeId": 6,
+    "Name": "Random Enemy or Ally",
+    "Identifier": "random_enemy_or_ally"
+  },
+  {
+    "SkillTargetTypeId": 7,
+    "Name": "Random Enemies",
+    "Identifier": "random_enemies"
+  }
+]

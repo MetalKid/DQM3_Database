@@ -1,0 +1,1226 @@
+[
+  {
+    "TraitId": 1,
+    "Name": "Tactical Trooper",
+    "Identifier": "tactical_trooper",
+    "Description": "Sometimes performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Very slightly lowers the monster's attributes."
+  },
+  {
+    "TraitId": 2,
+    "Name": "Tactical Commander",
+    "Identifier": "tactical_commander",
+    "Description": "Performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes."
+  },
+  {
+    "TraitId": 3,
+    "Name": "Tactical Genius",
+    "Identifier": "tactical_genius",
+    "Description": "Sometimes performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes."
+  },
+  {
+    "TraitId": 4,
+    "Name": "Tactical Titan",
+    "Identifier": "tactical_titan",
+    "Description": "Performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Lowers the monster's attribute."
+  },
+  {
+    "TraitId": 5,
+    "Name": "Insta-Oomph",
+    "Identifier": "insta-oomph",
+    "Description": "Monster sometimes casts Oomph on itself at the start of battle."
+  },
+  {
+    "TraitId": 6,
+    "Name": "Insta-Buff",
+    "Identifier": "insta-buff",
+    "Description": "Monster sometimes casts Buff on itself at the start of battle."
+  },
+  {
+    "TraitId": 7,
+    "Name": "Insta-Accel",
+    "Identifier": "insta-accel",
+    "Description": "Monster sometimes casts Accelerate on itself at the start of battle."
+  },
+  {
+    "TraitId": 8,
+    "Name": "Insta-Ping",
+    "Identifier": "insta-ping",
+    "Description": "Monster sometimes casts Ping on itself at the start of battle."
+  },
+  {
+    "TraitId": 9,
+    "Name": "Insta-Bounce",
+    "Identifier": "insta-bounce",
+    "Description": "Monster sometimes casts Bounce on itself at the start of battle."
+  },
+  {
+    "TraitId": 10,
+    "Name": "Rando-Oomph",
+    "Identifier": "rando-oomph",
+    "Description": "Monster sometimes casts Oomph on itself during battle."
+  },
+  {
+    "TraitId": 11,
+    "Name": "Rando-Buff",
+    "Identifier": "rando-buff",
+    "Description": "Monster sometimes casts Buff on itself during battle."
+  },
+  {
+    "TraitId": 12,
+    "Name": "Rando-Accel",
+    "Identifier": "rando-accel",
+    "Description": "Monster sometimes casts Accelerate on itself during battle."
+  },
+  {
+    "TraitId": 13,
+    "Name": "Rando-Ping",
+    "Identifier": "rando-ping",
+    "Description": "Monster sometimes casts Ping on itself during battle."
+  },
+  {
+    "TraitId": 14,
+    "Name": "Rando-Mister",
+    "Identifier": "rando-mister",
+    "Description": "Monster sometimes casts Mist Me on itself during battle."
+  },
+  {
+    "TraitId": 15,
+    "Name": "Rando-Relief",
+    "Identifier": "rando-relief",
+    "Description": "Monster sometimes casts Wave of Relief on itself during battle."
+  },
+  {
+    "TraitId": 16,
+    "Name": "Rando-Panic",
+    "Identifier": "rando-panic",
+    "Description": "Monster sometimes casts Wave of Panic on itself during battle."
+  },
+  {
+    "TraitId": 17,
+    "Name": "Rando-Muster",
+    "Identifier": "rando-muster",
+    "Description": "Sometimes uses Muster Strength during battle."
+  },
+  {
+    "TraitId": 18,
+    "Name": "Low Heal",
+    "Identifier": "low_heal",
+    "Description": "Sometimes restores 30 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerfull."
+  },
+  {
+    "TraitId": 19,
+    "Name": "High Heal",
+    "Identifier": "high_heal",
+    "Description": "Sometimes restores 80 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerfull."
+  },
+  {
+    "TraitId": 20,
+    "Name": "Wizardly Wind",
+    "Identifier": "wizardly_wind",
+    "Description": "Sometimes restores 5 or more MP to all allies during battle. Higher wisdom makes the healing effect more powerfull."
+  },
+  {
+    "TraitId": 21,
+    "Name": "Last Gasp",
+    "Identifier": "last_gasp",
+    "Description": "Revives a single ally after it falls in battle. Only works once per battle."
+  },
+  {
+    "TraitId": 22,
+    "Name": "Frizzmeister",
+    "Identifier": "frizzmeister",
+    "Description": "Increases the potency of fire-elemental attacks and decreases their MP consumption."
+  },
+  {
+    "TraitId": 23,
+    "Name": "SplishMeister",
+    "Identifier": "splishmeister",
+    "Description": "Increases the potency of water-elemental attacks and decreases their MP consumption."
+  },
+  {
+    "TraitId": 24,
+    "Name": "Wooshmeister",
+    "Identifier": "wooshmeister",
+    "Description": "Increases the potency of wind-elemental attacks and decreases their MP consumption."
+  },
+  {
+    "TraitId": 25,
+    "Name": "Cragmeister",
+    "Identifier": "cragmeister",
+    "Description": "Increases the potency of earth-elemental attacks and decreases their MP consumption."
+  },
+  {
+    "TraitId": 26,
+    "Name": "Bangmeister",
+    "Identifier": "bangmeister",
+    "Description": "Increases the potency of explosie attacks and decreases their MP consumption."
+  },
+  {
+    "TraitId": 27,
+    "Name": "Crackmeister",
+    "Identifier": "crackmeister",
+    "Description": "Increases the potency of ice-elemental attacks and decreases their MP consumption."
+  },
+  {
+    "TraitId": 28,
+    "Name": "Zapmeister",
+    "Identifier": "zapmeister",
+    "Description": "Increases the potency of electrical attacks and decreases their MP consumption."
+  },
+  {
+    "TraitId": 29,
+    "Name": "Sizzmeister",
+    "Identifier": "sizzmeister",
+    "Description": "Increases the potency of light-elemental attacks and decreases their MP consumption."
+  },
+  {
+    "TraitId": 30,
+    "Name": "Zammeister",
+    "Identifier": "zammeister",
+    "Description": "Increases the potency of dark-elemental attacks and decreases their MP consumption."
+  },
+  {
+    "TraitId": 31,
+    "Name": "Health Professional",
+    "Identifier": "health_professional",
+    "Description": "Increases the potency of healing skills and decreases their MP consumption."
+  },
+  {
+    "TraitId": 32,
+    "Name": "Slick Skin",
+    "Identifier": "slick_skin",
+    "Description": "Sometimes causes incoming direct attacks to miss."
+  },
+  {
+    "TraitId": 33,
+    "Name": "Spiky Skin",
+    "Identifier": "spiky_skin",
+    "Description": "Returns 1/4 of the damage suffered from direct attacks back at the attacking enemy."
+  },
+  {
+    "TraitId": 34,
+    "Name": "Infected Skin",
+    "Identifier": "infected_skin",
+    "Description": "Sometimes poisons enemies that inflict idrect attacks."
+  },
+  {
+    "TraitId": 35,
+    "Name": "Stunning Skin",
+    "Identifier": "stunning_skin",
+    "Description": "Sometimes stuns enemies that inflict direct attacks for 1 turn."
+  },
+  {
+    "TraitId": 36,
+    "Name": "Somnolent Skin",
+    "Identifier": "somnolent_skin",
+    "Description": "Sometimes uts enemies that inflect direct attacks to sleep."
+  },
+  {
+    "TraitId": 37,
+    "Name": "Stupefying Skin",
+    "Identifier": "stupefying_skin",
+    "Description": "Sometimes confuses enemies that inflict direct attacks."
+  },
+  {
+    "TraitId": 38,
+    "Name": "Insensitive Skin",
+    "Identifier": "insensitive_skin",
+    "Description": "Sometimes paralyses enemies that inflict direct attacks."
+  },
+  {
+    "TraitId": 39,
+    "Name": "Spongy Skin",
+    "Identifier": "spongy_skin",
+    "Description": "Sometimes absorbs MP from enemies that inflict direct attacks."
+  },
+  {
+    "TraitId": 40,
+    "Name": "Ace Evader",
+    "Identifier": "ace_evader",
+    "Description": "Makes it somewhat easier to avoid enemy attacks."
+  },
+  {
+    "TraitId": 41,
+    "Name": "Supreme Sidestepper",
+    "Identifier": "supreme_sidestepper",
+    "Description": "Makes it much easier to avoid enemy attacks."
+  },
+  {
+    "TraitId": 42,
+    "Name": "Dodge Denier",
+    "Identifier": "dodge_denier",
+    "Description": "Ensures the enemy cannot avoid attacks."
+  },
+  {
+    "TraitId": 43,
+    "Name": "Critical Triumph",
+    "Identifier": "critical_triumph",
+    "Description": "Makes it somewhat easier to inflict critical hits."
+  },
+  {
+    "TraitId": 44,
+    "Name": "Critical Sensation",
+    "Identifier": "critical_sensation",
+    "Description": "Makes it much easier to inflict critical hits."
+  },
+  {
+    "TraitId": 45,
+    "Name": "Critical Moment",
+    "Identifier": "critical_moment",
+    "Description": "Makes it easier to inflict critical hits when HP drops to 1/2, and even more so when HP drops to 1/4."
+  },
+  {
+    "TraitId": 46,
+    "Name": "Critical Theorist",
+    "Identifier": "critical_theorist",
+    "Description": "Makes it somewhat easier to cast critical spells."
+  },
+  {
+    "TraitId": 47,
+    "Name": "Magical Moment",
+    "Identifier": "magical_moment",
+    "Description": "Makes it easier to inflict cast critical spells when HP drops to 1/2, and even more so when HP drops to 1/4."
+  },
+  {
+    "TraitId": 48,
+    "Name": "Desperate Measures",
+    "Identifier": "desperate_measures",
+    "Description": "Negates all damage suffered from critical hits and critical spells."
+  },
+  {
+    "TraitId": 49,
+    "Name": "Auto-Restora",
+    "Identifier": "auto-restora",
+    "Description": "Restores a small amount of HP after each action."
+  },
+  {
+    "TraitId": 50,
+    "Name": "Auto-Cadabra",
+    "Identifier": "auto-cadabra",
+    "Description": "Restores a small amount of MP after each action."
+  },
+  {
+    "TraitId": 51,
+    "Name": "Castslasher",
+    "Identifier": "castslasher",
+    "Description": "Reduces MP consumption by 1/2."
+  },
+  {
+    "TraitId": 52,
+    "Name": "Beastsbane",
+    "Identifier": "beastsbane",
+    "Description": "Increases damage inflicted on monsters from the beast family and slightly lowers all resistances."
+  },
+  {
+    "TraitId": 53,
+    "Name": "Zombiesbane",
+    "Identifier": "zombiesbane",
+    "Description": "Increases damage inflicted on monsters from the undead family and slightly lowers all resistances."
+  },
+  {
+    "TraitId": 54,
+    "Name": "Matterbane",
+    "Identifier": "matterbane",
+    "Description": "Increases damage inflicted on monsters from the material family and slightly lowers all resistances."
+  },
+  {
+    "TraitId": 55,
+    "Name": "Über Dragonsbane",
+    "Identifier": "uber_dragonsbane",
+    "Description": "Greatly increases damage inflicted on monsters from the dragon family and somewhat lowers all resistances."
+  },
+  {
+    "TraitId": 56,
+    "Name": "Über Beastsbane",
+    "Identifier": "uber_beastsbane",
+    "Description": "Greatly increases damage inflicted on monsters from the beast family and somewhat lowers all resistances."
+  },
+  {
+    "TraitId": 57,
+    "Name": "Über Naturesbane",
+    "Identifier": "uber_naturesbane",
+    "Description": "Greatly increases damage inflicted on monsters from the nature family and somewhat lowers all resistances."
+  },
+  {
+    "TraitId": 58,
+    "Name": "Naturesbane",
+    "Identifier": "naturesbane",
+    "Description": "Increases damage inflicted on monsters from the nature family and slightly lowers all resistances."
+  },
+  {
+    "TraitId": 59,
+    "Name": "Dragonsbane",
+    "Identifier": "dragonsbane",
+    "Description": "Increases damage inflicted on monsters from the dragon family and slightly lowers all resistances."
+  },
+  {
+    "TraitId": 60,
+    "Name": "Über Zombiesbane",
+    "Identifier": "uber_zombiesbane",
+    "Description": "Greatly increases damage inflicted on monsters from the undead family and somewhat lowers all resistances."
+  },
+  {
+    "TraitId": 61,
+    "Name": "Über Matterbane",
+    "Identifier": "uber_matterbane",
+    "Description": "Greatly increases damage inflicted on monsters from the material family and somewhat lowers all resistances."
+  },
+  {
+    "TraitId": 62,
+    "Name": "Poisonous Touch",
+    "Identifier": "poisonous_touch",
+    "Description": "Regular attacks sometimes poison the enemy."
+  },
+  {
+    "TraitId": 63,
+    "Name": "Stunning Touch",
+    "Identifier": "stunning_touch",
+    "Description": "Regular attacks sometimes stun the enemy for 1 turn."
+  },
+  {
+    "TraitId": 64,
+    "Name": "Sleepy Touch",
+    "Identifier": "sleepy_touch",
+    "Description": "Regular attacks sometimes put the enemy to sleep."
+  },
+  {
+    "TraitId": 65,
+    "Name": "Confusing Touch",
+    "Identifier": "confusing_touch",
+    "Description": "Regular attacks sometimes confuse the enemy."
+  },
+  {
+    "TraitId": 66,
+    "Name": "Paralysing Touch",
+    "Identifier": "paralysing_touch",
+    "Description": "Regular attacks sometimes paralyse the enemy."
+  },
+  {
+    "TraitId": 67,
+    "Name": "Deadly Touch",
+    "Identifier": "deadly_touch",
+    "Description": "Regular attacks sometimes kill the enemy instantly."
+  },
+  {
+    "TraitId": 68,
+    "Name": "Miraculous Touch",
+    "Identifier": "miraculous_touch",
+    "Description": "Regular attacks restore 1/2 of the damage they inflict on the enemy as HP."
+  },
+  {
+    "TraitId": 69,
+    "Name": "Absorbent Touch",
+    "Identifier": "absorbent_touch",
+    "Description": "Regular attacks sometimes absorb a portion of the enemy's MP."
+  },
+  {
+    "TraitId": 70,
+    "Name": "Metal Beater",
+    "Identifier": "metal_beater",
+    "Description": "Inflicts additional damage on enemies. A higher level increases the effect. Works on enemies with the Metal Skin trait."
+  },
+  {
+    "TraitId": 71,
+    "Name": "Metal Medley",
+    "Identifier": "metal_medley",
+    "Description": "Ignores the damage-reducing effect that the Metal Skin trait provides."
+  },
+  {
+    "TraitId": 72,
+    "Name": "Little Menace",
+    "Identifier": "little_menace",
+    "Description": "Increases damage inflicted on S-size monsters."
+  },
+  {
+    "TraitId": 73,
+    "Name": "Big Bully",
+    "Identifier": "big_bully",
+    "Description": "Increases damage inflicted on L-size monsters"
+  },
+  {
+    "TraitId": 74,
+    "Name": "Insult to Injury",
+    "Identifier": "insult_to_injury",
+    "Description": "Increases damage inflicted on enemies that are poisoned, severely poisoned, stunned, asleep, confused or paralysed."
+  },
+  {
+    "TraitId": 75,
+    "Name": "Intimidating",
+    "Identifier": "intimidating",
+    "Description": "Sometimes stuns the enemy during battle for 1 turn."
+  },
+  {
+    "TraitId": 76,
+    "Name": "Strangely Alluring",
+    "Identifier": "strangely_alluring",
+    "Description": "Sometimes stuns the enemy during battle for 1 turn."
+  },
+  {
+    "TraitId": 77,
+    "Name": "Agent of Chaos",
+    "Identifier": "agent_of_chaos",
+    "Description": "Always attacks an enemy when the monster is confused. Successful strikes inflict critical hits."
+  },
+  {
+    "TraitId": 78,
+    "Name": "Sleep Twitch",
+    "Identifier": "sleep_twitch",
+    "Description": "Attacks all enemies when the monster is asleep."
+  },
+  {
+    "TraitId": 79,
+    "Name": "Static Discharge",
+    "Identifier": "static_discharge",
+    "Description": "Sometimes paralyses enemies that inflict direct attacks when the monster is paralysed itself."
+  },
+  {
+    "TraitId": 80,
+    "Name": "Sobering Slap",
+    "Identifier": "sobering_slap",
+    "Description": "Sometimes cures allies of sleep and confusion during battle."
+  },
+  {
+    "TraitId": 81,
+    "Name": "Detox",
+    "Identifier": "detox",
+    "Description": "Sometimes cures allies of poison, severe poison and paralysis during battle."
+  },
+  {
+    "TraitId": 82,
+    "Name": "Bigger Upper",
+    "Identifier": "bigger_upper",
+    "Description": "Extends the duration of skills that raise the strength, defence, agility or wisdom of allies to 5 turns. In addtion, randomly grants invincibility, the ability to reflect spells or breath attacks, or raises evasion."
+  },
+  {
+    "TraitId": 83,
+    "Name": "Major Downer",
+    "Identifier": "major_downer",
+    "Description": "Extends the duration of skills that lower the strength, defence, agility or wisdom of enemies to 5 turns. In addition, randomly prevents breath attacks, critical hits or the casting of magic, or bedazzles the enemy."
+  },
+  {
+    "TraitId": 84,
+    "Name": "Close Scraper",
+    "Identifier": "close_scraper",
+    "Description": "Sometimes allows the monster to survive at 1 HP after suffering an attack that would otherwise kill it."
+  },
+  {
+    "TraitId": 85,
+    "Name": "Last Legs",
+    "Identifier": "last_legs",
+    "Description": "Allows the montser to survive at 1 HP after suffering an attack that would otherwise kill it."
+  },
+  {
+    "TraitId": 86,
+    "Name": "Snappy Comeback",
+    "Identifier": "snappy_comeback",
+    "Description": "Inflicts damage back on an enemy that lands a killer blow. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero."
+  },
+  {
+    "TraitId": 87,
+    "Name": "Parting Gift",
+    "Identifier": "parting_gift",
+    "Description": "Inflicts damage back on all enemies when a killer blow is received. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero."
+  },
+  {
+    "TraitId": 88,
+    "Name": "Benefaction",
+    "Identifier": "benefaction",
+    "Description": "Massively increases the attack, defence, agility and wisdom of allies when a killer blow is received."
+  },
+  {
+    "TraitId": 89,
+    "Name": "Strong Starter",
+    "Identifier": "strong_starter",
+    "Description": "Raises damage inflicted on enemies up to round 3, but lowers it from round 4 onwards."
+  },
+  {
+    "TraitId": 90,
+    "Name": "Late Bloomer",
+    "Identifier": "late_bloomer",
+    "Description": "Increases attack, defence, agility and wisdom from round 3 onwards, and even more so from round 6."
+  },
+  {
+    "TraitId": 91,
+    "Name": "Tit for Tat",
+    "Identifier": "tit_for_tat",
+    "Description": "When a monster is inflicted with a status ailment, the attacking enemy will have the same ailment inflicted back on them."
+  },
+  {
+    "TraitId": 92,
+    "Name": "Naked Ambition",
+    "Identifier": "naked_ambition",
+    "Description": "Increases the likelihood of critical hits and critical spells if no accessory is equipped."
+  },
+  {
+    "TraitId": 93,
+    "Name": "Attacking Impulse",
+    "Identifier": "attacking_impulse",
+    "Description": "Increases damage inflicted when HP drop to 1/2."
+  },
+  {
+    "TraitId": 94,
+    "Name": "Defensive Impulse",
+    "Identifier": "defensive_impulse",
+    "Description": "Reduces damage received when HP drop to 1/2."
+  },
+  {
+    "TraitId": 95,
+    "Name": "Evasive Impulse",
+    "Identifier": "evasive_impulse",
+    "Description": "Sometimes increases evasion and greatly increases agility during battle when HP has dropped to 1/2. Only activates once per battle."
+  },
+  {
+    "TraitId": 96,
+    "Name": "Unhealthy Advantage",
+    "Identifier": "unhealthy_advantage",
+    "Description": "Inflicts increasing amounts of damage as remaining HP gets lower."
+  },
+  {
+    "TraitId": 97,
+    "Name": "Collective Punishment",
+    "Identifier": "collective_punishment",
+    "Description": "Attacks that do more damage as the attack attribute increases will strike all enemies insetead of a single target."
+  },
+  {
+    "TraitId": 98,
+    "Name": "Personal Grudge",
+    "Identifier": "personal_grudge",
+    "Description": "Greatly decreases the attack, defence, agility and wisdom of an enemy that lands a killer blow, and stuns them for the next turn."
+  },
+  {
+    "TraitId": 99,
+    "Name": "Echonomist",
+    "Identifier": "echonomist",
+    "Description": "Sometimes casts the same spell twice. Consumes slightly more MP than usual."
+  },
+  {
+    "TraitId": 100,
+    "Name": "Adrenaline Rush",
+    "Identifier": "adrenaline_rush",
+    "Description": "Greatly increases the attack after inflicting a critical hit."
+  },
+  {
+    "TraitId": 101,
+    "Name": "Trance State",
+    "Identifier": "trance_state",
+    "Description": "Greatly increases wisdom after casting a critical spell."
+  },
+  {
+    "TraitId": 102,
+    "Name": "Ultra Crafty Frizzer",
+    "Identifier": "ultra_crafty_frizzer",
+    "Description": "Greatly increases the damage inflicted by fire-elemental attacks."
+  },
+  {
+    "TraitId": 103,
+    "Name": "Ultra Crafty Splasher",
+    "Identifier": "ultra_crafty_splasher",
+    "Description": "Greatly increases the damage inflicted by water-elemental attacks."
+  },
+  {
+    "TraitId": 104,
+    "Name": "Ultra Crafty Woosher",
+    "Identifier": "ultra_crafty_woosher",
+    "Description": "Greatly increases the damage inflicted by wind-elemental attacks."
+  },
+  {
+    "TraitId": 105,
+    "Name": "Ultra Crafty Cragger",
+    "Identifier": "ultra_crafty_cragger",
+    "Description": "Greatly increases the damage inflicted by earth-elemental attacks."
+  },
+  {
+    "TraitId": 106,
+    "Name": "Ultra Crafty Banger",
+    "Identifier": "ultra_crafty_banger",
+    "Description": "Greatly increases the damage inflicted by explosinve attacks."
+  },
+  {
+    "TraitId": 107,
+    "Name": "Ultra Crafty Cracker",
+    "Identifier": "ultra_crafty_cracker",
+    "Description": "Greatly increases the damage inflicted by ice-elemental attacks."
+  },
+  {
+    "TraitId": 108,
+    "Name": "Ultra Crafty Zapper",
+    "Identifier": "ultra_crafty_zapper",
+    "Description": "Greatly increases the damage inflicted by electrical attacks."
+  },
+  {
+    "TraitId": 109,
+    "Name": "Ultra Crafty Sizzer",
+    "Identifier": "ultra_crafty_sizzer",
+    "Description": "Greatly increases the damage inflicted by light-elemental attacks."
+  },
+  {
+    "TraitId": 110,
+    "Name": "Ultra Crafty Zammer",
+    "Identifier": "ultra_crafty_zammer",
+    "Description": "Greatly increases the damage inflicted by dark-elemental attacks."
+  },
+  {
+    "TraitId": 111,
+    "Name": "Ultra Crafty Debilitator",
+    "Identifier": "ultra_crafty_debilitator",
+    "Description": "Makes it much easier to reduce an enemy's attack, defence, agility or wisdom."
+  },
+  {
+    "TraitId": 112,
+    "Name": "Ultra Crafty Dazzler",
+    "Identifier": "ultra_crafty_dazzler",
+    "Description": "Makes it much easier to bedazzle the enemy."
+  },
+  {
+    "TraitId": 113,
+    "Name": "Ultra Crafty Spellbinder",
+    "Identifier": "ultra_crafty_spellbinder",
+    "Description": "Makes it much easier to prevent spellcasting."
+  },
+  {
+    "TraitId": 114,
+    "Name": "Ultra Crafty Magic Drainer",
+    "Identifier": "ultra_crafty_magic_drainer",
+    "Description": "Makes it much easier to absorb MP."
+  },
+  {
+    "TraitId": 115,
+    "Name": "Ultra Crafty Confuser",
+    "Identifier": "ultra_crafty_confuser",
+    "Description": "Makes it much easier to the enemy."
+  },
+  {
+    "TraitId": 116,
+    "Name": "Ultra Crafty Sleeper",
+    "Identifier": "ultra_crafty_sleeper",
+    "Description": "Makes it much easier to put the enemy to sleep."
+  },
+  {
+    "TraitId": 117,
+    "Name": "Ultra Crafty Paralyser",
+    "Identifier": "ultra_crafty_paralyser",
+    "Description": "Makes it much easier to paralyse the enemy."
+  },
+  {
+    "TraitId": 118,
+    "Name": "Ultra Crafty Stunner",
+    "Identifier": "ultra_crafty_stunner",
+    "Description": "Makes it much easier to stun the enemy."
+  },
+  {
+    "TraitId": 119,
+    "Name": "Ultra Crafty Poisoner",
+    "Identifier": "ultra_crafty_poisoner",
+    "Description": "Makes it much easier to poison or severely poison the enemy."
+  },
+  {
+    "TraitId": 120,
+    "Name": "Ultra Crafty Whacker",
+    "Identifier": "ultra_crafty_whacker",
+    "Description": "Makes it much easier to kill the enemy instantly."
+  },
+  {
+    "TraitId": 121,
+    "Name": "Crafty Devil",
+    "Identifier": "crafty_devil",
+    "Description": "Makes it moderately easier to inflict status ailments on the enemy."
+  },
+  {
+    "TraitId": 122,
+    "Name": "Max. HP +4",
+    "Identifier": "max_hp_4",
+    "Description": "Raises max. HP by 4."
+  },
+  {
+    "TraitId": 123,
+    "Name": "Max. HP +8",
+    "Identifier": "max_hp_8",
+    "Description": "Raises max. HP by 8."
+  },
+  {
+    "TraitId": 124,
+    "Name": "Max. HP +12",
+    "Identifier": "max_hp_12",
+    "Description": "Raises max. HP by 12."
+  },
+  {
+    "TraitId": 125,
+    "Name": "Max. HP +16",
+    "Identifier": "max_hp_16",
+    "Description": "Raises max. HP by 16."
+  },
+  {
+    "TraitId": 126,
+    "Name": "Max. HP +24",
+    "Identifier": "max_hp_24",
+    "Description": "Raises max. HP by 24."
+  },
+  {
+    "TraitId": 127,
+    "Name": "Max. HP +32",
+    "Identifier": "max_hp_32",
+    "Description": "Raises max. HP by 32."
+  },
+  {
+    "TraitId": 128,
+    "Name": "Max. HP +40",
+    "Identifier": "max_hp_40",
+    "Description": "Raises max. HP by 40."
+  },
+  {
+    "TraitId": 129,
+    "Name": "Max. HP +48",
+    "Identifier": "max_hp_48",
+    "Description": "Raises max. HP by 48."
+  },
+  {
+    "TraitId": 130,
+    "Name": "Max. HP +64",
+    "Identifier": "max_hp_64",
+    "Description": "Raises max. HP by 64."
+  },
+  {
+    "TraitId": 131,
+    "Name": "Max. MP +4",
+    "Identifier": "max_mp_4",
+    "Description": "Raises max. HP by 4."
+  },
+  {
+    "TraitId": 132,
+    "Name": "Max. MP +8",
+    "Identifier": "max_mp_8",
+    "Description": "Raises max. HP by 8."
+  },
+  {
+    "TraitId": 133,
+    "Name": "Max. MP +12",
+    "Identifier": "max_mp_12",
+    "Description": "Raises max. HP by 12."
+  },
+  {
+    "TraitId": 134,
+    "Name": "Max. MP +16",
+    "Identifier": "max_mp_16",
+    "Description": "Raises max. HP by 16."
+  },
+  {
+    "TraitId": 135,
+    "Name": "Max. MP +24",
+    "Identifier": "max_mp_24",
+    "Description": "Raises max. HP by 24."
+  },
+  {
+    "TraitId": 136,
+    "Name": "Max. MP +32",
+    "Identifier": "max_mp_32",
+    "Description": "Raises max. HP by 32."
+  },
+  {
+    "TraitId": 137,
+    "Name": "Max. MP +40",
+    "Identifier": "max_mp_40",
+    "Description": "Raises max. HP by 40."
+  },
+  {
+    "TraitId": 138,
+    "Name": "Max. MP +48",
+    "Identifier": "max_mp_48",
+    "Description": "Raises max. HP by 48."
+  },
+  {
+    "TraitId": 139,
+    "Name": "Max. MP +64",
+    "Identifier": "max_mp_64",
+    "Description": "Raises max. HP by 64."
+  },
+  {
+    "TraitId": 140,
+    "Name": "Attack +4",
+    "Identifier": "attack_4",
+    "Description": "Raises attack by 4."
+  },
+  {
+    "TraitId": 141,
+    "Name": "Attack +8",
+    "Identifier": "attack_8",
+    "Description": "Raises attack by 8."
+  },
+  {
+    "TraitId": 142,
+    "Name": "Attack +12",
+    "Identifier": "attack_12",
+    "Description": "Raises attack by 12."
+  },
+  {
+    "TraitId": 143,
+    "Name": "Attack +16",
+    "Identifier": "attack_16",
+    "Description": "Raises attack by 16."
+  },
+  {
+    "TraitId": 144,
+    "Name": "Attack +24",
+    "Identifier": "attack_24",
+    "Description": "Raises attack by 24."
+  },
+  {
+    "TraitId": 145,
+    "Name": "Attack +32",
+    "Identifier": "attack_32",
+    "Description": "Raises attack by 32."
+  },
+  {
+    "TraitId": 146,
+    "Name": "Attack +40",
+    "Identifier": "attack_40",
+    "Description": "Raises attack by 40."
+  },
+  {
+    "TraitId": 147,
+    "Name": "Attack +48",
+    "Identifier": "attack_48",
+    "Description": "Raises attack by 48"
+  },
+  {
+    "TraitId": 148,
+    "Name": "Attack +64",
+    "Identifier": "attack_64",
+    "Description": "Raises attack by 64."
+  },
+  {
+    "TraitId": 149,
+    "Name": "Defence +4",
+    "Identifier": "defence_4",
+    "Description": "Raises defence by 4."
+  },
+  {
+    "TraitId": 150,
+    "Name": "Defence +8",
+    "Identifier": "defence_8",
+    "Description": "Raises defence by 8."
+  },
+  {
+    "TraitId": 151,
+    "Name": "Defence +12",
+    "Identifier": "defence_12",
+    "Description": "Raises defence by 12."
+  },
+  {
+    "TraitId": 152,
+    "Name": "Defence +16",
+    "Identifier": "defence_16",
+    "Description": "Raises defence by 16."
+  },
+  {
+    "TraitId": 153,
+    "Name": "Defence +24",
+    "Identifier": "defence_24",
+    "Description": "Raises defence by 24."
+  },
+  {
+    "TraitId": 154,
+    "Name": "Defence +32",
+    "Identifier": "defence_32",
+    "Description": "Raises defence by 32."
+  },
+  {
+    "TraitId": 155,
+    "Name": "Defence +40",
+    "Identifier": "defence_40",
+    "Description": "Raises defence by 40."
+  },
+  {
+    "TraitId": 156,
+    "Name": "Defence +48",
+    "Identifier": "defence_48",
+    "Description": "Raises defence by 48."
+  },
+  {
+    "TraitId": 157,
+    "Name": "Defence +64",
+    "Identifier": "defence_64",
+    "Description": "Raises defence by 64."
+  },
+  {
+    "TraitId": 158,
+    "Name": "Agility +4",
+    "Identifier": "agility_4",
+    "Description": "Raises agility by 4."
+  },
+  {
+    "TraitId": 159,
+    "Name": "Agility +8",
+    "Identifier": "agility_8",
+    "Description": "Raises 8.agility by "
+  },
+  {
+    "TraitId": 160,
+    "Name": "Agility +12",
+    "Identifier": "agility_12",
+    "Description": "Raises agility by 12."
+  },
+  {
+    "TraitId": 161,
+    "Name": "Agility +16",
+    "Identifier": "agility_16",
+    "Description": "Raises agility by 16."
+  },
+  {
+    "TraitId": 162,
+    "Name": "Agility +24",
+    "Identifier": "agility_24",
+    "Description": "Raises agility by 24."
+  },
+  {
+    "TraitId": 163,
+    "Name": "Agility +32",
+    "Identifier": "agility_32",
+    "Description": "Raises agility by 32."
+  },
+  {
+    "TraitId": 164,
+    "Name": "Agility +40",
+    "Identifier": "agility_40",
+    "Description": "Raises agility by 40."
+  },
+  {
+    "TraitId": 165,
+    "Name": "Agility +48",
+    "Identifier": "agility_48",
+    "Description": "Raises agility by 48."
+  },
+  {
+    "TraitId": 166,
+    "Name": "Agility +64",
+    "Identifier": "agility_64",
+    "Description": "Raises agility by 64."
+  },
+  {
+    "TraitId": 167,
+    "Name": "Wisdom +4",
+    "Identifier": "wisdom_4",
+    "Description": "Raises wisdom by 4."
+  },
+  {
+    "TraitId": 168,
+    "Name": "Wisdom +8",
+    "Identifier": "wisdom_8",
+    "Description": "Raises wisdom by 8."
+  },
+  {
+    "TraitId": 169,
+    "Name": "Wisdom +12",
+    "Identifier": "wisdom_12",
+    "Description": "Raises wisdom by 12."
+  },
+  {
+    "TraitId": 170,
+    "Name": "Wisdom +16",
+    "Identifier": "wisdom_16",
+    "Description": "Raises wisdom by 16."
+  },
+  {
+    "TraitId": 171,
+    "Name": "Wisdom +24",
+    "Identifier": "wisdom_24",
+    "Description": "Raises wisdom by 24."
+  },
+  {
+    "TraitId": 172,
+    "Name": "Wisdom +32",
+    "Identifier": "wisdom_32",
+    "Description": "Raises wisdom by 32."
+  },
+  {
+    "TraitId": 173,
+    "Name": "Wisdom +40",
+    "Identifier": "wisdom_40",
+    "Description": "Raises wisdom by 40."
+  },
+  {
+    "TraitId": 174,
+    "Name": "Wisdom +48",
+    "Identifier": "wisdom_48",
+    "Description": "Raises wisdom by 48."
+  },
+  {
+    "TraitId": 175,
+    "Name": "Wisdom +64",
+    "Identifier": "wisdom_64",
+    "Description": "Raises wisdom by 64."
+  },
+  {
+    "TraitId": 176,
+    "Name": "Ultra Frizz Ward",
+    "Identifier": "ultra_frizz_ward",
+    "Description": "Greatly increases resistance to fire-elemental attacks."
+  },
+  {
+    "TraitId": 177,
+    "Name": "Ultra Splish Ward",
+    "Identifier": "ultra_splish_ward",
+    "Description": "Greatly increases resistance to water-elemental attacks."
+  },
+  {
+    "TraitId": 178,
+    "Name": "Ultra Woosh Ward",
+    "Identifier": "ultra_woosh_ward",
+    "Description": "Greatly increases resistance to wind-elemental attacks."
+  },
+  {
+    "TraitId": 179,
+    "Name": "Ultra Crag Ward",
+    "Identifier": "ultra_crag_ward",
+    "Description": "Greatly increases resistance to earth-elemental attacks."
+  },
+  {
+    "TraitId": 180,
+    "Name": "Ultra Bang Ward",
+    "Identifier": "ultra_bang_ward",
+    "Description": "Greatly increases resistance to explosive attacks."
+  },
+  {
+    "TraitId": 181,
+    "Name": "Ultra Crack Ward",
+    "Identifier": "ultra_crack_ward",
+    "Description": "Greatly increases resistance to ice-elemental attacks."
+  },
+  {
+    "TraitId": 182,
+    "Name": "Ultra Zap Ward",
+    "Identifier": "ultra_zap_ward",
+    "Description": "Greatly increases resistance to electrical attacks."
+  },
+  {
+    "TraitId": 183,
+    "Name": "Ultra Sizz Ward",
+    "Identifier": "ultra_sizz_ward",
+    "Description": "Greatly increases resistance to light-elemental attacks."
+  },
+  {
+    "TraitId": 184,
+    "Name": "Ultra Zam Ward",
+    "Identifier": "ultra_zam_ward",
+    "Description": "Greatly increases resistance to dark-elemental attacks."
+  },
+  {
+    "TraitId": 185,
+    "Name": "Antitoxidant",
+    "Identifier": "antitoxidant",
+    "Description": "Slightly increases resistance to poison and severe poison."
+  },
+  {
+    "TraitId": 186,
+    "Name": "Ultra Antitoxidant",
+    "Identifier": "ultra_antitoxidant",
+    "Description": "Greatly increases resistance to poison and severe poison."
+  },
+  {
+    "TraitId": 187,
+    "Name": "Ultra Granite Chin",
+    "Identifier": "ultra_granite_chin",
+    "Description": "Greatly increases resistance to being stunned."
+  },
+  {
+    "TraitId": 188,
+    "Name": "Granite Chin",
+    "Identifier": "granite_chin",
+    "Description": "Slightly increases resistance to being stunned."
+  },
+  {
+    "TraitId": 189,
+    "Name": "Clear Thinker",
+    "Identifier": "clear_thinker",
+    "Description": "Slightly increases resistance to confusion."
+  },
+  {
+    "TraitId": 190,
+    "Name": "Ultra Clear Thinker",
+    "Identifier": "ultra_clear_thinker",
+    "Description": "Greatly increases resistance to confusion."
+  },
+  {
+    "TraitId": 191,
+    "Name": "Insomniac",
+    "Identifier": "insomniac",
+    "Description": "Slightly increases resistance to being put to sleep."
+  },
+  {
+    "TraitId": 192,
+    "Name": "Ultra Insomniac",
+    "Identifier": "ultra_insomniac",
+    "Description": "Greatly increases resistance to being put to sleep."
+  },
+  {
+    "TraitId": 193,
+    "Name": "Fidget",
+    "Identifier": "fidget",
+    "Description": "Slightly increases resistance to paralysis."
+  },
+  {
+    "TraitId": 194,
+    "Name": "Ultra Fidget",
+    "Identifier": "ultra_fidget",
+    "Description": "Greatly increases resistance to paralysis."
+  },
+  {
+    "TraitId": 195,
+    "Name": "Death Defier",
+    "Identifier": "death_defier",
+    "Description": "Slightly increases resistance to instant death."
+  },
+  {
+    "TraitId": 196,
+    "Name": "Ultra Death Defier",
+    "Identifier": "ultra_death_defier",
+    "Description": "Greatly increases resistance to instant death."
+  },
+  {
+    "TraitId": 197,
+    "Name": "Tough Customer",
+    "Identifier": "tough_customer",
+    "Description": "Slightly increases resistance to debilitation."
+  },
+  {
+    "TraitId": 198,
+    "Name": "Ultra Tough Customer",
+    "Identifier": "ultra_tough_customer",
+    "Description": "Greatly increases resistance to debilitation."
+  },
+  {
+    "TraitId": 199,
+    "Name": "Visionary",
+    "Identifier": "visionary",
+    "Description": "Slightly increases resistance to bedazzlement."
+  },
+  {
+    "TraitId": 200,
+    "Name": "Ultra Visionary",
+    "Identifier": "ultra_visionary",
+    "Description": "Greatly increases resistance to bedazzlement."
+  },
+  {
+    "TraitId": 201,
+    "Name": "Spellbinder",
+    "Identifier": "spellbinder",
+    "Description": "Slightly increases resistance to antimagic."
+  },
+  {
+    "TraitId": 202,
+    "Name": "Ultra Spellbinder",
+    "Identifier": "ultra_spellbinder",
+    "Description": "Greatly increases resistance to antimagic."
+  },
+  {
+    "TraitId": 203,
+    "Name": "Drain Blocker",
+    "Identifier": "drain_blocker",
+    "Description": "Slightly increases resistance to MP absorption."
+  },
+  {
+    "TraitId": 204,
+    "Name": "Ultra Drain Blocker",
+    "Identifier": "ultra_drain_blocker",
+    "Description": "Greatly increases resistance to MP absorption."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "MPCostTypeId": 1,
+    "Name": "Fixed",
+    "Identifier": "fixed"
+  },
+  {
+    "MPCostTypeId": 2,
+    "Name": "Percentage",
+    "Identifier": "percentage"
+  }
+]

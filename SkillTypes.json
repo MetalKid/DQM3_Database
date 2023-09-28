@@ -1,0 +1,17 @@
+[
+  {
+    "SkillTypeId": 1,
+    "Name": "Attacking",
+    "Identifier": "attacking"
+  },
+  {
+    "SkillTypeId": 2,
+    "Name": "Healing",
+    "Identifier": "healing"
+  },
+  {
+    "SkillTypeId": 3,
+    "Name": "Support",
+    "Identifier": "support"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "SizeId": 1,
+    "Name": "Small",
+    "Identifier": "small"
+  },
+  {
+    "SizeId": 2,
+    "Name": "Large",
+    "Identifier": "large"
+  }
+]

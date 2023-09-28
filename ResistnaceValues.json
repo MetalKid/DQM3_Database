@@ -1,0 +1,32 @@
+[
+  {
+    "ResistanceValueId": 1,
+    "Name": "Weak",
+    "Identifier": "weak"
+  },
+  {
+    "ResistanceValueId": 2,
+    "Name": "Normal",
+    "Identifier": "normal"
+  },
+  {
+    "ResistanceValueId": 3,
+    "Name": "Strong",
+    "Identifier": "strong"
+  },
+  {
+    "ResistanceValueId": 4,
+    "Name": "Very Strong",
+    "Identifier": "very_strong"
+  },
+  {
+    "ResistanceValueId": 5,
+    "Name": "Immune",
+    "Identifier": "immune"
+  },
+  {
+    "ResistanceValueId": 6,
+    "Name": "Absorb",
+    "Identifier": "absorb"
+  }
+]

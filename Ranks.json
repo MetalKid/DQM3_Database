@@ -1,0 +1,52 @@
+[
+  {
+    "RankId": 1,
+    "Name": "G",
+    "Identifier": "g"
+  },
+  {
+    "RankId": 2,
+    "Name": "F",
+    "Identifier": "f"
+  },
+  {
+    "RankId": 3,
+    "Name": "E",
+    "Identifier": "e"
+  },
+  {
+    "RankId": 4,
+    "Name": "D",
+    "Identifier": "d"
+  },
+  {
+    "RankId": 5,
+    "Name": "C",
+    "Identifier": "c"
+  },
+  {
+    "RankId": 6,
+    "Name": "B",
+    "Identifier": "b"
+  },
+  {
+    "RankId": 7,
+    "Name": "A",
+    "Identifier": "a"
+  },
+  {
+    "RankId": 8,
+    "Name": "S",
+    "Identifier": "s"
+  },
+  {
+    "RankId": 9,
+    "Name": "X",
+    "Identifier": "x"
+  },
+  {
+    "RankId": 10,
+    "Name": "Any",
+    "Identifier": "any"
+  }
+]

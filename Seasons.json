@@ -1,0 +1,22 @@
+[
+  {
+    "SeasonId": 1,
+    "Name": "Spring",
+    "Identifier": "spring"
+  },
+  {
+    "SeasonId": 2,
+    "Name": "Summer",
+    "Identifier": "summer"
+  },
+  {
+    "SeasonId": 3,
+    "Name": "Autumn",
+    "Identifier": "autumn"
+  },
+  {
+    "SeasonId": 4,
+    "Name": "Winter",
+    "Identifier": "winter"
+  }
+]
