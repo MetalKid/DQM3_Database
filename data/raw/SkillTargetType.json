@@ -2,22 +2,22 @@
   {
     "SkillTargetTypeId": 1,
     "Name": "Single Enemy",
-    "Identifier": "single_enemy"
+    "Identifier": "single-enemy"
   },
   {
     "SkillTargetTypeId": 2,
     "Name": "All Enemies",
-    "Identifier": "all_enemies"
+    "Identifier": "all-enemies"
   },
   {
     "SkillTargetTypeId": 3,
     "Name": "Single Ally",
-    "Identifier": "single_ally"
+    "Identifier": "single-ally"
   },
   {
     "SkillTargetTypeId": 4,
     "Name": "All Allies",
-    "Identifier": "all_allies"
+    "Identifier": "all-allies"
   },
   {
     "SkillTargetTypeId": 5,
@@ -27,11 +27,16 @@
   {
     "SkillTargetTypeId": 6,
     "Name": "Random Enemy or Ally",
-    "Identifier": "random_enemy_or_ally"
+    "Identifier": "random-enemy-or-ally"
   },
   {
     "SkillTargetTypeId": 7,
     "Name": "Random Enemies",
-    "Identifier": "random_enemies"
+    "Identifier": "random-enemies"
+  },
+  {
+    "SkillTargetTypeId": 8,
+    "Name": "Random Allies",
+    "Identifier": "random-allies"
   }
 ]

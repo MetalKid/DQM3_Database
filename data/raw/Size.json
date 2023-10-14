@@ -2,11 +2,13 @@
   {
     "SizeId": 1,
     "Name": "Small",
-    "Identifier": "small"
+    "Identifier": "small",
+    "ShortName": "S"
   },
   {
     "SizeId": 2,
     "Name": "Large",
-    "Identifier": "large"
+    "Identifier": "large",
+    "ShortName": "L"
   }
 ]

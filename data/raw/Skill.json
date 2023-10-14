@@ -268,7 +268,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Magic Pop",
-    "Identifier": "magic_pop",
+    "Identifier": "magic-pop",
     "Description": "Uses 1/4 of remaining MP to inflict light-elemental damage on a single enemy, for a weaker rendition of a more extreme spell. The more MP the monster has at the time of casting, the greater the damage will be.",
     "MPCost": 25,
     "MPCostTypeId": 2,
@@ -282,7 +282,8 @@
     "Identifier": "heal",
     "Description": "Restores 28 or more HP to a single ally.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 28,
@@ -292,7 +293,8 @@
     "Identifier": "midheal",
     "Description": "Restores 76 or more HP to a single ally.",
     "MPCost": 8,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 29,
@@ -302,7 +304,8 @@
     "Identifier": "zing",
     "Description": "Resurrects a fallen ally. Has a chance of failure.",
     "MPCost": 8,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 30,
@@ -312,7 +315,8 @@
     "Identifier": "kazing",
     "Description": "Is guaranteed to resurrect a fallen ally.",
     "MPCost": 80,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 31,
@@ -322,7 +326,8 @@
     "Identifier": "squelch",
     "Description": "Cures all allies of poison or severe poison.",
     "MPCost": 2,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 32,
@@ -332,7 +337,8 @@
     "Identifier": "tingle",
     "Description": "Cures all allies of paralysis.",
     "MPCost": 2,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 33,
@@ -342,7 +348,8 @@
     "Identifier": "defuddle",
     "Description": "Cures all allies of confusion.",
     "MPCost": 2,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 34,
@@ -352,7 +359,8 @@
     "Identifier": "cock-a-doodle-doo",
     "Description": "Cures all allies of sleep.",
     "MPCost": 2,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 35,
@@ -362,7 +370,8 @@
     "Identifier": "oomph",
     "Description": "Greatly increases the attack of a single ally for 2 to 5 turns.",
     "MPCost": 6,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 36,
@@ -380,10 +389,11 @@
     "SkillTypeId": 3,
     "SkillTargetTypeId": 1,
     "Name": "Critical Meltdown",
-    "Identifier": "critical_meltdown",
+    "Identifier": "critical-meltdown",
     "Description": "Prevents a single enemy from inflicting hits for 4 to 7 turns.",
     "MPCost": 6,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 38,
@@ -393,7 +403,8 @@
     "Identifier": "oomphle",
     "Description": "Increases the attack of all allies for 2 to 5 turns.",
     "MPCost": 10,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 39,
@@ -401,9 +412,10 @@
     "SkillTargetTypeId": 1,
     "Name": "Blunt",
     "Identifier": "blunt",
-    "Description": "Greatly decreases the attack of a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Greatly decreases the attack of a single enemy for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 6,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 40,
@@ -413,7 +425,8 @@
     "Identifier": "buff",
     "Description": "Greatly increases the defence of a single ally for 4 to 7 turns.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 41,
@@ -423,7 +436,8 @@
     "Identifier": "kabuff",
     "Description": "Increases the defence of all allies for 4 to 7 turns.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 42,
@@ -431,9 +445,10 @@
     "SkillTargetTypeId": 1,
     "Name": "Sap",
     "Identifier": "sap",
-    "Description": "Greatly decreases the defence of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Greatly decreases the defence of a single enemy for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 43,
@@ -441,9 +456,10 @@
     "SkillTargetTypeId": 2,
     "Name": "Kasap",
     "Identifier": "kasap",
-    "Description": "Decreases the defence of all enemie for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Decreases the defence of all enemie for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 44,
@@ -453,7 +469,8 @@
     "Identifier": "accelerate",
     "Description": "Greatly increases the agility of a single ally for 4 to 7 turns.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 45,
@@ -463,7 +480,8 @@
     "Identifier": "acceleratle",
     "Description": "Increases the agility of all allies for 4 to 7 turns.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 46,
@@ -471,9 +489,10 @@
     "SkillTargetTypeId": 1,
     "Name": "Decelerate",
     "Identifier": "decelerate",
-    "Description": "Greatly decreases the agility of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Greatly decreases the agility of a single enemy for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 47,
@@ -481,9 +500,10 @@
     "SkillTargetTypeId": 2,
     "Name": "Deceleratle",
     "Identifier": "deceleratle",
-    "Description": "Decreases the agility of all enemies for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Decreases the agility of all enemies for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 48,
@@ -493,7 +513,8 @@
     "Identifier": "ping",
     "Description": "Greatly increases the wisdom of a single ally for 4 to 7 turns.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 49,
@@ -501,9 +522,10 @@
     "SkillTargetTypeId": 1,
     "Name": "Dim",
     "Identifier": "dim",
-    "Description": "Greatly decreases the wisdom of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Greatly decreases the wisdom of a single enemy for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 50,
@@ -511,9 +533,10 @@
     "SkillTargetTypeId": 2,
     "Name": "Kadim",
     "Identifier": "kadim",
-    "Description": "Decreases the wisdom of all enemies for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Decreases the wisdom of all enemies for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 51,
@@ -523,7 +546,8 @@
     "Identifier": "insulate",
     "Description": "Greatly reduces the damage received from breath attacks by a single ally for 4 to 7 turns.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 52,
@@ -533,7 +557,8 @@
     "Identifier": "insulatle",
     "Description": "Reduces the damage received from breath attacks by all allies for 4 to 7 turns.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 53,
@@ -541,9 +566,10 @@
     "SkillTargetTypeId": 2,
     "Name": "Dazzle",
     "Identifier": "dazzle",
-    "Description": "Bedazzles all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Bedazzles all enemies for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 55,
@@ -551,19 +577,21 @@
     "SkillTargetTypeId": 2,
     "Name": "Fizzle",
     "Identifier": "fizzle",
-    "Description": "Prevents all enemies from casting spells for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Prevents all enemies from casting spells for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 56,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 1,
     "Name": "Drain Magic",
-    "Identifier": "drain_magic",
+    "Identifier": "drain-magic",
     "Description": "Aborbs some MP from a single enemy.",
     "MPCost": 0,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 57,
@@ -571,9 +599,10 @@
     "SkillTargetTypeId": 1,
     "Name": "Fuddle",
     "Identifier": "fuddle",
-    "Description": "Confuses a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Confuses a single enemy for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 5,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 58,
@@ -581,9 +610,10 @@
     "SkillTargetTypeId": 1,
     "Name": "Snooze",
     "Identifier": "snooze",
-    "Description": "Puts a single enemy to sleep for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Puts a single enemy to sleep for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 59,
@@ -591,9 +621,10 @@
     "SkillTargetTypeId": 2,
     "Name": "Kasnooze",
     "Identifier": "kasnooze",
-    "Description": "Puts all enemies to sleep for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Puts all enemies to sleep for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 60,
@@ -601,9 +632,10 @@
     "SkillTargetTypeId": 1,
     "Name": "Numb",
     "Identifier": "numb",
-    "Description": "Paralyses a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Paralyses a single enemy for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 61,
@@ -611,9 +643,10 @@
     "SkillTargetTypeId": 1,
     "Name": "Tox",
     "Identifier": "tox",
-    "Description": "Poisons a single enemy. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Poisons a single enemy. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 62,
@@ -621,9 +654,10 @@
     "SkillTargetTypeId": 2,
     "Name": "Katox",
     "Identifier": "katox",
-    "Description": "Poisons all enemies. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Poisons all enemies. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 63,
@@ -631,9 +665,10 @@
     "SkillTargetTypeId": 1,
     "Name": "Whack",
     "Identifier": "whack",
-    "Description": "Kills a single enemy instantly. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Kills a single enemy instantly. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 9,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": 19
   },
   {
     "SkillId": 64,
@@ -641,16 +676,17 @@
     "SkillTargetTypeId": 2,
     "Name": "Kamikazee",
     "Identifier": "kamikazee",
-    "Description": "Kills all enemies, but at the cost of the caster's life. The caster cannot be resurrected in the same battle. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Kills all enemies, but at the cost of the caster\u0027s life. The caster cannot be resurrected in the same battle. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 100,
-    "MPCostTypeId": 2
+    "MPCostTypeId": 2,
+    "DamageTypeId": null
   },
   {
     "SkillId": 65,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Flame Slash",
-    "Identifier": "flame_slash",
+    "Identifier": "flame-slash",
     "Description": "Inflicts minor fire-elemental slashing damage on a single enemy.",
     "MPCost": 2,
     "MPCostTypeId": 1,
@@ -661,7 +697,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Gust Slash",
-    "Identifier": "gust_slash",
+    "Identifier": "gust-slash",
     "Description": "Inflicts minor wind-elemental slashing damage on a single enemy.",
     "MPCost": 2,
     "MPCostTypeId": 1,
@@ -672,7 +708,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Kacrackle Slash",
-    "Identifier": "kacrackle_slash",
+    "Identifier": "kacrackle-slash",
     "Description": "Inflicts minor ice-elemental slashing damage on a single enemy.",
     "MPCost": 2,
     "MPCostTypeId": 1,
@@ -683,7 +719,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Lightning Slash",
-    "Identifier": "lightning_slash",
+    "Identifier": "lightning-slash",
     "Description": "Inflicts minor elecrtrical slashing damage on a single enemy.",
     "MPCost": 2,
     "MPCostTypeId": 1,
@@ -727,70 +763,77 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Slime Squisher",
-    "Identifier": "slime_squisher",
+    "Identifier": "slime-squisher",
     "Description": "Inflicts heavy impact damage on monsters in the slime family.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 75,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Dragon Slash",
-    "Identifier": "dragon_slash",
+    "Identifier": "dragon-slash",
     "Description": "Inflicts heavy slashing damage on monsters in the dragon family.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 76,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Nature Nerfer",
-    "Identifier": "nature_nerfer",
+    "Identifier": "nature-nerfer",
     "Description": "Inflicts heavy slashing damage on monsters in the nature family.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 77,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Beast Tamer",
-    "Identifier": "beast_tamer",
+    "Identifier": "beast-tamer",
     "Description": "Inflicts heavy slashing damage on monsters in the beast family.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 78,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Matter Scatterer",
-    "Identifier": "matter_scatterer",
+    "Identifier": "matter-scatterer",
     "Description": "Inflicts heavy slashing damage on monsters in the material family.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 79,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Demon Demeaner",
-    "Identifier": "demon_demeaner",
+    "Identifier": "demon-demeaner",
     "Description": "Inflicts heavy slashing damage on monsters in the demon family.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 80,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Undead Undoer",
-    "Identifier": "undead_undoer",
+    "Identifier": "undead-undoer",
     "Description": "Inflicts heavy slashing damage on monsters in the undead family.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 81,
@@ -800,17 +843,19 @@
     "Identifier": "multislash",
     "Description": "Inflicts slashing damage on all enemies. Enemies that are further to the right-hand side of the battlefield receive less damage.",
     "MPCost": 5,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 82,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Mercurial Thrust",
-    "Identifier": "mercurial_thrust",
+    "Identifier": "mercurial-thrust",
     "Description": "A punching technique that only inflicts a small amount of damage, but allows the user to attack before anyone else.",
     "MPCost": 2,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 83,
@@ -820,37 +865,41 @@
     "Identifier": "anchorman",
     "Description": "Acts after everyone else to inflict extreme impact damage on the enemy.",
     "MPCost": 15,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 84,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Knuckle Sandwich",
-    "Identifier": "knuckle_sandwich",
+    "Identifier": "knuckle-sandwich",
     "Description": "Focuses strength in order to inflict heavy damage on a single enemy in the next turn, ignoring their defence attribute.",
     "MPCost": 20,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 85,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "Roundhouse Kick",
-    "Identifier": "roundhouse_kick",
+    "Identifier": "roundhouse-kick",
     "Description": "A kicking technique that damages all enemies, regardless of their defence. Enemies that are further to the right-hand side of the battlefield receive less damage.",
     "MPCost": 8,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 86,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Hatchet Man",
-    "Identifier": "hatchet_man",
+    "Identifier": "hatchet-man",
     "Description": "Inflicts slashing damage on a single enemy. The attack has a high likelihood of missing, but an increased chance of inflicting a critical hit when it succeeds.",
     "MPCost": 8,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 87,
@@ -860,44 +909,48 @@
     "Identifier": "frenzy",
     "Description": "A risky technique that inflicts a critical hit on a single enemy or ally at random.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 88,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Miracle Slash",
-    "Identifier": "miracle_slash",
+    "Identifier": "miracle-slash",
     "Description": "Inflicts slashing damage on a single enemy. Approximately half the amount of damage inflicted is restored to the user as HP. Can heal up to a maximum of 200 HP.",
     "MPCost": 10,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 89,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Attack Attacker",
-    "Identifier": "attack_attacker",
+    "Identifier": "attack-attacker",
     "Description": "Damages a single enemy and occasionally lowers its attack for 2 to 5 turns.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 90,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Helm Splitter",
-    "Identifier": "helm_splitter",
+    "Identifier": "helm-splitter",
     "Description": "Damages a s single enemy and occasionally lowers its defence for 4 to 7 turns.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 91,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Confusion Attack",
-    "Identifier": "confusion_attack",
+    "Identifier": "confusion-attack",
     "Description": "Damages a single enemy and occasionally confuses it for 2 to 5 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
@@ -908,7 +961,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Sleep Attack",
-    "Identifier": "sleep_attack",
+    "Identifier": "sleep-attack",
     "Description": "Damages a single enemy and occasionally puts it to sleep for 2 to 5 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
@@ -919,7 +972,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Paralysing Punch",
-    "Identifier": "paralysing_punch",
+    "Identifier": "paralysing-punch",
     "Description": "Damages a single enemy and occasionally paralyses it for 2 to 5 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
@@ -930,7 +983,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Heart Breaker",
-    "Identifier": "heart_breaker",
+    "Identifier": "heart-breaker",
     "Description": "Inflicts slashing damage on a single enemy and stuns it for 1 turn.",
     "MPCost": 4,
     "MPCostTypeId": 1,
@@ -941,7 +994,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Poison Attack",
-    "Identifier": "poison_attack",
+    "Identifier": "poison-attack",
     "Description": "Damages a single enemy and occasionally poisins it.",
     "MPCost": 2,
     "MPCostTypeId": 1,
@@ -951,8 +1004,8 @@
     "SkillId": 96,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
-    "Name": "Assassin's Stab",
-    "Identifier": "assassins_stab",
+    "Name": "Assassin\u0027s Stab",
+    "Identifier": "assassins-stab",
     "Description": "Damages a single enemy and occasionally causes instant death.",
     "MPCost": 8,
     "MPCostTypeId": 1,
@@ -966,7 +1019,8 @@
     "Identifier": "victimiser",
     "Description": "Damages a single enemy. Highly effective against enemies that are poisoned, severly poisoned or paralysed.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 98,
@@ -976,14 +1030,15 @@
     "Identifier": "persecutter",
     "Description": "Damages a single enemy. Higly effective against enemies that are asleep or confused.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 99,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
     "Name": "Wind Sickles",
-    "Identifier": "wind_sickles",
+    "Identifier": "wind-sickles",
     "Description": "Inflicts minor wind-elemental damages on a single enemy.",
     "MPCost": 4,
     "MPCostTypeId": 1,
@@ -994,8 +1049,8 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "Thin Air",
-    "Identifier": "thin_air",
-    "Description": "Inflicts medium wind-elemental damages on a single enemy. The higher the user's level, the greater the damage that will be inflicted.",
+    "Identifier": "thin-air",
+    "Description": "Inflicts medium wind-elemental damages on a single enemy. The higher the user\u0027s level, the greater the damage that will be inflicted.",
     "MPCost": 12,
     "MPCostTypeId": 1,
     "DamageTypeId": 3
@@ -1004,8 +1059,8 @@
     "SkillId": 101,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
-    "Name": "Stone's Throw",
-    "Identifier": "stones_throw",
+    "Name": "Stone\u0027s Throw",
+    "Identifier": "stones-throw",
     "Description": "Inflicts minor earth-elemental damages on a single enemy.",
     "MPCost": 4,
     "MPCostTypeId": 1,
@@ -1017,7 +1072,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Stomp",
     "Identifier": "stomp",
-    "Description": "Inflicts medium earth-elemental damages on a single enemy. The higher the user's level, the greater the damage that will be inflicted.",
+    "Description": "Inflicts medium earth-elemental damages on a single enemy. The higher the user\u0027s level, the greater the damage that will be inflicted.",
     "MPCost": 12,
     "MPCostTypeId": 1,
     "DamageTypeId": 4
@@ -1030,27 +1085,30 @@
     "Identifier": "meditation",
     "Description": "Restores 300 or more HP to the user.",
     "MPCost": 35,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 105,
     "SkillTypeId": 2,
     "SkillTargetTypeId": 4,
     "Name": "Right as Rain",
-    "Identifier": "right_as_rain",
+    "Identifier": "right-as-rain",
     "Description": "Performs a rainmaking ritual that invokes a healing shower in the next turn. Restores a random amount of HP to all allies.",
     "MPCost": 40,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 106,
     "SkillTypeId": 2,
     "SkillTargetTypeId": 4,
     "Name": "Wave of Relief",
-    "Identifier": "wave_of_relief",
+    "Identifier": "wave-of-relief",
     "Description": "Cures of allies of their status ailments.",
     "MPCost": 60,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 107,
@@ -1060,7 +1118,8 @@
     "Identifier": "sandstorm",
     "Description": "Whips up a dense cloud of dust that lowers the accuracy of enemy attacks for 2 to 5 turns.",
     "MPCost": 2,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 108,
@@ -1070,7 +1129,8 @@
     "Identifier": "dazzleflash",
     "Description": "Unleashes a blinding light that lowers the accuracy of enemy attacks for 2 to 5 turns.",
     "MPCost": 2,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 109,
@@ -1080,57 +1140,63 @@
     "Identifier": "gobstopper",
     "Description": "Stops a single enemy from using its mouth, preventing the use of breath attacks for 4 to 7 turns.",
     "MPCost": 6,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 110,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 4,
     "Name": "Brake Wind",
-    "Identifier": "brake_wind",
+    "Identifier": "brake-wind",
     "Description": "Reflects breath attacks back at the enemy. Protects all allies once only.",
     "MPCost": 10,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 111,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 5,
     "Name": "Mist Me",
-    "Identifier": "mist_me",
+    "Identifier": "mist-me",
     "Description": "Negates all damages 1 time only. Ineffective against certain attacks.",
     "MPCost": 10,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 112,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 2,
     "Name": "War Cry",
-    "Identifier": "war_cry",
+    "Identifier": "war-cry",
     "Description": "An ear-popping shout that stuns all enemies for 1 turn.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 113,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 1,
     "Name": "Tongue Lashing",
-    "Identifier": "tongue_lashing",
+    "Identifier": "tongue-lashing",
     "Description": "Slathers a single enemy with simy saliva, stunning it and lowering its defence.",
     "MPCost": 1,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 114,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 1,
     "Name": "Tongue Bashing",
-    "Identifier": "tongue_bashing",
-    "Description": "Savagely slathers a single enemy with slimy saliva, stunning it and reducing its defence attribute to 1",
+    "Identifier": "tongue-bashing",
+    "Description": "Savagely slathers a single enemy with slimy saliva, stunning it and reducing its defence attribute to 1.",
     "MPCost": 8,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 115,
@@ -1138,19 +1204,21 @@
     "SkillTargetTypeId": 5,
     "Name": "Seethe",
     "Identifier": "seethe",
-    "Description": "Internalises rage in order to raise the damage of the next attack. Furthermore, the user's attacks become more difficult for the enemy to dodge.",
+    "Description": "Internalises rage in order to raise the damage of the next attack. Furthermore, the user\u0027s attacks become more difficult for the enemy to dodge.",
     "MPCost": 10,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 116,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 5,
     "Name": "Dodgy Dance",
-    "Identifier": "dodgy_dance",
-    "Description": "Raises the user's evation for 4 to 7 turns.",
+    "Identifier": "dodgy-dance",
+    "Description": "Raises the user\u0027s evation for 4 to 7 turns.",
     "MPCost": 1,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 117,
@@ -1160,14 +1228,15 @@
     "Identifier": "selflessness",
     "Description": "Receives all incoming attacks in place for allies for 1 round, but suffers greater damage in doing so.",
     "MPCost": 5,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 118,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "Fire Breath",
-    "Identifier": "fire_breath",
+    "Identifier": "fire-breath",
     "Description": "Inflicts minor fire-elemental breath damage on all enemies.",
     "MPCost": 3,
     "MPCostTypeId": 1,
@@ -1178,7 +1247,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "Flame Breath",
-    "Identifier": "flame_breath",
+    "Identifier": "flame-breath",
     "Description": "Inflicts medium fire-elemental breath damage on all enemies.",
     "MPCost": 6,
     "MPCostTypeId": 1,
@@ -1211,7 +1280,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "Cool Breath",
-    "Identifier": "cool_breath",
+    "Identifier": "cool-breath",
     "Description": "Inflicts minor ice-elemental breath damage on all enemies.",
     "MPCost": 3,
     "MPCostTypeId": 1,
@@ -1222,7 +1291,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "Chilly Breath",
-    "Identifier": "chilly_breath",
+    "Identifier": "chilly-breath",
     "Description": "Inflicts medium ice-elemental breath damage on all enemies.",
     "MPCost": 6,
     "MPCostTypeId": 1,
@@ -1233,7 +1302,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "Freezing Blizzard",
-    "Identifier": "freezing_blizzard",
+    "Identifier": "freezing-blizzard",
     "Description": "Inflicts major ice-elemental breath damage on all enemies.",
     "MPCost": 15,
     "MPCostTypeId": 1,
@@ -1244,7 +1313,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "C-C-Cold Breath",
-    "Identifier": "c-c-cold_breath",
+    "Identifier": "c-c-cold-breath",
     "Description": "Inflicts extreme ice-elemental breath damage on all enemies.",
     "MPCost": 30,
     "MPCostTypeId": 1,
@@ -1255,7 +1324,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "Sandy Sigh",
-    "Identifier": "sandy_sigh",
+    "Identifier": "sandy-sigh",
     "Description": "Whips up a cloud of dust that inflicts major earth-elemental breath damage on all enemies and occasionaly lowers their accuracy for 2 to 5 turns.",
     "MPCost": 22,
     "MPCostTypeId": 1,
@@ -1266,7 +1335,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "Blessed Breath",
-    "Identifier": "blessed_breath",
+    "Identifier": "blessed-breath",
     "Description": "Inflicts major light-elemental breath damage on all enemies and occasionaly confuses them for 2 to 5 turns",
     "MPCost": 22,
     "MPCostTypeId": 1,
@@ -1277,7 +1346,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "Black Breath",
-    "Identifier": "black_breath",
+    "Identifier": "black-breath",
     "Description": "Inflicts major dark-elemental breath damage on all enemies and occasionaly prevents them from casting spells for 2 to 5 turns",
     "MPCost": 22,
     "MPCostTypeId": 1,
@@ -1288,17 +1357,18 @@
     "SkillTypeId": 3,
     "SkillTargetTypeId": 5,
     "Name": "Deep Breath",
-    "Identifier": "deep_breath",
-    "Description": "Inhales long and deep, raising the damage inflicted by the user's next breath attack.",
+    "Identifier": "deep-breath",
+    "Description": "Inhales long and deep, raising the damage inflicted by the user\u0027s next breath attack.",
     "MPCost": 0,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 131,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 2,
     "Name": "Sweet Breath",
-    "Identifier": "sweet_breath",
+    "Identifier": "sweet-breath",
     "Description": "Lets out an exhalation of relaxation that puts all enemies to sleep for 2 to 5 turns.",
     "MPCost": 3,
     "MPCostTypeId": 1,
@@ -1309,7 +1379,7 @@
     "SkillTypeId": 3,
     "SkillTargetTypeId": 2,
     "Name": "Burning Breath",
-    "Identifier": "burning_breath",
+    "Identifier": "burning-breath",
     "Description": "Lets out an exhalation of immobilisation that paralyses all enemie for 2 to 5 turns",
     "MPCost": 4,
     "MPCostTypeId": 1,
@@ -1320,7 +1390,7 @@
     "SkillTypeId": 3,
     "SkillTargetTypeId": 2,
     "Name": "Poison Breath",
-    "Identifier": "poison_breath",
+    "Identifier": "poison-breath",
     "Description": "Exhales toxic fumes that poison all enemies.",
     "MPCost": 3,
     "MPCostTypeId": 1,
@@ -1331,37 +1401,40 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
     "Name": "Sword Dance",
-    "Identifier": "sword_dance",
+    "Identifier": "sword-dance",
     "Description": "A dance that damages enemies at random, 3 to 7 times in total.",
     "MPCost": 15,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 135,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 1,
     "Name": "Weird Dance",
-    "Identifier": "weird_dance",
+    "Identifier": "weird-dance",
     "Description": "A dance that decreases the MP of a single enemy.",
     "MPCost": 0,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 136,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 1,
     "Name": "Tap Dance",
-    "Identifier": "tap_dance",
+    "Identifier": "tap-dance",
     "Description": "A dance that absorbs some MP from a single enemy.",
     "MPCost": 0,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 137,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 2,
     "Name": "Fuddle Dance",
-    "Identifier": "fuddle_dance",
+    "Identifier": "fuddle-dance",
     "Description": "A dance that confuses all enemies for 2 to 5 turns.",
     "MPCost": 2,
     "MPCostTypeId": 1,
@@ -1372,7 +1445,7 @@
     "SkillTypeId": 3,
     "SkillTargetTypeId": 2,
     "Name": "Sultry Dance",
-    "Identifier": "sultry_dance",
+    "Identifier": "sultry-dance",
     "Description": "A bewitching dance that stuns all enemies for 1 turn.",
     "MPCost": 2,
     "MPCostTypeId": 1,
@@ -1383,10 +1456,11 @@
     "SkillTypeId": 3,
     "SkillTargetTypeId": 5,
     "Name": "Intense Defence",
-    "Identifier": "intense_defence",
+    "Identifier": "intense-defence",
     "Description": "Assumes an impenetrable defensive stance that reduces most damage received by 9/10. Can only be used once per battle.",
     "MPCost": 3,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 140,
@@ -1416,9 +1490,10 @@
     "SkillTargetTypeId": 2,
     "Name": "Kablunt",
     "Identifier": "kablunt",
-    "Description": "Decreases the attack of all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Decreases the attack of all enemies for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 10,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 143,
@@ -1481,7 +1556,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Lightning",
     "Identifier": "lightning",
-    "Description": "Inflicts medium electrical damage on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
+    "Description": "Inflicts medium electrical damage on all enemies. The higher the user\u0027s level, the greater the damage that will be inflicted.",
     "MPCost": 12,
     "MPCostTypeId": 1,
     "DamageTypeId": 7
@@ -1503,7 +1578,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Kanumb",
     "Identifier": "kanumb",
-    "Description": "Paralyses all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "Description": "Paralyses all enemies for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 15,
     "MPCostTypeId": 1,
     "DamageTypeId": 16
@@ -1527,7 +1602,8 @@
     "Identifier": "kaping",
     "Description": "Increases the wisdom of all allies for 4 to 7 turns.",
     "MPCost": 4,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   },
   {
     "SkillId": 153,
@@ -1578,7 +1654,7 @@
     "SkillTypeId": 1,
     "SkillTargetTypeId": 7,
     "Name": "Shining Shot",
-    "Identifier": "shining_shot",
+    "Identifier": "shining-shot",
     "Description": "Inflicts light-elemental damage on enemies at random, 4 to 12 times in total.",
     "MPCost": 100,
     "MPCostTypeId": 1,
@@ -1592,6 +1668,139 @@
     "Identifier": "multifists",
     "Description": "A punching technique that damages enemies at random, 4 times in total",
     "MPCost": 20,
-    "MPCostTypeId": 1
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
+  },
+  {
+    "SkillId": 159,
+    "SkillTypeId": 2,
+    "SkillTargetTypeId": 4,
+    "Name": "Kerplunk",
+    "Identifier": "kerplunk",
+    "Description": "Heals or resurrects all allies, including reserves, but at the cost of the caster\u0027s life. The caster cannot be resurrected in the same battle.",
+    "MPCost": 100,
+    "MPCostTypeId": 3,
+    "DamageTypeId": null
+  },
+  {
+    "SkillId": 160,
+    "SkillTypeId": 3,
+    "SkillTargetTypeId": 2,
+    "Name": "Kafuddle",
+    "Identifier": "kafuddle",
+    "Description": "Confuses all enemies for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "MPCost": 10,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
+  },
+  {
+    "SkillId": 161,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Gigagash",
+    "Identifier": "gigagash",
+    "Description": "Inflicts outrageous electrical damage on all enemies. The higher the user\u0027s level, the greater the damage that will be inflicted.",
+    "MPCost": 56,
+    "MPCostTypeId": 1,
+    "DamageTypeId": 7
+  },
+  {
+    "SkillId": 162,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Gigacross",
+    "Identifier": "gigacross",
+    "Description": "An extreme sword attack that inflicts extreme electrical damage 2 times in a row on all enemies. The higher the user\u0027s level, the greater the damage that will be inflicted.",
+    "MPCost": 80,
+    "MPCostTypeId": 1,
+    "DamageTypeId": 7
+  },
+  {
+    "SkillId": 163,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Shadow Blast",
+    "Identifier": "shadow-blast",
+    "Description": "Inflicts extreme dark-elemental damage 2 times in a row on all enemies. The higher the user\u0027s level, the greater the damage that will be inflicted.",
+    "MPCost": 80,
+    "MPCostTypeId": 1,
+    "DamageTypeId": 9
+  },
+  {
+    "SkillId": 164,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Hellitosis",
+    "Identifier": "hellitosis",
+    "Description": "Inflicts outrageous fire-elemental breath damage on all enemies and occasionally stuns them for 1 turn.",
+    "MPCost": 64,
+    "MPCostTypeId": 1,
+    "DamageTypeId": 1
+  },
+  {
+    "SkillId": 165,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 1,
+    "Name": "Parallax",
+    "Identifier": "parallax",
+    "Description": "Inflicts heavy slashing damage on a single enemy and occasionally paralyses it for 2 to 5 turns.",
+    "MPCost": 20,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
+  },
+  {
+    "SkillId": 166,
+    "SkillTypeId": 2,
+    "SkillTargetTypeId": 8,
+    "Name": "Hustle Dance",
+    "Identifier": "hustle-dance",
+    "Description": "A dance that heals allies at random, 2 to 6 tiems in total. The higher the user\u0027s level, the greater the healing amount.",
+    "MPCost": 40,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
+  },
+  {
+    "SkillId": 170,
+    "SkillTypeId": 2,
+    "SkillTargetTypeId": 4,
+    "Name": "Kerplunk Dance",
+    "Identifier": "kerplunk-dance",
+    "Description": "A dance that heals or resurrects all allies, including reserves, but at the cost of the user\u0027s life. The user cannot be resurrected in the same battle.",
+    "MPCost": 100,
+    "MPCostTypeId": 3,
+    "DamageTypeId": null
+  },
+  {
+    "SkillId": 171,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 7,
+    "Name": "Fan Dango",
+    "Identifier": "fan-dango",
+    "Description": "A dance that damages enemies at random, 3 or 4 times in total. The higher the user\u0027s agility, the greater the damage that will be inflicted.",
+    "MPCost": 8,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
+  },
+  {
+    "SkillId": 172,
+    "SkillTypeId": 3,
+    "SkillTargetTypeId": 7,
+    "Name": "Giga Drain Magic",
+    "Identifier": "giga-drain-magic",
+    "Description": "Absorbs MP from enemies at random, 4 times in total.",
+    "MPCost": 50,
+    "MPCostTypeId": 2,
+    "DamageTypeId": null
+  },
+  {
+    "SkillId": 174,
+    "SkillTypeId": 3,
+    "SkillTargetTypeId": 5,
+    "Name": "Bounce",
+    "Identifier": "bounce",
+    "Description": "Reflects most spells back at the caster for 4 to 7 turns.",
+    "MPCost": 32,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null
   }
 ]

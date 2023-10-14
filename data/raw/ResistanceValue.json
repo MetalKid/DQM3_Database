@@ -23,7 +23,7 @@
   {
     "ResistanceValueId": 4,
     "Name": "Very Strong",
-    "Identifier": "very_strong",
+    "Identifier": "very-strong",
     "AmountMin": 26,
     "AmountMax": 99
   },

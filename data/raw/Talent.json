@@ -2,92 +2,92 @@
   {
     "TalentId": 1,
     "Name": "Frizz Afficionado",
-    "Identifier": "frizz_afficionado"
+    "Identifier": "frizz-afficionado"
   },
   {
     "TalentId": 2,
     "Name": "Frizz Virtuoso",
-    "Identifier": "frizz_virtuoso"
+    "Identifier": "frizz-virtuoso"
   },
   {
     "TalentId": 3,
     "Name": "Splash Afficionado",
-    "Identifier": "splash_afficionado"
+    "Identifier": "splash-afficionado"
   },
   {
     "TalentId": 4,
     "Name": "Splash Virtuoso",
-    "Identifier": "splash_virtuoso"
+    "Identifier": "splash-virtuoso"
   },
   {
     "TalentId": 5,
     "Name": "Woosh Afficionado",
-    "Identifier": "woosh_afficionado"
+    "Identifier": "woosh-afficionado"
   },
   {
     "TalentId": 6,
     "Name": "Woosh Virtuoso",
-    "Identifier": "woosh_virtuoso"
+    "Identifier": "woosh-virtuoso"
   },
   {
     "TalentId": 7,
     "Name": "Crag Afficionado",
-    "Identifier": "crag_afficionado"
+    "Identifier": "crag-afficionado"
   },
   {
     "TalentId": 8,
     "Name": "Crag Virtuoso",
-    "Identifier": "crag_virtuoso"
+    "Identifier": "crag-virtuoso"
   },
   {
     "TalentId": 9,
     "Name": "Bang Afficionado",
-    "Identifier": "bang_afficionado"
+    "Identifier": "bang-afficionado"
   },
   {
     "TalentId": 10,
     "Name": "Bang Virtuoso",
-    "Identifier": "bang_virtuoso"
+    "Identifier": "bang-virtuoso"
   },
   {
     "TalentId": 11,
     "Name": "Crack Afficionado",
-    "Identifier": "crack_afficionado"
+    "Identifier": "crack-afficionado"
   },
   {
     "TalentId": 12,
     "Name": "Crack Virtuoso",
-    "Identifier": "crack_virtuoso"
+    "Identifier": "crack-virtuoso"
   },
   {
     "TalentId": 13,
     "Name": "Zap Afficionado",
-    "Identifier": "zap_afficionado"
+    "Identifier": "zap-afficionado"
   },
   {
     "TalentId": 14,
     "Name": "Zap Virtuoso",
-    "Identifier": "zap_virtuoso"
+    "Identifier": "zap-virtuoso"
   },
   {
     "TalentId": 15,
     "Name": "Sizz Afficionado",
-    "Identifier": "sizz_afficionado"
+    "Identifier": "sizz-afficionado"
   },
   {
     "TalentId": 16,
     "Name": "Sizz Virtuoso",
-    "Identifier": "sizz_virtuoso"
+    "Identifier": "sizz-virtuoso"
   },
   {
     "TalentId": 17,
     "Name": "Zam Afficionado",
-    "Identifier": "zam_afficionado"
+    "Identifier": "zam-afficionado"
   },
   {
     "TalentId": 18,
     "Name": "Zam Virtuoso",
-    "Identifier": "zam_virtuoso"
+    "Identifier": "zam-virtuoso"
   },
   {
     "TalentId": 19,
@@ -97,12 +97,12 @@
   {
     "TalentId": 20,
     "Name": "Shallow Breather",
-    "Identifier": "shallow_breather"
+    "Identifier": "shallow-breather"
   },
   {
     "TalentId": 21,
     "Name": "Deep Breather",
-    "Identifier": "deep_breather"
+    "Identifier": "deep-breather"
   },
   {
     "TalentId": 22,
@@ -127,7 +127,7 @@
   {
     "TalentId": 26,
     "Name": "Hive Mind",
-    "Identifier": "hive_mind"
+    "Identifier": "hive-mind"
   },
   {
     "TalentId": 27,
@@ -142,7 +142,7 @@
   {
     "TalentId": 29,
     "Name": "Dark Artist",
-    "Identifier": "dark_artist"
+    "Identifier": "dark-artist"
   },
   {
     "TalentId": 30,
@@ -152,7 +152,7 @@
   {
     "TalentId": 31,
     "Name": "Nature Child",
-    "Identifier": "nature_child"
+    "Identifier": "nature-child"
   },
   {
     "TalentId": 32,
@@ -162,17 +162,17 @@
   {
     "TalentId": 33,
     "Name": "Spicy Slasher",
-    "Identifier": "spicy_slasher"
+    "Identifier": "spicy-slasher"
   },
   {
     "TalentId": 34,
     "Name": "Blowy Slasher",
-    "Identifier": "blowy_slasher"
+    "Identifier": "blowy-slasher"
   },
   {
     "TalentId": 35,
     "Name": "Stony Slasher",
-    "Identifier": "stony_slasher"
+    "Identifier": "stony-slasher"
   },
   {
     "TalentId": 36,
@@ -187,12 +187,12 @@
   {
     "TalentId": 38,
     "Name": "Power Player",
-    "Identifier": "power_player"
+    "Identifier": "power-player"
   },
   {
     "TalentId": 39,
     "Name": "Wild Child",
-    "Identifier": "wild_child"
+    "Identifier": "wild-child"
   },
   {
     "TalentId": 40,
@@ -202,7 +202,7 @@
   {
     "TalentId": 41,
     "Name": "Blade Maven",
-    "Identifier": "blade_maven"
+    "Identifier": "blade-maven"
   },
   {
     "TalentId": 42,
@@ -212,7 +212,7 @@
   {
     "TalentId": 43,
     "Name": "Tongue Twister",
-    "Identifier": "tongue_twister"
+    "Identifier": "tongue-twister"
   },
   {
     "TalentId": 44,
@@ -262,7 +262,7 @@
   {
     "TalentId": 53,
     "Name": "Willing Helper",
-    "Identifier": "willing_helper"
+    "Identifier": "willing-helper"
   },
   {
     "TalentId": 54,
@@ -277,167 +277,167 @@
   {
     "TalentId": 56,
     "Name": "HP Booster I",
-    "Identifier": "hp_booster_i"
+    "Identifier": "hp-booster-i"
   },
   {
     "TalentId": 57,
     "Name": "HP Booster II",
-    "Identifier": "hp_booster_ii"
+    "Identifier": "hp-booster-ii"
   },
   {
     "TalentId": 58,
     "Name": "MP Booster I",
-    "Identifier": "mp_booster_i"
+    "Identifier": "mp-booster-i"
   },
   {
     "TalentId": 59,
     "Name": "MP Booster II",
-    "Identifier": "mp_booster_ii"
+    "Identifier": "mp-booster-ii"
   },
   {
     "TalentId": 60,
     "Name": "Attack Booster I",
-    "Identifier": "attack_booster_i"
+    "Identifier": "attack-booster-i"
   },
   {
     "TalentId": 61,
     "Name": "Attack Booster II",
-    "Identifier": "attack_booster_ii"
+    "Identifier": "attack-booster-ii"
   },
   {
     "TalentId": 62,
     "Name": "Defence Booster I",
-    "Identifier": "defence_booster_i"
+    "Identifier": "defence-booster-i"
   },
   {
     "TalentId": 63,
     "Name": "Defence Booster II",
-    "Identifier": "defence_booster_ii"
+    "Identifier": "defence-booster-ii"
   },
   {
     "TalentId": 64,
     "Name": "Agility Booster I",
-    "Identifier": "agility_booster_i"
+    "Identifier": "agility-booster-i"
   },
   {
     "TalentId": 65,
     "Name": "Agility Booster II",
-    "Identifier": "agility_booster_ii"
+    "Identifier": "agility-booster-ii"
   },
   {
     "TalentId": 66,
     "Name": "Wisdoom Booster I",
-    "Identifier": "wisdoom_booster_i"
+    "Identifier": "wisdoom-booster-i"
   },
   {
     "TalentId": 67,
     "Name": "Wisdom Booster II",
-    "Identifier": "wisdom_booster_ii"
+    "Identifier": "wisdom-booster-ii"
   },
   {
     "TalentId": 68,
     "Name": "Frizz Ward",
-    "Identifier": "frizz_ward"
+    "Identifier": "frizz-ward"
   },
   {
     "TalentId": 69,
     "Name": "Splish Ward",
-    "Identifier": "splish_ward"
+    "Identifier": "splish-ward"
   },
   {
     "TalentId": 70,
     "Name": "Woosh Ward",
-    "Identifier": "woosh_ward"
+    "Identifier": "woosh-ward"
   },
   {
     "TalentId": 71,
     "Name": "Crag Ward",
-    "Identifier": "crag_ward"
+    "Identifier": "crag-ward"
   },
   {
     "TalentId": 72,
     "Name": "Bang Ward",
-    "Identifier": "bang_ward"
+    "Identifier": "bang-ward"
   },
   {
     "TalentId": 73,
     "Name": "Crack Ward",
-    "Identifier": "crack_ward"
+    "Identifier": "crack-ward"
   },
   {
     "TalentId": 74,
     "Name": "Zap Ward",
-    "Identifier": "zap_ward"
+    "Identifier": "zap-ward"
   },
   {
     "TalentId": 75,
     "Name": "Sizz Ward",
-    "Identifier": "sizz_ward"
+    "Identifier": "sizz-ward"
   },
   {
     "TalentId": 76,
     "Name": "Zam Ward",
-    "Identifier": "zam_ward"
+    "Identifier": "zam-ward"
   },
   {
     "TalentId": 77,
     "Name": "Debilitation Ducker",
-    "Identifier": "debilitation_ducker"
+    "Identifier": "debilitation-ducker"
   },
   {
     "TalentId": 78,
     "Name": "Bedazzlement Blocker",
-    "Identifier": "bedazzlement_blocker"
+    "Identifier": "bedazzlement-blocker"
   },
   {
     "TalentId": 79,
     "Name": "Antimagic Avoider",
-    "Identifier": "antimagic_avoider"
+    "Identifier": "antimagic-avoider"
   },
   {
     "TalentId": 80,
     "Name": "Drain Dodger",
-    "Identifier": "drain_dodger"
+    "Identifier": "drain-dodger"
   },
   {
     "TalentId": 81,
     "Name": "Poison Preventer",
-    "Identifier": "poison_preventer"
+    "Identifier": "poison-preventer"
   },
   {
     "TalentId": 82,
     "Name": "Stun Stopper",
-    "Identifier": "stun_stopper"
+    "Identifier": "stun-stopper"
   },
   {
     "TalentId": 83,
     "Name": "Sleep Suppressor",
-    "Identifier": "sleep_suppressor"
+    "Identifier": "sleep-suppressor"
   },
   {
     "TalentId": 84,
     "Name": "Confusion Controller",
-    "Identifier": "confusion_controller"
+    "Identifier": "confusion-controller"
   },
   {
     "TalentId": 85,
     "Name": "Paralysis Protector",
-    "Identifier": "paralysis_protector"
+    "Identifier": "paralysis-protector"
   },
   {
     "TalentId": 86,
     "Name": "Death Defier",
-    "Identifier": "death_defier"
+    "Identifier": "death-defier"
   },
   {
     "TalentId": 87,
     "Name": "Soggy Slasher",
-    "Identifier": "soggy_slasher"
+    "Identifier": "soggy-slasher"
   },
   {
     "TalentId": 88,
     "Name": "Good Knight",
-    "Identifier": "good_knight"
+    "Identifier": "good-knight"
   },
   {
     "TalentId": 89,
@@ -452,7 +452,7 @@
   {
     "TalentId": 91,
     "Name": "Air Fryer",
-    "Identifier": "air_fryer"
+    "Identifier": "air-fryer"
   },
   {
     "TalentId": 92,
@@ -467,7 +467,7 @@
   {
     "TalentId": 94,
     "Name": "Perfect Speller",
-    "Identifier": "perfect_speller"
+    "Identifier": "perfect-speller"
   },
   {
     "TalentId": 95,
@@ -483,5 +483,75 @@
     "TalentId": 97,
     "Name": "Irritant",
     "Identifier": "irritant"
+  },
+  {
+    "TalentId": 98,
+    "Name": "Sweet-Talker",
+    "Identifier": "sweet-talker"
+  },
+  {
+    "TalentId": 99,
+    "Name": "Martyr",
+    "Identifier": "martyr"
+  },
+  {
+    "TalentId": 100,
+    "Name": "Sleep Counsellor",
+    "Identifier": "sleep-counsellor"
+  },
+  {
+    "TalentId": 103,
+    "Name": "Freeze Popper",
+    "Identifier": "freeze-popper"
+  },
+  {
+    "TalentId": 104,
+    "Name": "Hair Splitter",
+    "Identifier": "hair-splitter"
+  },
+  {
+    "TalentId": 105,
+    "Name": "Smart Blazer",
+    "Identifier": "smart-blazer"
+  },
+  {
+    "TalentId": 106,
+    "Name": "Magic Maven",
+    "Identifier": "magic-maven"
+  },
+  {
+    "TalentId": 107,
+    "Name": "Outlaw",
+    "Identifier": "outlaw"
+  },
+  {
+    "TalentId": 108,
+    "Name": "Martial Maven",
+    "Identifier": "martial-maven"
+  },
+  {
+    "TalentId": 109,
+    "Name": "Choreographer",
+    "Identifier": "choreographer"
+  },
+  {
+    "TalentId": 110,
+    "Name": "Chilly Receptionist",
+    "Identifier": "chilly-receptionist"
+  },
+  {
+    "TalentId": 111,
+    "Name": "Breath Taker",
+    "Identifier": "breath-taker"
+  },
+  {
+    "TalentId": 112,
+    "Name": "Charmer",
+    "Identifier": "charmer"
+  },
+  {
+    "TalentId": 113,
+    "Name": "Antimagician",
+    "Identifier": "antimagician"
   }
 ]

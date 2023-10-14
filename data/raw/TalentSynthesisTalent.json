@@ -1,0 +1,42 @@
+[
+  {
+    "TalentSynthesisTalentId": 1,
+    "TalentSynthesisId": 1,
+    "TalentId": 33
+  },
+  {
+    "TalentSynthesisTalentId": 2,
+    "TalentSynthesisId": 1,
+    "TalentId": 34
+  },
+  {
+    "TalentSynthesisTalentId": 3,
+    "TalentSynthesisId": 2,
+    "TalentId": 6
+  },
+  {
+    "TalentSynthesisTalentId": 4,
+    "TalentSynthesisId": 2,
+    "TalentId": 12
+  },
+  {
+    "TalentSynthesisTalentId": 5,
+    "TalentSynthesisId": 3,
+    "TalentId": 8
+  },
+  {
+    "TalentSynthesisTalentId": 6,
+    "TalentSynthesisId": 3,
+    "TalentId": 10
+  },
+  {
+    "TalentSynthesisTalentId": 7,
+    "TalentSynthesisId": 4,
+    "TalentId": 92
+  },
+  {
+    "TalentSynthesisTalentId": 8,
+    "TalentSynthesisId": 4,
+    "TalentId": 93
+  }
+]

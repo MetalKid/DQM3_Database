@@ -62,7 +62,7 @@
   {
     "DamageTypeId": 13,
     "Name": "MP Absorption",
-    "Identifier": "mp_absorption"
+    "Identifier": "mp-absorption"
   },
   {
     "DamageTypeId": 14,
@@ -91,7 +91,7 @@
   },
   {
     "DamageTypeId": 19,
-    "Name": "Instance Death",
-    "Identifier": "instance_death"
+    "Name": "Instant Death",
+    "Identifier": "instant-death"
   }
 ]

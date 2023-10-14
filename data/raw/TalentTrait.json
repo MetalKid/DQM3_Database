@@ -630,6 +630,60 @@
     "Points": 85
   },
   {
+    "TalentTraitId": 288,
+    "TalentId": 61,
+    "TraitId": 122,
+    "Points": 15
+  },
+  {
+    "TalentTraitId": 290,
+    "TalentId": 61,
+    "TraitId": 122,
+    "Points": 50
+  },
+  {
+    "TalentTraitId": 292,
+    "TalentId": 61,
+    "TraitId": 122,
+    "Points": 100
+  },
+  {
+    "TalentTraitId": 294,
+    "TalentId": 61,
+    "TraitId": 122,
+    "Points": 160
+  },
+  {
+    "TalentTraitId": 287,
+    "TalentId": 61,
+    "TraitId": 140,
+    "Points": 5
+  },
+  {
+    "TalentTraitId": 289,
+    "TalentId": 61,
+    "TraitId": 141,
+    "Points": 30
+  },
+  {
+    "TalentTraitId": 291,
+    "TalentId": 61,
+    "TraitId": 141,
+    "Points": 75
+  },
+  {
+    "TalentTraitId": 293,
+    "TalentId": 61,
+    "TraitId": 142,
+    "Points": 130
+  },
+  {
+    "TalentTraitId": 295,
+    "TalentId": 61,
+    "TraitId": 143,
+    "Points": 200
+  },
+  {
     "TalentTraitId": 112,
     "TalentId": 62,
     "TraitId": 122,
@@ -670,6 +724,60 @@
     "TalentId": 62,
     "TraitId": 153,
     "Points": 85
+  },
+  {
+    "TalentTraitId": 299,
+    "TalentId": 63,
+    "TraitId": 122,
+    "Points": 15
+  },
+  {
+    "TalentTraitId": 301,
+    "TalentId": 63,
+    "TraitId": 122,
+    "Points": 50
+  },
+  {
+    "TalentTraitId": 303,
+    "TalentId": 63,
+    "TraitId": 122,
+    "Points": 100
+  },
+  {
+    "TalentTraitId": 305,
+    "TalentId": 63,
+    "TraitId": 122,
+    "Points": 160
+  },
+  {
+    "TalentTraitId": 298,
+    "TalentId": 63,
+    "TraitId": 150,
+    "Points": 5
+  },
+  {
+    "TalentTraitId": 300,
+    "TalentId": 63,
+    "TraitId": 152,
+    "Points": 30
+  },
+  {
+    "TalentTraitId": 302,
+    "TalentId": 63,
+    "TraitId": 152,
+    "Points": 75
+  },
+  {
+    "TalentTraitId": 304,
+    "TalentId": 63,
+    "TraitId": 153,
+    "Points": 130
+  },
+  {
+    "TalentTraitId": 306,
+    "TalentId": 63,
+    "TraitId": 154,
+    "Points": 200
   },
   {
     "TalentTraitId": 119,
@@ -714,6 +822,60 @@
     "Points": 85
   },
   {
+    "TalentTraitId": 308,
+    "TalentId": 65,
+    "TraitId": 122,
+    "Points": 15
+  },
+  {
+    "TalentTraitId": 310,
+    "TalentId": 65,
+    "TraitId": 122,
+    "Points": 50
+  },
+  {
+    "TalentTraitId": 312,
+    "TalentId": 65,
+    "TraitId": 122,
+    "Points": 100
+  },
+  {
+    "TalentTraitId": 314,
+    "TalentId": 65,
+    "TraitId": 122,
+    "Points": 160
+  },
+  {
+    "TalentTraitId": 307,
+    "TalentId": 65,
+    "TraitId": 158,
+    "Points": 5
+  },
+  {
+    "TalentTraitId": 309,
+    "TalentId": 65,
+    "TraitId": 159,
+    "Points": 30
+  },
+  {
+    "TalentTraitId": 311,
+    "TalentId": 65,
+    "TraitId": 159,
+    "Points": 75
+  },
+  {
+    "TalentTraitId": 313,
+    "TalentId": 65,
+    "TraitId": 160,
+    "Points": 130
+  },
+  {
+    "TalentTraitId": 315,
+    "TalentId": 65,
+    "TraitId": 161,
+    "Points": 200
+  },
+  {
     "TalentTraitId": 126,
     "TalentId": 66,
     "TraitId": 131,
@@ -754,6 +916,60 @@
     "TalentId": 66,
     "TraitId": 171,
     "Points": 85
+  },
+  {
+    "TalentTraitId": 317,
+    "TalentId": 67,
+    "TraitId": 132,
+    "Points": 15
+  },
+  {
+    "TalentTraitId": 319,
+    "TalentId": 67,
+    "TraitId": 132,
+    "Points": 50
+  },
+  {
+    "TalentTraitId": 321,
+    "TalentId": 67,
+    "TraitId": 132,
+    "Points": 100
+  },
+  {
+    "TalentTraitId": 323,
+    "TalentId": 67,
+    "TraitId": 132,
+    "Points": 160
+  },
+  {
+    "TalentTraitId": 316,
+    "TalentId": 67,
+    "TraitId": 168,
+    "Points": 5
+  },
+  {
+    "TalentTraitId": 318,
+    "TalentId": 67,
+    "TraitId": 170,
+    "Points": 30
+  },
+  {
+    "TalentTraitId": 320,
+    "TalentId": 67,
+    "TraitId": 170,
+    "Points": 75
+  },
+  {
+    "TalentTraitId": 322,
+    "TalentId": 67,
+    "TraitId": 171,
+    "Points": 130
+  },
+  {
+    "TalentTraitId": 325,
+    "TalentId": 67,
+    "TraitId": 172,
+    "Points": 200
   },
   {
     "TalentTraitId": 137,
@@ -1656,6 +1872,12 @@
     "Points": 100
   },
   {
+    "TalentTraitId": 328,
+    "TalentId": 89,
+    "TraitId": 149,
+    "Points": 10
+  },
+  {
     "TalentTraitId": 60,
     "TalentId": 95,
     "TraitId": 158,
@@ -1666,5 +1888,71 @@
     "TalentId": 96,
     "TraitId": 123,
     "Points": 85
+  },
+  {
+    "TalentTraitId": 284,
+    "TalentId": 98,
+    "TraitId": 50,
+    "Points": 100
+  },
+  {
+    "TalentTraitId": 283,
+    "TalentId": 98,
+    "TraitId": 123,
+    "Points": 50
+  },
+  {
+    "TalentTraitId": 285,
+    "TalentId": 99,
+    "TraitId": 132,
+    "Points": 10
+  },
+  {
+    "TalentTraitId": 286,
+    "TalentId": 99,
+    "TraitId": 150,
+    "Points": 30
+  },
+  {
+    "TalentTraitId": 297,
+    "TalentId": 105,
+    "TraitId": 143,
+    "Points": 160
+  },
+  {
+    "TalentTraitId": 296,
+    "TalentId": 105,
+    "TraitId": 152,
+    "Points": 40
+  },
+  {
+    "TalentTraitId": 326,
+    "TalentId": 107,
+    "TraitId": 122,
+    "Points": 20
+  },
+  {
+    "TalentTraitId": 327,
+    "TalentId": 108,
+    "TraitId": 123,
+    "Points": 20
+  },
+  {
+    "TalentTraitId": 329,
+    "TalentId": 110,
+    "TraitId": 159,
+    "Points": 20
+  },
+  {
+    "TalentTraitId": 330,
+    "TalentId": 110,
+    "TraitId": 170,
+    "Points": 70
+  },
+  {
+    "TalentTraitId": 331,
+    "TalentId": 111,
+    "TraitId": 122,
+    "Points": 50
   }
 ]

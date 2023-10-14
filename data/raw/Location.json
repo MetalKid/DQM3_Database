@@ -1,0 +1,17 @@
+[
+  {
+    "LocationId": 1,
+    "Name": "Terrestria",
+    "Identifier": "terrestria"
+  },
+  {
+    "LocationId": 2,
+    "Name": "Circle of Conquest",
+    "Identifier": "circle-of-conquest"
+  },
+  {
+    "LocationId": 3,
+    "Name": "Circle of Temper",
+    "Identifier": "circle-of-temper"
+  }
+]
