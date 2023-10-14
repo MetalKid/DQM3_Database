@@ -1,328 +1,13 @@
 [
   {
-    "Result": "Feral Slime",
-    "Parent1": "Slime Family (Any)",
-    "Parent2": "Antguzzler"
+    "Result": "Airbagon",
+    "Parent1": "Toady",
+    "Parent2": "Killer Gila"
   },
   {
-    "Result": "Goodybag",
-    "Parent1": "Pogoin' Penguin",
-    "Parent2": "Bag o' Laughs"
-  },
-  {
-    "Result": "Restless Armour",
-    "Parent1": "Slime Knight",
-    "Parent2": "Bambooligan"
-  },
-  {
-    "Result": "Jargon",
-    "Parent1": "Airbagon",
-    "Parent2": "Beast Family (Any)"
-  },
-  {
-    "Result": "Wyrtle",
-    "Parent1": "Armoured Wartoise",
-    "Parent2": "Beast Family (Any)"
-  },
-  {
-    "Result": "Bullfinch",
-    "Parent1": "Bantamweight",
-    "Parent2": "Beast Family (Any)"
-  },
-  {
-    "Result": "Weartiger",
-    "Parent1": "Mummy Boy",
-    "Parent2": "Beast Family (Any)"
-  },
-  {
-    "Result": "Cross Eye",
-    "Parent1": "See Urchin",
-    "Parent2": "Beast Family (Any)"
-  },
-  {
-    "Result": "Mottle Slime",
-    "Parent1": "Slime",
-    "Parent2": "Beast Family (Any)"
-  },
-  {
-    "Result": "Hawk Man",
-    "Parent1": "Stark Raven",
-    "Parent2": "Beast Family (Any)"
-  },
-  {
-    "Result": "Succubat",
-    "Parent1": "Demon Family (F)",
-    "Parent2": "Beast Family (F)"
-  },
-  {
-    "Result": "Feral Slime",
-    "Parent1": "Slime Family (F)",
-    "Parent2": "Beast Family (F)"
-  },
-  {
-    "Result": "Pan Piper",
-    "Parent1": "Demon Family (G)",
-    "Parent2": "Beast Family (G)"
-  },
-  {
-    "Result": "Teeny Sanguini",
-    "Parent1": "Demon Family (G)",
-    "Parent2": "Beast Family (G)"
-  },
-  {
-    "Result": "Komodo",
-    "Parent1": "Dragon Family (G)",
-    "Parent2": "Beast Family (G)"
-  },
-  {
-    "Result": "Great Sabrecub",
-    "Parent1": "Slime Family (G)",
-    "Parent2": "Beast Family (G)"
-  },
-  {
-    "Result": "Shell Slime",
-    "Parent1": "Slime Family (G)",
-    "Parent2": "Beast Family (G)"
-  },
-  {
-    "Result": "Jinkster",
-    "Parent1": "Pickayune",
-    "Parent2": "Blinkster"
-  },
-  {
-    "Result": "Mitey Oak",
-    "Parent1": "Stump Chump",
-    "Parent2": "Blinkster"
-  },
-  {
-    "Result": "Hellbound Horror",
-    "Parent1": "Ghost",
-    "Parent2": "Bodkin Archer"
-  },
-  {
-    "Result": "Croc-a-Bugle-Doo",
-    "Parent1": "Briny Bronco",
-    "Parent2": "Bongo Drongo"
-  },
-  {
-    "Result": "Slick Slime",
-    "Parent1": "Bubble Slime",
-    "Parent2": "Box Slime"
-  },
-  {
-    "Result": "Box Slime",
-    "Parent1": "She-Slime",
-    "Parent2": "Bubble Slime"
-  },
-  {
-    "Result": "Garuda",
-    "Parent1": "Pteranodon",
-    "Parent2": "Bullfinch"
-  },
-  {
-    "Result": "Robber Rabbit",
-    "Parent1": "Mischievous Mole",
-    "Parent2": "Bunicorn"
-  },
-  {
-    "Result": "Boppin' Badger",
-    "Parent1": "She-Slime",
-    "Parent2": "Bunicorn"
-  },
-  {
-    "Result": "Jailcat",
-    "Parent1": "Cannonbrawler",
-    "Parent2": "Candy Cat"
-  },
-  {
-    "Result": "Cruelcumber",
-    "Parent1": "Bambooligan",
-    "Parent2": "Capsichum"
-  },
-  {
-    "Result": "Odd Cob",
-    "Parent1": "Lunatick",
-    "Parent2": "Capsichum"
-  },
-  {
-    "Result": "Leafy Larrikin",
-    "Parent1": "Monolog",
-    "Parent2": "Capsichum"
-  },
-  {
-    "Result": "Chocolate Whisp",
-    "Parent1": "Soft Serve Spook",
-    "Parent2": "Chocolate Golem"
-  },
-  {
-    "Result": "Cloud Surfer",
-    "Parent1": "Dancing Devil",
-    "Parent2": "Cumaulus"
-  },
-  {
-    "Result": "Clockwork Cuckoo",
-    "Parent1": "Mecha-Mynah",
-    "Parent2": "Cyclown"
-  },
-  {
-    "Result": "Vegandragora",
-    "Parent1": "Fright Bulb",
-    "Parent2": "Damselfly"
-  },
-  {
-    "Result": "Avian Android",
-    "Parent1": "Mecha-Mynah",
-    "Parent2": "Damselfly"
-  },
-  {
-    "Result": "Hooper Trooper",
-    "Parent1": "Cyclown",
-    "Parent2": "Dancing Devil"
-  },
-  {
-    "Result": "Beleth",
-    "Parent1": "Erazor Blade",
-    "Parent2": "Dancing Devil"
-  },
-  {
-    "Result": "Robber Rabbit",
-    "Parent1": "Bunicorn",
-    "Parent2": "Demon Family (Any)"
-  },
-  {
-    "Result": "Powie Yowie",
-    "Parent1": "Platypunk",
-    "Parent2": "Demon Family (Any)"
-  },
-  {
-    "Result": "Hawk Man",
-    "Parent1": "Stark Raven",
-    "Parent2": "Demon Family (Any)"
-  },
-  {
-    "Result": "Meowgician",
-    "Parent1": "Vampire Cat",
-    "Parent2": "Demon Family (Any)"
-  },
-  {
-    "Result": "Hawk Man",
-    "Parent1": "Beast Family (F)",
-    "Parent2": "Demon Family (F)"
-  },
-  {
-    "Result": "Cyclown",
-    "Parent1": "Nature Family (F)",
-    "Parent2": "Demon Family (F)"
-  },
-  {
-    "Result": "Gremlin",
-    "Parent1": "Dragon Family (G)",
-    "Parent2": "Demon Family (G)"
-  },
-  {
-    "Result": "Pteranodon",
-    "Parent1": "Dragon Family (G)",
-    "Parent2": "Demon Family (G)"
-  },
-  {
-    "Result": "Lunatick",
-    "Parent1": "Nature Family (G)",
-    "Parent2": "Demon Family (G)"
-  },
-  {
-    "Result": "Ornery Onion",
-    "Parent1": "Nature Family (G)",
-    "Parent2": "Demon Family (G)"
-  },
-  {
-    "Result": "Fright Bulb",
-    "Parent1": "Slime Family (G)",
-    "Parent2": "Demon Family (G)"
-  },
-  {
-    "Result": "Picksy",
-    "Parent1": "Slime Family (G)",
-    "Parent2": "Demon Family (G)"
-  },
-  {
-    "Result": "Spiny Slime",
-    "Parent1": "Snowmangler",
-    "Parent2": "Disfigurine"
-  },
-  {
-    "Result": "Imp",
-    "Parent1": "Blinkster",
-    "Parent2": "Dracky"
-  },
-  {
-    "Result": "Horriflying Saucers",
-    "Parent1": "Wax Murderer",
-    "Parent2": "Dracky"
-  },
-  {
-    "Result": "Drackolyte",
-    "Parent1": "Whizzard",
-    "Parent2": "Dracky"
-  },
-  {
-    "Result": "Tortoceratops",
-    "Parent1": "Armoured Wartoise",
-    "Parent2": "Drag Racer"
-  },
-  {
-    "Result": "Wyrtle",
-    "Parent1": "Armoured Wartoise",
-    "Parent2": "Drag Racer"
-  },
-  {
-    "Result": "Lumbering Lizard",
-    "Parent1": "Dragonthorn",
-    "Parent2": "Drag Racer"
-  },
-  {
-    "Result": "Drake Slime",
-    "Parent1": "Slime",
-    "Parent2": "Dragon Family (Any)"
-  },
-  {
-    "Result": "Jargon",
-    "Parent1": "Beast Family (F)",
-    "Parent2": "Dragon Family (F)"
-  },
-  {
-    "Result": "Vampire Cat",
-    "Parent1": "Beast Family (F)",
-    "Parent2": "Dragon Family (F)"
-  },
-  {
-    "Result": "Drag Racer",
-    "Parent1": "Demon Family (F)",
-    "Parent2": "Dragon Family (F)"
-  },
-  {
-    "Result": "Pickayune",
-    "Parent1": "Demon Family (F)",
-    "Parent2": "Dragon Family (F)"
-  },
-  {
-    "Result": "Drake Slime",
-    "Parent1": "Slime Family (F)",
-    "Parent2": "Dragon Family (F)"
-  },
-  {
-    "Result": "Sham Hatwitch",
-    "Parent1": "Beast Family (G)",
-    "Parent2": "Dragon Family (G)"
-  },
-  {
-    "Result": "Wing Slime",
-    "Parent1": "Slime Family (G)",
-    "Parent2": "Dragon Family (G)"
-  },
-  {
-    "Result": "Small Fry",
-    "Parent1": "Slime Family (G)",
-    "Parent2": "Dragon Family (G)"
+    "Result": "Angel Slime",
+    "Parent1": "Mitey Oak",
+    "Parent2": "Healslime"
   },
   {
     "Result": "Armoured Wartoise",
@@ -330,23 +15,43 @@
     "Parent2": "Dragonthorn"
   },
   {
-    "Result": "Disfigurine",
-    "Parent1": "String Fella",
-    "Parent2": "Dragonthorn"
+    "Result": "Armoured Wartoise",
+    "Parent1": "Dragon Family (F)",
+    "Parent2": "Material Family (F)"
   },
   {
-    "Result": "Hell Niño",
-    "Parent1": "Cumaulus",
-    "Parent2": "Drake Slime"
+    "Result": "Avian Android",
+    "Parent1": "Mecha-Mynah",
+    "Parent2": "Damselfly"
   },
   {
-    "Result": "Ham Shamwitch",
-    "Parent1": "Sham Hatwitch",
-    "Parent2": "Drake Slime"
+    "Result": "Avian Android",
+    "Parent1": "Nature Family (F)",
+    "Parent2": "Material Family (F)"
   },
   {
-    "Result": "Cannibox",
-    "Parent1": "Bag o' Laughs",
+    "Result": "Avian Android",
+    "Parent1": "Ornery Onion",
+    "Parent2": "Mecha-Mynah"
+  },
+  {
+    "Result": "Awebergine",
+    "Parent1": "Pogoin' Penguin",
+    "Parent2": "Woebergine"
+  },
+  {
+    "Result": "Bag o' Laughs",
+    "Parent1": "Slime Family (G)",
+    "Parent2": "Material Family (G)"
+  },
+  {
+    "Result": "Bagworm",
+    "Parent1": "Beast Family (F)",
+    "Parent2": "Nature Family (F)"
+  },
+  {
+    "Result": "Bagworm",
+    "Parent1": "Stump Chump",
     "Parent2": "Eggsoskeleton"
   },
   {
@@ -355,99 +60,9 @@
     "Parent2": "Eggsoskeleton"
   },
   {
-    "Result": "Bagworm",
-    "Parent1": "Stump Chump",
-    "Parent2": "Eggsoskeleton"
-  },
-  {
-    "Result": "Skeleton",
-    "Parent1": "Leery Lout",
-    "Parent2": "Firespirit"
-  },
-  {
-    "Result": "She-Slime",
-    "Parent1": "Slime",
-    "Parent2": "Firespirit"
-  },
-  {
-    "Result": "Wyrtle",
-    "Parent1": "Armoured Wartoise",
-    "Parent2": "Flython"
-  },
-  {
-    "Result": "Bullfinch",
-    "Parent1": "Bantamweight",
-    "Parent2": "Foo Dog"
-  },
-  {
-    "Result": "Spitzfire",
-    "Parent1": "Pteranodon",
-    "Parent2": "Foo Dog"
-  },
-  {
-    "Result": "Morphean Mushroom",
-    "Parent1": "Napir",
-    "Parent2": "Funghoul"
-  },
-  {
-    "Result": "Fromage Fray",
-    "Parent1": "Sacksquatch",
-    "Parent2": "Ghost"
-  },
-  {
-    "Result": "Blinkster",
-    "Parent1": "Winky",
-    "Parent2": "Ghost"
-  },
-  {
-    "Result": "Candy Cat",
-    "Parent1": "Fromage Fray",
-    "Parent2": "Great Sabrecub"
-  },
-  {
-    "Result": "Jumping Jackal",
-    "Parent1": "Orc",
-    "Parent2": "Great Sabrecub"
-  },
-  {
-    "Result": "Dark Sabrecub",
-    "Parent1": "Shadow",
-    "Parent2": "Great Sabrecub"
-  },
-  {
-    "Result": "Ratatattack",
-    "Parent1": "Mouseflap",
-    "Parent2": "Guaardvark"
-  },
-  {
-    "Result": "Splatypunk",
-    "Parent1": "Platypunk",
-    "Parent2": "Guaardvark"
-  },
-  {
-    "Result": "Angel Slime",
-    "Parent1": "Mitey Oak",
-    "Parent2": "Healslime"
-  },
-  {
-    "Result": "Ogre",
-    "Parent1": "Cannonbrawler",
-    "Parent2": "Hood"
-  },
-  {
-    "Result": "Escudogre",
-    "Parent1": "Leery Lout",
-    "Parent2": "Hunter Mech"
-  },
-  {
-    "Result": "Dessert Demon",
-    "Parent1": "Chocolate Golem",
-    "Parent2": "Imp"
-  },
-  {
-    "Result": "Chimaera",
-    "Parent1": "Pogoin' Penguin",
-    "Parent2": "Imp"
+    "Result": "Beanie Meanie",
+    "Parent1": "Cruelcumber",
+    "Parent2": "Odd Cob"
   },
   {
     "Result": "Behemoth Slime",
@@ -455,329 +70,14 @@
     "Parent2": "Jargon"
   },
   {
-    "Result": "Toady",
-    "Parent1": "Bunicorn",
-    "Parent2": "Khalamari Kid"
-  },
-  {
-    "Result": "Scarfish",
-    "Parent1": "Funghoul",
-    "Parent2": "Khalamari Kid"
-  },
-  {
-    "Result": "Suckling Ocker",
-    "Parent1": "Khalamari Kid",
-    "Parent2": "Khalamari Kid"
-  },
-  {
-    "Result": "See Urchin",
-    "Parent1": "Lunatick",
-    "Parent2": "Khalamari Kid"
-  },
-  {
-    "Result": "Flython",
-    "Parent1": "Gremlin",
-    "Parent2": "Killer Gila"
-  },
-  {
-    "Result": "Cauldragon",
-    "Parent1": "Jargon",
-    "Parent2": "Killer Gila"
-  },
-  {
-    "Result": "Skullrider",
-    "Parent1": "Skeleton",
-    "Parent2": "Killer Gila"
-  },
-  {
-    "Result": "Bubble Slime",
-    "Parent1": "Slimeshroom",
-    "Parent2": "Killer Gila"
-  },
-  {
-    "Result": "Airbagon",
-    "Parent1": "Toady",
-    "Parent2": "Killer Gila"
-  },
-  {
-    "Result": "Jargon",
-    "Parent1": "Airbagon",
-    "Parent2": "Komodo"
-  },
-  {
-    "Result": "Drag Racer",
-    "Parent1": "Nardragon",
-    "Parent2": "Komodo"
-  },
-  {
-    "Result": "Pickayune",
-    "Parent1": "Picksy",
-    "Parent2": "Lampling"
-  },
-  {
-    "Result": "String Fella",
-    "Parent1": "Bag o' Laughs",
-    "Parent2": "Leery Lout"
-  },
-  {
-    "Result": "Slime Knight",
-    "Parent1": "Slime Stack",
-    "Parent2": "Leery Lout"
-  },
-  {
-    "Result": "Mad Mollusk",
-    "Parent1": "Killerpillar",
-    "Parent2": "Lips"
-  },
-  {
-    "Result": "Whizzard",
-    "Parent1": "Blinkster",
-    "Parent2": "Lump Wizard"
-  },
-  {
-    "Result": "Winky",
-    "Parent1": "String Fella",
-    "Parent2": "Lunatick"
-  },
-  {
-    "Result": "Monolog",
-    "Parent1": "Stump Chump",
-    "Parent2": "Lunatick"
-  },
-  {
-    "Result": "Healslime",
-    "Parent1": "Wing Slime",
-    "Parent2": "Lunatick"
-  },
-  {
-    "Result": "Snail Slime",
-    "Parent1": "Shell Slime",
-    "Parent2": "Mad Mollusk"
-  },
-  {
-    "Result": "Hunter Mech",
-    "Parent1": "Restless Armour",
-    "Parent2": "Material Family (Any)"
-  },
-  {
-    "Result": "Box Slime",
-    "Parent1": "She-Slime",
-    "Parent2": "Material Family (Any)"
-  },
-  {
-    "Result": "Foo Dog",
-    "Parent1": "Beast Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Napir",
-    "Parent1": "Beast Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Cannonbrawler",
-    "Parent1": "Demon Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Pocus Poppet",
-    "Parent1": "Demon Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Armoured Wartoise",
-    "Parent1": "Dragon Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Bongo Drongo",
-    "Parent1": "Dragon Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Avian Android",
-    "Parent1": "Nature Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Scissor Beatle",
-    "Parent1": "Nature Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Mudraker",
-    "Parent1": "Slime Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Slime Stack",
-    "Parent1": "Slime Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Horriflying Saucers",
-    "Parent1": "Undead Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Muddy Hand",
-    "Parent1": "Undead Family (F)",
-    "Parent2": "Material Family (F)"
-  },
-  {
-    "Result": "Eggsoskeleton",
-    "Parent1": "Beast Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Mischievous Mole",
-    "Parent1": "Beast Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Leery Lout",
-    "Parent1": "Demon Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Spitnik",
-    "Parent1": "Demon Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Mecha-Mynah",
-    "Parent1": "Dragon Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Nardragon",
-    "Parent1": "Dragon Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Capsichum",
-    "Parent1": "Nature Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Cumaulus",
-    "Parent1": "Nature Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Bag o' Laughs",
-    "Parent1": "Slime Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Scallop Slime",
-    "Parent1": "Slime Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Sacksquatch",
-    "Parent1": "Undead Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Wax Murderer",
-    "Parent1": "Undead Family (G)",
-    "Parent2": "Material Family (G)"
-  },
-  {
-    "Result": "Avian Android",
-    "Parent1": "Ornery Onion",
-    "Parent2": "Mecha-Mynah"
-  },
-  {
-    "Result": "Hood",
-    "Parent1": "Hammerhood",
-    "Parent2": "Mischievous Mole"
-  },
-  {
-    "Result": "Hammerhood",
-    "Parent1": "Stump Chump",
-    "Parent2": "Mischievous Mole"
-  },
-  {
-    "Result": "Vampire Cat",
-    "Parent1": "Candy Cat",
-    "Parent2": "Mouseflap"
-  },
-  {
-    "Result": "Chocolate Golem",
-    "Parent1": "Goonache Goodie",
-    "Parent2": "Mud Mannequin"
-  },
-  {
-    "Result": "Mouldy Slime",
-    "Parent1": "Slimeshroom",
-    "Parent2": "Muddy Hand"
-  },
-  {
-    "Result": "Rubble Slime",
-    "Parent1": "Mottle Slime",
-    "Parent2": "Mudraker"
-  },
-  {
-    "Result": "Spiked Hare",
-    "Parent1": "Bunicorn",
-    "Parent2": "Napir"
-  },
-  {
-    "Result": "Stabosaur",
+    "Result": "Beleth",
     "Parent1": "Erazor Blade",
-    "Parent2": "Nardragon"
+    "Parent2": "Dancing Devil"
   },
   {
-    "Result": "Cactiball",
-    "Parent1": "Disfigurine",
-    "Parent2": "Nature Family (Any)"
-  },
-  {
-    "Result": "Onion Slime",
-    "Parent1": "Fright Bulb",
-    "Parent2": "Nature Family (Any)"
-  },
-  {
-    "Result": "Orc",
-    "Parent1": "Sham Hatwitch",
-    "Parent2": "Nature Family (Any)"
-  },
-  {
-    "Result": "Bagworm",
-    "Parent1": "Beast Family (F)",
-    "Parent2": "Nature Family (F)"
-  },
-  {
-    "Result": "Orc",
-    "Parent1": "Beast Family (F)",
-    "Parent2": "Nature Family (F)"
-  },
-  {
-    "Result": "Merman",
-    "Parent1": "Demon Family (F)",
-    "Parent2": "Nature Family (F)"
-  },
-  {
-    "Result": "Briny Bronco",
-    "Parent1": "Dragon Family (F)",
-    "Parent2": "Nature Family (F)"
-  },
-  {
-    "Result": "Pogoin' Penguin",
-    "Parent1": "Dragon Family (F)",
-    "Parent2": "Nature Family (F)"
-  },
-  {
-    "Result": "Mitey Oak",
-    "Parent1": "Slime Family (F)",
-    "Parent2": "Nature Family (F)"
-  },
-  {
-    "Result": "Onion Slime",
-    "Parent1": "Slime Family (F)",
-    "Parent2": "Nature Family (F)"
+    "Result": "Blinkster",
+    "Parent1": "Winky",
+    "Parent2": "Ghost"
   },
   {
     "Result": "Bludgerigar",
@@ -785,14 +85,59 @@
     "Parent2": "Nature Family (G)"
   },
   {
-    "Result": "Dragonthorn",
-    "Parent1": "Dragon Family (G)",
-    "Parent2": "Nature Family (G)"
+    "Result": "Bodkin Archer",
+    "Parent1": "Cruelcumber",
+    "Parent2": "Picksy"
   },
   {
-    "Result": "Killerpillar",
-    "Parent1": "Dragon Family (G)",
-    "Parent2": "Nature Family (G)"
+    "Result": "Bodkin Fletcher",
+    "Parent1": "Bodkin Archer",
+    "Parent2": "Walking Corpse"
+  },
+  {
+    "Result": "Bongo Drongo",
+    "Parent1": "Dragon Family (F)",
+    "Parent2": "Material Family (F)"
+  },
+  {
+    "Result": "Boppin' Badger",
+    "Parent1": "Demon Family (F)",
+    "Parent2": "Slime Family (F)"
+  },
+  {
+    "Result": "Boppin' Badger",
+    "Parent1": "Mischievous Mole",
+    "Parent2": "Vegandragora"
+  },
+  {
+    "Result": "Boppin' Badger",
+    "Parent1": "She-Slime",
+    "Parent2": "Bunicorn"
+  },
+  {
+    "Result": "Box Slime",
+    "Parent1": "She-Slime",
+    "Parent2": "Bubble Slime"
+  },
+  {
+    "Result": "Box Slime",
+    "Parent1": "She-Slime",
+    "Parent2": "Material Family (Any)"
+  },
+  {
+    "Result": "Briny Bronco",
+    "Parent1": "Dragon Family (F)",
+    "Parent2": "Nature Family (F)"
+  },
+  {
+    "Result": "Briny Bronco",
+    "Parent1": "Toady",
+    "Parent2": "Small Fry"
+  },
+  {
+    "Result": "Bubble Slime",
+    "Parent1": "Slimeshroom",
+    "Parent2": "Killer Gila"
   },
   {
     "Result": "Buddy Slime",
@@ -800,104 +145,114 @@
     "Parent2": "Nature Family (G)"
   },
   {
-    "Result": "Khalamari Kid",
-    "Parent1": "Slime Family (G)",
-    "Parent2": "Nature Family (G)"
+    "Result": "Bullfinch",
+    "Parent1": "Bantamweight",
+    "Parent2": "Foo Dog"
   },
   {
-    "Result": "Beanie Meanie",
-    "Parent1": "Cruelcumber",
-    "Parent2": "Odd Cob"
+    "Result": "Bullfinch",
+    "Parent1": "Bantamweight",
+    "Parent2": "Beast Family (Any)"
   },
   {
-    "Result": "Onion Slime",
-    "Parent1": "Buddy Slime",
-    "Parent2": "Ornery Onion"
+    "Result": "Cactiball",
+    "Parent1": "Disfigurine",
+    "Parent2": "Nature Family (Any)"
   },
   {
-    "Result": "Skipper",
-    "Parent1": "Winky",
-    "Parent2": "Pan Piper"
-  },
-  {
-    "Result": "Bodkin Archer",
-    "Parent1": "Cruelcumber",
-    "Parent2": "Picksy"
-  },
-  {
-    "Result": "Powie Yowie",
-    "Parent1": "Snowmangler",
-    "Parent2": "Platypunk"
-  },
-  {
-    "Result": "Prancing Pillar",
-    "Parent1": "Lampling",
-    "Parent2": "Pocus Poppet"
-  },
-  {
-    "Result": "Lump Shaman",
-    "Parent1": "Lump Wizard",
-    "Parent2": "Pocus Poppet"
-  },
-  {
-    "Result": "Iron Maiden",
-    "Parent1": "Succubat",
-    "Parent2": "Pocus Poppet"
-  },
-  {
-    "Result": "Peeper",
-    "Parent1": "Winky",
-    "Parent2": "Pocus Poppet"
-  },
-  {
-    "Result": "Rotten Cotton",
-    "Parent1": "Feralball",
-    "Parent2": "Powie Yowie"
-  },
-  {
-    "Result": "Weaken Beakon",
-    "Parent1": "Bullfinch",
-    "Parent2": "Putrefido"
-  },
-  {
-    "Result": "Mandrake Major",
-    "Parent1": "Raptile",
-    "Parent2": "Restless Armour"
-  },
-  {
-    "Result": "Skeleton Soldier",
-    "Parent1": "Skeleton",
-    "Parent2": "Restless Armour"
-  },
-  {
-    "Result": "Scornet",
-    "Parent1": "Odd Cob",
-    "Parent2": "Scissor Beatle"
-  },
-  {
-    "Result": "Ghost",
-    "Parent1": "Soft Serve Spook",
-    "Parent2": "Sham Hatwitch"
-  },
-  {
-    "Result": "Goonache Goodie",
+    "Result": "Candy Cat",
     "Parent1": "Fromage Fray",
-    "Parent2": "Shell Slime"
+    "Parent2": "Great Sabrecub"
   },
   {
-    "Result": "Walking Corpse",
-    "Parent1": "Putrefido",
-    "Parent2": "Skeleton"
+    "Result": "Cannibox",
+    "Parent1": "Bag o' Laughs",
+    "Parent2": "Eggsoskeleton"
   },
   {
-    "Result": "Pogoin' Penguin",
-    "Parent1": "Stark Raven",
-    "Parent2": "Skipper"
+    "Result": "Cannonbrawler",
+    "Parent1": "Demon Family (F)",
+    "Parent2": "Material Family (F)"
   },
   {
-    "Result": "Dead Resident",
-    "Parent1": "Mummy Boy",
-    "Parent2": "Skullrider"
+    "Result": "Capsichum",
+    "Parent1": "Nature Family (G)",
+    "Parent2": "Material Family (G)"
+  },
+  {
+    "Result": "Cauldragon",
+    "Parent1": "Croc-a-Bugle-Doo",
+    "Parent2": "Undead Family (Any)"
+  },
+  {
+    "Result": "Cauldragon",
+    "Parent1": "Jargon",
+    "Parent2": "Killer Gila"
+  },
+  {
+    "Result": "Chimaera",
+    "Parent1": "Pogoin' Penguin",
+    "Parent2": "Imp"
+  },
+  {
+    "Result": "Chocolate Golem",
+    "Parent1": "Goonache Goodie",
+    "Parent2": "Mud Mannequin"
+  },
+  {
+    "Result": "Chocolate Whisp",
+    "Parent1": "Soft Serve Spook",
+    "Parent2": "Chocolate Golem"
+  },
+  {
+    "Result": "Clockwork Cuckoo",
+    "Parent1": "Mecha-Mynah",
+    "Parent2": "Cyclown"
+  },
+  {
+    "Result": "Cloud Surfer",
+    "Parent1": "Dancing Devil",
+    "Parent2": "Cumaulus"
+  },
+  {
+    "Result": "Croc-a-Bugle-Doo",
+    "Parent1": "Briny Bronco",
+    "Parent2": "Bongo Drongo"
+  },
+  {
+    "Result": "Cross Eye",
+    "Parent1": "See Urchin",
+    "Parent2": "Beast Family (Any)"
+  },
+  {
+    "Result": "Cruelcumber",
+    "Parent1": "Bambooligan",
+    "Parent2": "Capsichum"
+  },
+  {
+    "Result": "Cumaulus",
+    "Parent1": "Nature Family (G)",
+    "Parent2": "Material Family (G)"
+  },
+  {
+    "Result": "Cyclown",
+    "Parent1": "Nature Family (F)",
+    "Parent2": "Demon Family (F)"
+  },
+  {
+    "Result": "Dancing Devil",
+    "Parent1": "Demon Family (F)",
+    "Parent2": "Undead Family (F)"
+  },
+  {
+    "Result": "Dancing Devil",
+    "Parent1": "Gremlin",
+    "Parent2": "Undead Family (Any)"
+  },
+  {
+    "Result": "Dark Sabrecub",
+    "Parent1": "Shadow",
+    "Parent2": "Great Sabrecub"
   },
   {
     "Result": "Dark Slime",
@@ -910,29 +265,49 @@
     "Parent2": "Slime Family (Any)"
   },
   {
-    "Result": "Boppin' Badger",
+    "Result": "Dead Resident",
+    "Parent1": "Mummy Boy",
+    "Parent2": "Skullrider"
+  },
+  {
+    "Result": "Dessert Demon",
+    "Parent1": "Chocolate Golem",
+    "Parent2": "Imp"
+  },
+  {
+    "Result": "Disfigurine",
+    "Parent1": "String Fella",
+    "Parent2": "Dragonthorn"
+  },
+  {
+    "Result": "Drackolyte",
+    "Parent1": "Whizzard",
+    "Parent2": "Dracky"
+  },
+  {
+    "Result": "Drag Racer",
     "Parent1": "Demon Family (F)",
-    "Parent2": "Slime Family (F)"
+    "Parent2": "Dragon Family (F)"
   },
   {
-    "Result": "Imp",
-    "Parent1": "Demon Family (F)",
-    "Parent2": "Slime Family (F)"
+    "Result": "Drag Racer",
+    "Parent1": "Nardragon",
+    "Parent2": "Komodo"
   },
   {
-    "Result": "Raptile",
-    "Parent1": "Dragon Family (F)",
-    "Parent2": "Slime Family (F)"
+    "Result": "Dragonthorn",
+    "Parent1": "Dragon Family (G)",
+    "Parent2": "Nature Family (G)"
   },
   {
-    "Result": "Funghoul",
-    "Parent1": "Stump Chump",
-    "Parent2": "Slimeshroom"
+    "Result": "Drake Slime",
+    "Parent1": "Slime",
+    "Parent2": "Dragon Family (Any)"
   },
   {
-    "Result": "Briny Bronco",
-    "Parent1": "Toady",
-    "Parent2": "Small Fry"
+    "Result": "Drake Slime",
+    "Parent1": "Slime Family (F)",
+    "Parent2": "Dragon Family (F)"
   },
   {
     "Result": "Drake Slime",
@@ -940,184 +315,14 @@
     "Parent2": "Small Fry"
   },
   {
-    "Result": "Freezing Fog",
-    "Parent1": "Cumaulus",
-    "Parent2": "Snowmangler"
-  },
-  {
-    "Result": "Shadow",
-    "Parent1": "Hellbound Horror",
-    "Parent2": "Spitnik"
-  },
-  {
-    "Result": "Sunset Sultan",
-    "Parent1": "Vampire Cat",
-    "Parent2": "Spitnik"
-  },
-  {
-    "Result": "Lampling",
-    "Parent1": "Wax Murderer",
-    "Parent2": "Spitnik"
-  },
-  {
-    "Result": "Guaardvark",
-    "Parent1": "Bunicorn",
-    "Parent2": "Stark Raven"
-  },
-  {
-    "Result": "Mummy Boy",
-    "Parent1": "Walking Corpse",
-    "Parent2": "String Fella"
-  },
-  {
-    "Result": "Octopot",
-    "Parent1": "Orc",
-    "Parent2": "Suckling Ocker"
-  },
-  {
-    "Result": "Platypunk",
-    "Parent1": "Bludgerigar",
-    "Parent2": "Teeny Sanguini"
-  },
-  {
-    "Result": "Lips",
-    "Parent1": "Drohl Drone",
-    "Parent2": "Toady"
-  },
-  {
-    "Result": "Cauldragon",
-    "Parent1": "Croc-a-Bugle-Doo",
-    "Parent2": "Undead Family (Any)"
-  },
-  {
-    "Result": "Odd Cob",
-    "Parent1": "Cruelcumber",
-    "Parent2": "Undead Family (Any)"
-  },
-  {
-    "Result": "Dancing Devil",
-    "Parent1": "Gremlin",
-    "Parent2": "Undead Family (Any)"
-  },
-  {
-    "Result": "Mudraker",
-    "Parent1": "Mud Mannequin",
-    "Parent2": "Undead Family (Any)"
-  },
-  {
-    "Result": "Muddy Hand",
-    "Parent1": "Sacksquatch",
-    "Parent2": "Undead Family (Any)"
-  },
-  {
-    "Result": "Guaardvark",
-    "Parent1": "Beast Family (F)",
-    "Parent2": "Undead Family (F)"
-  },
-  {
-    "Result": "Walking Corpse",
-    "Parent1": "Beast Family (F)",
-    "Parent2": "Undead Family (F)"
-  },
-  {
-    "Result": "Dancing Devil",
-    "Parent1": "Demon Family (F)",
-    "Parent2": "Undead Family (F)"
-  },
-  {
-    "Result": "Hellbound Horror",
-    "Parent1": "Demon Family (F)",
-    "Parent2": "Undead Family (F)"
-  },
-  {
-    "Result": "Flython",
-    "Parent1": "Dragon Family (F)",
-    "Parent2": "Undead Family (F)"
-  },
-  {
-    "Result": "Skullrider",
-    "Parent1": "Dragon Family (F)",
-    "Parent2": "Undead Family (F)"
-  },
-  {
-    "Result": "Monolog",
-    "Parent1": "Nature Family (F)",
-    "Parent2": "Undead Family (F)"
-  },
-  {
-    "Result": "Odd Cob",
-    "Parent1": "Nature Family (F)",
-    "Parent2": "Undead Family (F)"
-  },
-  {
-    "Result": "Scarfish",
-    "Parent1": "Slime Family (F)",
-    "Parent2": "Undead Family (F)"
-  },
-  {
-    "Result": "Snowmangler",
-    "Parent1": "Slime Family (F)",
-    "Parent2": "Undead Family (F)"
-  },
-  {
-    "Result": "Fat Rat",
-    "Parent1": "Beast Family (G)",
-    "Parent2": "Undead Family (G)"
-  },
-  {
-    "Result": "Putrefido",
-    "Parent1": "Beast Family (G)",
-    "Parent2": "Undead Family (G)"
-  },
-  {
     "Result": "Drohl Drone",
     "Parent1": "Demon Family (G)",
     "Parent2": "Undead Family (G)"
   },
   {
-    "Result": "Lump Wizard",
-    "Parent1": "Demon Family (G)",
-    "Parent2": "Undead Family (G)"
-  },
-  {
-    "Result": "Firespirit",
-    "Parent1": "Dragon Family (G)",
-    "Parent2": "Undead Family (G)"
-  },
-  {
-    "Result": "Killer Gila",
-    "Parent1": "Dragon Family (G)",
-    "Parent2": "Undead Family (G)"
-  },
-  {
-    "Result": "Stark Raven",
-    "Parent1": "Nature Family (G)",
-    "Parent2": "Undead Family (G)"
-  },
-  {
-    "Result": "Stump Chump",
-    "Parent1": "Nature Family (G)",
-    "Parent2": "Undead Family (G)"
-  },
-  {
-    "Result": "Slimeshroom",
-    "Parent1": "Slime Family (G)",
-    "Parent2": "Undead Family (G)"
-  },
-  {
-    "Result": "Soft Serve Spook",
-    "Parent1": "Slime Family (G)",
-    "Parent2": "Undead Family (G)"
-  },
-  {
-    "Result": "Boppin' Badger",
-    "Parent1": "Mischievous Mole",
-    "Parent2": "Vegandragora"
-  },
-  {
-    "Result": "Bodkin Fletcher",
-    "Parent1": "Bodkin Archer",
-    "Parent2": "Walking Corpse"
+    "Result": "Eggsoskeleton",
+    "Parent1": "Beast Family (G)",
+    "Parent2": "Material Family (G)"
   },
   {
     "Result": "Erazor Blade",
@@ -1125,14 +330,354 @@
     "Parent2": "Wax Murderer"
   },
   {
+    "Result": "Escudogre",
+    "Parent1": "Leery Lout",
+    "Parent2": "Hunter Mech"
+  },
+  {
+    "Result": "Fat Rat",
+    "Parent1": "Beast Family (G)",
+    "Parent2": "Undead Family (G)"
+  },
+  {
+    "Result": "Feral Slime",
+    "Parent1": "Slime Family (Any)",
+    "Parent2": "Antguzzler"
+  },
+  {
+    "Result": "Feral Slime",
+    "Parent1": "Slime Family (F)",
+    "Parent2": "Beast Family (F)"
+  },
+  {
+    "Result": "Firespirit",
+    "Parent1": "Dragon Family (G)",
+    "Parent2": "Undead Family (G)"
+  },
+  {
+    "Result": "Flython",
+    "Parent1": "Dragon Family (F)",
+    "Parent2": "Undead Family (F)"
+  },
+  {
+    "Result": "Flython",
+    "Parent1": "Gremlin",
+    "Parent2": "Killer Gila"
+  },
+  {
+    "Result": "Foo Dog",
+    "Parent1": "Beast Family (F)",
+    "Parent2": "Material Family (F)"
+  },
+  {
+    "Result": "Freezing Fog",
+    "Parent1": "Cumaulus",
+    "Parent2": "Snowmangler"
+  },
+  {
+    "Result": "Fright Bulb",
+    "Parent1": "Slime Family (G)",
+    "Parent2": "Demon Family (G)"
+  },
+  {
+    "Result": "Fromage Fray",
+    "Parent1": "Sacksquatch",
+    "Parent2": "Ghost"
+  },
+  {
+    "Result": "Funghoul",
+    "Parent1": "Stump Chump",
+    "Parent2": "Slimeshroom"
+  },
+  {
+    "Result": "Garuda",
+    "Parent1": "Pteranodon",
+    "Parent2": "Bullfinch"
+  },
+  {
+    "Result": "Ghost",
+    "Parent1": "Soft Serve Spook",
+    "Parent2": "Sham Hatwitch"
+  },
+  {
+    "Result": "Goodybag",
+    "Parent1": "Pogoin' Penguin",
+    "Parent2": "Bag o' Laughs"
+  },
+  {
+    "Result": "Goonache Goodie",
+    "Parent1": "Fromage Fray",
+    "Parent2": "Shell Slime"
+  },
+  {
+    "Result": "Great Sabrecub",
+    "Parent1": "Slime Family (G)",
+    "Parent2": "Beast Family (G)"
+  },
+  {
+    "Result": "Gremlin",
+    "Parent1": "Dragon Family (G)",
+    "Parent2": "Demon Family (G)"
+  },
+  {
+    "Result": "Guaardvark",
+    "Parent1": "Beast Family (F)",
+    "Parent2": "Undead Family (F)"
+  },
+  {
+    "Result": "Guaardvark",
+    "Parent1": "Bunicorn",
+    "Parent2": "Stark Raven"
+  },
+  {
+    "Result": "Ham Shamwitch",
+    "Parent1": "Sham Hatwitch",
+    "Parent2": "Drake Slime"
+  },
+  {
+    "Result": "Hammerhood",
+    "Parent1": "Stump Chump",
+    "Parent2": "Mischievous Mole"
+  },
+  {
+    "Result": "Hawk Man",
+    "Parent1": "Beast Family (F)",
+    "Parent2": "Demon Family (F)"
+  },
+  {
+    "Result": "Hawk Man",
+    "Parent1": "Stark Raven",
+    "Parent2": "Demon Family (Any)"
+  },
+  {
+    "Result": "Hawk Man",
+    "Parent1": "Stark Raven",
+    "Parent2": "Beast Family (Any)"
+  },
+  {
+    "Result": "Healslime",
+    "Parent1": "Wing Slime",
+    "Parent2": "Lunatick"
+  },
+  {
+    "Result": "Hell Niño",
+    "Parent1": "Cumaulus",
+    "Parent2": "Drake Slime"
+  },
+  {
+    "Result": "Hellbound Horror",
+    "Parent1": "Demon Family (F)",
+    "Parent2": "Undead Family (F)"
+  },
+  {
+    "Result": "Hellbound Horror",
+    "Parent1": "Ghost",
+    "Parent2": "Bodkin Archer"
+  },
+  {
+    "Result": "Hood",
+    "Parent1": "Hammerhood",
+    "Parent2": "Mischievous Mole"
+  },
+  {
+    "Result": "Hooper Trooper",
+    "Parent1": "Cyclown",
+    "Parent2": "Dancing Devil"
+  },
+  {
+    "Result": "Horriflying Saucers",
+    "Parent1": "Undead Family (F)",
+    "Parent2": "Material Family (F)"
+  },
+  {
+    "Result": "Horriflying Saucers",
+    "Parent1": "Wax Murderer",
+    "Parent2": "Dracky"
+  },
+  {
+    "Result": "Hunter Mech",
+    "Parent1": "Restless Armour",
+    "Parent2": "Material Family (Any)"
+  },
+  {
+    "Result": "Imp",
+    "Parent1": "Blinkster",
+    "Parent2": "Dracky"
+  },
+  {
+    "Result": "Imp",
+    "Parent1": "Demon Family (F)",
+    "Parent2": "Slime Family (F)"
+  },
+  {
+    "Result": "Iron Maiden",
+    "Parent1": "Succubat",
+    "Parent2": "Pocus Poppet"
+  },
+  {
+    "Result": "Jailcat",
+    "Parent1": "Cannonbrawler",
+    "Parent2": "Candy Cat"
+  },
+  {
+    "Result": "Jargon",
+    "Parent1": "Airbagon",
+    "Parent2": "Beast Family (Any)"
+  },
+  {
+    "Result": "Jargon",
+    "Parent1": "Airbagon",
+    "Parent2": "Komodo"
+  },
+  {
+    "Result": "Jargon",
+    "Parent1": "Beast Family (F)",
+    "Parent2": "Dragon Family (F)"
+  },
+  {
+    "Result": "Jinkster",
+    "Parent1": "Pickayune",
+    "Parent2": "Blinkster"
+  },
+  {
+    "Result": "Jumping Jackal",
+    "Parent1": "Orc",
+    "Parent2": "Great Sabrecub"
+  },
+  {
+    "Result": "Khalamari Kid",
+    "Parent1": "Slime Family (G)",
+    "Parent2": "Nature Family (G)"
+  },
+  {
+    "Result": "Killer Gila",
+    "Parent1": "Dragon Family (G)",
+    "Parent2": "Undead Family (G)"
+  },
+  {
+    "Result": "Killerpillar",
+    "Parent1": "Dragon Family (G)",
+    "Parent2": "Nature Family (G)"
+  },
+  {
+    "Result": "King Kelp",
+    "Parent1": "Scarfish",
+    "Parent2": "Woebergine"
+  },
+  {
+    "Result": "Komodo",
+    "Parent1": "Dragon Family (G)",
+    "Parent2": "Beast Family (G)"
+  },
+  {
+    "Result": "Lampling",
+    "Parent1": "Wax Murderer",
+    "Parent2": "Spitnik"
+  },
+  {
+    "Result": "Leafy Larrikin",
+    "Parent1": "Monolog",
+    "Parent2": "Capsichum"
+  },
+  {
+    "Result": "Leery Lout",
+    "Parent1": "Demon Family (G)",
+    "Parent2": "Material Family (G)"
+  },
+  {
+    "Result": "Lips",
+    "Parent1": "Drohl Drone",
+    "Parent2": "Toady"
+  },
+  {
+    "Result": "Lumbering Lizard",
+    "Parent1": "Dragonthorn",
+    "Parent2": "Drag Racer"
+  },
+  {
+    "Result": "Lump Shaman",
+    "Parent1": "Lump Wizard",
+    "Parent2": "Pocus Poppet"
+  },
+  {
+    "Result": "Lump Wizard",
+    "Parent1": "Demon Family (G)",
+    "Parent2": "Undead Family (G)"
+  },
+  {
+    "Result": "Lunatick",
+    "Parent1": "Nature Family (G)",
+    "Parent2": "Demon Family (G)"
+  },
+  {
+    "Result": "Mad Mollusk",
+    "Parent1": "Killerpillar",
+    "Parent2": "Lips"
+  },
+  {
+    "Result": "Mandrake Major",
+    "Parent1": "Raptile",
+    "Parent2": "Restless Armour"
+  },
+  {
+    "Result": "Mecha-Mynah",
+    "Parent1": "Dragon Family (G)",
+    "Parent2": "Material Family (G)"
+  },
+  {
+    "Result": "Meowgician",
+    "Parent1": "Vampire Cat",
+    "Parent2": "Demon Family (Any)"
+  },
+  {
+    "Result": "Merman",
+    "Parent1": "Demon Family (F)",
+    "Parent2": "Nature Family (F)"
+  },
+  {
+    "Result": "Mischievous Mole",
+    "Parent1": "Beast Family (G)",
+    "Parent2": "Material Family (G)"
+  },
+  {
+    "Result": "Mitey Oak",
+    "Parent1": "Slime Family (F)",
+    "Parent2": "Nature Family (F)"
+  },
+  {
+    "Result": "Mitey Oak",
+    "Parent1": "Stump Chump",
+    "Parent2": "Blinkster"
+  },
+  {
+    "Result": "Monolog",
+    "Parent1": "Nature Family (F)",
+    "Parent2": "Undead Family (F)"
+  },
+  {
+    "Result": "Monolog",
+    "Parent1": "Stump Chump",
+    "Parent2": "Lunatick"
+  },
+  {
+    "Result": "Morphean Mushroom",
+    "Parent1": "Napir",
+    "Parent2": "Funghoul"
+  },
+  {
+    "Result": "Mottle Slime",
+    "Parent1": "Slime",
+    "Parent2": "Beast Family (Any)"
+  },
+  {
+    "Result": "Mouldy Slime",
+    "Parent1": "Slimeshroom",
+    "Parent2": "Muddy Hand"
+  },
+  {
     "Result": "Mouseflap",
     "Parent1": "Fat Rat",
     "Parent2": "Wing Slime"
-  },
-  {
-    "Result": "Awebergine",
-    "Parent1": "Pogoin' Penguin",
-    "Parent2": "Woebergine"
   },
   {
     "Result": "Mud Mannequin",
@@ -1140,8 +685,463 @@
     "Parent2": "Woebergine"
   },
   {
-    "Result": "King Kelp",
-    "Parent1": "Scarfish",
-    "Parent2": "Woebergine"
+    "Result": "Muddy Hand",
+    "Parent1": "Sacksquatch",
+    "Parent2": "Undead Family (Any)"
+  },
+  {
+    "Result": "Muddy Hand",
+    "Parent1": "Undead Family (F)",
+    "Parent2": "Material Family (F)"
+  },
+  {
+    "Result": "Mudraker",
+    "Parent1": "Mud Mannequin",
+    "Parent2": "Undead Family (Any)"
+  },
+  {
+    "Result": "Mudraker",
+    "Parent1": "Slime Family (F)",
+    "Parent2": "Material Family (F)"
+  },
+  {
+    "Result": "Mummy Boy",
+    "Parent1": "Walking Corpse",
+    "Parent2": "String Fella"
+  },
+  {
+    "Result": "Napir",
+    "Parent1": "Beast Family (F)",
+    "Parent2": "Material Family (F)"
+  },
+  {
+    "Result": "Nardragon",
+    "Parent1": "Dragon Family (G)",
+    "Parent2": "Material Family (G)"
+  },
+  {
+    "Result": "Octopot",
+    "Parent1": "Orc",
+    "Parent2": "Suckling Ocker"
+  },
+  {
+    "Result": "Odd Cob",
+    "Parent1": "Cruelcumber",
+    "Parent2": "Undead Family (Any)"
+  },
+  {
+    "Result": "Odd Cob",
+    "Parent1": "Lunatick",
+    "Parent2": "Capsichum"
+  },
+  {
+    "Result": "Odd Cob",
+    "Parent1": "Nature Family (F)",
+    "Parent2": "Undead Family (F)"
+  },
+  {
+    "Result": "Ogre",
+    "Parent1": "Cannonbrawler",
+    "Parent2": "Hood"
+  },
+  {
+    "Result": "Onion Slime",
+    "Parent1": "Buddy Slime",
+    "Parent2": "Ornery Onion"
+  },
+  {
+    "Result": "Onion Slime",
+    "Parent1": "Fright Bulb",
+    "Parent2": "Nature Family (Any)"
+  },
+  {
+    "Result": "Onion Slime",
+    "Parent1": "Slime Family (F)",
+    "Parent2": "Nature Family (F)"
+  },
+  {
+    "Result": "Orc",
+    "Parent1": "Beast Family (F)",
+    "Parent2": "Nature Family (F)"
+  },
+  {
+    "Result": "Orc",
+    "Parent1": "Sham Hatwitch",
+    "Parent2": "Nature Family (Any)"
+  },
+  {
+    "Result": "Ornery Onion",
+    "Parent1": "Nature Family (G)",
+    "Parent2": "Demon Family (G)"
+  },
+  {
+    "Result": "Pan Piper",
+    "Parent1": "Demon Family (G)",
+    "Parent2": "Beast Family (G)"
+  },
+  {
+    "Result": "Peeper",
+    "Parent1": "Winky",
+    "Parent2": "Pocus Poppet"
+  },
+  {
+    "Result": "Pickayune",
+    "Parent1": "Demon Family (F)",
+    "Parent2": "Dragon Family (F)"
+  },
+  {
+    "Result": "Pickayune",
+    "Parent1": "Picksy",
+    "Parent2": "Lampling"
+  },
+  {
+    "Result": "Picksy",
+    "Parent1": "Slime Family (G)",
+    "Parent2": "Demon Family (G)"
+  },
+  {
+    "Result": "Platypunk",
+    "Parent1": "Bludgerigar",
+    "Parent2": "Teeny Sanguini"
+  },
+  {
+    "Result": "Pocus Poppet",
+    "Parent1": "Demon Family (F)",
+    "Parent2": "Material Family (F)"
+  },
+  {
+    "Result": "Pogoin' Penguin",
+    "Parent1": "Dragon Family (F)",
+    "Parent2": "Nature Family (F)"
+  },
+  {
+    "Result": "Pogoin' Penguin",
+    "Parent1": "Stark Raven",
+    "Parent2": "Skipper"
+  },
+  {
+    "Result": "Powie Yowie",
+    "Parent1": "Platypunk",
+    "Parent2": "Demon Family (Any)"
+  },
+  {
+    "Result": "Powie Yowie",
+    "Parent1": "Snowmangler",
+    "Parent2": "Platypunk"
+  },
+  {
+    "Result": "Prancing Pillar",
+    "Parent1": "Lampling",
+    "Parent2": "Pocus Poppet"
+  },
+  {
+    "Result": "Pteranodon",
+    "Parent1": "Dragon Family (G)",
+    "Parent2": "Demon Family (G)"
+  },
+  {
+    "Result": "Putrefido",
+    "Parent1": "Beast Family (G)",
+    "Parent2": "Undead Family (G)"
+  },
+  {
+    "Result": "Raptile",
+    "Parent1": "Dragon Family (F)",
+    "Parent2": "Slime Family (F)"
+  },
+  {
+    "Result": "Ratatattack",
+    "Parent1": "Mouseflap",
+    "Parent2": "Guaardvark"
+  },
+  {
+    "Result": "Restless Armour",
+    "Parent1": "Slime Knight",
+    "Parent2": "Bambooligan"
+  },
+  {
+    "Result": "Robber Rabbit",
+    "Parent1": "Bunicorn",
+    "Parent2": "Demon Family (Any)"
+  },
+  {
+    "Result": "Robber Rabbit",
+    "Parent1": "Mischievous Mole",
+    "Parent2": "Bunicorn"
+  },
+  {
+    "Result": "Rotten Cotton",
+    "Parent1": "Feralball",
+    "Parent2": "Powie Yowie"
+  },
+  {
+    "Result": "Rubble Slime",
+    "Parent1": "Mottle Slime",
+    "Parent2": "Mudraker"
+  },
+  {
+    "Result": "Sacksquatch",
+    "Parent1": "Undead Family (G)",
+    "Parent2": "Material Family (G)"
+  },
+  {
+    "Result": "Scallop Slime",
+    "Parent1": "Slime Family (G)",
+    "Parent2": "Material Family (G)"
+  },
+  {
+    "Result": "Scarfish",
+    "Parent1": "Funghoul",
+    "Parent2": "Khalamari Kid"
+  },
+  {
+    "Result": "Scarfish",
+    "Parent1": "Slime Family (F)",
+    "Parent2": "Undead Family (F)"
+  },
+  {
+    "Result": "Scissor Beatle",
+    "Parent1": "Nature Family (F)",
+    "Parent2": "Material Family (F)"
+  },
+  {
+    "Result": "Scornet",
+    "Parent1": "Odd Cob",
+    "Parent2": "Scissor Beatle"
+  },
+  {
+    "Result": "See Urchin",
+    "Parent1": "Lunatick",
+    "Parent2": "Khalamari Kid"
+  },
+  {
+    "Result": "Shadow",
+    "Parent1": "Hellbound Horror",
+    "Parent2": "Spitnik"
+  },
+  {
+    "Result": "Sham Hatwitch",
+    "Parent1": "Beast Family (G)",
+    "Parent2": "Dragon Family (G)"
+  },
+  {
+    "Result": "Shell Slime",
+    "Parent1": "Slime Family (G)",
+    "Parent2": "Beast Family (G)"
+  },
+  {
+    "Result": "She-Slime",
+    "Parent1": "Slime",
+    "Parent2": "Firespirit"
+  },
+  {
+    "Result": "Skeleton",
+    "Parent1": "Leery Lout",
+    "Parent2": "Firespirit"
+  },
+  {
+    "Result": "Skeleton Soldier",
+    "Parent1": "Skeleton",
+    "Parent2": "Restless Armour"
+  },
+  {
+    "Result": "Skipper",
+    "Parent1": "Winky",
+    "Parent2": "Pan Piper"
+  },
+  {
+    "Result": "Skullrider",
+    "Parent1": "Dragon Family (F)",
+    "Parent2": "Undead Family (F)"
+  },
+  {
+    "Result": "Skullrider",
+    "Parent1": "Skeleton",
+    "Parent2": "Killer Gila"
+  },
+  {
+    "Result": "Slick Slime",
+    "Parent1": "Bubble Slime",
+    "Parent2": "Box Slime"
+  },
+  {
+    "Result": "Slime Knight",
+    "Parent1": "Slime Stack",
+    "Parent2": "Leery Lout"
+  },
+  {
+    "Result": "Slime Stack",
+    "Parent1": "Slime Family (F)",
+    "Parent2": "Material Family (F)"
+  },
+  {
+    "Result": "Slimeshroom",
+    "Parent1": "Slime Family (G)",
+    "Parent2": "Undead Family (G)"
+  },
+  {
+    "Result": "Small Fry",
+    "Parent1": "Slime Family (G)",
+    "Parent2": "Dragon Family (G)"
+  },
+  {
+    "Result": "Snail Slime",
+    "Parent1": "Shell Slime",
+    "Parent2": "Mad Mollusk"
+  },
+  {
+    "Result": "Snowmangler",
+    "Parent1": "Slime Family (F)",
+    "Parent2": "Undead Family (F)"
+  },
+  {
+    "Result": "Soft Serve Spook",
+    "Parent1": "Slime Family (G)",
+    "Parent2": "Undead Family (G)"
+  },
+  {
+    "Result": "Spiked Hare",
+    "Parent1": "Bunicorn",
+    "Parent2": "Napir"
+  },
+  {
+    "Result": "Spiny Slime",
+    "Parent1": "Snowmangler",
+    "Parent2": "Disfigurine"
+  },
+  {
+    "Result": "Spitnik",
+    "Parent1": "Demon Family (G)",
+    "Parent2": "Material Family (G)"
+  },
+  {
+    "Result": "Spitzfire",
+    "Parent1": "Pteranodon",
+    "Parent2": "Foo Dog"
+  },
+  {
+    "Result": "Splatypunk",
+    "Parent1": "Platypunk",
+    "Parent2": "Guaardvark"
+  },
+  {
+    "Result": "Stabosaur",
+    "Parent1": "Erazor Blade",
+    "Parent2": "Nardragon"
+  },
+  {
+    "Result": "Stark Raven",
+    "Parent1": "Nature Family (G)",
+    "Parent2": "Undead Family (G)"
+  },
+  {
+    "Result": "String Fella",
+    "Parent1": "Bag o' Laughs",
+    "Parent2": "Leery Lout"
+  },
+  {
+    "Result": "Stump Chump",
+    "Parent1": "Nature Family (G)",
+    "Parent2": "Undead Family (G)"
+  },
+  {
+    "Result": "Succubat",
+    "Parent1": "Demon Family (F)",
+    "Parent2": "Beast Family (F)"
+  },
+  {
+    "Result": "Suckling Ocker",
+    "Parent1": "Khalamari Kid",
+    "Parent2": "Khalamari Kid"
+  },
+  {
+    "Result": "Sunset Sultan",
+    "Parent1": "Vampire Cat",
+    "Parent2": "Spitnik"
+  },
+  {
+    "Result": "Teeny Sanguini",
+    "Parent1": "Demon Family (G)",
+    "Parent2": "Beast Family (G)"
+  },
+  {
+    "Result": "Toady",
+    "Parent1": "Bunicorn",
+    "Parent2": "Khalamari Kid"
+  },
+  {
+    "Result": "Tortoceratops",
+    "Parent1": "Armoured Wartoise",
+    "Parent2": "Drag Racer"
+  },
+  {
+    "Result": "Vampire Cat",
+    "Parent1": "Beast Family (F)",
+    "Parent2": "Dragon Family (F)"
+  },
+  {
+    "Result": "Vampire Cat",
+    "Parent1": "Candy Cat",
+    "Parent2": "Mouseflap"
+  },
+  {
+    "Result": "Vegandragora",
+    "Parent1": "Fright Bulb",
+    "Parent2": "Damselfly"
+  },
+  {
+    "Result": "Walking Corpse",
+    "Parent1": "Beast Family (F)",
+    "Parent2": "Undead Family (F)"
+  },
+  {
+    "Result": "Walking Corpse",
+    "Parent1": "Putrefido",
+    "Parent2": "Skeleton"
+  },
+  {
+    "Result": "Wax Murderer",
+    "Parent1": "Undead Family (G)",
+    "Parent2": "Material Family (G)"
+  },
+  {
+    "Result": "Weaken Beakon",
+    "Parent1": "Bullfinch",
+    "Parent2": "Putrefido"
+  },
+  {
+    "Result": "Weartiger",
+    "Parent1": "Mummy Boy",
+    "Parent2": "Beast Family (Any)"
+  },
+  {
+    "Result": "Whizzard",
+    "Parent1": "Blinkster",
+    "Parent2": "Lump Wizard"
+  },
+  {
+    "Result": "Wing Slime",
+    "Parent1": "Slime Family (G)",
+    "Parent2": "Dragon Family (G)"
+  },
+  {
+    "Result": "Winky",
+    "Parent1": "String Fella",
+    "Parent2": "Lunatick"
+  },
+  {
+    "Result": "Wyrtle",
+    "Parent1": "Armoured Wartoise",
+    "Parent2": "Flython"
+  },
+  {
+    "Result": "Wyrtle",
+    "Parent1": "Armoured Wartoise",
+    "Parent2": "Drag Racer"
+  },
+  {
+    "Result": "Wyrtle",
+    "Parent1": "Armoured Wartoise",
+    "Parent2": "Beast Family (Any)"
   }
 ]
