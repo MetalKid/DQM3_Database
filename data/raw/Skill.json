@@ -225,7 +225,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Sizz",
     "Identifier": "sizz",
-    "Description": "Inflicts light-wind-elemental spell damage on all enemies.",
+    "Description": "Inflicts minor light-elemental spell damage on all enemies.",
     "MPCost": 4,
     "MPCostTypeId": 1,
     "DamageTypeId": 8
@@ -580,7 +580,7 @@
     "Description": "Prevents all enemies from casting spells for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 12
   },
   {
     "SkillId": 56,
@@ -602,7 +602,7 @@
     "Description": "Confuses a single enemy for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 5,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 14
   },
   {
     "SkillId": 58,
@@ -613,7 +613,7 @@
     "Description": "Puts a single enemy to sleep for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 15
   },
   {
     "SkillId": 59,
@@ -624,7 +624,7 @@
     "Description": "Puts all enemies to sleep for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 15
   },
   {
     "SkillId": 60,
@@ -635,7 +635,7 @@
     "Description": "Paralyses a single enemy for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 16
   },
   {
     "SkillId": 61,
@@ -646,7 +646,7 @@
     "Description": "Poisons a single enemy. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 18
   },
   {
     "SkillId": 62,
@@ -657,7 +657,7 @@
     "Description": "Poisons all enemies. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 18
   },
   {
     "SkillId": 63,
@@ -995,7 +995,7 @@
     "SkillTargetTypeId": 1,
     "Name": "Poison Attack",
     "Identifier": "poison-attack",
-    "Description": "Damages a single enemy and occasionally poisins it.",
+    "Description": "Damages a single enemy and occasionally poisons it.",
     "MPCost": 2,
     "MPCostTypeId": 1,
     "DamageTypeId": 18
@@ -1119,7 +1119,7 @@
     "Description": "Whips up a dense cloud of dust that lowers the accuracy of enemy attacks for 2 to 5 turns.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 11
   },
   {
     "SkillId": 108,
@@ -1130,7 +1130,7 @@
     "Description": "Unleashes a blinding light that lowers the accuracy of enemy attacks for 2 to 5 turns.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 11
   },
   {
     "SkillId": 109,
@@ -1174,7 +1174,7 @@
     "Description": "An ear-popping shout that stuns all enemies for 1 turn.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 17
   },
   {
     "SkillId": 113,
@@ -1185,7 +1185,7 @@
     "Description": "Slathers a single enemy with simy saliva, stunning it and lowering its defence.",
     "MPCost": 1,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 17
   },
   {
     "SkillId": 114,
@@ -1196,7 +1196,7 @@
     "Description": "Savagely slathers a single enemy with slimy saliva, stunning it and reducing its defence attribute to 1.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 17
   },
   {
     "SkillId": 115,
@@ -1383,7 +1383,7 @@
     "Description": "Lets out an exhalation of immobilisation that paralyses all enemie for 2 to 5 turns",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": 17
+    "DamageTypeId": 16
   },
   {
     "SkillId": 133,
@@ -1427,7 +1427,7 @@
     "Description": "A dance that absorbs some MP from a single enemy.",
     "MPCost": 0,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 13
   },
   {
     "SkillId": 137,
@@ -1691,7 +1691,7 @@
     "Description": "Confuses all enemies for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
     "MPCost": 10,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 14
   },
   {
     "SkillId": 161,
@@ -1746,7 +1746,7 @@
     "Description": "Inflicts heavy slashing damage on a single enemy and occasionally paralyses it for 2 to 5 turns.",
     "MPCost": 20,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": 16
   },
   {
     "SkillId": 166,
@@ -1790,7 +1790,7 @@
     "Description": "Absorbs MP from enemies at random, 4 times in total.",
     "MPCost": 50,
     "MPCostTypeId": 2,
-    "DamageTypeId": null
+    "DamageTypeId": 13
   },
   {
     "SkillId": 174,
@@ -1802,5 +1802,16 @@
     "MPCost": 32,
     "MPCostTypeId": 1,
     "DamageTypeId": null
+  },
+  {
+    "SkillId": 175,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Ice Age",
+    "Identifier": "ice-age",
+    "Description": "Inflicts outrageous ice-elemental breath damage on all enemies and occasionally stuns them for 1 turn.",
+    "MPCost": 32,
+    "MPCostTypeId": 1,
+    "DamageTypeId": 6
   }
 ]

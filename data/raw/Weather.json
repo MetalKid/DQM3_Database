@@ -1,8 +1,8 @@
 [
   {
     "WeatherId": 1,
-    "Name": "Normal",
-    "Identifier": "normal"
+    "Name": "Sun",
+    "Identifier": "sun"
   },
   {
     "WeatherId": 2,

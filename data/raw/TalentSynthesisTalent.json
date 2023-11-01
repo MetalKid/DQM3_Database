@@ -38,5 +38,470 @@
     "TalentSynthesisTalentId": 8,
     "TalentSynthesisId": 4,
     "TalentId": 93
+  },
+  {
+    "TalentSynthesisTalentId": 9,
+    "TalentSynthesisId": 6,
+    "TalentId": 122
+  },
+  {
+    "TalentSynthesisTalentId": 11,
+    "TalentSynthesisId": 8,
+    "TalentId": 65
+  },
+  {
+    "TalentSynthesisTalentId": 12,
+    "TalentSynthesisId": 9,
+    "TalentId": 118
+  },
+  {
+    "TalentSynthesisTalentId": 13,
+    "TalentSynthesisId": 10,
+    "TalentId": 61
+  },
+  {
+    "TalentSynthesisTalentId": 14,
+    "TalentSynthesisId": 11,
+    "TalentId": 120
+  },
+  {
+    "TalentSynthesisTalentId": 15,
+    "TalentSynthesisId": 12,
+    "TalentId": 63
+  },
+  {
+    "TalentSynthesisTalentId": 16,
+    "TalentSynthesisId": 13,
+    "TalentId": 114
+  },
+  {
+    "TalentSynthesisTalentId": 17,
+    "TalentSynthesisId": 14,
+    "TalentId": 57
+  },
+  {
+    "TalentSynthesisTalentId": 18,
+    "TalentSynthesisId": 15,
+    "TalentId": 116
+  },
+  {
+    "TalentSynthesisTalentId": 19,
+    "TalentSynthesisId": 16,
+    "TalentId": 59
+  },
+  {
+    "TalentSynthesisTalentId": 20,
+    "TalentSynthesisId": 17,
+    "TalentId": 124
+  },
+  {
+    "TalentSynthesisTalentId": 21,
+    "TalentSynthesisId": 18,
+    "TalentId": 67
+  },
+  {
+    "TalentSynthesisTalentId": 22,
+    "TalentSynthesisId": 19,
+    "TalentId": 64
+  },
+  {
+    "TalentSynthesisTalentId": 23,
+    "TalentSynthesisId": 20,
+    "TalentId": 60
+  },
+  {
+    "TalentSynthesisTalentId": 24,
+    "TalentSynthesisId": 21,
+    "TalentId": 62
+  },
+  {
+    "TalentSynthesisTalentId": 25,
+    "TalentSynthesisId": 22,
+    "TalentId": 56
+  },
+  {
+    "TalentSynthesisTalentId": 26,
+    "TalentSynthesisId": 23,
+    "TalentId": 58
+  },
+  {
+    "TalentSynthesisTalentId": 27,
+    "TalentSynthesisId": 24,
+    "TalentId": 66
+  },
+  {
+    "TalentSynthesisTalentId": 28,
+    "TalentSynthesisId": 25,
+    "TalentId": 9
+  },
+  {
+    "TalentSynthesisTalentId": 29,
+    "TalentSynthesisId": 26,
+    "TalentId": 11
+  },
+  {
+    "TalentSynthesisTalentId": 30,
+    "TalentSynthesisId": 27,
+    "TalentId": 7
+  },
+  {
+    "TalentSynthesisTalentId": 31,
+    "TalentSynthesisId": 28,
+    "TalentId": 1
+  },
+  {
+    "TalentSynthesisTalentId": 32,
+    "TalentSynthesisId": 29,
+    "TalentId": 15
+  },
+  {
+    "TalentSynthesisTalentId": 33,
+    "TalentSynthesisId": 30,
+    "TalentId": 3
+  },
+  {
+    "TalentSynthesisTalentId": 34,
+    "TalentSynthesisId": 31,
+    "TalentId": 17
+  },
+  {
+    "TalentSynthesisTalentId": 35,
+    "TalentSynthesisId": 32,
+    "TalentId": 13
+  },
+  {
+    "TalentSynthesisTalentId": 36,
+    "TalentSynthesisId": 33,
+    "TalentId": 6
+  },
+  {
+    "TalentSynthesisTalentId": 37,
+    "TalentSynthesisId": 33,
+    "TalentId": 16
+  },
+  {
+    "TalentSynthesisTalentId": 38,
+    "TalentSynthesisId": 34,
+    "TalentId": 6
+  },
+  {
+    "TalentSynthesisTalentId": 39,
+    "TalentSynthesisId": 34,
+    "TalentId": 14
+  },
+  {
+    "TalentSynthesisTalentId": 40,
+    "TalentSynthesisId": 35,
+    "TalentId": 6
+  },
+  {
+    "TalentSynthesisTalentId": 41,
+    "TalentSynthesisId": 35,
+    "TalentId": 4
+  },
+  {
+    "TalentSynthesisTalentId": 42,
+    "TalentSynthesisId": 36,
+    "TalentId": 12
+  },
+  {
+    "TalentSynthesisTalentId": 43,
+    "TalentSynthesisId": 36,
+    "TalentId": 14
+  },
+  {
+    "TalentSynthesisTalentId": 44,
+    "TalentSynthesisId": 37,
+    "TalentId": 12
+  },
+  {
+    "TalentSynthesisTalentId": 45,
+    "TalentSynthesisId": 37,
+    "TalentId": 16
+  },
+  {
+    "TalentSynthesisTalentId": 46,
+    "TalentSynthesisId": 38,
+    "TalentId": 12
+  },
+  {
+    "TalentSynthesisTalentId": 47,
+    "TalentSynthesisId": 38,
+    "TalentId": 4
+  },
+  {
+    "TalentSynthesisTalentId": 48,
+    "TalentSynthesisId": 39,
+    "TalentId": 14
+  },
+  {
+    "TalentSynthesisTalentId": 49,
+    "TalentSynthesisId": 39,
+    "TalentId": 16
+  },
+  {
+    "TalentSynthesisTalentId": 50,
+    "TalentSynthesisId": 40,
+    "TalentId": 14
+  },
+  {
+    "TalentSynthesisTalentId": 51,
+    "TalentSynthesisId": 40,
+    "TalentId": 4
+  },
+  {
+    "TalentSynthesisTalentId": 52,
+    "TalentSynthesisId": 41,
+    "TalentId": 16
+  },
+  {
+    "TalentSynthesisTalentId": 53,
+    "TalentSynthesisId": 41,
+    "TalentId": 4
+  },
+  {
+    "TalentSynthesisTalentId": 54,
+    "TalentSynthesisId": 42,
+    "TalentId": 8
+  },
+  {
+    "TalentSynthesisTalentId": 55,
+    "TalentSynthesisId": 42,
+    "TalentId": 2
+  },
+  {
+    "TalentSynthesisTalentId": 56,
+    "TalentSynthesisId": 43,
+    "TalentId": 8
+  },
+  {
+    "TalentSynthesisTalentId": 57,
+    "TalentSynthesisId": 43,
+    "TalentId": 18
+  },
+  {
+    "TalentSynthesisTalentId": 58,
+    "TalentSynthesisId": 44,
+    "TalentId": 2
+  },
+  {
+    "TalentSynthesisTalentId": 59,
+    "TalentSynthesisId": 44,
+    "TalentId": 18
+  },
+  {
+    "TalentSynthesisTalentId": 60,
+    "TalentSynthesisId": 45,
+    "TalentId": 2
+  },
+  {
+    "TalentSynthesisTalentId": 61,
+    "TalentSynthesisId": 45,
+    "TalentId": 10
+  },
+  {
+    "TalentSynthesisTalentId": 62,
+    "TalentSynthesisId": 46,
+    "TalentId": 18
+  },
+  {
+    "TalentSynthesisTalentId": 63,
+    "TalentSynthesisId": 46,
+    "TalentId": 10
+  },
+  {
+    "TalentSynthesisTalentId": 64,
+    "TalentSynthesisId": 47,
+    "TalentId": 20
+  },
+  {
+    "TalentSynthesisTalentId": 65,
+    "TalentSynthesisId": 48,
+    "TalentId": 19
+  },
+  {
+    "TalentSynthesisTalentId": 66,
+    "TalentSynthesisId": 49,
+    "TalentId": 110
+  },
+  {
+    "TalentSynthesisTalentId": 67,
+    "TalentSynthesisId": 50,
+    "TalentId": 21
+  },
+  {
+    "TalentSynthesisTalentId": 68,
+    "TalentSynthesisId": 50,
+    "TalentId": 105
+  },
+  {
+    "TalentSynthesisTalentId": 69,
+    "TalentSynthesisId": 51,
+    "TalentId": 21
+  },
+  {
+    "TalentSynthesisTalentId": 70,
+    "TalentSynthesisId": 51,
+    "TalentId": 126
+  },
+  {
+    "TalentSynthesisTalentId": 71,
+    "TalentSynthesisId": 52,
+    "TalentId": 105
+  },
+  {
+    "TalentSynthesisTalentId": 72,
+    "TalentSynthesisId": 52,
+    "TalentId": 126
+  },
+  {
+    "TalentSynthesisTalentId": 73,
+    "TalentSynthesisId": 53,
+    "TalentId": 35
+  },
+  {
+    "TalentSynthesisTalentId": 74,
+    "TalentSynthesisId": 53,
+    "TalentId": 87
+  },
+  {
+    "TalentSynthesisTalentId": 75,
+    "TalentSynthesisId": 54,
+    "TalentId": 33
+  },
+  {
+    "TalentSynthesisTalentId": 76,
+    "TalentSynthesisId": 54,
+    "TalentId": 87
+  },
+  {
+    "TalentSynthesisTalentId": 77,
+    "TalentSynthesisId": 55,
+    "TalentId": 35
+  },
+  {
+    "TalentSynthesisTalentId": 78,
+    "TalentSynthesisId": 55,
+    "TalentId": 34
+  },
+  {
+    "TalentSynthesisTalentId": 79,
+    "TalentSynthesisId": 56,
+    "TalentId": 129
+  },
+  {
+    "TalentSynthesisTalentId": 80,
+    "TalentSynthesisId": 56,
+    "TalentId": 91
+  },
+  {
+    "TalentSynthesisTalentId": 81,
+    "TalentSynthesisId": 57,
+    "TalentId": 129
+  },
+  {
+    "TalentSynthesisTalentId": 82,
+    "TalentSynthesisId": 57,
+    "TalentId": 103
+  },
+  {
+    "TalentSynthesisTalentId": 83,
+    "TalentSynthesisId": 58,
+    "TalentId": 129
+  },
+  {
+    "TalentSynthesisTalentId": 84,
+    "TalentSynthesisId": 58,
+    "TalentId": 130
+  },
+  {
+    "TalentSynthesisTalentId": 85,
+    "TalentSynthesisId": 59,
+    "TalentId": 91
+  },
+  {
+    "TalentSynthesisTalentId": 86,
+    "TalentSynthesisId": 59,
+    "TalentId": 103
+  },
+  {
+    "TalentSynthesisTalentId": 87,
+    "TalentSynthesisId": 60,
+    "TalentId": 91
+  },
+  {
+    "TalentSynthesisTalentId": 88,
+    "TalentSynthesisId": 60,
+    "TalentId": 130
+  },
+  {
+    "TalentSynthesisTalentId": 89,
+    "TalentSynthesisId": 61,
+    "TalentId": 103
+  },
+  {
+    "TalentSynthesisTalentId": 90,
+    "TalentSynthesisId": 61,
+    "TalentId": 130
+  },
+  {
+    "TalentSynthesisTalentId": 91,
+    "TalentSynthesisId": 62,
+    "TalentId": 74
+  },
+  {
+    "TalentSynthesisTalentId": 92,
+    "TalentSynthesisId": 62,
+    "TalentId": 75
+  },
+  {
+    "TalentSynthesisTalentId": 93,
+    "TalentSynthesisId": 63,
+    "TalentId": 71
+  },
+  {
+    "TalentSynthesisTalentId": 94,
+    "TalentSynthesisId": 63,
+    "TalentId": 72
+  },
+  {
+    "TalentSynthesisTalentId": 95,
+    "TalentSynthesisId": 64,
+    "TalentId": 76
+  },
+  {
+    "TalentSynthesisTalentId": 96,
+    "TalentSynthesisId": 64,
+    "TalentId": 75
+  },
+  {
+    "TalentSynthesisTalentId": 97,
+    "TalentSynthesisId": 65,
+    "TalentId": 70
+  },
+  {
+    "TalentSynthesisTalentId": 98,
+    "TalentSynthesisId": 65,
+    "TalentId": 72
+  },
+  {
+    "TalentSynthesisTalentId": 99,
+    "TalentSynthesisId": 66,
+    "TalentId": 71
+  },
+  {
+    "TalentSynthesisTalentId": 100,
+    "TalentSynthesisId": 66,
+    "TalentId": 68
+  },
+  {
+    "TalentSynthesisTalentId": 101,
+    "TalentSynthesisId": 67,
+    "TalentId": 73
+  },
+  {
+    "TalentSynthesisTalentId": 102,
+    "TalentSynthesisId": 67,
+    "TalentId": 69
   }
 ]

@@ -326,7 +326,7 @@
   },
   {
     "TalentId": 66,
-    "Name": "Wisdoom Booster I",
+    "Name": "Wisdom Booster I",
     "Identifier": "wisdoom-booster-i"
   },
   {
@@ -553,5 +553,115 @@
     "TalentId": 113,
     "Name": "Antimagician",
     "Identifier": "antimagician"
+  },
+  {
+    "TalentId": 114,
+    "Name": "HP Booster III",
+    "Identifier": "hp-booster-iii"
+  },
+  {
+    "TalentId": 115,
+    "Name": "HP Booster IV",
+    "Identifier": "hp-booster-iv"
+  },
+  {
+    "TalentId": 116,
+    "Name": "MP Booster III",
+    "Identifier": "mp-booster-iii"
+  },
+  {
+    "TalentId": 117,
+    "Name": "MP Booster IV",
+    "Identifier": "mp-booster-iv"
+  },
+  {
+    "TalentId": 118,
+    "Name": "Attack Booster III",
+    "Identifier": "attack-booster-iii"
+  },
+  {
+    "TalentId": 119,
+    "Name": "Attack Booster IV",
+    "Identifier": "attack-booster-iv"
+  },
+  {
+    "TalentId": 120,
+    "Name": "Defence Booster III",
+    "Identifier": "defense-booster-iii"
+  },
+  {
+    "TalentId": 121,
+    "Name": "Defence Booster IV",
+    "Identifier": "defense-booster-iv"
+  },
+  {
+    "TalentId": 122,
+    "Name": "Agility Booster III",
+    "Identifier": "agility-booster-iii"
+  },
+  {
+    "TalentId": 123,
+    "Name": "Agility Booster IV",
+    "Identifier": "agility-booster-iv"
+  },
+  {
+    "TalentId": 124,
+    "Name": "Wisdom Booster III",
+    "Identifier": "wisdoom-booster-iii"
+  },
+  {
+    "TalentId": 125,
+    "Name": "Wisdom Booster IV",
+    "Identifier": "wisdoom-booster-iv"
+  },
+  {
+    "TalentId": 126,
+    "Name": "Frosty Receptionist",
+    "Identifier": "frosty-receptionist"
+  },
+  {
+    "TalentId": 127,
+    "Name": "Blow Hard",
+    "Identifier": "blow-hard"
+  },
+  {
+    "TalentId": 129,
+    "Name": "Freezer Burner",
+    "Identifier": "freezer-burner"
+  },
+  {
+    "TalentId": 130,
+    "Name": "Storm Brewer",
+    "Identifier": "storm-brewer"
+  },
+  {
+    "TalentId": 131,
+    "Name": "Fulgurite Shield",
+    "Identifier": "fulgurite-shield"
+  },
+  {
+    "TalentId": 132,
+    "Name": "Tremor Shield",
+    "Identifier": "tremor-shield"
+  },
+  {
+    "TalentId": 133,
+    "Name": "Chiaroscuro Shield",
+    "Identifier": "chiaroscuro-shield"
+  },
+  {
+    "TalentId": 134,
+    "Name": "Cyclone Shield",
+    "Identifier": "cyclone-shield"
+  },
+  {
+    "TalentId": 135,
+    "Name": "Magma Shield",
+    "Identifier": "magma-shield"
+  },
+  {
+    "TalentId": 136,
+    "Name": "Glacier Shield",
+    "Identifier": "glacier-shield"
   }
 ]

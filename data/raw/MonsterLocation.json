@@ -1,1 +1,730 @@
-[]
+[
+  {
+    "MonsterLocationId": 88,
+    "MonsterId": 101,
+    "LocationId": 1,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 89,
+    "MonsterId": 101,
+    "LocationId": 1,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 90,
+    "MonsterId": 101,
+    "LocationId": 1,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 87,
+    "MonsterId": 101,
+    "LocationId": 1,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 99,
+    "MonsterId": 102,
+    "LocationId": 1,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 100,
+    "MonsterId": 102,
+    "LocationId": 1,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 101,
+    "MonsterId": 102,
+    "LocationId": 1,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 102,
+    "MonsterId": 102,
+    "LocationId": 2,
+    "SeasonId": 2,
+    "WeatherId": 2
+  },
+  {
+    "MonsterLocationId": 12,
+    "MonsterId": 103,
+    "LocationId": 2,
+    "SeasonId": 2,
+    "WeatherId": 2
+  },
+  {
+    "MonsterLocationId": 45,
+    "MonsterId": 104,
+    "LocationId": 3,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 46,
+    "MonsterId": 104,
+    "LocationId": 3,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 47,
+    "MonsterId": 104,
+    "LocationId": 3,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 44,
+    "MonsterId": 104,
+    "LocationId": 3,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 81,
+    "MonsterId": 105,
+    "LocationId": 3,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 82,
+    "MonsterId": 105,
+    "LocationId": 3,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 83,
+    "MonsterId": 105,
+    "LocationId": 3,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 80,
+    "MonsterId": 105,
+    "LocationId": 3,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 1,
+    "MonsterId": 107,
+    "LocationId": 3,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 2,
+    "MonsterId": 108,
+    "LocationId": 1,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 3,
+    "MonsterId": 108,
+    "LocationId": 2,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 5,
+    "MonsterId": 116,
+    "LocationId": 1,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 6,
+    "MonsterId": 116,
+    "LocationId": 1,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 4,
+    "MonsterId": 116,
+    "LocationId": 1,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 7,
+    "MonsterId": 116,
+    "LocationId": 1,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 10,
+    "MonsterId": 121,
+    "LocationId": 3,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 9,
+    "MonsterId": 121,
+    "LocationId": 3,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 11,
+    "MonsterId": 121,
+    "LocationId": 3,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 8,
+    "MonsterId": 121,
+    "LocationId": 3,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 14,
+    "MonsterId": 128,
+    "LocationId": 1,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 15,
+    "MonsterId": 128,
+    "LocationId": 1,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 16,
+    "MonsterId": 128,
+    "LocationId": 1,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 13,
+    "MonsterId": 128,
+    "LocationId": 1,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 17,
+    "MonsterId": 133,
+    "LocationId": 1,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 18,
+    "MonsterId": 141,
+    "LocationId": 3,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 20,
+    "MonsterId": 142,
+    "LocationId": 3,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 21,
+    "MonsterId": 142,
+    "LocationId": 3,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 22,
+    "MonsterId": 142,
+    "LocationId": 3,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 19,
+    "MonsterId": 142,
+    "LocationId": 3,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 24,
+    "MonsterId": 149,
+    "LocationId": 1,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 25,
+    "MonsterId": 149,
+    "LocationId": 1,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 26,
+    "MonsterId": 149,
+    "LocationId": 1,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 23,
+    "MonsterId": 149,
+    "LocationId": 1,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 28,
+    "MonsterId": 149,
+    "LocationId": 3,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 29,
+    "MonsterId": 149,
+    "LocationId": 3,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 30,
+    "MonsterId": 149,
+    "LocationId": 3,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 27,
+    "MonsterId": 149,
+    "LocationId": 3,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 31,
+    "MonsterId": 150,
+    "LocationId": 1,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 32,
+    "MonsterId": 158,
+    "LocationId": 1,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 33,
+    "MonsterId": 158,
+    "LocationId": 2,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 34,
+    "MonsterId": 160,
+    "LocationId": 3,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 35,
+    "MonsterId": 160,
+    "LocationId": 3,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 36,
+    "MonsterId": 160,
+    "LocationId": 3,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 37,
+    "MonsterId": 162,
+    "LocationId": 3,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 39,
+    "MonsterId": 165,
+    "LocationId": 2,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 40,
+    "MonsterId": 165,
+    "LocationId": 2,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 41,
+    "MonsterId": 165,
+    "LocationId": 2,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 38,
+    "MonsterId": 165,
+    "LocationId": 2,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 42,
+    "MonsterId": 166,
+    "LocationId": 1,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 43,
+    "MonsterId": 166,
+    "LocationId": 2,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 48,
+    "MonsterId": 183,
+    "LocationId": 1,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 49,
+    "MonsterId": 185,
+    "LocationId": 1,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 51,
+    "MonsterId": 187,
+    "LocationId": 1,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 52,
+    "MonsterId": 187,
+    "LocationId": 1,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 53,
+    "MonsterId": 187,
+    "LocationId": 1,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 50,
+    "MonsterId": 187,
+    "LocationId": 1,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 55,
+    "MonsterId": 188,
+    "LocationId": 3,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 56,
+    "MonsterId": 188,
+    "LocationId": 3,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 57,
+    "MonsterId": 188,
+    "LocationId": 3,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 54,
+    "MonsterId": 188,
+    "LocationId": 3,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 58,
+    "MonsterId": 190,
+    "LocationId": 2,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 59,
+    "MonsterId": 190,
+    "LocationId": 3,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 61,
+    "MonsterId": 191,
+    "LocationId": 2,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 62,
+    "MonsterId": 191,
+    "LocationId": 2,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 63,
+    "MonsterId": 191,
+    "LocationId": 2,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 60,
+    "MonsterId": 191,
+    "LocationId": 2,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 64,
+    "MonsterId": 194,
+    "LocationId": 2,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 65,
+    "MonsterId": 194,
+    "LocationId": 3,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 67,
+    "MonsterId": 195,
+    "LocationId": 2,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 68,
+    "MonsterId": 195,
+    "LocationId": 2,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 69,
+    "MonsterId": 195,
+    "LocationId": 2,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 66,
+    "MonsterId": 195,
+    "LocationId": 2,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 71,
+    "MonsterId": 199,
+    "LocationId": 1,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 72,
+    "MonsterId": 199,
+    "LocationId": 1,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 73,
+    "MonsterId": 199,
+    "LocationId": 1,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 70,
+    "MonsterId": 199,
+    "LocationId": 1,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 75,
+    "MonsterId": 199,
+    "LocationId": 3,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 76,
+    "MonsterId": 199,
+    "LocationId": 3,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 77,
+    "MonsterId": 199,
+    "LocationId": 3,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 74,
+    "MonsterId": 199,
+    "LocationId": 3,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 78,
+    "MonsterId": 223,
+    "LocationId": 2,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 79,
+    "MonsterId": 234,
+    "LocationId": 3,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 85,
+    "MonsterId": 238,
+    "LocationId": 2,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 86,
+    "MonsterId": 238,
+    "LocationId": 2,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 84,
+    "MonsterId": 238,
+    "LocationId": 2,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 91,
+    "MonsterId": 252,
+    "LocationId": 3,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 92,
+    "MonsterId": 254,
+    "LocationId": 1,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 93,
+    "MonsterId": 259,
+    "LocationId": 1,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 94,
+    "MonsterId": 260,
+    "LocationId": 3,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 96,
+    "MonsterId": 263,
+    "LocationId": 1,
+    "SeasonId": 1,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 97,
+    "MonsterId": 263,
+    "LocationId": 1,
+    "SeasonId": 2,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 98,
+    "MonsterId": 263,
+    "LocationId": 1,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 95,
+    "MonsterId": 263,
+    "LocationId": 1,
+    "SeasonId": 4,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 103,
+    "MonsterId": 270,
+    "LocationId": 1,
+    "SeasonId": 3,
+    "WeatherId": 1
+  },
+  {
+    "MonsterLocationId": 104,
+    "MonsterId": 270,
+    "LocationId": 2,
+    "SeasonId": 3,
+    "WeatherId": 1
+  }
+]

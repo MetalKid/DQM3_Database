@@ -6,12 +6,12 @@
   },
   {
     "LocationId": 2,
-    "Name": "Circle of Conquest",
-    "Identifier": "circle-of-conquest"
+    "Name": "Circle of Conquest, Lower",
+    "Identifier": "circle-of-conquest-lower"
   },
   {
     "LocationId": 3,
-    "Name": "Circle of Temper",
-    "Identifier": "circle-of-temper"
+    "Name": "Circle of Temper, Lower",
+    "Identifier": "circle-of-temper-lower"
   }
 ]

@@ -201,7 +201,7 @@
     "TraitId": 34,
     "Name": "Infected Skin",
     "Identifier": "infected-skin",
-    "Description": "Sometimes poisons enemies that inflict idrect attacks."
+    "Description": "Sometimes poisons enemies that inflict indirect attacks."
   },
   {
     "TraitId": 35,
@@ -951,7 +951,7 @@
     "TraitId": 159,
     "Name": "Agility \u002B8",
     "Identifier": "agility-8",
-    "Description": "Raises 8.agility by "
+    "Description": "Raises agility by 8."
   },
   {
     "TraitId": 160,
@@ -1228,5 +1228,137 @@
     "Name": "Wizardly Waft",
     "Identifier": "wizardly-waft",
     "Description": "Sometimes restores 1 or more MP to all allies during battle. A higher level increases the restored amount."
+  },
+  {
+    "TraitId": 206,
+    "Name": "Agility \u002B20",
+    "Identifier": "agility-20",
+    "Description": "Raises agility by 20."
+  },
+  {
+    "TraitId": 207,
+    "Name": "Max. MP \u002B20",
+    "Identifier": "max-mp-20",
+    "Description": "Raises max. MP by 20."
+  },
+  {
+    "TraitId": 208,
+    "Name": "Max. MP \u002B72",
+    "Identifier": "max-mp-72",
+    "Description": "Raises max. MP by 72."
+  },
+  {
+    "TraitId": 209,
+    "Name": "Max. HP \u002B20",
+    "Identifier": "max-hp-20",
+    "Description": "Raises max. HP by 20."
+  },
+  {
+    "TraitId": 210,
+    "Name": "Max. HP \u002B36",
+    "Identifier": "max-hp-36",
+    "Description": "Raises max. HP by 36."
+  },
+  {
+    "TraitId": 211,
+    "Name": "Agility \u002B2",
+    "Identifier": "agility-2",
+    "Description": "Raises agility by 2."
+  },
+  {
+    "TraitId": 213,
+    "Name": "Agility \u002B30",
+    "Identifier": "agility-30",
+    "Description": "Raises agility by 30."
+  },
+  {
+    "TraitId": 214,
+    "Name": "Agility \u002B36",
+    "Identifier": "agility-36",
+    "Description": "Raises agility by 36."
+  },
+  {
+    "TraitId": 215,
+    "Name": "Defence \u002B60",
+    "Identifier": "defence-60",
+    "Description": "Raises defence by 60."
+  },
+  {
+    "TraitId": 216,
+    "Name": "Defence \u002B72",
+    "Identifier": "defence-72",
+    "Description": "Raises defence by 72."
+  },
+  {
+    "TraitId": 217,
+    "Name": "Defence \u002B96",
+    "Identifier": "defence-96",
+    "Description": "Raises defence by 96."
+  },
+  {
+    "TraitId": 218,
+    "Name": "Max. MP \u002B60",
+    "Identifier": "max-mp-60",
+    "Description": "Raises max. MP by 60."
+  },
+  {
+    "TraitId": 219,
+    "Name": "Max. MP \u002B96",
+    "Identifier": "max-mp-96",
+    "Description": "Raises max. MP by 96."
+  },
+  {
+    "TraitId": 220,
+    "Name": "Max. HP \u002B2",
+    "Identifier": "max-hp-2",
+    "Description": "Raises max. HP by 2."
+  },
+  {
+    "TraitId": 221,
+    "Name": "Max. HP \u002B30",
+    "Identifier": "max-hp-30",
+    "Description": "Raises max. HP by 30."
+  },
+  {
+    "TraitId": 222,
+    "Name": "Attack \u002B20",
+    "Identifier": "attack-20",
+    "Description": "Raises attack by 20."
+  },
+  {
+    "TraitId": 223,
+    "Name": "Wisdom \u002B60",
+    "Identifier": "wisdom-60",
+    "Description": "Raises wisdom by 60."
+  },
+  {
+    "TraitId": 224,
+    "Name": "Wisdom \u002B72",
+    "Identifier": "wisdom-72",
+    "Description": "Raises wisdom by 72."
+  },
+  {
+    "TraitId": 225,
+    "Name": "Wisdom \u002B96",
+    "Identifier": "wisdom-96",
+    "Description": "Raises wisdom by 96."
+  },
+  {
+    "TraitId": 226,
+    "Name": "Attack \u002B2",
+    "Identifier": "attack-2",
+    "Description": "Raises attack by 2."
+  },
+  {
+    "TraitId": 228,
+    "Name": "Attack \u002B30",
+    "Identifier": "attack-30",
+    "Description": "Raises attack by 30."
+  },
+  {
+    "TraitId": 229,
+    "Name": "Attack \u002B36",
+    "Identifier": "attack-36",
+    "Description": "Raises attack by 36."
   }
 ]

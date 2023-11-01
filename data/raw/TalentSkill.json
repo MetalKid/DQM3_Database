@@ -3514,5 +3514,215 @@
     "TalentId": 113,
     "SkillId": 174,
     "Points": 100
+  },
+  {
+    "TalentSkillId": 589,
+    "TalentId": 126,
+    "SkillId": 124,
+    "Points": 3
+  },
+  {
+    "TalentSkillId": 590,
+    "TalentId": 126,
+    "SkillId": 69,
+    "Points": 10
+  },
+  {
+    "TalentSkillId": 591,
+    "TalentId": 126,
+    "SkillId": 17,
+    "Points": 20
+  },
+  {
+    "TalentSkillId": 592,
+    "TalentId": 126,
+    "SkillId": 125,
+    "Points": 60
+  },
+  {
+    "TalentSkillId": 593,
+    "TalentId": 126,
+    "SkillId": 18,
+    "Points": 80
+  },
+  {
+    "TalentSkillId": 594,
+    "TalentId": 126,
+    "SkillId": 130,
+    "Points": 100
+  },
+  {
+    "TalentSkillId": 595,
+    "TalentId": 126,
+    "SkillId": 126,
+    "Points": 130
+  },
+  {
+    "TalentSkillId": 596,
+    "TalentId": 126,
+    "SkillId": 175,
+    "Points": 200
+  },
+  {
+    "TalentSkillId": 597,
+    "TalentId": 109,
+    "SkillId": 170,
+    "Points": 100
+  },
+  {
+    "TalentSkillId": 598,
+    "TalentId": 127,
+    "SkillId": 131,
+    "Points": 10
+  },
+  {
+    "TalentSkillId": 599,
+    "TalentId": 127,
+    "SkillId": 112,
+    "Points": 20
+  },
+  {
+    "TalentSkillId": 600,
+    "TalentId": 127,
+    "SkillId": 133,
+    "Points": 30
+  },
+  {
+    "TalentSkillId": 601,
+    "TalentId": 127,
+    "SkillId": 128,
+    "Points": 50
+  },
+  {
+    "TalentSkillId": 602,
+    "TalentId": 127,
+    "SkillId": 129,
+    "Points": 70
+  },
+  {
+    "TalentSkillId": 603,
+    "TalentId": 127,
+    "SkillId": 130,
+    "Points": 85
+  },
+  {
+    "TalentSkillId": 604,
+    "TalentId": 127,
+    "SkillId": 132,
+    "Points": 100
+  },
+  {
+    "TalentSkillId": 605,
+    "TalentId": 127,
+    "SkillId": 127,
+    "Points": 120
+  },
+  {
+    "TalentSkillId": 606,
+    "TalentId": 127,
+    "SkillId": 164,
+    "Points": 150
+  },
+  {
+    "TalentSkillId": 607,
+    "TalentId": 127,
+    "SkillId": 175,
+    "Points": 200
+  },
+  {
+    "TalentSkillId": 608,
+    "TalentId": 129,
+    "SkillId": 69,
+    "Points": 10
+  },
+  {
+    "TalentSkillId": 609,
+    "TalentId": 129,
+    "SkillId": 81,
+    "Points": 20
+  },
+  {
+    "TalentSkillId": 610,
+    "TalentId": 129,
+    "SkillId": 65,
+    "Points": 30
+  },
+  {
+    "TalentSkillId": 611,
+    "TalentId": 129,
+    "SkillId": 77,
+    "Points": 50
+  },
+  {
+    "TalentSkillId": 612,
+    "TalentId": 129,
+    "SkillId": 80,
+    "Points": 70
+  },
+  {
+    "TalentSkillId": 613,
+    "TalentId": 129,
+    "SkillId": 71,
+    "Points": 100
+  },
+  {
+    "TalentSkillId": 614,
+    "TalentId": 129,
+    "SkillId": 36,
+    "Points": 150
+  },
+  {
+    "TalentSkillId": 615,
+    "TalentId": 129,
+    "SkillId": 88,
+    "Points": 200
+  },
+  {
+    "TalentSkillId": 616,
+    "TalentId": 130,
+    "SkillId": 67,
+    "Points": 10
+  },
+  {
+    "TalentSkillId": 617,
+    "TalentId": 130,
+    "SkillId": 81,
+    "Points": 20
+  },
+  {
+    "TalentSkillId": 618,
+    "TalentId": 130,
+    "SkillId": 70,
+    "Points": 30
+  },
+  {
+    "TalentSkillId": 619,
+    "TalentId": 130,
+    "SkillId": 82,
+    "Points": 50
+  },
+  {
+    "TalentSkillId": 620,
+    "TalentId": 130,
+    "SkillId": 74,
+    "Points": 70
+  },
+  {
+    "TalentSkillId": 621,
+    "TalentId": 130,
+    "SkillId": 72,
+    "Points": 100
+  },
+  {
+    "TalentSkillId": 622,
+    "TalentId": 130,
+    "SkillId": 88,
+    "Points": 150
+  },
+  {
+    "TalentSkillId": 623,
+    "TalentId": 130,
+    "SkillId": 161,
+    "Points": 200
   }
 ]
