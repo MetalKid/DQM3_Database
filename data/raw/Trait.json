@@ -1020,6 +1020,12 @@
     "Description": "Greatly increases damage inflicted on monsters from the nature family and somewhat lowers all resistances."
   },
   {
+    "TraitId": 232,
+    "Name": "\u00DCber Slimesbane",
+    "Identifier": "ubber-slimesbane",
+    "Description": "Greatly increases damage inflicted on monsters from the slime family and somewhat lowers all resistances."
+  },
+  {
     "TraitId": 60,
     "Name": "\u00DCber Zombiesbane",
     "Identifier": "uber-zombiesbane",
