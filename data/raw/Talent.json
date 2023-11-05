@@ -1,320 +1,5 @@
 [
   {
-    "TalentId": 1,
-    "Name": "Frizz Afficionado",
-    "Identifier": "frizz-afficionado"
-  },
-  {
-    "TalentId": 2,
-    "Name": "Frizz Virtuoso",
-    "Identifier": "frizz-virtuoso"
-  },
-  {
-    "TalentId": 3,
-    "Name": "Splash Afficionado",
-    "Identifier": "splash-afficionado"
-  },
-  {
-    "TalentId": 4,
-    "Name": "Splash Virtuoso",
-    "Identifier": "splash-virtuoso"
-  },
-  {
-    "TalentId": 5,
-    "Name": "Woosh Afficionado",
-    "Identifier": "woosh-afficionado"
-  },
-  {
-    "TalentId": 6,
-    "Name": "Woosh Virtuoso",
-    "Identifier": "woosh-virtuoso"
-  },
-  {
-    "TalentId": 7,
-    "Name": "Crag Afficionado",
-    "Identifier": "crag-afficionado"
-  },
-  {
-    "TalentId": 8,
-    "Name": "Crag Virtuoso",
-    "Identifier": "crag-virtuoso"
-  },
-  {
-    "TalentId": 9,
-    "Name": "Bang Afficionado",
-    "Identifier": "bang-afficionado"
-  },
-  {
-    "TalentId": 10,
-    "Name": "Bang Virtuoso",
-    "Identifier": "bang-virtuoso"
-  },
-  {
-    "TalentId": 11,
-    "Name": "Crack Afficionado",
-    "Identifier": "crack-afficionado"
-  },
-  {
-    "TalentId": 12,
-    "Name": "Crack Virtuoso",
-    "Identifier": "crack-virtuoso"
-  },
-  {
-    "TalentId": 13,
-    "Name": "Zap Afficionado",
-    "Identifier": "zap-afficionado"
-  },
-  {
-    "TalentId": 14,
-    "Name": "Zap Virtuoso",
-    "Identifier": "zap-virtuoso"
-  },
-  {
-    "TalentId": 15,
-    "Name": "Sizz Afficionado",
-    "Identifier": "sizz-afficionado"
-  },
-  {
-    "TalentId": 16,
-    "Name": "Sizz Virtuoso",
-    "Identifier": "sizz-virtuoso"
-  },
-  {
-    "TalentId": 17,
-    "Name": "Zam Afficionado",
-    "Identifier": "zam-afficionado"
-  },
-  {
-    "TalentId": 18,
-    "Name": "Zam Virtuoso",
-    "Identifier": "zam-virtuoso"
-  },
-  {
-    "TalentId": 19,
-    "Name": "Blazer",
-    "Identifier": "blazer"
-  },
-  {
-    "TalentId": 20,
-    "Name": "Shallow Breather",
-    "Identifier": "shallow-breather"
-  },
-  {
-    "TalentId": 21,
-    "Name": "Deep Breather",
-    "Identifier": "deep-breather"
-  },
-  {
-    "TalentId": 22,
-    "Name": "Dancer",
-    "Identifier": "dancer"
-  },
-  {
-    "TalentId": 23,
-    "Name": "Slimer",
-    "Identifier": "slimer"
-  },
-  {
-    "TalentId": 24,
-    "Name": "Dragonheart",
-    "Identifier": "dragonheart"
-  },
-  {
-    "TalentId": 25,
-    "Name": "Graveheart",
-    "Identifier": "graveheart"
-  },
-  {
-    "TalentId": 26,
-    "Name": "Hive Mind",
-    "Identifier": "hive-mind"
-  },
-  {
-    "TalentId": 27,
-    "Name": "Materialist",
-    "Identifier": "materialist"
-  },
-  {
-    "TalentId": 28,
-    "Name": "Naturalist",
-    "Identifier": "naturalist"
-  },
-  {
-    "TalentId": 29,
-    "Name": "Dark Artist",
-    "Identifier": "dark-artist"
-  },
-  {
-    "TalentId": 30,
-    "Name": "Blusterer",
-    "Identifier": "blusterer"
-  },
-  {
-    "TalentId": 31,
-    "Name": "Nature Child",
-    "Identifier": "nature-child"
-  },
-  {
-    "TalentId": 32,
-    "Name": "Aquapothecary",
-    "Identifier": "aquapothecary"
-  },
-  {
-    "TalentId": 33,
-    "Name": "Spicy Slasher",
-    "Identifier": "spicy-slasher"
-  },
-  {
-    "TalentId": 34,
-    "Name": "Blowy Slasher",
-    "Identifier": "blowy-slasher"
-  },
-  {
-    "TalentId": 35,
-    "Name": "Stony Slasher",
-    "Identifier": "stony-slasher"
-  },
-  {
-    "TalentId": 36,
-    "Name": "Thrill-Seeker",
-    "Identifier": "thrill-seeker"
-  },
-  {
-    "TalentId": 37,
-    "Name": "Hexcommunicator",
-    "Identifier": "hexcommunicator"
-  },
-  {
-    "TalentId": 38,
-    "Name": "Power Player",
-    "Identifier": "power-player"
-  },
-  {
-    "TalentId": 39,
-    "Name": "Wild Child",
-    "Identifier": "wild-child"
-  },
-  {
-    "TalentId": 40,
-    "Name": "Fighter",
-    "Identifier": "fighter"
-  },
-  {
-    "TalentId": 41,
-    "Name": "Blade Maven",
-    "Identifier": "blade-maven"
-  },
-  {
-    "TalentId": 42,
-    "Name": "Cutpurse",
-    "Identifier": "cutpurse"
-  },
-  {
-    "TalentId": 43,
-    "Name": "Tongue Twister",
-    "Identifier": "tongue-twister"
-  },
-  {
-    "TalentId": 44,
-    "Name": "Assassin",
-    "Identifier": "assassin"
-  },
-  {
-    "TalentId": 45,
-    "Name": "Hulk",
-    "Identifier": "hulk"
-  },
-  {
-    "TalentId": 46,
-    "Name": "Prankster",
-    "Identifier": "prankster"
-  },
-  {
-    "TalentId": 47,
-    "Name": "Healer",
-    "Identifier": "healer"
-  },
-  {
-    "TalentId": 48,
-    "Name": "Paramedic",
-    "Identifier": "paramedic"
-  },
-  {
-    "TalentId": 49,
-    "Name": "Soothsayer",
-    "Identifier": "soothsayer"
-  },
-  {
-    "TalentId": 50,
-    "Name": "Toxicologist",
-    "Identifier": "toxicologist"
-  },
-  {
-    "TalentId": 51,
-    "Name": "Fortifier",
-    "Identifier": "fortifier"
-  },
-  {
-    "TalentId": 52,
-    "Name": "Enfeebler",
-    "Identifier": "enfeebler"
-  },
-  {
-    "TalentId": 53,
-    "Name": "Willing Helper",
-    "Identifier": "willing-helper"
-  },
-  {
-    "TalentId": 54,
-    "Name": "Defender",
-    "Identifier": "defender"
-  },
-  {
-    "TalentId": 55,
-    "Name": "Stinker",
-    "Identifier": "stinker"
-  },
-  {
-    "TalentId": 56,
-    "Name": "HP Booster I",
-    "Identifier": "hp-booster-i"
-  },
-  {
-    "TalentId": 57,
-    "Name": "HP Booster II",
-    "Identifier": "hp-booster-ii"
-  },
-  {
-    "TalentId": 58,
-    "Name": "MP Booster I",
-    "Identifier": "mp-booster-i"
-  },
-  {
-    "TalentId": 59,
-    "Name": "MP Booster II",
-    "Identifier": "mp-booster-ii"
-  },
-  {
-    "TalentId": 60,
-    "Name": "Attack Booster I",
-    "Identifier": "attack-booster-i"
-  },
-  {
-    "TalentId": 61,
-    "Name": "Attack Booster II",
-    "Identifier": "attack-booster-ii"
-  },
-  {
-    "TalentId": 62,
-    "Name": "Defence Booster I",
-    "Identifier": "defence-booster-i"
-  },
-  {
-    "TalentId": 63,
-    "Name": "Defence Booster II",
-    "Identifier": "defence-booster-ii"
-  },
-  {
     "TalentId": 64,
     "Name": "Agility Booster I",
     "Identifier": "agility-booster-i"
@@ -323,276 +8,6 @@
     "TalentId": 65,
     "Name": "Agility Booster II",
     "Identifier": "agility-booster-ii"
-  },
-  {
-    "TalentId": 66,
-    "Name": "Wisdom Booster I",
-    "Identifier": "wisdoom-booster-i"
-  },
-  {
-    "TalentId": 67,
-    "Name": "Wisdom Booster II",
-    "Identifier": "wisdom-booster-ii"
-  },
-  {
-    "TalentId": 68,
-    "Name": "Frizz Ward",
-    "Identifier": "frizz-ward"
-  },
-  {
-    "TalentId": 69,
-    "Name": "Splish Ward",
-    "Identifier": "splish-ward"
-  },
-  {
-    "TalentId": 70,
-    "Name": "Woosh Ward",
-    "Identifier": "woosh-ward"
-  },
-  {
-    "TalentId": 71,
-    "Name": "Crag Ward",
-    "Identifier": "crag-ward"
-  },
-  {
-    "TalentId": 72,
-    "Name": "Bang Ward",
-    "Identifier": "bang-ward"
-  },
-  {
-    "TalentId": 73,
-    "Name": "Crack Ward",
-    "Identifier": "crack-ward"
-  },
-  {
-    "TalentId": 74,
-    "Name": "Zap Ward",
-    "Identifier": "zap-ward"
-  },
-  {
-    "TalentId": 75,
-    "Name": "Sizz Ward",
-    "Identifier": "sizz-ward"
-  },
-  {
-    "TalentId": 76,
-    "Name": "Zam Ward",
-    "Identifier": "zam-ward"
-  },
-  {
-    "TalentId": 77,
-    "Name": "Debilitation Ducker",
-    "Identifier": "debilitation-ducker"
-  },
-  {
-    "TalentId": 78,
-    "Name": "Bedazzlement Blocker",
-    "Identifier": "bedazzlement-blocker"
-  },
-  {
-    "TalentId": 79,
-    "Name": "Antimagic Avoider",
-    "Identifier": "antimagic-avoider"
-  },
-  {
-    "TalentId": 80,
-    "Name": "Drain Dodger",
-    "Identifier": "drain-dodger"
-  },
-  {
-    "TalentId": 81,
-    "Name": "Poison Preventer",
-    "Identifier": "poison-preventer"
-  },
-  {
-    "TalentId": 82,
-    "Name": "Stun Stopper",
-    "Identifier": "stun-stopper"
-  },
-  {
-    "TalentId": 83,
-    "Name": "Sleep Suppressor",
-    "Identifier": "sleep-suppressor"
-  },
-  {
-    "TalentId": 84,
-    "Name": "Confusion Controller",
-    "Identifier": "confusion-controller"
-  },
-  {
-    "TalentId": 85,
-    "Name": "Paralysis Protector",
-    "Identifier": "paralysis-protector"
-  },
-  {
-    "TalentId": 86,
-    "Name": "Death Defier",
-    "Identifier": "death-defier"
-  },
-  {
-    "TalentId": 87,
-    "Name": "Soggy Slasher",
-    "Identifier": "soggy-slasher"
-  },
-  {
-    "TalentId": 88,
-    "Name": "Good Knight",
-    "Identifier": "good-knight"
-  },
-  {
-    "TalentId": 89,
-    "Name": "Barricade",
-    "Identifier": "barricade"
-  },
-  {
-    "TalentId": 90,
-    "Name": "Vexologist",
-    "Identifier": "vexologist"
-  },
-  {
-    "TalentId": 91,
-    "Name": "Air Fryer",
-    "Identifier": "air-fryer"
-  },
-  {
-    "TalentId": 92,
-    "Name": "Polariser",
-    "Identifier": "polariser"
-  },
-  {
-    "TalentId": 93,
-    "Name": "Impactor",
-    "Identifier": "impactor"
-  },
-  {
-    "TalentId": 94,
-    "Name": "Perfect Speller",
-    "Identifier": "perfect-speller"
-  },
-  {
-    "TalentId": 95,
-    "Name": "Speedster",
-    "Identifier": "speedster"
-  },
-  {
-    "TalentId": 96,
-    "Name": "Cupid",
-    "Identifier": "cupid"
-  },
-  {
-    "TalentId": 97,
-    "Name": "Irritant",
-    "Identifier": "irritant"
-  },
-  {
-    "TalentId": 98,
-    "Name": "Sweet-Talker",
-    "Identifier": "sweet-talker"
-  },
-  {
-    "TalentId": 99,
-    "Name": "Martyr",
-    "Identifier": "martyr"
-  },
-  {
-    "TalentId": 100,
-    "Name": "Sleep Counsellor",
-    "Identifier": "sleep-counsellor"
-  },
-  {
-    "TalentId": 103,
-    "Name": "Freeze Popper",
-    "Identifier": "freeze-popper"
-  },
-  {
-    "TalentId": 104,
-    "Name": "Hair Splitter",
-    "Identifier": "hair-splitter"
-  },
-  {
-    "TalentId": 105,
-    "Name": "Smart Blazer",
-    "Identifier": "smart-blazer"
-  },
-  {
-    "TalentId": 106,
-    "Name": "Magic Maven",
-    "Identifier": "magic-maven"
-  },
-  {
-    "TalentId": 107,
-    "Name": "Outlaw",
-    "Identifier": "outlaw"
-  },
-  {
-    "TalentId": 108,
-    "Name": "Martial Maven",
-    "Identifier": "martial-maven"
-  },
-  {
-    "TalentId": 109,
-    "Name": "Choreographer",
-    "Identifier": "choreographer"
-  },
-  {
-    "TalentId": 110,
-    "Name": "Chilly Receptionist",
-    "Identifier": "chilly-receptionist"
-  },
-  {
-    "TalentId": 111,
-    "Name": "Breath Taker",
-    "Identifier": "breath-taker"
-  },
-  {
-    "TalentId": 112,
-    "Name": "Charmer",
-    "Identifier": "charmer"
-  },
-  {
-    "TalentId": 113,
-    "Name": "Antimagician",
-    "Identifier": "antimagician"
-  },
-  {
-    "TalentId": 114,
-    "Name": "HP Booster III",
-    "Identifier": "hp-booster-iii"
-  },
-  {
-    "TalentId": 115,
-    "Name": "HP Booster IV",
-    "Identifier": "hp-booster-iv"
-  },
-  {
-    "TalentId": 116,
-    "Name": "MP Booster III",
-    "Identifier": "mp-booster-iii"
-  },
-  {
-    "TalentId": 117,
-    "Name": "MP Booster IV",
-    "Identifier": "mp-booster-iv"
-  },
-  {
-    "TalentId": 118,
-    "Name": "Attack Booster III",
-    "Identifier": "attack-booster-iii"
-  },
-  {
-    "TalentId": 119,
-    "Name": "Attack Booster IV",
-    "Identifier": "attack-booster-iv"
-  },
-  {
-    "TalentId": 120,
-    "Name": "Defence Booster III",
-    "Identifier": "defense-booster-iii"
-  },
-  {
-    "TalentId": 121,
-    "Name": "Defence Booster IV",
-    "Identifier": "defense-booster-iv"
   },
   {
     "TalentId": 122,
@@ -605,6 +20,596 @@
     "Identifier": "agility-booster-iv"
   },
   {
+    "TalentId": 91,
+    "Name": "Air Fryer",
+    "Identifier": "air-fryer"
+  },
+  {
+    "TalentId": 79,
+    "Name": "Antimagic Avoider",
+    "Identifier": "antimagic-avoider"
+  },
+  {
+    "TalentId": 113,
+    "Name": "Antimagician",
+    "Identifier": "antimagician"
+  },
+  {
+    "TalentId": 32,
+    "Name": "Aquapothecary",
+    "Identifier": "aquapothecary"
+  },
+  {
+    "TalentId": 44,
+    "Name": "Assassin",
+    "Identifier": "assassin"
+  },
+  {
+    "TalentId": 60,
+    "Name": "Attack Booster I",
+    "Identifier": "attack-booster-i"
+  },
+  {
+    "TalentId": 61,
+    "Name": "Attack Booster II",
+    "Identifier": "attack-booster-ii"
+  },
+  {
+    "TalentId": 118,
+    "Name": "Attack Booster III",
+    "Identifier": "attack-booster-iii"
+  },
+  {
+    "TalentId": 119,
+    "Name": "Attack Booster IV",
+    "Identifier": "attack-booster-iv"
+  },
+  {
+    "TalentId": 9,
+    "Name": "Bang Afficionado",
+    "Identifier": "bang-afficionado"
+  },
+  {
+    "TalentId": 10,
+    "Name": "Bang Virtuoso",
+    "Identifier": "bang-virtuoso"
+  },
+  {
+    "TalentId": 72,
+    "Name": "Bang Ward",
+    "Identifier": "bang-ward"
+  },
+  {
+    "TalentId": 89,
+    "Name": "Barricade",
+    "Identifier": "barricade"
+  },
+  {
+    "TalentId": 78,
+    "Name": "Bedazzlement Blocker",
+    "Identifier": "bedazzlement-blocker"
+  },
+  {
+    "TalentId": 41,
+    "Name": "Blade Maven",
+    "Identifier": "blade-maven"
+  },
+  {
+    "TalentId": 19,
+    "Name": "Blazer",
+    "Identifier": "blazer"
+  },
+  {
+    "TalentId": 127,
+    "Name": "Blow Hard",
+    "Identifier": "blow-hard"
+  },
+  {
+    "TalentId": 34,
+    "Name": "Blowy Slasher",
+    "Identifier": "blowy-slasher"
+  },
+  {
+    "TalentId": 30,
+    "Name": "Blusterer",
+    "Identifier": "blusterer"
+  },
+  {
+    "TalentId": 111,
+    "Name": "Breath Taker",
+    "Identifier": "breath-taker"
+  },
+  {
+    "TalentId": 112,
+    "Name": "Charmer",
+    "Identifier": "charmer"
+  },
+  {
+    "TalentId": 133,
+    "Name": "Chiaroscuro Shield",
+    "Identifier": "chiaroscuro-shield"
+  },
+  {
+    "TalentId": 110,
+    "Name": "Chilly Receptionist",
+    "Identifier": "chilly-receptionist"
+  },
+  {
+    "TalentId": 109,
+    "Name": "Choreographer",
+    "Identifier": "choreographer"
+  },
+  {
+    "TalentId": 84,
+    "Name": "Confusion Controller",
+    "Identifier": "confusion-controller"
+  },
+  {
+    "TalentId": 11,
+    "Name": "Crack Afficionado",
+    "Identifier": "crack-afficionado"
+  },
+  {
+    "TalentId": 12,
+    "Name": "Crack Virtuoso",
+    "Identifier": "crack-virtuoso"
+  },
+  {
+    "TalentId": 73,
+    "Name": "Crack Ward",
+    "Identifier": "crack-ward"
+  },
+  {
+    "TalentId": 7,
+    "Name": "Crag Afficionado",
+    "Identifier": "crag-afficionado"
+  },
+  {
+    "TalentId": 8,
+    "Name": "Crag Virtuoso",
+    "Identifier": "crag-virtuoso"
+  },
+  {
+    "TalentId": 71,
+    "Name": "Crag Ward",
+    "Identifier": "crag-ward"
+  },
+  {
+    "TalentId": 96,
+    "Name": "Cupid",
+    "Identifier": "cupid"
+  },
+  {
+    "TalentId": 42,
+    "Name": "Cutpurse",
+    "Identifier": "cutpurse"
+  },
+  {
+    "TalentId": 134,
+    "Name": "Cyclone Shield",
+    "Identifier": "cyclone-shield"
+  },
+  {
+    "TalentId": 22,
+    "Name": "Dancer",
+    "Identifier": "dancer"
+  },
+  {
+    "TalentId": 29,
+    "Name": "Dark Artist",
+    "Identifier": "dark-artist"
+  },
+  {
+    "TalentId": 86,
+    "Name": "Death Defier",
+    "Identifier": "death-defier"
+  },
+  {
+    "TalentId": 77,
+    "Name": "Debilitation Ducker",
+    "Identifier": "debilitation-ducker"
+  },
+  {
+    "TalentId": 21,
+    "Name": "Deep Breather",
+    "Identifier": "deep-breather"
+  },
+  {
+    "TalentId": 62,
+    "Name": "Defence Booster I",
+    "Identifier": "defence-booster-i"
+  },
+  {
+    "TalentId": 63,
+    "Name": "Defence Booster II",
+    "Identifier": "defence-booster-ii"
+  },
+  {
+    "TalentId": 120,
+    "Name": "Defence Booster III",
+    "Identifier": "defense-booster-iii"
+  },
+  {
+    "TalentId": 121,
+    "Name": "Defence Booster IV",
+    "Identifier": "defense-booster-iv"
+  },
+  {
+    "TalentId": 54,
+    "Name": "Defender",
+    "Identifier": "defender"
+  },
+  {
+    "TalentId": 24,
+    "Name": "Dragonheart",
+    "Identifier": "dragonheart"
+  },
+  {
+    "TalentId": 80,
+    "Name": "Drain Dodger",
+    "Identifier": "drain-dodger"
+  },
+  {
+    "TalentId": 52,
+    "Name": "Enfeebler",
+    "Identifier": "enfeebler"
+  },
+  {
+    "TalentId": 40,
+    "Name": "Fighter",
+    "Identifier": "fighter"
+  },
+  {
+    "TalentId": 51,
+    "Name": "Fortifier",
+    "Identifier": "fortifier"
+  },
+  {
+    "TalentId": 103,
+    "Name": "Freeze Popper",
+    "Identifier": "freeze-popper"
+  },
+  {
+    "TalentId": 129,
+    "Name": "Freezer Burner",
+    "Identifier": "freezer-burner"
+  },
+  {
+    "TalentId": 1,
+    "Name": "Frizz Afficionado",
+    "Identifier": "frizz-afficionado"
+  },
+  {
+    "TalentId": 2,
+    "Name": "Frizz Virtuoso",
+    "Identifier": "frizz-virtuoso"
+  },
+  {
+    "TalentId": 68,
+    "Name": "Frizz Ward",
+    "Identifier": "frizz-ward"
+  },
+  {
+    "TalentId": 126,
+    "Name": "Frosty Receptionist",
+    "Identifier": "frosty-receptionist"
+  },
+  {
+    "TalentId": 131,
+    "Name": "Fulgurite Shield",
+    "Identifier": "fulgurite-shield"
+  },
+  {
+    "TalentId": 136,
+    "Name": "Glacier Shield",
+    "Identifier": "glacier-shield"
+  },
+  {
+    "TalentId": 88,
+    "Name": "Good Knight",
+    "Identifier": "good-knight"
+  },
+  {
+    "TalentId": 25,
+    "Name": "Graveheart",
+    "Identifier": "graveheart"
+  },
+  {
+    "TalentId": 104,
+    "Name": "Hair Splitter",
+    "Identifier": "hair-splitter"
+  },
+  {
+    "TalentId": 47,
+    "Name": "Healer",
+    "Identifier": "healer"
+  },
+  {
+    "TalentId": 37,
+    "Name": "Hexcommunicator",
+    "Identifier": "hexcommunicator"
+  },
+  {
+    "TalentId": 26,
+    "Name": "Hive Mind",
+    "Identifier": "hive-mind"
+  },
+  {
+    "TalentId": 56,
+    "Name": "HP Booster I",
+    "Identifier": "hp-booster-i"
+  },
+  {
+    "TalentId": 57,
+    "Name": "HP Booster II",
+    "Identifier": "hp-booster-ii"
+  },
+  {
+    "TalentId": 114,
+    "Name": "HP Booster III",
+    "Identifier": "hp-booster-iii"
+  },
+  {
+    "TalentId": 115,
+    "Name": "HP Booster IV",
+    "Identifier": "hp-booster-iv"
+  },
+  {
+    "TalentId": 45,
+    "Name": "Hulk",
+    "Identifier": "hulk"
+  },
+  {
+    "TalentId": 93,
+    "Name": "Impactor",
+    "Identifier": "impactor"
+  },
+  {
+    "TalentId": 97,
+    "Name": "Irritant",
+    "Identifier": "irritant"
+  },
+  {
+    "TalentId": 106,
+    "Name": "Magic Maven",
+    "Identifier": "magic-maven"
+  },
+  {
+    "TalentId": 135,
+    "Name": "Magma Shield",
+    "Identifier": "magma-shield"
+  },
+  {
+    "TalentId": 108,
+    "Name": "Martial Maven",
+    "Identifier": "martial-maven"
+  },
+  {
+    "TalentId": 99,
+    "Name": "Martyr",
+    "Identifier": "martyr"
+  },
+  {
+    "TalentId": 27,
+    "Name": "Materialist",
+    "Identifier": "materialist"
+  },
+  {
+    "TalentId": 58,
+    "Name": "MP Booster I",
+    "Identifier": "mp-booster-i"
+  },
+  {
+    "TalentId": 59,
+    "Name": "MP Booster II",
+    "Identifier": "mp-booster-ii"
+  },
+  {
+    "TalentId": 116,
+    "Name": "MP Booster III",
+    "Identifier": "mp-booster-iii"
+  },
+  {
+    "TalentId": 117,
+    "Name": "MP Booster IV",
+    "Identifier": "mp-booster-iv"
+  },
+  {
+    "TalentId": 28,
+    "Name": "Naturalist",
+    "Identifier": "naturalist"
+  },
+  {
+    "TalentId": 31,
+    "Name": "Nature Child",
+    "Identifier": "nature-child"
+  },
+  {
+    "TalentId": 107,
+    "Name": "Outlaw",
+    "Identifier": "outlaw"
+  },
+  {
+    "TalentId": 85,
+    "Name": "Paralysis Protector",
+    "Identifier": "paralysis-protector"
+  },
+  {
+    "TalentId": 48,
+    "Name": "Paramedic",
+    "Identifier": "paramedic"
+  },
+  {
+    "TalentId": 94,
+    "Name": "Perfect Speller",
+    "Identifier": "perfect-speller"
+  },
+  {
+    "TalentId": 81,
+    "Name": "Poison Preventer",
+    "Identifier": "poison-preventer"
+  },
+  {
+    "TalentId": 92,
+    "Name": "Polariser",
+    "Identifier": "polariser"
+  },
+  {
+    "TalentId": 38,
+    "Name": "Power Player",
+    "Identifier": "power-player"
+  },
+  {
+    "TalentId": 46,
+    "Name": "Prankster",
+    "Identifier": "prankster"
+  },
+  {
+    "TalentId": 20,
+    "Name": "Shallow Breather",
+    "Identifier": "shallow-breather"
+  },
+  {
+    "TalentId": 15,
+    "Name": "Sizz Afficionado",
+    "Identifier": "sizz-afficionado"
+  },
+  {
+    "TalentId": 16,
+    "Name": "Sizz Virtuoso",
+    "Identifier": "sizz-virtuoso"
+  },
+  {
+    "TalentId": 75,
+    "Name": "Sizz Ward",
+    "Identifier": "sizz-ward"
+  },
+  {
+    "TalentId": 100,
+    "Name": "Sleep Counsellor",
+    "Identifier": "sleep-counsellor"
+  },
+  {
+    "TalentId": 83,
+    "Name": "Sleep Suppressor",
+    "Identifier": "sleep-suppressor"
+  },
+  {
+    "TalentId": 23,
+    "Name": "Slimer",
+    "Identifier": "slimer"
+  },
+  {
+    "TalentId": 105,
+    "Name": "Smart Blazer",
+    "Identifier": "smart-blazer"
+  },
+  {
+    "TalentId": 87,
+    "Name": "Soggy Slasher",
+    "Identifier": "soggy-slasher"
+  },
+  {
+    "TalentId": 49,
+    "Name": "Soothsayer",
+    "Identifier": "soothsayer"
+  },
+  {
+    "TalentId": 95,
+    "Name": "Speedster",
+    "Identifier": "speedster"
+  },
+  {
+    "TalentId": 33,
+    "Name": "Spicy Slasher",
+    "Identifier": "spicy-slasher"
+  },
+  {
+    "TalentId": 3,
+    "Name": "Splash Afficionado",
+    "Identifier": "splash-afficionado"
+  },
+  {
+    "TalentId": 4,
+    "Name": "Splash Virtuoso",
+    "Identifier": "splash-virtuoso"
+  },
+  {
+    "TalentId": 69,
+    "Name": "Splish Ward",
+    "Identifier": "splish-ward"
+  },
+  {
+    "TalentId": 55,
+    "Name": "Stinker",
+    "Identifier": "stinker"
+  },
+  {
+    "TalentId": 35,
+    "Name": "Stony Slasher",
+    "Identifier": "stony-slasher"
+  },
+  {
+    "TalentId": 130,
+    "Name": "Storm Brewer",
+    "Identifier": "storm-brewer"
+  },
+  {
+    "TalentId": 82,
+    "Name": "Stun Stopper",
+    "Identifier": "stun-stopper"
+  },
+  {
+    "TalentId": 98,
+    "Name": "Sweet-Talker",
+    "Identifier": "sweet-talker"
+  },
+  {
+    "TalentId": 36,
+    "Name": "Thrill-Seeker",
+    "Identifier": "thrill-seeker"
+  },
+  {
+    "TalentId": 43,
+    "Name": "Tongue Twister",
+    "Identifier": "tongue-twister"
+  },
+  {
+    "TalentId": 50,
+    "Name": "Toxicologist",
+    "Identifier": "toxicologist"
+  },
+  {
+    "TalentId": 132,
+    "Name": "Tremor Shield",
+    "Identifier": "tremor-shield"
+  },
+  {
+    "TalentId": 90,
+    "Name": "Vexologist",
+    "Identifier": "vexologist"
+  },
+  {
+    "TalentId": 39,
+    "Name": "Wild Child",
+    "Identifier": "wild-child"
+  },
+  {
+    "TalentId": 53,
+    "Name": "Willing Helper",
+    "Identifier": "willing-helper"
+  },
+  {
+    "TalentId": 66,
+    "Name": "Wisdom Booster I",
+    "Identifier": "wisdoom-booster-i"
+  },
+  {
+    "TalentId": 67,
+    "Name": "Wisdom Booster II",
+    "Identifier": "wisdom-booster-ii"
+  },
+  {
     "TalentId": 124,
     "Name": "Wisdom Booster III",
     "Identifier": "wisdoom-booster-iii"
@@ -615,53 +620,48 @@
     "Identifier": "wisdoom-booster-iv"
   },
   {
-    "TalentId": 126,
-    "Name": "Frosty Receptionist",
-    "Identifier": "frosty-receptionist"
+    "TalentId": 5,
+    "Name": "Woosh Afficionado",
+    "Identifier": "woosh-afficionado"
   },
   {
-    "TalentId": 127,
-    "Name": "Blow Hard",
-    "Identifier": "blow-hard"
+    "TalentId": 6,
+    "Name": "Woosh Virtuoso",
+    "Identifier": "woosh-virtuoso"
   },
   {
-    "TalentId": 129,
-    "Name": "Freezer Burner",
-    "Identifier": "freezer-burner"
+    "TalentId": 70,
+    "Name": "Woosh Ward",
+    "Identifier": "woosh-ward"
   },
   {
-    "TalentId": 130,
-    "Name": "Storm Brewer",
-    "Identifier": "storm-brewer"
+    "TalentId": 17,
+    "Name": "Zam Afficionado",
+    "Identifier": "zam-afficionado"
   },
   {
-    "TalentId": 131,
-    "Name": "Fulgurite Shield",
-    "Identifier": "fulgurite-shield"
+    "TalentId": 18,
+    "Name": "Zam Virtuoso",
+    "Identifier": "zam-virtuoso"
   },
   {
-    "TalentId": 132,
-    "Name": "Tremor Shield",
-    "Identifier": "tremor-shield"
+    "TalentId": 76,
+    "Name": "Zam Ward",
+    "Identifier": "zam-ward"
   },
   {
-    "TalentId": 133,
-    "Name": "Chiaroscuro Shield",
-    "Identifier": "chiaroscuro-shield"
+    "TalentId": 13,
+    "Name": "Zap Afficionado",
+    "Identifier": "zap-afficionado"
   },
   {
-    "TalentId": 134,
-    "Name": "Cyclone Shield",
-    "Identifier": "cyclone-shield"
+    "TalentId": 14,
+    "Name": "Zap Virtuoso",
+    "Identifier": "zap-virtuoso"
   },
   {
-    "TalentId": 135,
-    "Name": "Magma Shield",
-    "Identifier": "magma-shield"
-  },
-  {
-    "TalentId": 136,
-    "Name": "Glacier Shield",
-    "Identifier": "glacier-shield"
+    "TalentId": 74,
+    "Name": "Zap Ward",
+    "Identifier": "zap-ward"
   }
 ]

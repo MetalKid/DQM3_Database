@@ -1,0 +1,32 @@
+[
+  {
+    "ItemTypeId": 5,
+    "Name": "Accessory",
+    "Identifier": "accessory"
+  },
+  {
+    "ItemTypeId": 2,
+    "Name": "Battle",
+    "Identifier": "battle"
+  },
+  {
+    "ItemTypeId": 3,
+    "Name": "Food",
+    "Identifier": "food"
+  },
+  {
+    "ItemTypeId": 6,
+    "Name": "Key",
+    "Identifier": "key"
+  },
+  {
+    "ItemTypeId": 1,
+    "Name": "Medicine",
+    "Identifier": "medicine"
+  },
+  {
+    "ItemTypeId": 4,
+    "Name": "Treasure",
+    "Identifier": "treasure"
+  }
+]

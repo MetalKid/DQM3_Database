@@ -1,5 +1,10 @@
 [
   {
+    "MPCostTypeId": 3,
+    "Name": "All With Min",
+    "Identifier": "all-with-min"
+  },
+  {
     "MPCostTypeId": 1,
     "Name": "Fixed",
     "Identifier": "fixed"
@@ -8,10 +13,5 @@
     "MPCostTypeId": 2,
     "Name": "Percentage",
     "Identifier": "percentage"
-  },
-  {
-    "MPCostTypeId": 3,
-    "Name": "All With Min",
-    "Identifier": "all-with-min"
   }
 ]

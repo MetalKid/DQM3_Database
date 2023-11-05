@@ -1,28 +1,13 @@
 [
   {
-    "RankId": 1,
-    "Name": "G",
-    "Identifier": "g"
+    "RankId": 7,
+    "Name": "A",
+    "Identifier": "a"
   },
   {
-    "RankId": 2,
-    "Name": "F",
-    "Identifier": "f"
-  },
-  {
-    "RankId": 3,
-    "Name": "E",
-    "Identifier": "e"
-  },
-  {
-    "RankId": 4,
-    "Name": "D",
-    "Identifier": "d"
-  },
-  {
-    "RankId": 5,
-    "Name": "C",
-    "Identifier": "c"
+    "RankId": 10,
+    "Name": "Any",
+    "Identifier": "any"
   },
   {
     "RankId": 6,
@@ -30,9 +15,29 @@
     "Identifier": "b"
   },
   {
-    "RankId": 7,
-    "Name": "A",
-    "Identifier": "a"
+    "RankId": 5,
+    "Name": "C",
+    "Identifier": "c"
+  },
+  {
+    "RankId": 4,
+    "Name": "D",
+    "Identifier": "d"
+  },
+  {
+    "RankId": 3,
+    "Name": "E",
+    "Identifier": "e"
+  },
+  {
+    "RankId": 2,
+    "Name": "F",
+    "Identifier": "f"
+  },
+  {
+    "RankId": 1,
+    "Name": "G",
+    "Identifier": "g"
   },
   {
     "RankId": 8,
@@ -43,10 +48,5 @@
     "RankId": 9,
     "Name": "X",
     "Identifier": "x"
-  },
-  {
-    "RankId": 10,
-    "Name": "Any",
-    "Identifier": "any"
   }
 ]

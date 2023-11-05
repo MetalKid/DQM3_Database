@@ -1,18 +1,8 @@
 [
   {
-    "FamilyId": 1,
-    "Name": "Slime",
-    "Identifier": "slime"
-  },
-  {
-    "FamilyId": 2,
-    "Name": "Dragon",
-    "Identifier": "dragon"
-  },
-  {
-    "FamilyId": 3,
-    "Name": "Nature",
-    "Identifier": "nature"
+    "FamilyId": 8,
+    "Name": "???",
+    "Identifier": "boss"
   },
   {
     "FamilyId": 4,
@@ -20,23 +10,33 @@
     "Identifier": "beast"
   },
   {
-    "FamilyId": 5,
-    "Name": "Material",
-    "Identifier": "material"
-  },
-  {
     "FamilyId": 6,
     "Name": "Demon",
     "Identifier": "demon"
   },
   {
+    "FamilyId": 2,
+    "Name": "Dragon",
+    "Identifier": "dragon"
+  },
+  {
+    "FamilyId": 5,
+    "Name": "Material",
+    "Identifier": "material"
+  },
+  {
+    "FamilyId": 3,
+    "Name": "Nature",
+    "Identifier": "nature"
+  },
+  {
+    "FamilyId": 1,
+    "Name": "Slime",
+    "Identifier": "slime"
+  },
+  {
     "FamilyId": 7,
     "Name": "Undead",
     "Identifier": "undead"
-  },
-  {
-    "FamilyId": 8,
-    "Name": "???",
-    "Identifier": "boss"
   }
 ]

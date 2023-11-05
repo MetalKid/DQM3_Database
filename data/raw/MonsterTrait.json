@@ -5038,5 +5038,747 @@
     "SizeId": 2,
     "TraitId": 76,
     "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 726,
+    "MonsterId": 124,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 727,
+    "MonsterId": 124,
+    "SizeId": 2,
+    "TraitId": 60,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 728,
+    "MonsterId": 124,
+    "SizeId": 2,
+    "TraitId": 96,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 729,
+    "MonsterId": 127,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 730,
+    "MonsterId": 127,
+    "SizeId": 2,
+    "TraitId": 87,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 731,
+    "MonsterId": 127,
+    "SizeId": 2,
+    "TraitId": 97,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 732,
+    "MonsterId": 129,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 733,
+    "MonsterId": 129,
+    "SizeId": 2,
+    "TraitId": 86,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 734,
+    "MonsterId": 129,
+    "SizeId": 2,
+    "TraitId": 97,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 735,
+    "MonsterId": 131,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 736,
+    "MonsterId": 131,
+    "SizeId": 2,
+    "TraitId": 67,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 737,
+    "MonsterId": 131,
+    "SizeId": 2,
+    "TraitId": 75,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 738,
+    "MonsterId": 135,
+    "SizeId": 2,
+    "TraitId": 2,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 739,
+    "MonsterId": 135,
+    "SizeId": 2,
+    "TraitId": 35,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 740,
+    "MonsterId": 135,
+    "SizeId": 2,
+    "TraitId": 118,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 741,
+    "MonsterId": 137,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 742,
+    "MonsterId": 137,
+    "SizeId": 2,
+    "TraitId": 26,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 743,
+    "MonsterId": 137,
+    "SizeId": 2,
+    "TraitId": 14,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 744,
+    "MonsterId": 138,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 745,
+    "MonsterId": 138,
+    "SizeId": 2,
+    "TraitId": 230,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 746,
+    "MonsterId": 138,
+    "SizeId": 2,
+    "TraitId": 90,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 747,
+    "MonsterId": 150,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 748,
+    "MonsterId": 150,
+    "SizeId": 2,
+    "TraitId": 56,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 749,
+    "MonsterId": 150,
+    "SizeId": 2,
+    "TraitId": 83,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 750,
+    "MonsterId": 185,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 751,
+    "MonsterId": 185,
+    "SizeId": 2,
+    "TraitId": 62,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 752,
+    "MonsterId": 185,
+    "SizeId": 2,
+    "TraitId": 48,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 753,
+    "MonsterId": 220,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 754,
+    "MonsterId": 220,
+    "SizeId": 2,
+    "TraitId": 115,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 755,
+    "MonsterId": 220,
+    "SizeId": 2,
+    "TraitId": 80,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 756,
+    "MonsterId": 139,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 757,
+    "MonsterId": 139,
+    "SizeId": 2,
+    "TraitId": 74,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 758,
+    "MonsterId": 139,
+    "SizeId": 2,
+    "TraitId": 97,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 759,
+    "MonsterId": 141,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 761,
+    "MonsterId": 142,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 762,
+    "MonsterId": 142,
+    "SizeId": 2,
+    "TraitId": 7,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 763,
+    "MonsterId": 142,
+    "SizeId": 2,
+    "TraitId": 35,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 764,
+    "MonsterId": 147,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 765,
+    "MonsterId": 147,
+    "SizeId": 2,
+    "TraitId": 42,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 766,
+    "MonsterId": 147,
+    "SizeId": 2,
+    "TraitId": 26,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 767,
+    "MonsterId": 149,
+    "SizeId": 2,
+    "TraitId": 2,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 768,
+    "MonsterId": 149,
+    "SizeId": 2,
+    "TraitId": 40,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 769,
+    "MonsterId": 149,
+    "SizeId": 2,
+    "TraitId": 110,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 770,
+    "MonsterId": 151,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 771,
+    "MonsterId": 151,
+    "SizeId": 2,
+    "TraitId": 12,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 772,
+    "MonsterId": 151,
+    "SizeId": 2,
+    "TraitId": 93,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 773,
+    "MonsterId": 154,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 774,
+    "MonsterId": 154,
+    "SizeId": 2,
+    "TraitId": 11,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 775,
+    "MonsterId": 154,
+    "SizeId": 2,
+    "TraitId": 45,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 776,
+    "MonsterId": 155,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 777,
+    "MonsterId": 155,
+    "SizeId": 2,
+    "TraitId": 78,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 778,
+    "MonsterId": 155,
+    "SizeId": 2,
+    "TraitId": 5,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 779,
+    "MonsterId": 158,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 780,
+    "MonsterId": 158,
+    "SizeId": 2,
+    "TraitId": 7,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 781,
+    "MonsterId": 158,
+    "SizeId": 2,
+    "TraitId": 36,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 782,
+    "MonsterId": 160,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 783,
+    "MonsterId": 160,
+    "SizeId": 2,
+    "TraitId": 13,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 784,
+    "MonsterId": 160,
+    "SizeId": 2,
+    "TraitId": 87,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 785,
+    "MonsterId": 164,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 786,
+    "MonsterId": 164,
+    "SizeId": 2,
+    "TraitId": 20,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 787,
+    "MonsterId": 164,
+    "SizeId": 2,
+    "TraitId": 118,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 788,
+    "MonsterId": 166,
+    "SizeId": 2,
+    "TraitId": 2,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 789,
+    "MonsterId": 166,
+    "SizeId": 2,
+    "TraitId": 41,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 790,
+    "MonsterId": 166,
+    "SizeId": 2,
+    "TraitId": 20,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 791,
+    "MonsterId": 167,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 792,
+    "MonsterId": 167,
+    "SizeId": 2,
+    "TraitId": 99,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 793,
+    "MonsterId": 167,
+    "SizeId": 2,
+    "TraitId": 20,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 794,
+    "MonsterId": 169,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 795,
+    "MonsterId": 169,
+    "SizeId": 2,
+    "TraitId": 74,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 796,
+    "MonsterId": 169,
+    "SizeId": 2,
+    "TraitId": 84,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 797,
+    "MonsterId": 171,
+    "SizeId": 2,
+    "TraitId": 2,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 798,
+    "MonsterId": 171,
+    "SizeId": 2,
+    "TraitId": 84,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 799,
+    "MonsterId": 171,
+    "SizeId": 2,
+    "TraitId": 42,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 800,
+    "MonsterId": 175,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 801,
+    "MonsterId": 175,
+    "SizeId": 2,
+    "TraitId": 17,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 802,
+    "MonsterId": 175,
+    "SizeId": 2,
+    "TraitId": 67,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 803,
+    "MonsterId": 179,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 804,
+    "MonsterId": 179,
+    "SizeId": 2,
+    "TraitId": 99,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 805,
+    "MonsterId": 179,
+    "SizeId": 2,
+    "TraitId": 39,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 806,
+    "MonsterId": 186,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 807,
+    "MonsterId": 186,
+    "SizeId": 2,
+    "TraitId": 81,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 808,
+    "MonsterId": 186,
+    "SizeId": 2,
+    "TraitId": 97,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 809,
+    "MonsterId": 188,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 810,
+    "MonsterId": 188,
+    "SizeId": 2,
+    "TraitId": 84,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 811,
+    "MonsterId": 188,
+    "SizeId": 2,
+    "TraitId": 26,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 812,
+    "MonsterId": 189,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 813,
+    "MonsterId": 189,
+    "SizeId": 2,
+    "TraitId": 87,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 814,
+    "MonsterId": 189,
+    "SizeId": 2,
+    "TraitId": 76,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 815,
+    "MonsterId": 191,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 816,
+    "MonsterId": 191,
+    "SizeId": 2,
+    "TraitId": 62,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 817,
+    "MonsterId": 191,
+    "SizeId": 2,
+    "TraitId": 65,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 818,
+    "MonsterId": 195,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 819,
+    "MonsterId": 195,
+    "SizeId": 2,
+    "TraitId": 39,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 820,
+    "MonsterId": 195,
+    "SizeId": 2,
+    "TraitId": 97,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 821,
+    "MonsterId": 198,
+    "SizeId": 2,
+    "TraitId": 2,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 822,
+    "MonsterId": 198,
+    "SizeId": 2,
+    "TraitId": 231,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 823,
+    "MonsterId": 198,
+    "SizeId": 2,
+    "TraitId": 111,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 824,
+    "MonsterId": 199,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 825,
+    "MonsterId": 199,
+    "SizeId": 2,
+    "TraitId": 43,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 826,
+    "MonsterId": 199,
+    "SizeId": 2,
+    "TraitId": 72,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 827,
+    "MonsterId": 202,
+    "SizeId": 2,
+    "TraitId": 3,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 828,
+    "MonsterId": 202,
+    "SizeId": 2,
+    "TraitId": 17,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 829,
+    "MonsterId": 202,
+    "SizeId": 2,
+    "TraitId": 97,
+    "UnlockLevel": 60
+  },
+  {
+    "MonsterTraitId": 830,
+    "MonsterId": 203,
+    "SizeId": 2,
+    "TraitId": 2,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 831,
+    "MonsterId": 203,
+    "SizeId": 2,
+    "TraitId": 40,
+    "UnlockLevel": 1
+  },
+  {
+    "MonsterTraitId": 832,
+    "MonsterId": 203,
+    "SizeId": 2,
+    "TraitId": 91,
+    "UnlockLevel": 60
   }
 ]

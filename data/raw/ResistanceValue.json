@@ -1,10 +1,17 @@
 [
   {
-    "ResistanceValueId": 1,
-    "Name": "Weak",
-    "Identifier": "weak",
-    "AmountMin": -25,
-    "AmountMax": -1
+    "ResistanceValueId": 6,
+    "Name": "Absorb",
+    "Identifier": "absorb",
+    "AmountMin": 101,
+    "AmountMax": 200
+  },
+  {
+    "ResistanceValueId": 5,
+    "Name": "Immune",
+    "Identifier": "immune",
+    "AmountMin": 100,
+    "AmountMax": 100
   },
   {
     "ResistanceValueId": 2,
@@ -28,17 +35,10 @@
     "AmountMax": 99
   },
   {
-    "ResistanceValueId": 5,
-    "Name": "Immune",
-    "Identifier": "immune",
-    "AmountMin": 100,
-    "AmountMax": 100
-  },
-  {
-    "ResistanceValueId": 6,
-    "Name": "Absorb",
-    "Identifier": "absorb",
-    "AmountMin": 101,
-    "AmountMax": 200
+    "ResistanceValueId": 1,
+    "Name": "Weak",
+    "Identifier": "weak",
+    "AmountMin": -25,
+    "AmountMax": -1
   }
 ]

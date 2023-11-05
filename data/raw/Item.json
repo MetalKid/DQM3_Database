@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "ItemId": 5,
+    "Name": "Antidotal Herb",
+    "Identifier": "antidotal-herb",
+    "Description": "Cures a single ally of poison and severe poison",
+    "ItemTypeId": 1,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 10,
+    "Name": "Antimagic Powder",
+    "Identifier": "antimagic-powder",
+    "Description": "Prevents a single enemy from using magic spells.",
+    "ItemTypeId": 2,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 11,
+    "Name": "Bad Medicine",
+    "Identifier": "bad-medicine",
+    "Description": "Inflicts a single enemy with a range of debilitating effects.",
+    "ItemTypeId": 2,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 4,
+    "Name": "Magic Water",
+    "Identifier": "magic-water",
+    "Description": "Restores 30 MP to a single ally.",
+    "ItemTypeId": 1,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 1,
+    "Name": "Medicinal Herb",
+    "Identifier": "medicinal-herb",
+    "Description": "Restores 30 HP to a single ally.",
+    "ItemTypeId": 1,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 6,
+    "Name": "Moonwort Bulb",
+    "Identifier": "moonwort-bulb",
+    "Description": "Cures a single ally of paralysis.",
+    "ItemTypeId": 1,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 12,
+    "Name": "Oomph Powder",
+    "Identifier": "oomph-powder",
+    "Description": "Greatly increases the attack of a single ally for 2 to 5 turns.",
+    "ItemTypeId": 2,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 8,
+    "Name": "Panacea",
+    "Identifier": "panacea",
+    "Description": "Cures a single ally of any ailments that afflict them.",
+    "ItemTypeId": 1,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 13,
+    "Name": "Pretty Pebble",
+    "Identifier": "pretty-pebble",
+    "Description": "A small stone that can sting quite sharply if thrown with enough force. Inflicts minor damage to a single enemy when used in battle.",
+    "ItemTypeId": 2,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 3,
+    "Name": "Single Phial",
+    "Identifier": "single-phial",
+    "Description": "Restores 10 MP to a single ally.",
+    "ItemTypeId": 1,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 7,
+    "Name": "Smelling Salts",
+    "Identifier": "smelling-salts",
+    "Description": "Cures a single ally of confusion and sleep.",
+    "ItemTypeId": 1,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 2,
+    "Name": "Strong Medicine",
+    "Identifier": "strong-medicine",
+    "Description": "Restores 60 HP to a single ally.",
+    "ItemTypeId": 1,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 9,
+    "Name": "Yggdrasil Leaf",
+    "Identifier": "Yggdrasil-leaf",
+    "Description": "Revives a single fallen ally and restores half of their HP.",
+    "ItemTypeId": 1,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  }
+]

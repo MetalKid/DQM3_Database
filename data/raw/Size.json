@@ -1,14 +1,14 @@
 [
   {
-    "SizeId": 1,
-    "Name": "Small",
-    "Identifier": "small",
-    "ShortName": "S"
-  },
-  {
     "SizeId": 2,
     "Name": "Large",
     "Identifier": "large",
     "ShortName": "L"
+  },
+  {
+    "SizeId": 1,
+    "Name": "Small",
+    "Identifier": "small",
+    "ShortName": "S"
   }
 ]

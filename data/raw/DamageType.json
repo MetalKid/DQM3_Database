@@ -1,43 +1,18 @@
 [
   {
-    "DamageTypeId": 1,
-    "Name": "Fire",
-    "Identifier": "fire"
+    "DamageTypeId": 12,
+    "Name": "Antimagic",
+    "Identifier": "antimagic"
   },
   {
-    "DamageTypeId": 2,
-    "Name": "Water",
-    "Identifier": "water"
+    "DamageTypeId": 11,
+    "Name": "Bedazzlement",
+    "Identifier": "bedazzlement"
   },
   {
-    "DamageTypeId": 3,
-    "Name": "Wind",
-    "Identifier": "wind"
-  },
-  {
-    "DamageTypeId": 4,
-    "Name": "Earth",
-    "Identifier": "earth"
-  },
-  {
-    "DamageTypeId": 5,
-    "Name": "Explosions",
-    "Identifier": "explosions"
-  },
-  {
-    "DamageTypeId": 6,
-    "Name": "Ice",
-    "Identifier": "ice"
-  },
-  {
-    "DamageTypeId": 7,
-    "Name": "Electricity",
-    "Identifier": "electricity"
-  },
-  {
-    "DamageTypeId": 8,
-    "Name": "Light",
-    "Identifier": "light"
+    "DamageTypeId": 14,
+    "Name": "Confusion",
+    "Identifier": "confusion"
   },
   {
     "DamageTypeId": 9,
@@ -50,14 +25,39 @@
     "Identifier": "debilitation"
   },
   {
-    "DamageTypeId": 11,
-    "Name": "Bedazzlement",
-    "Identifier": "bedazzlement"
+    "DamageTypeId": 4,
+    "Name": "Earth",
+    "Identifier": "earth"
   },
   {
-    "DamageTypeId": 12,
-    "Name": "Antimagic",
-    "Identifier": "antimagic"
+    "DamageTypeId": 7,
+    "Name": "Electricity",
+    "Identifier": "electricity"
+  },
+  {
+    "DamageTypeId": 5,
+    "Name": "Explosions",
+    "Identifier": "explosions"
+  },
+  {
+    "DamageTypeId": 1,
+    "Name": "Fire",
+    "Identifier": "fire"
+  },
+  {
+    "DamageTypeId": 6,
+    "Name": "Ice",
+    "Identifier": "ice"
+  },
+  {
+    "DamageTypeId": 19,
+    "Name": "Instant Death",
+    "Identifier": "instant-death"
+  },
+  {
+    "DamageTypeId": 8,
+    "Name": "Light",
+    "Identifier": "light"
   },
   {
     "DamageTypeId": 13,
@@ -65,24 +65,9 @@
     "Identifier": "mp-absorption"
   },
   {
-    "DamageTypeId": 14,
-    "Name": "Confusion",
-    "Identifier": "confusion"
-  },
-  {
-    "DamageTypeId": 15,
-    "Name": "Sleep",
-    "Identifier": "sleep"
-  },
-  {
     "DamageTypeId": 16,
     "Name": "Paralysis",
     "Identifier": "paralysis"
-  },
-  {
-    "DamageTypeId": 17,
-    "Name": "Stun",
-    "Identifier": "stun"
   },
   {
     "DamageTypeId": 18,
@@ -90,8 +75,23 @@
     "Identifier": "poison"
   },
   {
-    "DamageTypeId": 19,
-    "Name": "Instant Death",
-    "Identifier": "instant-death"
+    "DamageTypeId": 15,
+    "Name": "Sleep",
+    "Identifier": "sleep"
+  },
+  {
+    "DamageTypeId": 17,
+    "Name": "Stun",
+    "Identifier": "stun"
+  },
+  {
+    "DamageTypeId": 2,
+    "Name": "Water",
+    "Identifier": "water"
+  },
+  {
+    "DamageTypeId": 3,
+    "Name": "Wind",
+    "Identifier": "wind"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "SeasonId": 3,
+    "Name": "Fall",
+    "Identifier": "fall"
+  },
+  {
     "SeasonId": 1,
     "Name": "Spring",
     "Identifier": "spring"
@@ -8,11 +13,6 @@
     "SeasonId": 2,
     "Name": "Summer",
     "Identifier": "summer"
-  },
-  {
-    "SeasonId": 3,
-    "Name": "Fall",
-    "Identifier": "fall"
   },
   {
     "SeasonId": 4,
