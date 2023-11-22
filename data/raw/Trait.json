@@ -3,7 +3,7 @@
     "TraitId": 69,
     "Name": "Absorbent Touch",
     "Identifier": "absorbent-touch",
-    "Description": "Regular attacks sometimes absorb a portion of the enemy\u0027s MP."
+    "Description": "Regular attacks sometimes absorb a portion of the enemy's MP."
   },
   {
     "TraitId": 40,
@@ -25,79 +25,79 @@
   },
   {
     "TraitId": 160,
-    "Name": "Agility \u002B12",
+    "Name": "Agility +12",
     "Identifier": "agility-12",
     "Description": "Raises agility by 12."
   },
   {
     "TraitId": 161,
-    "Name": "Agility \u002B16",
+    "Name": "Agility +16",
     "Identifier": "agility-16",
     "Description": "Raises agility by 16."
   },
   {
     "TraitId": 211,
-    "Name": "Agility \u002B2",
+    "Name": "Agility +2",
     "Identifier": "agility-2",
     "Description": "Raises agility by 2."
   },
   {
     "TraitId": 206,
-    "Name": "Agility \u002B20",
+    "Name": "Agility +20",
     "Identifier": "agility-20",
     "Description": "Raises agility by 20."
   },
   {
     "TraitId": 162,
-    "Name": "Agility \u002B24",
+    "Name": "Agility +24",
     "Identifier": "agility-24",
     "Description": "Raises agility by 24."
   },
   {
     "TraitId": 213,
-    "Name": "Agility \u002B30",
+    "Name": "Agility +30",
     "Identifier": "agility-30",
     "Description": "Raises agility by 30."
   },
   {
     "TraitId": 163,
-    "Name": "Agility \u002B32",
+    "Name": "Agility +32",
     "Identifier": "agility-32",
     "Description": "Raises agility by 32."
   },
   {
     "TraitId": 214,
-    "Name": "Agility \u002B36",
+    "Name": "Agility +36",
     "Identifier": "agility-36",
     "Description": "Raises agility by 36."
   },
   {
     "TraitId": 158,
-    "Name": "Agility \u002B4",
+    "Name": "Agility +4",
     "Identifier": "agility-4",
     "Description": "Raises agility by 4."
   },
   {
     "TraitId": 164,
-    "Name": "Agility \u002B40",
+    "Name": "Agility +40",
     "Identifier": "agility-40",
     "Description": "Raises agility by 40."
   },
   {
     "TraitId": 165,
-    "Name": "Agility \u002B48",
+    "Name": "Agility +48",
     "Identifier": "agility-48",
     "Description": "Raises agility by 48."
   },
   {
     "TraitId": 166,
-    "Name": "Agility \u002B64",
+    "Name": "Agility +64",
     "Identifier": "agility-64",
     "Description": "Raises agility by 64."
   },
   {
     "TraitId": 159,
-    "Name": "Agility \u002B8",
+    "Name": "Agility +8",
     "Identifier": "agility-8",
     "Description": "Raises agility by 8."
   },
@@ -109,79 +109,79 @@
   },
   {
     "TraitId": 142,
-    "Name": "Attack \u002B12",
+    "Name": "Attack +12",
     "Identifier": "attack-12",
     "Description": "Raises attack by 12."
   },
   {
     "TraitId": 143,
-    "Name": "Attack \u002B16",
+    "Name": "Attack +16",
     "Identifier": "attack-16",
     "Description": "Raises attack by 16."
   },
   {
     "TraitId": 226,
-    "Name": "Attack \u002B2",
+    "Name": "Attack +2",
     "Identifier": "attack-2",
     "Description": "Raises attack by 2."
   },
   {
     "TraitId": 222,
-    "Name": "Attack \u002B20",
+    "Name": "Attack +20",
     "Identifier": "attack-20",
     "Description": "Raises attack by 20."
   },
   {
     "TraitId": 144,
-    "Name": "Attack \u002B24",
+    "Name": "Attack +24",
     "Identifier": "attack-24",
     "Description": "Raises attack by 24."
   },
   {
     "TraitId": 228,
-    "Name": "Attack \u002B30",
+    "Name": "Attack +30",
     "Identifier": "attack-30",
     "Description": "Raises attack by 30."
   },
   {
     "TraitId": 145,
-    "Name": "Attack \u002B32",
+    "Name": "Attack +32",
     "Identifier": "attack-32",
     "Description": "Raises attack by 32."
   },
   {
     "TraitId": 229,
-    "Name": "Attack \u002B36",
+    "Name": "Attack +36",
     "Identifier": "attack-36",
     "Description": "Raises attack by 36."
   },
   {
     "TraitId": 140,
-    "Name": "Attack \u002B4",
+    "Name": "Attack +4",
     "Identifier": "attack-4",
     "Description": "Raises attack by 4."
   },
   {
     "TraitId": 146,
-    "Name": "Attack \u002B40",
+    "Name": "Attack +40",
     "Identifier": "attack-40",
     "Description": "Raises attack by 40."
   },
   {
     "TraitId": 147,
-    "Name": "Attack \u002B48",
+    "Name": "Attack +48",
     "Identifier": "attack-48",
     "Description": "Raises attack by 48"
   },
   {
     "TraitId": 148,
-    "Name": "Attack \u002B64",
+    "Name": "Attack +64",
     "Identifier": "attack-64",
     "Description": "Raises attack by 64."
   },
   {
     "TraitId": 141,
-    "Name": "Attack \u002B8",
+    "Name": "Attack +8",
     "Identifier": "attack-8",
     "Description": "Raises attack by 8."
   },
@@ -325,73 +325,73 @@
   },
   {
     "TraitId": 151,
-    "Name": "Defence \u002B12",
+    "Name": "Defence +12",
     "Identifier": "defence-12",
     "Description": "Raises defence by 12."
   },
   {
     "TraitId": 152,
-    "Name": "Defence \u002B16",
+    "Name": "Defence +16",
     "Identifier": "defence-16",
     "Description": "Raises defence by 16."
   },
   {
     "TraitId": 153,
-    "Name": "Defence \u002B24",
+    "Name": "Defence +24",
     "Identifier": "defence-24",
     "Description": "Raises defence by 24."
   },
   {
     "TraitId": 154,
-    "Name": "Defence \u002B32",
+    "Name": "Defence +32",
     "Identifier": "defence-32",
     "Description": "Raises defence by 32."
   },
   {
     "TraitId": 149,
-    "Name": "Defence \u002B4",
+    "Name": "Defence +4",
     "Identifier": "defence-4",
     "Description": "Raises defence by 4."
   },
   {
     "TraitId": 155,
-    "Name": "Defence \u002B40",
+    "Name": "Defence +40",
     "Identifier": "defence-40",
     "Description": "Raises defence by 40."
   },
   {
     "TraitId": 156,
-    "Name": "Defence \u002B48",
+    "Name": "Defence +48",
     "Identifier": "defence-48",
     "Description": "Raises defence by 48."
   },
   {
     "TraitId": 215,
-    "Name": "Defence \u002B60",
+    "Name": "Defence +60",
     "Identifier": "defence-60",
     "Description": "Raises defence by 60."
   },
   {
     "TraitId": 157,
-    "Name": "Defence \u002B64",
+    "Name": "Defence +64",
     "Identifier": "defence-64",
     "Description": "Raises defence by 64."
   },
   {
     "TraitId": 216,
-    "Name": "Defence \u002B72",
+    "Name": "Defence +72",
     "Identifier": "defence-72",
     "Description": "Raises defence by 72."
   },
   {
     "TraitId": 150,
-    "Name": "Defence \u002B8",
+    "Name": "Defence +8",
     "Identifier": "defence-8",
     "Description": "Raises defence by 8."
   },
   {
     "TraitId": 217,
-    "Name": "Defence \u002B96",
+    "Name": "Defence +96",
     "Identifier": "defence-96",
     "Description": "Raises defence by 96."
   },
@@ -583,157 +583,157 @@
   },
   {
     "TraitId": 124,
-    "Name": "Max. HP \u002B12",
+    "Name": "Max. HP +12",
     "Identifier": "max-hp-12",
     "Description": "Raises max. HP by 12."
   },
   {
     "TraitId": 125,
-    "Name": "Max. HP \u002B16",
+    "Name": "Max. HP +16",
     "Identifier": "max-hp-16",
     "Description": "Raises max. HP by 16."
   },
   {
     "TraitId": 220,
-    "Name": "Max. HP \u002B2",
+    "Name": "Max. HP +2",
     "Identifier": "max-hp-2",
     "Description": "Raises max. HP by 2."
   },
   {
     "TraitId": 209,
-    "Name": "Max. HP \u002B20",
+    "Name": "Max. HP +20",
     "Identifier": "max-hp-20",
     "Description": "Raises max. HP by 20."
   },
   {
     "TraitId": 126,
-    "Name": "Max. HP \u002B24",
+    "Name": "Max. HP +24",
     "Identifier": "max-hp-24",
     "Description": "Raises max. HP by 24."
   },
   {
     "TraitId": 221,
-    "Name": "Max. HP \u002B30",
+    "Name": "Max. HP +30",
     "Identifier": "max-hp-30",
     "Description": "Raises max. HP by 30."
   },
   {
     "TraitId": 127,
-    "Name": "Max. HP \u002B32",
+    "Name": "Max. HP +32",
     "Identifier": "max-hp-32",
     "Description": "Raises max. HP by 32."
   },
   {
     "TraitId": 210,
-    "Name": "Max. HP \u002B36",
+    "Name": "Max. HP +36",
     "Identifier": "max-hp-36",
     "Description": "Raises max. HP by 36."
   },
   {
     "TraitId": 122,
-    "Name": "Max. HP \u002B4",
+    "Name": "Max. HP +4",
     "Identifier": "max-hp-4",
     "Description": "Raises max. HP by 4."
   },
   {
     "TraitId": 128,
-    "Name": "Max. HP \u002B40",
+    "Name": "Max. HP +40",
     "Identifier": "max-hp-40",
     "Description": "Raises max. HP by 40."
   },
   {
     "TraitId": 129,
-    "Name": "Max. HP \u002B48",
+    "Name": "Max. HP +48",
     "Identifier": "max-hp-48",
     "Description": "Raises max. HP by 48."
   },
   {
     "TraitId": 130,
-    "Name": "Max. HP \u002B64",
+    "Name": "Max. HP +64",
     "Identifier": "max-hp-64",
     "Description": "Raises max. HP by 64."
   },
   {
     "TraitId": 123,
-    "Name": "Max. HP \u002B8",
+    "Name": "Max. HP +8",
     "Identifier": "max-hp-8",
     "Description": "Raises max. HP by 8."
   },
   {
     "TraitId": 133,
-    "Name": "Max. MP \u002B12",
+    "Name": "Max. MP +12",
     "Identifier": "max-mp-12",
     "Description": "Raises max. HP by 12."
   },
   {
     "TraitId": 134,
-    "Name": "Max. MP \u002B16",
+    "Name": "Max. MP +16",
     "Identifier": "max-mp-16",
     "Description": "Raises max. HP by 16."
   },
   {
     "TraitId": 207,
-    "Name": "Max. MP \u002B20",
+    "Name": "Max. MP +20",
     "Identifier": "max-mp-20",
     "Description": "Raises max. MP by 20."
   },
   {
     "TraitId": 135,
-    "Name": "Max. MP \u002B24",
+    "Name": "Max. MP +24",
     "Identifier": "max-mp-24",
     "Description": "Raises max. HP by 24."
   },
   {
     "TraitId": 136,
-    "Name": "Max. MP \u002B32",
+    "Name": "Max. MP +32",
     "Identifier": "max-mp-32",
     "Description": "Raises max. HP by 32."
   },
   {
     "TraitId": 131,
-    "Name": "Max. MP \u002B4",
+    "Name": "Max. MP +4",
     "Identifier": "max-mp-4",
     "Description": "Raises max. HP by 4."
   },
   {
     "TraitId": 137,
-    "Name": "Max. MP \u002B40",
+    "Name": "Max. MP +40",
     "Identifier": "max-mp-40",
     "Description": "Raises max. HP by 40."
   },
   {
     "TraitId": 138,
-    "Name": "Max. MP \u002B48",
+    "Name": "Max. MP +48",
     "Identifier": "max-mp-48",
     "Description": "Raises max. HP by 48."
   },
   {
     "TraitId": 218,
-    "Name": "Max. MP \u002B60",
+    "Name": "Max. MP +60",
     "Identifier": "max-mp-60",
     "Description": "Raises max. MP by 60."
   },
   {
     "TraitId": 139,
-    "Name": "Max. MP \u002B64",
+    "Name": "Max. MP +64",
     "Identifier": "max-mp-64",
     "Description": "Raises max. HP by 64."
   },
   {
     "TraitId": 208,
-    "Name": "Max. MP \u002B72",
+    "Name": "Max. MP +72",
     "Identifier": "max-mp-72",
     "Description": "Raises max. MP by 72."
   },
   {
     "TraitId": 132,
-    "Name": "Max. MP \u002B8",
+    "Name": "Max. MP +8",
     "Identifier": "max-mp-8",
     "Description": "Raises max. HP by 8."
   },
   {
     "TraitId": 219,
-    "Name": "Max. MP \u002B96",
+    "Name": "Max. MP +96",
     "Identifier": "max-mp-96",
     "Description": "Raises max. MP by 96."
   },
@@ -777,7 +777,7 @@
     "TraitId": 87,
     "Name": "Parting Gift",
     "Identifier": "parting-gift",
-    "Description": "Inflicts damage back on all enemies when a killer blow is received. The amount inflicted is proportional to the excess damage suffered after the monster\u0027s HP are reduced to zero."
+    "Description": "Inflicts damage back on all enemies when a killer blow is received. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero."
   },
   {
     "TraitId": 98,
@@ -867,7 +867,7 @@
     "TraitId": 86,
     "Name": "Snappy Comeback",
     "Identifier": "snappy-comeback",
-    "Description": "Inflicts damage back on an enemy that lands a killer blow. The amount inflicted is proportional to the excess damage suffered after the monster\u0027s HP are reduced to zero."
+    "Description": "Inflicts damage back on an enemy that lands a killer blow. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero."
   },
   {
     "TraitId": 80,
@@ -951,25 +951,25 @@
     "TraitId": 2,
     "Name": "Tactical Commander",
     "Identifier": "tactical-commander",
-    "Description": "Performs 2 actions in a row. The number of actions is not affected if you don\u0027t issue specific orders. Slightly lowers the monster\u0027s attributes."
+    "Description": "Performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes."
   },
   {
     "TraitId": 3,
     "Name": "Tactical Genius",
     "Identifier": "tactical-genius",
-    "Description": "Sometimes performs 2 or 3 actions in a row. The number of actions is not affected if you don\u0027t issue specific orders. Slightly lowers the monster\u0027s attributes."
+    "Description": "Sometimes performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes."
   },
   {
     "TraitId": 4,
     "Name": "Tactical Titan",
     "Identifier": "tactical-titan",
-    "Description": "Performs 2 or 3 actions in a row. The number of actions is not affected if you don\u0027t issue specific orders. Lowers the monster\u0027s attribute."
+    "Description": "Performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Lowers the monster's attribute."
   },
   {
     "TraitId": 1,
     "Name": "Tactical Trooper",
     "Identifier": "tactical-trooper",
-    "Description": "Sometimes performs 2 actions in a row. The number of actions is not affected if you don\u0027t issue specific orders. Very slightly lowers the monster\u0027s attributes."
+    "Description": "Sometimes performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Very slightly lowers the monster's attributes."
   },
   {
     "TraitId": 91,
@@ -991,43 +991,43 @@
   },
   {
     "TraitId": 56,
-    "Name": "\u00DCber Beastsbane",
+    "Name": "Über Beastsbane",
     "Identifier": "uber-beastsbane",
     "Description": "Greatly increases damage inflicted on monsters from the beast family and somewhat lowers all resistances."
   },
   {
     "TraitId": 231,
-    "Name": "\u00DCber Bossesbane",
+    "Name": "Über Bossesbane",
     "Identifier": "uber-bossesbane",
     "Description": "Greatly increases damage inflicted on monsters from the ??? family and somewhat lowers all resistances."
   },
   {
     "TraitId": 55,
-    "Name": "\u00DCber Dragonsbane",
+    "Name": "Über Dragonsbane",
     "Identifier": "uber-dragonsbane",
     "Description": "Greatly increases damage inflicted on monsters from the dragon family and somewhat lowers all resistances."
   },
   {
     "TraitId": 61,
-    "Name": "\u00DCber Matterbane",
+    "Name": "Über Matterbane",
     "Identifier": "uber-matterbane",
     "Description": "Greatly increases damage inflicted on monsters from the material family and somewhat lowers all resistances."
   },
   {
     "TraitId": 57,
-    "Name": "\u00DCber Naturesbane",
+    "Name": "Über Naturesbane",
     "Identifier": "uber-naturesbane",
     "Description": "Greatly increases damage inflicted on monsters from the nature family and somewhat lowers all resistances."
   },
   {
     "TraitId": 232,
-    "Name": "\u00DCber Slimesbane",
+    "Name": "Über Slimesbane",
     "Identifier": "ubber-slimesbane",
     "Description": "Greatly increases damage inflicted on monsters from the slime family and somewhat lowers all resistances."
   },
   {
     "TraitId": 60,
-    "Name": "\u00DCber Zombiesbane",
+    "Name": "Über Zombiesbane",
     "Identifier": "uber-zombiesbane",
     "Description": "Greatly increases damage inflicted on monsters from the undead family and somewhat lowers all resistances."
   },
@@ -1089,7 +1089,7 @@
     "TraitId": 111,
     "Name": "Ultra Crafty Debilitator",
     "Identifier": "ultra-crafty-debilitator",
-    "Description": "Makes it much easier to reduce an enemy\u0027s attack, defence, agility or wisdom."
+    "Description": "Makes it much easier to reduce an enemy's attack, defence, agility or wisdom."
   },
   {
     "TraitId": 102,
@@ -1273,73 +1273,73 @@
   },
   {
     "TraitId": 169,
-    "Name": "Wisdom \u002B12",
+    "Name": "Wisdom +12",
     "Identifier": "wisdom-12",
     "Description": "Raises wisdom by 12."
   },
   {
     "TraitId": 170,
-    "Name": "Wisdom \u002B16",
+    "Name": "Wisdom +16",
     "Identifier": "wisdom-16",
     "Description": "Raises wisdom by 16."
   },
   {
     "TraitId": 171,
-    "Name": "Wisdom \u002B24",
+    "Name": "Wisdom +24",
     "Identifier": "wisdom-24",
     "Description": "Raises wisdom by 24."
   },
   {
     "TraitId": 172,
-    "Name": "Wisdom \u002B32",
+    "Name": "Wisdom +32",
     "Identifier": "wisdom-32",
     "Description": "Raises wisdom by 32."
   },
   {
     "TraitId": 167,
-    "Name": "Wisdom \u002B4",
+    "Name": "Wisdom +4",
     "Identifier": "wisdom-4",
     "Description": "Raises wisdom by 4."
   },
   {
     "TraitId": 173,
-    "Name": "Wisdom \u002B40",
+    "Name": "Wisdom +40",
     "Identifier": "wisdom-40",
     "Description": "Raises wisdom by 40."
   },
   {
     "TraitId": 174,
-    "Name": "Wisdom \u002B48",
+    "Name": "Wisdom +48",
     "Identifier": "wisdom-48",
     "Description": "Raises wisdom by 48."
   },
   {
     "TraitId": 223,
-    "Name": "Wisdom \u002B60",
+    "Name": "Wisdom +60",
     "Identifier": "wisdom-60",
     "Description": "Raises wisdom by 60."
   },
   {
     "TraitId": 175,
-    "Name": "Wisdom \u002B64",
+    "Name": "Wisdom +64",
     "Identifier": "wisdom-64",
     "Description": "Raises wisdom by 64."
   },
   {
     "TraitId": 224,
-    "Name": "Wisdom \u002B72",
+    "Name": "Wisdom +72",
     "Identifier": "wisdom-72",
     "Description": "Raises wisdom by 72."
   },
   {
     "TraitId": 168,
-    "Name": "Wisdom \u002B8",
+    "Name": "Wisdom +8",
     "Identifier": "wisdom-8",
     "Description": "Raises wisdom by 8."
   },
   {
     "TraitId": 225,
-    "Name": "Wisdom \u002B96",
+    "Name": "Wisdom +96",
     "Identifier": "wisdom-96",
     "Description": "Raises wisdom by 96."
   },

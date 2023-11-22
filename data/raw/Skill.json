@@ -36,7 +36,7 @@
     "SkillId": 96,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
-    "Name": "Assassin\u0027s Stab",
+    "Name": "Assassin's Stab",
     "Identifier": "assassins-stab",
     "Description": "Damages a single enemy and occasionally causes instant death.",
     "MPCost": 8,
@@ -115,7 +115,7 @@
     "SkillTargetTypeId": 1,
     "Name": "Blunt",
     "Identifier": "blunt",
-    "Description": "Greatly decreases the attack of a single enemy for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Greatly decreases the attack of a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 6,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -302,7 +302,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Dazzle",
     "Identifier": "dazzle",
-    "Description": "Bedazzles all enemies for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Bedazzles all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -324,7 +324,7 @@
     "SkillTargetTypeId": 1,
     "Name": "Decelerate",
     "Identifier": "decelerate",
-    "Description": "Greatly decreases the agility of a single enemy for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Greatly decreases the agility of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -335,7 +335,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Deceleratle",
     "Identifier": "deceleratle",
-    "Description": "Decreases the agility of all enemies for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Decreases the agility of all enemies for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 4,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -346,7 +346,7 @@
     "SkillTargetTypeId": 5,
     "Name": "Deep Breath",
     "Identifier": "deep-breath",
-    "Description": "Inhales long and deep, raising the damage inflicted by the user\u0027s next breath attack.",
+    "Description": "Inhales long and deep, raising the damage inflicted by the user's next breath attack.",
     "MPCost": 0,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -379,7 +379,7 @@
     "SkillTargetTypeId": 1,
     "Name": "Dim",
     "Identifier": "dim",
-    "Description": "Greatly decreases the wisdom of a single enemy for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Greatly decreases the wisdom of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -390,7 +390,7 @@
     "SkillTargetTypeId": 5,
     "Name": "Dodgy Dance",
     "Identifier": "dodgy-dance",
-    "Description": "Raises the user\u0027s evation for 4 to 7 turns.",
+    "Description": "Raises the user's evation for 4 to 7 turns.",
     "MPCost": 1,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -434,7 +434,7 @@
     "SkillTargetTypeId": 7,
     "Name": "Fan Dango",
     "Identifier": "fan-dango",
-    "Description": "A dance that damages enemies at random, 3 or 4 times in total. The higher the user\u0027s agility, the greater the damage that will be inflicted.",
+    "Description": "A dance that damages enemies at random, 3 or 4 times in total. The higher the user's agility, the greater the damage that will be inflicted.",
     "MPCost": 8,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -456,7 +456,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Fizzle",
     "Identifier": "fizzle",
-    "Description": "Prevents all enemies from casting spells for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Prevents all enemies from casting spells for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
     "DamageTypeId": 12
@@ -544,7 +544,7 @@
     "SkillTargetTypeId": 1,
     "Name": "Fuddle",
     "Identifier": "fuddle",
-    "Description": "Confuses a single enemy for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Confuses a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 5,
     "MPCostTypeId": 1,
     "DamageTypeId": 14
@@ -577,7 +577,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Gigacross",
     "Identifier": "gigacross",
-    "Description": "An extreme sword attack that inflicts extreme electrical damage 2 times in a row on all enemies. The higher the user\u0027s level, the greater the damage that will be inflicted.",
+    "Description": "An extreme sword attack that inflicts extreme electrical damage 2 times in a row on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 80,
     "MPCostTypeId": 1,
     "DamageTypeId": 7
@@ -588,7 +588,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Gigagash",
     "Identifier": "gigagash",
-    "Description": "Inflicts outrageous electrical damage on all enemies. The higher the user\u0027s level, the greater the damage that will be inflicted.",
+    "Description": "Inflicts outrageous electrical damage on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 56,
     "MPCostTypeId": 1,
     "DamageTypeId": 7
@@ -676,7 +676,7 @@
     "SkillTargetTypeId": 8,
     "Name": "Hustle Dance",
     "Identifier": "hustle-dance",
-    "Description": "A dance that heals allies at random, 2 to 6 tiems in total. The higher the user\u0027s level, the greater the healing amount.",
+    "Description": "A dance that heals allies at random, 2 to 6 tiems in total. The higher the user's level, the greater the healing amount.",
     "MPCost": 40,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -742,7 +742,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Kablunt",
     "Identifier": "kablunt",
-    "Description": "Decreases the attack of all enemies for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Decreases the attack of all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 10,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -841,7 +841,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Kadim",
     "Identifier": "kadim",
-    "Description": "Decreases the wisdom of all enemies for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Decreases the wisdom of all enemies for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 4,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -874,7 +874,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Kafuddle",
     "Identifier": "kafuddle",
-    "Description": "Confuses all enemies for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Confuses all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 10,
     "MPCostTypeId": 1,
     "DamageTypeId": 14
@@ -885,7 +885,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Kamikazee",
     "Identifier": "kamikazee",
-    "Description": "Kills all enemies, but at the cost of the caster\u0027s life. The caster cannot be resurrected in the same battle. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Kills all enemies, but at the cost of the caster's life. The caster cannot be resurrected in the same battle. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 100,
     "MPCostTypeId": 2,
     "DamageTypeId": null
@@ -896,7 +896,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Kanumb",
     "Identifier": "kanumb",
-    "Description": "Paralyses all enemies for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Paralyses all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 15,
     "MPCostTypeId": 1,
     "DamageTypeId": 16
@@ -918,7 +918,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Kasap",
     "Identifier": "kasap",
-    "Description": "Decreases the defence of all enemie for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Decreases the defence of all enemie for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 4,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -951,7 +951,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Kasnooze",
     "Identifier": "kasnooze",
-    "Description": "Puts all enemies to sleep for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Puts all enemies to sleep for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
     "MPCostTypeId": 1,
     "DamageTypeId": 15
@@ -1006,7 +1006,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Katox",
     "Identifier": "katox",
-    "Description": "Poisons all enemies. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Poisons all enemies. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
     "MPCostTypeId": 1,
     "DamageTypeId": 18
@@ -1072,7 +1072,7 @@
     "SkillTargetTypeId": 4,
     "Name": "Kerplunk",
     "Identifier": "kerplunk",
-    "Description": "Heals or resurrects all allies, including reserves, but at the cost of the caster\u0027s life. The caster cannot be resurrected in the same battle.",
+    "Description": "Heals or resurrects all allies, including reserves, but at the cost of the caster's life. The caster cannot be resurrected in the same battle.",
     "MPCost": 100,
     "MPCostTypeId": 3,
     "DamageTypeId": null
@@ -1083,7 +1083,7 @@
     "SkillTargetTypeId": 4,
     "Name": "Kerplunk Dance",
     "Identifier": "kerplunk-dance",
-    "Description": "A dance that heals or resurrects all allies, including reserves, but at the cost of the user\u0027s life. The user cannot be resurrected in the same battle.",
+    "Description": "A dance that heals or resurrects all allies, including reserves, but at the cost of the user's life. The user cannot be resurrected in the same battle.",
     "MPCost": 100,
     "MPCostTypeId": 3,
     "DamageTypeId": null
@@ -1105,7 +1105,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Lightning",
     "Identifier": "lightning",
-    "Description": "Inflicts medium electrical damage on all enemies. The higher the user\u0027s level, the greater the damage that will be inflicted.",
+    "Description": "Inflicts medium electrical damage on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 12,
     "MPCostTypeId": 1,
     "DamageTypeId": 7
@@ -1237,7 +1237,7 @@
     "SkillTargetTypeId": 1,
     "Name": "Numb",
     "Identifier": "numb",
-    "Description": "Paralyses a single enemy for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Paralyses a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
     "MPCostTypeId": 1,
     "DamageTypeId": 16
@@ -1380,7 +1380,7 @@
     "SkillTargetTypeId": 1,
     "Name": "Sap",
     "Identifier": "sap",
-    "Description": "Greatly decreases the defence of a single enemy for 4 to 7 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Greatly decreases the defence of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -1402,7 +1402,7 @@
     "SkillTargetTypeId": 5,
     "Name": "Seethe",
     "Identifier": "seethe",
-    "Description": "Internalises rage in order to raise the damage of the next attack. Furthermore, the user\u0027s attacks become more difficult for the enemy to dodge.",
+    "Description": "Internalises rage in order to raise the damage of the next attack. Furthermore, the user's attacks become more difficult for the enemy to dodge.",
     "MPCost": 10,
     "MPCostTypeId": 1,
     "DamageTypeId": null
@@ -1424,7 +1424,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Shadow Blast",
     "Identifier": "shadow-blast",
-    "Description": "Inflicts extreme dark-elemental damage 2 times in a row on all enemies. The higher the user\u0027s level, the greater the damage that will be inflicted.",
+    "Description": "Inflicts extreme dark-elemental damage 2 times in a row on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 80,
     "MPCostTypeId": 1,
     "DamageTypeId": 9
@@ -1501,7 +1501,7 @@
     "SkillTargetTypeId": 1,
     "Name": "Snooze",
     "Identifier": "snooze",
-    "Description": "Puts a single enemy to sleep for 2 to 5 turns. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Puts a single enemy to sleep for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
     "DamageTypeId": 15
@@ -1545,7 +1545,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Stomp",
     "Identifier": "stomp",
-    "Description": "Inflicts medium earth-elemental damages on a single enemy. The higher the user\u0027s level, the greater the damage that will be inflicted.",
+    "Description": "Inflicts medium earth-elemental damages on a single enemy. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 12,
     "MPCostTypeId": 1,
     "DamageTypeId": 4
@@ -1554,7 +1554,7 @@
     "SkillId": 101,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
-    "Name": "Stone\u0027s Throw",
+    "Name": "Stone's Throw",
     "Identifier": "stones-throw",
     "Description": "Inflicts minor earth-elemental damages on a single enemy.",
     "MPCost": 4,
@@ -1622,7 +1622,7 @@
     "SkillTargetTypeId": 2,
     "Name": "Thin Air",
     "Identifier": "thin-air",
-    "Description": "Inflicts medium wind-elemental damages on a single enemy. The higher the user\u0027s level, the greater the damage that will be inflicted.",
+    "Description": "Inflicts medium wind-elemental damages on a single enemy. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 12,
     "MPCostTypeId": 1,
     "DamageTypeId": 3
@@ -1666,7 +1666,7 @@
     "SkillTargetTypeId": 1,
     "Name": "Tox",
     "Identifier": "tox",
-    "Description": "Poisons a single enemy. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Poisons a single enemy. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
     "DamageTypeId": 18
@@ -1732,7 +1732,7 @@
     "SkillTargetTypeId": 1,
     "Name": "Whack",
     "Identifier": "whack",
-    "Description": "Kills a single enemy instantly. The higher the caster\u0027s wisdom, the more likely the spell is to succeed.",
+    "Description": "Kills a single enemy instantly. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 9,
     "MPCostTypeId": 1,
     "DamageTypeId": 19
