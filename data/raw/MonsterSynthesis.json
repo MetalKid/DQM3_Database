@@ -913,17 +913,6 @@
     "AreBothRankSpecific": false
   },
   {
-    "MonsterSynthesisId": 84,
-    "MonsterResultId": 172,
-    "MonsterParent1Id": 252,
-    "MonsterGrandParent1AId": null,
-    "MonsterGrandParent1BId": null,
-    "MonsterParent2Id": 60,
-    "MonsterGrandParent2AId": null,
-    "MonsterGrandParent2BId": null,
-    "AreBothRankSpecific": false
-  },
-  {
     "MonsterSynthesisId": 85,
     "MonsterResultId": 256,
     "MonsterParent1Id": 62,
@@ -2514,6 +2503,39 @@
     "MonsterGrandParent1AId": null,
     "MonsterGrandParent1BId": null,
     "MonsterParent2Id": 151,
+    "MonsterGrandParent2AId": null,
+    "MonsterGrandParent2BId": null,
+    "AreBothRankSpecific": false
+  },
+  {
+    "MonsterSynthesisId": 282,
+    "MonsterResultId": 158,
+    "MonsterParent1Id": 31,
+    "MonsterGrandParent1AId": null,
+    "MonsterGrandParent1BId": null,
+    "MonsterParent2Id": 41,
+    "MonsterGrandParent2AId": null,
+    "MonsterGrandParent2BId": null,
+    "AreBothRankSpecific": true
+  },
+  {
+    "MonsterSynthesisId": 283,
+    "MonsterResultId": 128,
+    "MonsterParent1Id": 157,
+    "MonsterGrandParent1AId": null,
+    "MonsterGrandParent1BId": null,
+    "MonsterParent2Id": 209,
+    "MonsterGrandParent2AId": null,
+    "MonsterGrandParent2BId": null,
+    "AreBothRankSpecific": false
+  },
+  {
+    "MonsterSynthesisId": 284,
+    "MonsterResultId": 270,
+    "MonsterParent1Id": 106,
+    "MonsterGrandParent1AId": null,
+    "MonsterGrandParent1BId": null,
+    "MonsterParent2Id": 214,
     "MonsterGrandParent2AId": null,
     "MonsterGrandParent2BId": null,
     "AreBothRankSpecific": false

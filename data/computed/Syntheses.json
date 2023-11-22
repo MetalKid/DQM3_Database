@@ -147,12 +147,17 @@
   {
     "Result": "Bullfinch",
     "Parent1": "Bantamweight",
-    "Parent2": "Foo Dog"
+    "Parent2": "Beast Family (Any)"
   },
   {
     "Result": "Bullfinch",
     "Parent1": "Bantamweight",
-    "Parent2": "Beast Family (Any)"
+    "Parent2": "Foo Dog"
+  },
+  {
+    "Result": "Bunicorn",
+    "Parent1": "Fat Rat",
+    "Parent2": "Nardragon"
   },
   {
     "Result": "Cactiball",
@@ -350,6 +355,11 @@
     "Parent2": "Beast Family (F)"
   },
   {
+    "Result": "Feralball",
+    "Parent1": "Nature Family (G)",
+    "Parent2": "Beast Family (G)"
+  },
+  {
     "Result": "Firespirit",
     "Parent1": "Dragon Family (G)",
     "Parent2": "Undead Family (G)"
@@ -443,11 +453,6 @@
     "Result": "Hawk Man",
     "Parent1": "Beast Family (F)",
     "Parent2": "Demon Family (F)"
-  },
-  {
-    "Result": "Hawk Man",
-    "Parent1": "Stark Raven",
-    "Parent2": "Demon Family (Any)"
   },
   {
     "Result": "Hawk Man",
@@ -1130,9 +1135,14 @@
     "Parent2": "Lunatick"
   },
   {
+    "Result": "Woebergine",
+    "Parent1": "Fright Bulb",
+    "Parent2": "Ornery Onion"
+  },
+  {
     "Result": "Wyrtle",
     "Parent1": "Armoured Wartoise",
-    "Parent2": "Flython"
+    "Parent2": "Beast Family (Any)"
   },
   {
     "Result": "Wyrtle",
@@ -1142,6 +1152,6 @@
   {
     "Result": "Wyrtle",
     "Parent1": "Armoured Wartoise",
-    "Parent2": "Beast Family (Any)"
+    "Parent2": "Flython"
   }
 ]

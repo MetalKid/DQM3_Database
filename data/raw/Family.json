@@ -2,41 +2,105 @@
   {
     "FamilyId": 8,
     "Name": "???",
-    "Identifier": "boss"
+    "Identifier": "boss",
+    "JapaneseName": "???\u7CFB",
+    "BonusHP": 1,
+    "BonusMP": null,
+    "BonusAtt": 1,
+    "BonusDef": null,
+    "BonusAgi": null,
+    "BonusWis": 1,
+    "Order": 8
   },
   {
     "FamilyId": 4,
     "Name": "Beast",
-    "Identifier": "beast"
+    "Identifier": "beast",
+    "JapaneseName": "\u307E\u3058\u3085\u3046\u7CFB",
+    "BonusHP": null,
+    "BonusMP": 1,
+    "BonusAtt": null,
+    "BonusDef": 1,
+    "BonusAgi": 1,
+    "BonusWis": null,
+    "Order": 3
   },
   {
     "FamilyId": 6,
     "Name": "Demon",
-    "Identifier": "demon"
+    "Identifier": "demon",
+    "JapaneseName": "\u3042\u304F\u307E\u7CFB",
+    "BonusHP": null,
+    "BonusMP": 1,
+    "BonusAtt": 1,
+    "BonusDef": 1,
+    "BonusAgi": null,
+    "BonusWis": null,
+    "Order": 2
   },
   {
     "FamilyId": 2,
     "Name": "Dragon",
-    "Identifier": "dragon"
+    "Identifier": "dragon",
+    "JapaneseName": "\u30C9\u30E9\u30B4\u30F3\u7CFB",
+    "BonusHP": 1,
+    "BonusMP": 1,
+    "BonusAtt": 1,
+    "BonusDef": null,
+    "BonusAgi": null,
+    "BonusWis": null,
+    "Order": 4
   },
   {
     "FamilyId": 5,
     "Name": "Material",
-    "Identifier": "material"
+    "Identifier": "material",
+    "JapaneseName": "\u3076\u3063\u3057\u3064\u7CFB",
+    "BonusHP": null,
+    "BonusMP": null,
+    "BonusAtt": 1,
+    "BonusDef": 1,
+    "BonusAgi": null,
+    "BonusWis": 1,
+    "Order": 7
   },
   {
     "FamilyId": 3,
     "Name": "Nature",
-    "Identifier": "nature"
+    "Identifier": "nature",
+    "JapaneseName": "\u3057\u305C\u3093\u7CFB",
+    "BonusHP": null,
+    "BonusMP": null,
+    "BonusAtt": null,
+    "BonusDef": 1,
+    "BonusAgi": 1,
+    "BonusWis": 1,
+    "Order": 5
   },
   {
     "FamilyId": 1,
     "Name": "Slime",
-    "Identifier": "slime"
+    "Identifier": "slime",
+    "JapaneseName": "\u30B9\u30E9\u30A4\u30E0\u7CFB",
+    "BonusHP": 1,
+    "BonusMP": null,
+    "BonusAtt": null,
+    "BonusDef": null,
+    "BonusAgi": 1,
+    "BonusWis": 1,
+    "Order": 1
   },
   {
     "FamilyId": 7,
     "Name": "Undead",
-    "Identifier": "undead"
+    "Identifier": "undead",
+    "JapaneseName": "\u30BE\u30F3\u30D3\u7CFB",
+    "BonusHP": 1,
+    "BonusMP": 1,
+    "BonusAtt": null,
+    "BonusDef": null,
+    "BonusAgi": 1,
+    "BonusWis": null,
+    "Order": 6
   }
 ]
