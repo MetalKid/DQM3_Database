@@ -1,12 +1,22 @@
 [
   {
+    "ItemId": 36,
+    "Name": "Amulet of Immunity",
+    "Identifier": "amulet-of-immunity",
+    "Description": "Slightly increases defence (+10) and improves resistance to poison (Antioxidant trait).",
+    "ItemTypeId": 5,
+    "BuyPrice": 2000,
+    "SellPrice": 200,
+    "Notes": null
+  },
+  {
     "ItemId": 5,
     "Name": "Antidotal Herb",
     "Identifier": "antidotal-herb",
     "Description": "Cures a single ally of poison and severe poison",
     "ItemTypeId": 1,
-    "BuyPrice": null,
-    "SellPrice": null,
+    "BuyPrice": 10,
+    "SellPrice": 1,
     "Notes": null
   },
   {
@@ -15,8 +25,8 @@
     "Identifier": "antimagic-powder",
     "Description": "Prevents a single enemy from using magic spells.",
     "ItemTypeId": 2,
-    "BuyPrice": null,
-    "SellPrice": null,
+    "BuyPrice": 100,
+    "SellPrice": 10,
     "Notes": null
   },
   {
@@ -35,8 +45,18 @@
     "Identifier": "magic-water",
     "Description": "Restores 30 MP to a single ally.",
     "ItemTypeId": 1,
-    "BuyPrice": null,
-    "SellPrice": null,
+    "BuyPrice": 300,
+    "SellPrice": 30,
+    "Notes": null
+  },
+  {
+    "ItemId": 20,
+    "Name": "Manky Meat",
+    "Identifier": "manky-meat",
+    "Description": "A piece of putrid flesh that exudes a sour stench. Feed to a monster to very slightly increase the likelihood of it wanting to join you, but also poison it in the process.",
+    "ItemTypeId": 3,
+    "BuyPrice": 50,
+    "SellPrice": 5,
     "Notes": null
   },
   {
@@ -45,8 +65,38 @@
     "Identifier": "medicinal-herb",
     "Description": "Restores 30 HP to a single ally.",
     "ItemTypeId": 1,
+    "BuyPrice": 8,
+    "SellPrice": 1,
+    "Notes": null
+  },
+  {
+    "ItemId": 37,
+    "Name": "Mini Medal",
+    "Identifier": "mini-medal",
+    "Description": "Collectible medals that can be swapped with the medallist for an array of prizes. Drop by their counter in the Maulosseum in the lower echelon of the Circle of Conquest to see what's on offer.",
+    "ItemTypeId": 6,
     "BuyPrice": null,
     "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 14,
+    "Name": "Monster Manure",
+    "Identifier": "monster-manure",
+    "Description": "A pongy deposit that can be pitched at one's opponents. Inflicts minor damage to a single enemy when used in battle.",
+    "ItemTypeId": 2,
+    "BuyPrice": null,
+    "SellPrice": 1,
+    "Notes": null
+  },
+  {
+    "ItemId": 17,
+    "Name": "Monster Munchies",
+    "Identifier": "monster-munchies",
+    "Description": "A meaty morsel that monsters love. Feed to a mosnter to very slightly increase the likelihood of it wanting to join you.",
+    "ItemTypeId": 3,
+    "BuyPrice": 100,
+    "SellPrice": 10,
     "Notes": null
   },
   {
@@ -55,8 +105,18 @@
     "Identifier": "moonwort-bulb",
     "Description": "Cures a single ally of paralysis.",
     "ItemTypeId": 1,
-    "BuyPrice": null,
-    "SellPrice": null,
+    "BuyPrice": 30,
+    "SellPrice": 3,
+    "Notes": null
+  },
+  {
+    "ItemId": 18,
+    "Name": "Mystery Meat",
+    "Identifier": "mystery-meat",
+    "Description": "Suspicious meat of unknown origin. Feed to a monster to increase the likelihood of it wanting to join you by a random factor.",
+    "ItemTypeId": 3,
+    "BuyPrice": 200,
+    "SellPrice": 20,
     "Notes": null
   },
   {
@@ -65,8 +125,8 @@
     "Identifier": "oomph-powder",
     "Description": "Greatly increases the attack of a single ally for 2 to 5 turns.",
     "ItemTypeId": 2,
-    "BuyPrice": null,
-    "SellPrice": null,
+    "BuyPrice": 500,
+    "SellPrice": 50,
     "Notes": null
   },
   {
@@ -75,8 +135,18 @@
     "Identifier": "panacea",
     "Description": "Cures a single ally of any ailments that afflict them.",
     "ItemTypeId": 1,
-    "BuyPrice": null,
-    "SellPrice": null,
+    "BuyPrice": 550,
+    "SellPrice": 55,
+    "Notes": null
+  },
+  {
+    "ItemId": 15,
+    "Name": "Pinball",
+    "Identifier": "pinball",
+    "Description": "A sphere of the toughest stone that really hurts if it hits you. Inflicts minor damage to a single enemy when used in battle, including metallic monsters.",
+    "ItemTypeId": 2,
+    "BuyPrice": 300,
+    "SellPrice": 30,
     "Notes": null
   },
   {
@@ -86,7 +156,137 @@
     "Description": "A small stone that can sting quite sharply if thrown with enough force. Inflicts minor damage to a single enemy when used in battle.",
     "ItemTypeId": 2,
     "BuyPrice": null,
+    "SellPrice": 1,
+    "Notes": null
+  },
+  {
+    "ItemId": 32,
+    "Name": "Quick Ring",
+    "Identifier": "quick-ring",
+    "Description": "Very slightly increases agility. (+10)",
+    "ItemTypeId": 5,
+    "BuyPrice": 1000,
+    "SellPrice": 100,
+    "Notes": null
+  },
+  {
+    "ItemId": 33,
+    "Name": "Quick Ring+",
+    "Identifier": "quick-ring-plus",
+    "Description": "Slightly increases agility. (+20)",
+    "ItemTypeId": 5,
+    "BuyPrice": null,
     "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 40,
+    "Name": "Red Travelite",
+    "Identifier": "red-travelite",
+    "Description": "A red crystal that was forged by the ancient elves. It contains a magical energy that allows travel to previously inaccessible areas of Nadiria.",
+    "ItemTypeId": 6,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 34,
+    "Name": "Ring of Wisdom",
+    "Identifier": "ring-of-wisdom",
+    "Description": "Very slighlty increases wisdom. (+10)",
+    "ItemTypeId": 5,
+    "BuyPrice": 1000,
+    "SellPrice": 100,
+    "Notes": null
+  },
+  {
+    "ItemId": 35,
+    "Name": "Ring of Wisdom+",
+    "Identifier": "ring-of-wisdom-plus",
+    "Description": "Slightly increases wisdom. (+20)",
+    "ItemTypeId": 5,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "Notes": null
+  },
+  {
+    "ItemId": 16,
+    "Name": "Rockbomb Shard",
+    "Identifier": "rockbomb-shard",
+    "Description": "An unstable stone that explodes when it strikes its target. Almost kills a single enemy when used in battle, but the damage it inflicts will vary according to the target's resistance to instance death.",
+    "ItemTypeId": 2,
+    "BuyPrice": 1500,
+    "SellPrice": 150,
+    "Notes": null
+  },
+  {
+    "ItemId": 24,
+    "Name": "Seed of Agility",
+    "Identifier": "seed-of-agility",
+    "Description": "Raises the agility of a single ally by 3. Note that each monster type has an upper limit to its agility that cannot be exceeded.",
+    "ItemTypeId": 4,
+    "BuyPrice": 100,
+    "SellPrice": 10,
+    "Notes": null
+  },
+  {
+    "ItemId": 22,
+    "Name": "Seed of Life",
+    "Identifier": "seed-of-life",
+    "Description": "Raises the max. HP of a single ally by 3. Note that each monster type has an upper limit to its max. HP that cannot be exceeded.",
+    "ItemTypeId": 4,
+    "BuyPrice": 100,
+    "SellPrice": 10,
+    "Notes": null
+  },
+  {
+    "ItemId": 28,
+    "Name": "Seed of Magic",
+    "Identifier": "seed-of-magic",
+    "Description": "Raises the max. MP of a single ally by 3. Note that each monster type has an upper limit to its max. MP that cannot be exceeded.",
+    "ItemTypeId": 4,
+    "BuyPrice": 100,
+    "SellPrice": 10,
+    "Notes": null
+  },
+  {
+    "ItemId": 21,
+    "Name": "Seed of Resilience",
+    "Identifier": "seed-of-resilience",
+    "Description": "Raises the defence of a single ally by 3. Note that each monster type has an upper limit to its defence that cannot be exceeded.",
+    "ItemTypeId": 4,
+    "BuyPrice": 100,
+    "SellPrice": 10,
+    "Notes": null
+  },
+  {
+    "ItemId": 26,
+    "Name": "Seed of Skill",
+    "Identifier": "seed-of-skill",
+    "Description": "Provides a single ally with 3 additional talent points. Note that a monster can have a maximum of 999 available talent points.",
+    "ItemTypeId": 4,
+    "BuyPrice": 100,
+    "SellPrice": 10,
+    "Notes": null
+  },
+  {
+    "ItemId": 23,
+    "Name": "Seed of Strength",
+    "Identifier": "seed-of-strength",
+    "Description": "Raises the attack of a single ally by 3. Note that each monster type has an upper limit to its attack that cannot be exceeded.",
+    "ItemTypeId": 4,
+    "BuyPrice": 100,
+    "SellPrice": 10,
+    "Notes": null
+  },
+  {
+    "ItemId": 25,
+    "Name": "Seed of Wisdom",
+    "Identifier": "seed-of-wisdom",
+    "Description": "Raises the wisdom of a single ally by 3. Note that each monster has an upper limit to its wisdom that cannot be exceeded.",
+    "ItemTypeId": 4,
+    "BuyPrice": 100,
+    "SellPrice": 10,
     "Notes": null
   },
   {
@@ -95,8 +295,8 @@
     "Identifier": "single-phial",
     "Description": "Restores 10 MP to a single ally.",
     "ItemTypeId": 1,
-    "BuyPrice": null,
-    "SellPrice": null,
+    "BuyPrice": 50,
+    "SellPrice": 5,
     "Notes": null
   },
   {
@@ -105,6 +305,36 @@
     "Identifier": "smelling-salts",
     "Description": "Cures a single ally of confusion and sleep.",
     "ItemTypeId": 1,
+    "BuyPrice": 80,
+    "SellPrice": 8,
+    "Notes": null
+  },
+  {
+    "ItemId": 19,
+    "Name": "Smoked Sirloin",
+    "Identifier": "smoked-sirloin",
+    "Description": "A tender treat that monsters adore. Feed to a monster to slightly increase the likelihood of it wanting to join you.",
+    "ItemTypeId": 3,
+    "BuyPrice": 300,
+    "SellPrice": 30,
+    "Notes": null
+  },
+  {
+    "ItemId": 30,
+    "Name": "Strength Ring",
+    "Identifier": "strength-ring",
+    "Description": "Very slightly increases attack. (+10)",
+    "ItemTypeId": 5,
+    "BuyPrice": 1000,
+    "SellPrice": 100,
+    "Notes": null
+  },
+  {
+    "ItemId": 31,
+    "Name": "Strength Ring+",
+    "Identifier": "strength-ring-plus",
+    "Description": "Slightly increases attack. (+20)",
+    "ItemTypeId": 5,
     "BuyPrice": null,
     "SellPrice": null,
     "Notes": null
@@ -116,6 +346,16 @@
     "Description": "Restores 60 HP to a single ally.",
     "ItemTypeId": 1,
     "BuyPrice": null,
+    "SellPrice": 5,
+    "Notes": null
+  },
+  {
+    "ItemId": 41,
+    "Name": "Yellow Travelite",
+    "Identifier": "yellow-travelite",
+    "Description": "A yellow crystal that was forged by the ancient elves. It contains a magical energy that allows travel to previously inaccessible areas of Nadiria.",
+    "ItemTypeId": 6,
+    "BuyPrice": null,
     "SellPrice": null,
     "Notes": null
   },
@@ -125,8 +365,8 @@
     "Identifier": "Yggdrasil-leaf",
     "Description": "Revives a single fallen ally and restores half of their HP.",
     "ItemTypeId": 1,
-    "BuyPrice": null,
-    "SellPrice": null,
+    "BuyPrice": 3500,
+    "SellPrice": 350,
     "Notes": null
   }
 ]
