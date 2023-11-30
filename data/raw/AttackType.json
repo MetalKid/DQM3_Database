@@ -1,0 +1,42 @@
+[
+  {
+    "AttackTypeId": 3,
+    "Name": "Breath",
+    "Identifier": "breath"
+  },
+  {
+    "AttackTypeId": 5,
+    "Name": "Dance",
+    "Identifier": "dance"
+  },
+  {
+    "AttackTypeId": 6,
+    "Name": "Focus",
+    "Identifier": "focus"
+  },
+  {
+    "AttackTypeId": 2,
+    "Name": "Impact",
+    "Identifier": "impact"
+  },
+  {
+    "AttackTypeId": 8,
+    "Name": "Kick",
+    "Identifier": "kick"
+  },
+  {
+    "AttackTypeId": 7,
+    "Name": "Punch",
+    "Identifier": "punch"
+  },
+  {
+    "AttackTypeId": 1,
+    "Name": "Slash",
+    "Identifier": "slash"
+  },
+  {
+    "AttackTypeId": 4,
+    "Name": "Spell",
+    "Identifier": "spell"
+  }
+]

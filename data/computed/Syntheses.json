@@ -147,12 +147,12 @@
   {
     "Result": "Bullfinch",
     "Parent1": "Bantamweight",
-    "Parent2": "Beast Family (Any)"
+    "Parent2": "Foo Dog"
   },
   {
     "Result": "Bullfinch",
     "Parent1": "Bantamweight",
-    "Parent2": "Foo Dog"
+    "Parent2": "Beast Family (Any)"
   },
   {
     "Result": "Bunicorn",
@@ -1066,6 +1066,11 @@
   },
   {
     "Result": "Teeny Sanguini",
+    "Parent1": "??? Family (A)",
+    "Parent2": "??? Family (A)"
+  },
+  {
+    "Result": "Teeny Sanguini",
     "Parent1": "Demon Family (G)",
     "Parent2": "Beast Family (G)"
   },
@@ -1142,7 +1147,7 @@
   {
     "Result": "Wyrtle",
     "Parent1": "Armoured Wartoise",
-    "Parent2": "Beast Family (Any)"
+    "Parent2": "Flython"
   },
   {
     "Result": "Wyrtle",
@@ -1152,6 +1157,6 @@
   {
     "Result": "Wyrtle",
     "Parent1": "Armoured Wartoise",
-    "Parent2": "Flython"
+    "Parent2": "Beast Family (Any)"
   }
 ]

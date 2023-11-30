@@ -1,0 +1,62 @@
+[
+  {
+    "SkillStatEffectId": 12,
+    "Name": "Accuracy Down",
+    "Identifier": "accuracy-down"
+  },
+  {
+    "SkillStatEffectId": 11,
+    "Name": "Accuracy Up",
+    "Identifier": "accuracy-up"
+  },
+  {
+    "SkillStatEffectId": 6,
+    "Name": "Agility Down",
+    "Identifier": "agility-down"
+  },
+  {
+    "SkillStatEffectId": 5,
+    "Name": "Agility Up",
+    "Identifier": "agility-up"
+  },
+  {
+    "SkillStatEffectId": 2,
+    "Name": "Attack Down",
+    "Identifier": "attack-down"
+  },
+  {
+    "SkillStatEffectId": 1,
+    "Name": "Attack Up",
+    "Identifier": "attack-up"
+  },
+  {
+    "SkillStatEffectId": 4,
+    "Name": "Defence Down",
+    "Identifier": "defence-down"
+  },
+  {
+    "SkillStatEffectId": 3,
+    "Name": "Defence Up",
+    "Identifier": "defence-up"
+  },
+  {
+    "SkillStatEffectId": 10,
+    "Name": "Evasion Down",
+    "Identifier": "evasion-down"
+  },
+  {
+    "SkillStatEffectId": 9,
+    "Name": "Evasion Up",
+    "Identifier": "evasion-up"
+  },
+  {
+    "SkillStatEffectId": 8,
+    "Name": "Wisdom Down",
+    "Identifier": "wisdom-down"
+  },
+  {
+    "SkillStatEffectId": 7,
+    "Name": "Wisdom Up",
+    "Identifier": "wisdom-up"
+  }
+]

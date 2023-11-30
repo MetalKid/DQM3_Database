@@ -8,7 +8,10 @@
     "Description": "Greatly increases the agility of a single ally for 4 to 7 turns.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 5
   },
   {
     "SkillId": 45,
@@ -19,7 +22,10 @@
     "Description": "Increases the agility of all allies for 4 to 7 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 5
   },
   {
     "SkillId": 83,
@@ -30,7 +36,10 @@
     "Description": "Acts after everyone else to inflict extreme impact damage on the enemy.",
     "MPCost": 15,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 2,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 96,
@@ -41,7 +50,10 @@
     "Description": "Damages a single enemy and occasionally causes instant death.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": 19
+    "DamageTypeId": 19,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 89,
@@ -52,7 +64,10 @@
     "Description": "Damages a single enemy and occasionally lowers its attack for 2 to 5 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 2
   },
   {
     "SkillId": 14,
@@ -63,7 +78,10 @@
     "Description": "Inflicts minor explosive spell damage on all enemies.",
     "MPCost": 5,
     "MPCostTypeId": 1,
-    "DamageTypeId": 5
+    "DamageTypeId": 5,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 77,
@@ -74,7 +92,10 @@
     "Description": "Inflicts heavy slashing damage on monsters in the beast family.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 1,
+    "DamageFamilyId": 4,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 129,
@@ -82,10 +103,13 @@
     "SkillTargetTypeId": 2,
     "Name": "Black Breath",
     "Identifier": "black-breath",
-    "Description": "Inflicts major dark-elemental breath damage on all enemies and occasionaly prevents them from casting spells for 2 to 5 turns",
+    "Description": "Inflicts major dark-elemental breath damage on all enemies and occasionally prevents them from casting spells for 2 to 5 turns",
     "MPCost": 22,
     "MPCostTypeId": 1,
-    "DamageTypeId": 9
+    "DamageTypeId": 9,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 128,
@@ -93,10 +117,13 @@
     "SkillTargetTypeId": 2,
     "Name": "Blessed Breath",
     "Identifier": "blessed-breath",
-    "Description": "Inflicts major light-elemental breath damage on all enemies and occasionaly confuses them for 2 to 5 turns",
+    "Description": "Inflicts major light-elemental breath damage on all enemies and occasionally confuses them for 2 to 5 turns",
     "MPCost": 22,
     "MPCostTypeId": 1,
-    "DamageTypeId": 8
+    "DamageTypeId": 8,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 36,
@@ -107,7 +134,10 @@
     "Description": "Inflicts medium dark-elemental slashing damage on all enemies.",
     "MPCost": 15,
     "MPCostTypeId": 1,
-    "DamageTypeId": 9
+    "DamageTypeId": 9,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 39,
@@ -118,7 +148,10 @@
     "Description": "Greatly decreases the attack of a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 6,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 2
   },
   {
     "SkillId": 15,
@@ -129,7 +162,10 @@
     "Description": "Inflicts medium explosive spell damage on all enemies.",
     "MPCost": 12,
     "MPCostTypeId": 1,
-    "DamageTypeId": 5
+    "DamageTypeId": 5,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 174,
@@ -140,7 +176,10 @@
     "Description": "Reflects most spells back at the caster for 4 to 7 turns.",
     "MPCost": 32,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 110,
@@ -151,7 +190,10 @@
     "Description": "Reflects breath attacks back at the enemy. Protects all allies once only.",
     "MPCost": 10,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 73,
@@ -162,7 +204,10 @@
     "Description": "Inflicts minor light-elemental slashing damage on all enemies.",
     "MPCost": 15,
     "MPCostTypeId": 1,
-    "DamageTypeId": 8
+    "DamageTypeId": 8,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 40,
@@ -173,7 +218,10 @@
     "Description": "Greatly increases the defence of a single ally for 4 to 7 turns.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 3
   },
   {
     "SkillId": 132,
@@ -181,10 +229,13 @@
     "SkillTargetTypeId": 2,
     "Name": "Burning Breath",
     "Identifier": "burning-breath",
-    "Description": "Lets out an exhalation of immobilisation that paralyses all enemie for 2 to 5 turns",
+    "Description": "Lets out an exhalation of immobilisation that paralyses all enemies for 2 to 5 turns",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": 16
+    "DamageTypeId": 16,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 126,
@@ -195,7 +246,10 @@
     "Description": "Inflicts extreme ice-elemental breath damage on all enemies.",
     "MPCost": 30,
     "MPCostTypeId": 1,
-    "DamageTypeId": 6
+    "DamageTypeId": 6,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 124,
@@ -206,7 +260,10 @@
     "Description": "Inflicts medium ice-elemental breath damage on all enemies.",
     "MPCost": 6,
     "MPCostTypeId": 1,
-    "DamageTypeId": 6
+    "DamageTypeId": 6,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 34,
@@ -217,7 +274,10 @@
     "Description": "Cures all allies of sleep.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 91,
@@ -228,7 +288,10 @@
     "Description": "Damages a single enemy and occasionally confuses it for 2 to 5 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": 14
+    "DamageTypeId": 14,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 123,
@@ -239,7 +302,10 @@
     "Description": "Inflicts minor ice-elemental breath damage on all enemies.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": 6
+    "DamageTypeId": 6,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 16,
@@ -250,7 +316,10 @@
     "Description": "Inflicts minor ice-elemental spell damage on a single enemy.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": 6
+    "DamageTypeId": 6,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 17,
@@ -261,7 +330,10 @@
     "Description": "Inflicts medium ice-elemental spell damage on all enemies.",
     "MPCost": 12,
     "MPCostTypeId": 1,
-    "DamageTypeId": 6
+    "DamageTypeId": 6,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 12,
@@ -272,7 +344,10 @@
     "Description": "Inflicts minor earth-elemental spell damage on all enemies, but not until the following round.",
     "MPCost": 5,
     "MPCostTypeId": 1,
-    "DamageTypeId": 4
+    "DamageTypeId": 4,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 13,
@@ -283,7 +358,10 @@
     "Description": "Inflicts medium earth-elemental spell damage on all enemies, but not until the following round.",
     "MPCost": 12,
     "MPCostTypeId": 1,
-    "DamageTypeId": 4
+    "DamageTypeId": 4,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 37,
@@ -294,7 +372,10 @@
     "Description": "Prevents a single enemy from inflicting hits for 4 to 7 turns.",
     "MPCost": 6,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 53,
@@ -305,7 +386,10 @@
     "Description": "Bedazzles all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 108,
@@ -316,7 +400,10 @@
     "Description": "Unleashes a blinding light that lowers the accuracy of enemy attacks for 2 to 5 turns.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 11
+    "DamageTypeId": 11,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 46,
@@ -327,7 +414,10 @@
     "Description": "Greatly decreases the agility of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 6
   },
   {
     "SkillId": 47,
@@ -338,7 +428,10 @@
     "Description": "Decreases the agility of all enemies for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 6
   },
   {
     "SkillId": 130,
@@ -349,7 +442,10 @@
     "Description": "Inhales long and deep, raising the damage inflicted by the user's next breath attack.",
     "MPCost": 0,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 33,
@@ -360,7 +456,10 @@
     "Description": "Cures all allies of confusion.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 79,
@@ -371,7 +470,10 @@
     "Description": "Inflicts heavy slashing damage on monsters in the demon family.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 1,
+    "DamageFamilyId": 6,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 49,
@@ -382,7 +484,10 @@
     "Description": "Greatly decreases the wisdom of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 8
   },
   {
     "SkillId": 116,
@@ -390,10 +495,13 @@
     "SkillTargetTypeId": 5,
     "Name": "Dodgy Dance",
     "Identifier": "dodgy-dance",
-    "Description": "Raises the user's evation for 4 to 7 turns.",
+    "Description": "Raises the user's evasion for 4 to 7 turns.",
     "MPCost": 1,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 9
   },
   {
     "SkillId": 75,
@@ -404,7 +512,10 @@
     "Description": "Inflicts heavy slashing damage on monsters in the dragon family.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 1,
+    "DamageFamilyId": 2,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 56,
@@ -415,7 +526,10 @@
     "Description": "Aborbs some MP from a single enemy.",
     "MPCost": 0,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 145,
@@ -426,7 +540,10 @@
     "Description": "Inflicts medium earth-elemental slashing damage on all enemies.",
     "MPCost": 15,
     "MPCostTypeId": 1,
-    "DamageTypeId": 4
+    "DamageTypeId": 4,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 171,
@@ -437,7 +554,10 @@
     "Description": "A dance that damages enemies at random, 3 or 4 times in total. The higher the user's agility, the greater the damage that will be inflicted.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 118,
@@ -448,7 +568,10 @@
     "Description": "Inflicts minor fire-elemental breath damage on all enemies.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": 1
+    "DamageTypeId": 1,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 55,
@@ -459,7 +582,10 @@
     "Description": "Prevents all enemies from casting spells for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": 12
+    "DamageTypeId": 12,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 120,
@@ -470,7 +596,10 @@
     "Description": "Inflicts medium fire-elemental breath damage on all enemies.",
     "MPCost": 6,
     "MPCostTypeId": 1,
-    "DamageTypeId": 1
+    "DamageTypeId": 1,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 65,
@@ -481,7 +610,10 @@
     "Description": "Inflicts minor fire-elemental slashing damage on a single enemy.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 1
+    "DamageTypeId": 1,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 71,
@@ -492,7 +624,10 @@
     "Description": "Inflicts minor medium-elemental slashing damage on all enemies.",
     "MPCost": 15,
     "MPCostTypeId": 1,
-    "DamageTypeId": 1
+    "DamageTypeId": 1,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 125,
@@ -503,7 +638,10 @@
     "Description": "Inflicts major ice-elemental breath damage on all enemies.",
     "MPCost": 15,
     "MPCostTypeId": 1,
-    "DamageTypeId": 6
+    "DamageTypeId": 6,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 87,
@@ -514,7 +652,10 @@
     "Description": "A risky technique that inflicts a critical hit on a single enemy or ally at random.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 1,
@@ -525,7 +666,10 @@
     "Description": "Inflicts minor fire-elemental spell damage on a single enemy.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 1
+    "DamageTypeId": 1,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 2,
@@ -536,7 +680,10 @@
     "Description": "Inflicts medium fire-elemental spell damage on a single enemy.",
     "MPCost": 5,
     "MPCostTypeId": 1,
-    "DamageTypeId": 1
+    "DamageTypeId": 1,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 57,
@@ -547,7 +694,10 @@
     "Description": "Confuses a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 5,
     "MPCostTypeId": 1,
-    "DamageTypeId": 14
+    "DamageTypeId": 14,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 137,
@@ -558,7 +708,10 @@
     "Description": "A dance that confuses all enemies for 2 to 5 turns.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 14
+    "DamageTypeId": 14,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 172,
@@ -569,7 +722,10 @@
     "Description": "Absorbs MP from enemies at random, 4 times in total.",
     "MPCost": 50,
     "MPCostTypeId": 2,
-    "DamageTypeId": 13
+    "DamageTypeId": 13,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 162,
@@ -580,7 +736,10 @@
     "Description": "An extreme sword attack that inflicts extreme electrical damage 2 times in a row on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 80,
     "MPCostTypeId": 1,
-    "DamageTypeId": 7
+    "DamageTypeId": 7,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 161,
@@ -591,7 +750,10 @@
     "Description": "Inflicts outrageous electrical damage on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 56,
     "MPCostTypeId": 1,
-    "DamageTypeId": 7
+    "DamageTypeId": 7,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 109,
@@ -602,7 +764,10 @@
     "Description": "Stops a single enemy from using its mouth, preventing the use of breath attacks for 4 to 7 turns.",
     "MPCost": 6,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 67,
@@ -613,7 +778,10 @@
     "Description": "Inflicts minor wind-elemental slashing damage on a single enemy.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 3
+    "DamageTypeId": 3,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 86,
@@ -624,7 +792,10 @@
     "Description": "Inflicts slashing damage on a single enemy. The attack has a high likelihood of missing, but an increased chance of inflicting a critical hit when it succeeds.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 27,
@@ -635,7 +806,10 @@
     "Description": "Restores 28 or more HP to a single ally.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 94,
@@ -646,7 +820,10 @@
     "Description": "Inflicts slashing damage on a single enemy and stuns it for 1 turn.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": 17
+    "DamageTypeId": 17,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 164,
@@ -657,7 +834,10 @@
     "Description": "Inflicts outrageous fire-elemental breath damage on all enemies and occasionally stuns them for 1 turn.",
     "MPCost": 64,
     "MPCostTypeId": 1,
-    "DamageTypeId": 1
+    "DamageTypeId": 1,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 90,
@@ -665,10 +845,13 @@
     "SkillTargetTypeId": 1,
     "Name": "Helm Splitter",
     "Identifier": "helm-splitter",
-    "Description": "Damages a s single enemy and occasionally lowers its defence for 4 to 7 turns.",
+    "Description": "Damages a single enemy and occasionally lowers its defence for 4 to 7 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 4
   },
   {
     "SkillId": 166,
@@ -679,7 +862,10 @@
     "Description": "A dance that heals allies at random, 2 to 6 tiems in total. The higher the user's level, the greater the healing amount.",
     "MPCost": 40,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 175,
@@ -690,7 +876,10 @@
     "Description": "Inflicts outrageous ice-elemental breath damage on all enemies and occasionally stuns them for 1 turn.",
     "MPCost": 32,
     "MPCostTypeId": 1,
-    "DamageTypeId": 6
+    "DamageTypeId": 6,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 121,
@@ -701,7 +890,10 @@
     "Description": "Inflicts major fire-elemental breath damage on all enemies.",
     "MPCost": 15,
     "MPCostTypeId": 1,
-    "DamageTypeId": 1
+    "DamageTypeId": 1,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 51,
@@ -712,7 +904,10 @@
     "Description": "Greatly reduces the damage received from breath attacks by a single ally for 4 to 7 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 52,
@@ -723,7 +918,10 @@
     "Description": "Reduces the damage received from breath attacks by all allies for 4 to 7 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 139,
@@ -734,7 +932,10 @@
     "Description": "Assumes an impenetrable defensive stance that reduces most damage received by 9/10. Can only be used once per battle.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 142,
@@ -745,7 +946,10 @@
     "Description": "Decreases the attack of all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 10,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 2
   },
   {
     "SkillId": 146,
@@ -756,7 +960,10 @@
     "Description": "Inflicts major explosive spell damage on all enemies.",
     "MPCost": 24,
     "MPCostTypeId": 1,
-    "DamageTypeId": 5
+    "DamageTypeId": 5,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 147,
@@ -767,7 +974,10 @@
     "Description": "Inflicts extreme explosive spell damage on all enemies.",
     "MPCost": 60,
     "MPCostTypeId": 1,
-    "DamageTypeId": 5
+    "DamageTypeId": 5,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 41,
@@ -778,7 +988,10 @@
     "Description": "Increases the defence of all allies for 4 to 7 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 3
   },
   {
     "SkillId": 18,
@@ -789,7 +1002,10 @@
     "Description": "Inflicts major ice-elemental spell damage on all enemies.",
     "MPCost": 22,
     "MPCostTypeId": 1,
-    "DamageTypeId": 6
+    "DamageTypeId": 6,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 19,
@@ -800,7 +1016,10 @@
     "Description": "Inflicts extreme ice-elemental spell damage on all enemies.",
     "MPCost": 58,
     "MPCostTypeId": 1,
-    "DamageTypeId": 6
+    "DamageTypeId": 6,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 69,
@@ -811,7 +1030,10 @@
     "Description": "Inflicts minor ice-elemental slashing damage on a single enemy.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 6
+    "DamageTypeId": 6,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 143,
@@ -822,7 +1044,10 @@
     "Description": "Inflicts major earth-elemental spell damange on all enemies, but not until the following round.",
     "MPCost": 23,
     "MPCostTypeId": 1,
-    "DamageTypeId": 4
+    "DamageTypeId": 4,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 144,
@@ -833,7 +1058,10 @@
     "Description": "Inflicts extreme earth-elemental spell damange on all enemies, but not until the following round.",
     "MPCost": 58,
     "MPCostTypeId": 1,
-    "DamageTypeId": 4
+    "DamageTypeId": 4,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 50,
@@ -844,7 +1072,10 @@
     "Description": "Decreases the wisdom of all enemies for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 8
   },
   {
     "SkillId": 3,
@@ -855,7 +1086,10 @@
     "Description": "Inflicts major fire-elemental spell damage on a single enemy.",
     "MPCost": 12,
     "MPCostTypeId": 1,
-    "DamageTypeId": 1
+    "DamageTypeId": 1,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 4,
@@ -866,7 +1100,10 @@
     "Description": "Inflicts extreme fire-elemental spell damage on a single enemy.",
     "MPCost": 32,
     "MPCostTypeId": 1,
-    "DamageTypeId": 1
+    "DamageTypeId": 1,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 160,
@@ -877,7 +1114,10 @@
     "Description": "Confuses all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 10,
     "MPCostTypeId": 1,
-    "DamageTypeId": 14
+    "DamageTypeId": 14,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 64,
@@ -888,7 +1128,10 @@
     "Description": "Kills all enemies, but at the cost of the caster's life. The caster cannot be resurrected in the same battle. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 100,
     "MPCostTypeId": 2,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 150,
@@ -899,7 +1142,10 @@
     "Description": "Paralyses all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 15,
     "MPCostTypeId": 1,
-    "DamageTypeId": 16
+    "DamageTypeId": 16,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 152,
@@ -910,7 +1156,10 @@
     "Description": "Increases the wisdom of all allies for 4 to 7 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 7
   },
   {
     "SkillId": 43,
@@ -921,7 +1170,10 @@
     "Description": "Decreases the defence of all enemie for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 4
   },
   {
     "SkillId": 153,
@@ -932,7 +1184,10 @@
     "Description": "Inflicts major light-elemental spell damage on all enemies.",
     "MPCost": 22,
     "MPCostTypeId": 1,
-    "DamageTypeId": 8
+    "DamageTypeId": 8,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 154,
@@ -943,7 +1198,10 @@
     "Description": "Inflicts extreme light-elemental spell damage on all enemies.",
     "MPCost": 54,
     "MPCostTypeId": 1,
-    "DamageTypeId": 8
+    "DamageTypeId": 8,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 59,
@@ -954,7 +1212,10 @@
     "Description": "Puts all enemies to sleep for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": 15
+    "DamageTypeId": 15,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 140,
@@ -965,7 +1226,10 @@
     "Description": "Inflicts major water-elemental spell damage on a single enemy.",
     "MPCost": 11,
     "MPCostTypeId": 1,
-    "DamageTypeId": 2
+    "DamageTypeId": 2,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 141,
@@ -976,7 +1240,10 @@
     "Description": "Inflicts extreme water-elemental spell damage on a single enemy.",
     "MPCost": 29,
     "MPCostTypeId": 1,
-    "DamageTypeId": 2
+    "DamageTypeId": 2,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 10,
@@ -987,7 +1254,10 @@
     "Description": "Inflicts major wind-elemental spell damage on all enemies.",
     "MPCost": 22,
     "MPCostTypeId": 1,
-    "DamageTypeId": 3
+    "DamageTypeId": 3,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 11,
@@ -998,7 +1268,10 @@
     "Description": "Inflicts extreme wind-elemental spell damage on all enemies.",
     "MPCost": 54,
     "MPCostTypeId": 1,
-    "DamageTypeId": 3
+    "DamageTypeId": 3,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 62,
@@ -1009,7 +1282,10 @@
     "Description": "Poisons all enemies. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": 18
+    "DamageTypeId": 18,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 155,
@@ -1020,7 +1296,10 @@
     "Description": "Inflicts major dark-elemental spell damage on a single enemy.",
     "MPCost": 10,
     "MPCostTypeId": 1,
-    "DamageTypeId": 9
+    "DamageTypeId": 9,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 156,
@@ -1031,7 +1310,10 @@
     "Description": "Inflicts extreme dark-elemental spell damage on a single enemy.",
     "MPCost": 30,
     "MPCostTypeId": 1,
-    "DamageTypeId": 9
+    "DamageTypeId": 9,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 149,
@@ -1042,7 +1324,10 @@
     "Description": "Inflicts major electrical damage on all enemies.",
     "MPCost": 23,
     "MPCostTypeId": 1,
-    "DamageTypeId": 7
+    "DamageTypeId": 7,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 151,
@@ -1053,7 +1338,10 @@
     "Description": "Inflicts extreme electrical spell damage on all enemies",
     "MPCost": 61,
     "MPCostTypeId": 1,
-    "DamageTypeId": 7
+    "DamageTypeId": 7,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 30,
@@ -1064,7 +1352,10 @@
     "Description": "Is guaranteed to resurrect a fallen ally.",
     "MPCost": 80,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 159,
@@ -1075,7 +1366,10 @@
     "Description": "Heals or resurrects all allies, including reserves, but at the cost of the caster's life. The caster cannot be resurrected in the same battle.",
     "MPCost": 100,
     "MPCostTypeId": 3,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 170,
@@ -1086,7 +1380,10 @@
     "Description": "A dance that heals or resurrects all allies, including reserves, but at the cost of the user's life. The user cannot be resurrected in the same battle.",
     "MPCost": 100,
     "MPCostTypeId": 3,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 84,
@@ -1097,7 +1394,10 @@
     "Description": "Focuses strength in order to inflict heavy damage on a single enemy in the next turn, ignoring their defence attribute.",
     "MPCost": 20,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 6,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 148,
@@ -1108,7 +1408,10 @@
     "Description": "Inflicts medium electrical damage on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 12,
     "MPCostTypeId": 1,
-    "DamageTypeId": 7
+    "DamageTypeId": 7,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 70,
@@ -1119,7 +1422,10 @@
     "Description": "Inflicts minor elecrtrical slashing damage on a single enemy.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 7
+    "DamageTypeId": 7,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 26,
@@ -1130,7 +1436,10 @@
     "Description": "Uses 1/4 of remaining MP to inflict light-elemental damage on a single enemy, for a weaker rendition of a more extreme spell. The more MP the monster has at the time of casting, the greater the damage will be.",
     "MPCost": 25,
     "MPCostTypeId": 2,
-    "DamageTypeId": 8
+    "DamageTypeId": 8,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 78,
@@ -1141,7 +1450,10 @@
     "Description": "Inflicts heavy slashing damage on monsters in the material family.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 1,
+    "DamageFamilyId": 5,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 104,
@@ -1152,7 +1464,10 @@
     "Description": "Restores 300 or more HP to the user.",
     "MPCost": 35,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 82,
@@ -1163,7 +1478,10 @@
     "Description": "A punching technique that only inflicts a small amount of damage, but allows the user to attack before anyone else.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 7,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 28,
@@ -1174,7 +1492,10 @@
     "Description": "Restores 76 or more HP to a single ally.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 88,
@@ -1185,7 +1506,10 @@
     "Description": "Inflicts slashing damage on a single enemy. Approximately half the amount of damage inflicted is restored to the user as HP. Can heal up to a maximum of 200 HP.",
     "MPCost": 10,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 111,
@@ -1196,7 +1520,10 @@
     "Description": "Negates all damages 1 time only. Ineffective against certain attacks.",
     "MPCost": 10,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 158,
@@ -1207,7 +1534,10 @@
     "Description": "A punching technique that damages enemies at random, 4 times in total",
     "MPCost": 20,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 7,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 81,
@@ -1218,7 +1548,10 @@
     "Description": "Inflicts slashing damage on all enemies. Enemies that are further to the right-hand side of the battlefield receive less damage.",
     "MPCost": 5,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 76,
@@ -1229,7 +1562,10 @@
     "Description": "Inflicts heavy slashing damage on monsters in the nature family.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 1,
+    "DamageFamilyId": 3,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 60,
@@ -1240,7 +1576,10 @@
     "Description": "Paralyses a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": 16
+    "DamageTypeId": 16,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 35,
@@ -1251,7 +1590,10 @@
     "Description": "Greatly increases the attack of a single ally for 2 to 5 turns.",
     "MPCost": 6,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 1
   },
   {
     "SkillId": 38,
@@ -1262,7 +1604,10 @@
     "Description": "Increases the attack of all allies for 2 to 5 turns.",
     "MPCost": 10,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 1
   },
   {
     "SkillId": 165,
@@ -1273,7 +1618,10 @@
     "Description": "Inflicts heavy slashing damage on a single enemy and occasionally paralyses it for 2 to 5 turns.",
     "MPCost": 20,
     "MPCostTypeId": 1,
-    "DamageTypeId": 16
+    "DamageTypeId": 16,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 93,
@@ -1284,7 +1632,10 @@
     "Description": "Damages a single enemy and occasionally paralyses it for 2 to 5 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": 16
+    "DamageTypeId": 16,
+    "AttackTypeId": 7,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 98,
@@ -1295,7 +1646,10 @@
     "Description": "Damages a single enemy. Higly effective against enemies that are asleep or confused.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 48,
@@ -1306,7 +1660,10 @@
     "Description": "Greatly increases the wisdom of a single ally for 4 to 7 turns.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 7
   },
   {
     "SkillId": 95,
@@ -1317,7 +1674,10 @@
     "Description": "Damages a single enemy and occasionally poisons it.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 18
+    "DamageTypeId": 18,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 133,
@@ -1328,7 +1688,10 @@
     "Description": "Exhales toxic fumes that poison all enemies.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": 18
+    "DamageTypeId": 18,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 105,
@@ -1339,7 +1702,10 @@
     "Description": "Performs a rainmaking ritual that invokes a healing shower in the next turn. Restores a random amount of HP to all allies.",
     "MPCost": 40,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 85,
@@ -1350,7 +1716,10 @@
     "Description": "A kicking technique that damages all enemies, regardless of their defence. Enemies that are further to the right-hand side of the battlefield receive less damage.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 8,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 107,
@@ -1361,7 +1730,10 @@
     "Description": "Whips up a dense cloud of dust that lowers the accuracy of enemy attacks for 2 to 5 turns.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 11
+    "DamageTypeId": 11,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 12
   },
   {
     "SkillId": 127,
@@ -1369,10 +1741,13 @@
     "SkillTargetTypeId": 2,
     "Name": "Sandy Sigh",
     "Identifier": "sandy-sigh",
-    "Description": "Whips up a cloud of dust that inflicts major earth-elemental breath damage on all enemies and occasionaly lowers their accuracy for 2 to 5 turns.",
+    "Description": "Whips up a cloud of dust that inflicts major earth-elemental breath damage on all enemies and occasionally lowers their accuracy for 2 to 5 turns.",
     "MPCost": 22,
     "MPCostTypeId": 1,
-    "DamageTypeId": 4
+    "DamageTypeId": 4,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 12
   },
   {
     "SkillId": 42,
@@ -1383,7 +1758,10 @@
     "Description": "Greatly decreases the defence of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 4
   },
   {
     "SkillId": 122,
@@ -1394,7 +1772,10 @@
     "Description": "Inflicts extreme fire-elemental breath damage on all enemies.",
     "MPCost": 30,
     "MPCostTypeId": 1,
-    "DamageTypeId": 1
+    "DamageTypeId": 1,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 115,
@@ -1405,7 +1786,10 @@
     "Description": "Internalises rage in order to raise the damage of the next attack. Furthermore, the user's attacks become more difficult for the enemy to dodge.",
     "MPCost": 10,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 6,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 11
   },
   {
     "SkillId": 117,
@@ -1416,7 +1800,10 @@
     "Description": "Receives all incoming attacks in place for allies for 1 round, but suffers greater damage in doing so.",
     "MPCost": 5,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 163,
@@ -1427,7 +1814,10 @@
     "Description": "Inflicts extreme dark-elemental damage 2 times in a row on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 80,
     "MPCostTypeId": 1,
-    "DamageTypeId": 9
+    "DamageTypeId": 9,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 157,
@@ -1438,7 +1828,10 @@
     "Description": "Inflicts light-elemental damage on enemies at random, 4 to 12 times in total.",
     "MPCost": 100,
     "MPCostTypeId": 1,
-    "DamageTypeId": 8
+    "DamageTypeId": 8,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 22,
@@ -1449,7 +1842,10 @@
     "Description": "Inflicts minor light-elemental spell damage on all enemies.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": 8
+    "DamageTypeId": 8,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 23,
@@ -1460,7 +1856,10 @@
     "Description": "Inflicts medium light-elemental spell damage on all enemies.",
     "MPCost": 11,
     "MPCostTypeId": 1,
-    "DamageTypeId": 8
+    "DamageTypeId": 8,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 72,
@@ -1471,7 +1870,10 @@
     "Description": "Inflicts minor wind-elemental slashing damage on all enemies.",
     "MPCost": 15,
     "MPCostTypeId": 1,
-    "DamageTypeId": 3
+    "DamageTypeId": 3,
+    "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 92,
@@ -1482,7 +1884,10 @@
     "Description": "Damages a single enemy and occasionally puts it to sleep for 2 to 5 turns.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": 15
+    "DamageTypeId": 15,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 74,
@@ -1493,7 +1898,10 @@
     "Description": "Inflicts heavy impact damage on monsters in the slime family.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 2,
+    "DamageFamilyId": 1,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 58,
@@ -1504,7 +1912,10 @@
     "Description": "Puts a single enemy to sleep for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": 15
+    "DamageTypeId": 15,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 7,
@@ -1515,7 +1926,10 @@
     "Description": "Inflicts medium water-elemental spell damage on a single enemy.",
     "MPCost": 5,
     "MPCostTypeId": 1,
-    "DamageTypeId": 2
+    "DamageTypeId": 2,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 5,
@@ -1526,7 +1940,10 @@
     "Description": "Inflicts minor water-elemental spell damage on a single enemy.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 2
+    "DamageTypeId": 2,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 31,
@@ -1537,7 +1954,10 @@
     "Description": "Cures all allies of poison or severe poison.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 103,
@@ -1548,7 +1968,10 @@
     "Description": "Inflicts medium earth-elemental damages on a single enemy. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 12,
     "MPCostTypeId": 1,
-    "DamageTypeId": 4
+    "DamageTypeId": 4,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 101,
@@ -1559,7 +1982,10 @@
     "Description": "Inflicts minor earth-elemental damages on a single enemy.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": 4
+    "DamageTypeId": 4,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 138,
@@ -1570,7 +1996,10 @@
     "Description": "A bewitching dance that stuns all enemies for 1 turn.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 17
+    "DamageTypeId": 17,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 131,
@@ -1581,7 +2010,10 @@
     "Description": "Lets out an exhalation of relaxation that puts all enemies to sleep for 2 to 5 turns.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": 15
+    "DamageTypeId": 15,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 9,
@@ -1592,7 +2024,10 @@
     "Description": "Inflicts medium wind-elemental spell damage on all enemies.",
     "MPCost": 11,
     "MPCostTypeId": 1,
-    "DamageTypeId": 3
+    "DamageTypeId": 3,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 134,
@@ -1603,7 +2038,10 @@
     "Description": "A dance that damages enemies at random, 3 to 7 times in total.",
     "MPCost": 15,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 136,
@@ -1614,7 +2052,10 @@
     "Description": "A dance that absorbs some MP from a single enemy.",
     "MPCost": 0,
     "MPCostTypeId": 1,
-    "DamageTypeId": 13
+    "DamageTypeId": 13,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 100,
@@ -1625,7 +2066,10 @@
     "Description": "Inflicts medium wind-elemental damages on a single enemy. The higher the user's level, the greater the damage that will be inflicted.",
     "MPCost": 12,
     "MPCostTypeId": 1,
-    "DamageTypeId": 3
+    "DamageTypeId": 3,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 32,
@@ -1636,7 +2080,10 @@
     "Description": "Cures all allies of paralysis.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 114,
@@ -1647,7 +2094,10 @@
     "Description": "Savagely slathers a single enemy with slimy saliva, stunning it and reducing its defence attribute to 1.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": 17
+    "DamageTypeId": 17,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 4
   },
   {
     "SkillId": 113,
@@ -1658,7 +2108,10 @@
     "Description": "Slathers a single enemy with simy saliva, stunning it and lowering its defence.",
     "MPCost": 1,
     "MPCostTypeId": 1,
-    "DamageTypeId": 17
+    "DamageTypeId": 17,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": 4
   },
   {
     "SkillId": 61,
@@ -1669,7 +2122,10 @@
     "Description": "Poisons a single enemy. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": 18
+    "DamageTypeId": 18,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 80,
@@ -1680,7 +2136,10 @@
     "Description": "Inflicts heavy slashing damage on monsters in the undead family.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 1,
+    "DamageFamilyId": 7,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 97,
@@ -1691,7 +2150,10 @@
     "Description": "Damages a single enemy. Highly effective against enemies that are poisoned, severly poisoned or paralysed.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 112,
@@ -1702,7 +2164,10 @@
     "Description": "An ear-popping shout that stuns all enemies for 1 turn.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": 17
+    "DamageTypeId": 17,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 106,
@@ -1713,7 +2178,10 @@
     "Description": "Cures of allies of their status ailments.",
     "MPCost": 60,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 135,
@@ -1724,7 +2192,10 @@
     "Description": "A dance that decreases the MP of a single enemy.",
     "MPCost": 0,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 63,
@@ -1735,7 +2206,10 @@
     "Description": "Kills a single enemy instantly. The higher the caster's wisdom, the more likely the spell is to succeed.",
     "MPCost": 9,
     "MPCostTypeId": 1,
-    "DamageTypeId": 19
+    "DamageTypeId": 19,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 99,
@@ -1746,7 +2220,10 @@
     "Description": "Inflicts minor wind-elemental damages on a single enemy.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": 3
+    "DamageTypeId": 3,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 8,
@@ -1757,7 +2234,10 @@
     "Description": "Inflicts minor wind-elemental spell damage on all enemies.",
     "MPCost": 4,
     "MPCostTypeId": 1,
-    "DamageTypeId": 3
+    "DamageTypeId": 3,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 24,
@@ -1768,7 +2248,10 @@
     "Description": "Inflicts minor dark-elemental spell damage on a single enemy.",
     "MPCost": 3,
     "MPCostTypeId": 1,
-    "DamageTypeId": 9
+    "DamageTypeId": 9,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 25,
@@ -1779,7 +2262,10 @@
     "Description": "Inflicts medium dark-elemental spell damage on a single enemy.",
     "MPCost": 6,
     "MPCostTypeId": 1,
-    "DamageTypeId": 9
+    "DamageTypeId": 9,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 20,
@@ -1790,7 +2276,10 @@
     "Description": "Inflicts minor electrical spell damage on a single enemy.",
     "MPCost": 2,
     "MPCostTypeId": 1,
-    "DamageTypeId": 7
+    "DamageTypeId": 7,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 21,
@@ -1801,7 +2290,10 @@
     "Description": "Inflicts medium electrical spell damage on all enemies.",
     "MPCost": 13,
     "MPCostTypeId": 1,
-    "DamageTypeId": 7
+    "DamageTypeId": 7,
+    "AttackTypeId": 4,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 29,
@@ -1812,6 +2304,9 @@
     "Description": "Resurrects a fallen ally. Has a chance of failure.",
     "MPCost": 8,
     "MPCostTypeId": 1,
-    "DamageTypeId": null
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   }
 ]
