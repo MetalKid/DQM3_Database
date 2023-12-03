@@ -30,6 +30,11 @@
     "Identifier": "punch"
   },
   {
+    "AttackTypeId": 9,
+    "Name": "Shout",
+    "Identifier": "shout"
+  },
+  {
     "AttackTypeId": 1,
     "Name": "Slash",
     "Identifier": "slash"

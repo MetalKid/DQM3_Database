@@ -25,6 +25,11 @@
     "Identifier": "air-fryer"
   },
   {
+    "TalentId": 142,
+    "Name": "Anaesthetist",
+    "Identifier": "anaesthetist"
+  },
+  {
     "TalentId": 79,
     "Name": "Antimagic Avoider",
     "Identifier": "antimagic-avoider"
@@ -98,6 +103,11 @@
     "TalentId": 19,
     "Name": "Blazer",
     "Identifier": "blazer"
+  },
+  {
+    "TalentId": 143,
+    "Name": "Blighter",
+    "Identifier": "blighter"
   },
   {
     "TalentId": 127,
@@ -240,6 +250,11 @@
     "Identifier": "defender"
   },
   {
+    "TalentId": 146,
+    "Name": "Demoniac",
+    "Identifier": "demoniac"
+  },
+  {
     "TalentId": 24,
     "Name": "Dragonheart",
     "Identifier": "dragonheart"
@@ -253,6 +268,11 @@
     "TalentId": 52,
     "Name": "Enfeebler",
     "Identifier": "enfeebler"
+  },
+  {
+    "TalentId": 137,
+    "Name": "Evil Genius",
+    "Identifier": "evil-genius"
   },
   {
     "TalentId": 40,
@@ -370,6 +390,11 @@
     "Identifier": "irritant"
   },
   {
+    "TalentId": 139,
+    "Name": "Just Ruler",
+    "Identifier": "just-ruler"
+  },
+  {
     "TalentId": 106,
     "Name": "Magic Maven",
     "Identifier": "magic-maven"
@@ -425,6 +450,11 @@
     "Identifier": "nature-child"
   },
   {
+    "TalentId": 140,
+    "Name": "Nuisance",
+    "Identifier": "nuisance"
+  },
+  {
     "TalentId": 107,
     "Name": "Outlaw",
     "Identifier": "outlaw"
@@ -455,6 +485,11 @@
     "Identifier": "polariser"
   },
   {
+    "TalentId": 144,
+    "Name": "Pop Idol",
+    "Identifier": "pop-idol"
+  },
+  {
     "TalentId": 38,
     "Name": "Power Player",
     "Identifier": "power-player"
@@ -463,6 +498,11 @@
     "TalentId": 46,
     "Name": "Prankster",
     "Identifier": "prankster"
+  },
+  {
+    "TalentId": 145,
+    "Name": "Rug Cutter",
+    "Identifier": "rug-cutter"
   },
   {
     "TalentId": 20,
@@ -483,6 +523,11 @@
     "TalentId": 75,
     "Name": "Sizz Ward",
     "Identifier": "sizz-ward"
+  },
+  {
+    "TalentId": 141,
+    "Name": "Slayer",
+    "Identifier": "slayer"
   },
   {
     "TalentId": 100,
@@ -563,6 +608,11 @@
     "TalentId": 98,
     "Name": "Sweet-Talker",
     "Identifier": "sweet-talker"
+  },
+  {
+    "TalentId": 138,
+    "Name": "Taste Buddies",
+    "Identifier": "taste-buddies"
   },
   {
     "TalentId": 36,

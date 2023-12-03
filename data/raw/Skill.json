@@ -238,6 +238,20 @@
     "SkillStatEffectId": null
   },
   {
+    "SkillId": 187,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Butterfly Bop",
+    "Identifier": "butterfly-bop",
+    "Description": "A dance that summons countless butterflies from the aether to attack all enemies. The higher the user's agility, the greter the damage that will be inflicted.",
+    "MPCost": 15,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
     "SkillId": 126,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
@@ -406,6 +420,20 @@
     "SkillStatEffectId": null
   },
   {
+    "SkillId": 186,
+    "SkillTypeId": 3,
+    "SkillTargetTypeId": 2,
+    "Name": "Death Dance",
+    "Identifier": "death-dance",
+    "Description": "A dance that kills all enemies instantly.",
+    "MPCost": 6,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
     "SkillId": 46,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 1,
@@ -542,6 +570,20 @@
     "MPCostTypeId": 1,
     "DamageTypeId": 4,
     "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
+    "SkillId": 183,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Electric Boogie",
+    "Identifier": "electric-boogie",
+    "Description": "A dance that inflicts extreme electrical damage on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
+    "MPCost": 30,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": 5,
     "DamageFamilyId": null,
     "SkillStatEffectId": null
   },
@@ -756,6 +798,20 @@
     "SkillStatEffectId": null
   },
   {
+    "SkillId": 176,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 1,
+    "Name": "Gigaslash",
+    "Identifier": "gigaslash",
+    "Description": "Inflicts outrageous electrical damage on a single enemy. The higher the user's level, the greater the damage that will be inflicted.",
+    "MPCost": 20,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
     "SkillId": 109,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 1,
@@ -763,6 +819,20 @@
     "Identifier": "gobstopper",
     "Description": "Stops a single enemy from using its mouth, preventing the use of breath attacks for 4 to 7 turns.",
     "MPCost": 6,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": 3,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
+    "SkillId": 182,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Grim Breath",
+    "Identifier": "grim-breath",
+    "Description": "Inflicts outrageous dark-elemental breath damage on all enemies",
+    "MPCost": 80,
     "MPCostTypeId": 1,
     "DamageTypeId": null,
     "AttackTypeId": 3,
@@ -826,6 +896,20 @@
     "SkillStatEffectId": null
   },
   {
+    "SkillId": 180,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Hellish Howl",
+    "Identifier": "hellish-howl",
+    "Description": "Lets out a bloodcurdling shout that inflicts medium damage on all enemies and occasionally stuns them for 1 turn.",
+    "MPCost": 0,
+    "MPCostTypeId": 3,
+    "DamageTypeId": null,
+    "AttackTypeId": 9,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
     "SkillId": 164,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
@@ -852,6 +936,20 @@
     "AttackTypeId": null,
     "DamageFamilyId": null,
     "SkillStatEffectId": 4
+  },
+  {
+    "SkillId": 184,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Hotstepper",
+    "Identifier": "hotstepper",
+    "Description": "A dance that inflicts extreme fire-elemental damage on all enemies. The higher ther user's level, the greater the damage that will be inflicted.",
+    "MPCost": 30,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
   },
   {
     "SkillId": 166,
@@ -1428,6 +1526,20 @@
     "SkillStatEffectId": null
   },
   {
+    "SkillId": 177,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Lightning Storm",
+    "Identifier": "lightning-storm",
+    "Description": "Inflicts outrageous electrical damage on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
+    "MPCost": 52,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
     "SkillId": 26,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 1,
@@ -1512,6 +1624,20 @@
     "SkillStatEffectId": null
   },
   {
+    "SkillId": 185,
+    "SkillTypeId": 3,
+    "SkillTargetTypeId": 4,
+    "Name": "Mirror Moves",
+    "Identifier": "mirror-moves",
+    "Description": "A secret technique that copies an enemy's dance moves step-for-step, effectively reflecting their dance back at them. Protects all allies once only.",
+    "MPCost": 32,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": 5,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
     "SkillId": 111,
     "SkillTypeId": 3,
     "SkillTargetTypeId": 5,
@@ -1540,6 +1666,20 @@
     "SkillStatEffectId": null
   },
   {
+    "SkillId": 178,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Multi-Persecutter",
+    "Identifier": "multi-persecutter",
+    "Description": "Damages all enemies. Highly effective against enemies that are asleep or confused.",
+    "MPCost": 0,
+    "MPCostTypeId": 3,
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
     "SkillId": 81,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
@@ -1550,6 +1690,20 @@
     "MPCostTypeId": 1,
     "DamageTypeId": null,
     "AttackTypeId": 1,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
+    "SkillId": 181,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Multi-Victimiser",
+    "Identifier": "multi-victimiser",
+    "Description": "Damages all enemies. Highly effective against enemies that are poisoned, severely poisoned or paralysed.",
+    "MPCost": 26,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": null,
     "DamageFamilyId": null,
     "SkillStatEffectId": null
   },
@@ -2067,6 +2221,34 @@
     "MPCost": 12,
     "MPCostTypeId": 1,
     "DamageTypeId": 3,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
+    "SkillId": 179,
+    "SkillTypeId": 3,
+    "SkillTargetTypeId": 2,
+    "Name": "Thwack",
+    "Identifier": "thwack",
+    "Description": "Kills all enemies instantly. The higher the caster's wisdom, the more likely the spell is to succeed.",
+    "MPCost": 12,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
+    "SkillId": 188,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Tidal Wave",
+    "Identifier": "tidal-wave",
+    "Description": "Inflicts outrageous water-elemental damage on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
+    "MPCost": 52,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
     "AttackTypeId": null,
     "DamageFamilyId": null,
     "SkillStatEffectId": null

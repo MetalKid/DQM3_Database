@@ -282,6 +282,12 @@
     "Description": "Increases the potency of earth-elemental attacks and decreases their MP consumption."
   },
   {
+    "TraitId": 238,
+    "Name": "Critical Mastermind",
+    "Identifier": "critical-mastermind",
+    "Description": "Makes it much easier to cast critical spells."
+  },
+  {
     "TraitId": 45,
     "Name": "Critical Moment",
     "Identifier": "critical-moment",
@@ -468,10 +474,22 @@
     "Description": "Increases the potency of healing skills and decreases their MP consumption."
   },
   {
+    "TraitId": 233,
+    "Name": "Heaven-Sent",
+    "Identifier": "heaven-sent",
+    "Description": "Sometimes greatly increases attack, defense, agility or wisdom during battle."
+  },
+  {
     "TraitId": 19,
     "Name": "High Heal",
     "Identifier": "high-heal",
     "Description": "Sometimes restores 80 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerfull."
+  },
+  {
+    "TraitId": 236,
+    "Name": "Hothead",
+    "Identifier": "hothead",
+    "Description": "Makes it easier to activate a frenzied state, turning the monster into a formidable fighting force."
   },
   {
     "TraitId": 34,
@@ -802,6 +820,12 @@
     "Name": "Rando-Buff",
     "Identifier": "rando-buff",
     "Description": "Monster sometimes casts Buff on itself during battle."
+  },
+  {
+    "TraitId": 234,
+    "Name": "Rando-Disrupt",
+    "Identifier": "rando-disrupt",
+    "Description": "Sometimes uses Disruptive Wave during battle."
   },
   {
     "TraitId": 14,

@@ -22000,5 +22000,1145 @@
     "MonsterId": 299,
     "DamageTypeId": 19,
     "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3724,
+    "MonsterId": 303,
+    "DamageTypeId": 1,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3725,
+    "MonsterId": 303,
+    "DamageTypeId": 2,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3726,
+    "MonsterId": 303,
+    "DamageTypeId": 3,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3727,
+    "MonsterId": 303,
+    "DamageTypeId": 4,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3728,
+    "MonsterId": 303,
+    "DamageTypeId": 5,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3729,
+    "MonsterId": 303,
+    "DamageTypeId": 6,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3730,
+    "MonsterId": 303,
+    "DamageTypeId": 7,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3731,
+    "MonsterId": 303,
+    "DamageTypeId": 8,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3732,
+    "MonsterId": 303,
+    "DamageTypeId": 9,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3733,
+    "MonsterId": 303,
+    "DamageTypeId": 10,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3734,
+    "MonsterId": 303,
+    "DamageTypeId": 11,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3735,
+    "MonsterId": 303,
+    "DamageTypeId": 12,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3736,
+    "MonsterId": 303,
+    "DamageTypeId": 13,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3737,
+    "MonsterId": 303,
+    "DamageTypeId": 14,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3738,
+    "MonsterId": 303,
+    "DamageTypeId": 15,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3739,
+    "MonsterId": 303,
+    "DamageTypeId": 16,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3740,
+    "MonsterId": 303,
+    "DamageTypeId": 17,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3741,
+    "MonsterId": 303,
+    "DamageTypeId": 18,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3742,
+    "MonsterId": 303,
+    "DamageTypeId": 19,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3743,
+    "MonsterId": 304,
+    "DamageTypeId": 1,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3744,
+    "MonsterId": 304,
+    "DamageTypeId": 2,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3745,
+    "MonsterId": 304,
+    "DamageTypeId": 3,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3746,
+    "MonsterId": 304,
+    "DamageTypeId": 4,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3747,
+    "MonsterId": 304,
+    "DamageTypeId": 5,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3748,
+    "MonsterId": 304,
+    "DamageTypeId": 6,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3749,
+    "MonsterId": 304,
+    "DamageTypeId": 7,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3750,
+    "MonsterId": 304,
+    "DamageTypeId": 8,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3751,
+    "MonsterId": 304,
+    "DamageTypeId": 9,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3752,
+    "MonsterId": 304,
+    "DamageTypeId": 10,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3753,
+    "MonsterId": 304,
+    "DamageTypeId": 11,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3754,
+    "MonsterId": 304,
+    "DamageTypeId": 12,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3755,
+    "MonsterId": 304,
+    "DamageTypeId": 13,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3756,
+    "MonsterId": 304,
+    "DamageTypeId": 14,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3757,
+    "MonsterId": 304,
+    "DamageTypeId": 15,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3758,
+    "MonsterId": 304,
+    "DamageTypeId": 16,
+    "Value": 75
+  },
+  {
+    "MonsterResistanceId": 3759,
+    "MonsterId": 304,
+    "DamageTypeId": 17,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3760,
+    "MonsterId": 304,
+    "DamageTypeId": 18,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3761,
+    "MonsterId": 304,
+    "DamageTypeId": 19,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3762,
+    "MonsterId": 305,
+    "DamageTypeId": 1,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3763,
+    "MonsterId": 305,
+    "DamageTypeId": 2,
+    "Value": 75
+  },
+  {
+    "MonsterResistanceId": 3764,
+    "MonsterId": 305,
+    "DamageTypeId": 3,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3765,
+    "MonsterId": 305,
+    "DamageTypeId": 4,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3766,
+    "MonsterId": 305,
+    "DamageTypeId": 5,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3767,
+    "MonsterId": 305,
+    "DamageTypeId": 6,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3768,
+    "MonsterId": 305,
+    "DamageTypeId": 7,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3769,
+    "MonsterId": 305,
+    "DamageTypeId": 8,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3770,
+    "MonsterId": 305,
+    "DamageTypeId": 9,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3771,
+    "MonsterId": 305,
+    "DamageTypeId": 10,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3772,
+    "MonsterId": 305,
+    "DamageTypeId": 11,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3773,
+    "MonsterId": 305,
+    "DamageTypeId": 12,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3774,
+    "MonsterId": 305,
+    "DamageTypeId": 13,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3775,
+    "MonsterId": 305,
+    "DamageTypeId": 14,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3776,
+    "MonsterId": 305,
+    "DamageTypeId": 15,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3777,
+    "MonsterId": 305,
+    "DamageTypeId": 16,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3778,
+    "MonsterId": 305,
+    "DamageTypeId": 17,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3779,
+    "MonsterId": 305,
+    "DamageTypeId": 18,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3780,
+    "MonsterId": 305,
+    "DamageTypeId": 19,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3781,
+    "MonsterId": 306,
+    "DamageTypeId": 1,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3782,
+    "MonsterId": 306,
+    "DamageTypeId": 2,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3783,
+    "MonsterId": 306,
+    "DamageTypeId": 3,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3784,
+    "MonsterId": 306,
+    "DamageTypeId": 4,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3785,
+    "MonsterId": 306,
+    "DamageTypeId": 5,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3786,
+    "MonsterId": 306,
+    "DamageTypeId": 6,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3787,
+    "MonsterId": 306,
+    "DamageTypeId": 7,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3788,
+    "MonsterId": 306,
+    "DamageTypeId": 8,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3789,
+    "MonsterId": 306,
+    "DamageTypeId": 9,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3790,
+    "MonsterId": 306,
+    "DamageTypeId": 10,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3791,
+    "MonsterId": 306,
+    "DamageTypeId": 11,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3792,
+    "MonsterId": 306,
+    "DamageTypeId": 12,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3793,
+    "MonsterId": 306,
+    "DamageTypeId": 13,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3794,
+    "MonsterId": 306,
+    "DamageTypeId": 14,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3795,
+    "MonsterId": 306,
+    "DamageTypeId": 15,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3796,
+    "MonsterId": 306,
+    "DamageTypeId": 16,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3797,
+    "MonsterId": 306,
+    "DamageTypeId": 17,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3798,
+    "MonsterId": 306,
+    "DamageTypeId": 18,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3799,
+    "MonsterId": 306,
+    "DamageTypeId": 19,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3800,
+    "MonsterId": 307,
+    "DamageTypeId": 1,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3801,
+    "MonsterId": 307,
+    "DamageTypeId": 2,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3802,
+    "MonsterId": 307,
+    "DamageTypeId": 3,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3803,
+    "MonsterId": 307,
+    "DamageTypeId": 4,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3804,
+    "MonsterId": 307,
+    "DamageTypeId": 5,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3805,
+    "MonsterId": 307,
+    "DamageTypeId": 6,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3806,
+    "MonsterId": 307,
+    "DamageTypeId": 7,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3807,
+    "MonsterId": 307,
+    "DamageTypeId": 8,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3808,
+    "MonsterId": 307,
+    "DamageTypeId": 9,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3809,
+    "MonsterId": 307,
+    "DamageTypeId": 10,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3810,
+    "MonsterId": 307,
+    "DamageTypeId": 11,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3811,
+    "MonsterId": 307,
+    "DamageTypeId": 12,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3812,
+    "MonsterId": 307,
+    "DamageTypeId": 13,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3813,
+    "MonsterId": 307,
+    "DamageTypeId": 14,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3814,
+    "MonsterId": 307,
+    "DamageTypeId": 15,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3815,
+    "MonsterId": 307,
+    "DamageTypeId": 16,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3816,
+    "MonsterId": 307,
+    "DamageTypeId": 17,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3817,
+    "MonsterId": 307,
+    "DamageTypeId": 18,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3818,
+    "MonsterId": 307,
+    "DamageTypeId": 19,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3819,
+    "MonsterId": 308,
+    "DamageTypeId": 1,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3820,
+    "MonsterId": 308,
+    "DamageTypeId": 2,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3821,
+    "MonsterId": 308,
+    "DamageTypeId": 3,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3822,
+    "MonsterId": 308,
+    "DamageTypeId": 4,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3823,
+    "MonsterId": 308,
+    "DamageTypeId": 5,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3824,
+    "MonsterId": 308,
+    "DamageTypeId": 6,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3825,
+    "MonsterId": 308,
+    "DamageTypeId": 7,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3826,
+    "MonsterId": 308,
+    "DamageTypeId": 8,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3827,
+    "MonsterId": 308,
+    "DamageTypeId": 9,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3828,
+    "MonsterId": 308,
+    "DamageTypeId": 10,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3829,
+    "MonsterId": 308,
+    "DamageTypeId": 11,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3830,
+    "MonsterId": 308,
+    "DamageTypeId": 12,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3831,
+    "MonsterId": 308,
+    "DamageTypeId": 13,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3832,
+    "MonsterId": 308,
+    "DamageTypeId": 14,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3833,
+    "MonsterId": 308,
+    "DamageTypeId": 15,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3834,
+    "MonsterId": 308,
+    "DamageTypeId": 16,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3835,
+    "MonsterId": 308,
+    "DamageTypeId": 17,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3836,
+    "MonsterId": 308,
+    "DamageTypeId": 18,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3837,
+    "MonsterId": 308,
+    "DamageTypeId": 19,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3838,
+    "MonsterId": 309,
+    "DamageTypeId": 1,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3839,
+    "MonsterId": 309,
+    "DamageTypeId": 2,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3840,
+    "MonsterId": 309,
+    "DamageTypeId": 3,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3841,
+    "MonsterId": 309,
+    "DamageTypeId": 4,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3842,
+    "MonsterId": 309,
+    "DamageTypeId": 5,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3843,
+    "MonsterId": 309,
+    "DamageTypeId": 6,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3844,
+    "MonsterId": 309,
+    "DamageTypeId": 7,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3845,
+    "MonsterId": 309,
+    "DamageTypeId": 8,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3846,
+    "MonsterId": 309,
+    "DamageTypeId": 9,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3847,
+    "MonsterId": 309,
+    "DamageTypeId": 10,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3848,
+    "MonsterId": 309,
+    "DamageTypeId": 11,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3849,
+    "MonsterId": 309,
+    "DamageTypeId": 12,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3850,
+    "MonsterId": 309,
+    "DamageTypeId": 13,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3851,
+    "MonsterId": 309,
+    "DamageTypeId": 14,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3852,
+    "MonsterId": 309,
+    "DamageTypeId": 15,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3853,
+    "MonsterId": 309,
+    "DamageTypeId": 16,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3854,
+    "MonsterId": 309,
+    "DamageTypeId": 17,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3855,
+    "MonsterId": 309,
+    "DamageTypeId": 18,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3856,
+    "MonsterId": 309,
+    "DamageTypeId": 19,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3857,
+    "MonsterId": 310,
+    "DamageTypeId": 1,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3858,
+    "MonsterId": 310,
+    "DamageTypeId": 2,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3859,
+    "MonsterId": 310,
+    "DamageTypeId": 3,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3860,
+    "MonsterId": 310,
+    "DamageTypeId": 4,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3861,
+    "MonsterId": 310,
+    "DamageTypeId": 5,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3862,
+    "MonsterId": 310,
+    "DamageTypeId": 6,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3863,
+    "MonsterId": 310,
+    "DamageTypeId": 7,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3864,
+    "MonsterId": 310,
+    "DamageTypeId": 8,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3865,
+    "MonsterId": 310,
+    "DamageTypeId": 9,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3866,
+    "MonsterId": 310,
+    "DamageTypeId": 10,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3867,
+    "MonsterId": 310,
+    "DamageTypeId": 11,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3868,
+    "MonsterId": 310,
+    "DamageTypeId": 12,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3869,
+    "MonsterId": 310,
+    "DamageTypeId": 13,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3870,
+    "MonsterId": 310,
+    "DamageTypeId": 14,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3871,
+    "MonsterId": 310,
+    "DamageTypeId": 15,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3872,
+    "MonsterId": 310,
+    "DamageTypeId": 16,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3873,
+    "MonsterId": 310,
+    "DamageTypeId": 17,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3874,
+    "MonsterId": 310,
+    "DamageTypeId": 18,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3875,
+    "MonsterId": 310,
+    "DamageTypeId": 19,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3876,
+    "MonsterId": 311,
+    "DamageTypeId": 1,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3877,
+    "MonsterId": 311,
+    "DamageTypeId": 2,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3878,
+    "MonsterId": 311,
+    "DamageTypeId": 3,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3879,
+    "MonsterId": 311,
+    "DamageTypeId": 4,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3880,
+    "MonsterId": 311,
+    "DamageTypeId": 5,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3881,
+    "MonsterId": 311,
+    "DamageTypeId": 6,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3882,
+    "MonsterId": 311,
+    "DamageTypeId": 7,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3883,
+    "MonsterId": 311,
+    "DamageTypeId": 8,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3884,
+    "MonsterId": 311,
+    "DamageTypeId": 9,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3885,
+    "MonsterId": 311,
+    "DamageTypeId": 10,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3886,
+    "MonsterId": 311,
+    "DamageTypeId": 11,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3887,
+    "MonsterId": 311,
+    "DamageTypeId": 12,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3888,
+    "MonsterId": 311,
+    "DamageTypeId": 13,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3889,
+    "MonsterId": 311,
+    "DamageTypeId": 14,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3890,
+    "MonsterId": 311,
+    "DamageTypeId": 15,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3891,
+    "MonsterId": 311,
+    "DamageTypeId": 16,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3892,
+    "MonsterId": 311,
+    "DamageTypeId": 17,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3893,
+    "MonsterId": 311,
+    "DamageTypeId": 18,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3894,
+    "MonsterId": 311,
+    "DamageTypeId": 19,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3895,
+    "MonsterId": 312,
+    "DamageTypeId": 1,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3896,
+    "MonsterId": 312,
+    "DamageTypeId": 2,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3897,
+    "MonsterId": 312,
+    "DamageTypeId": 3,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3898,
+    "MonsterId": 312,
+    "DamageTypeId": 4,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3899,
+    "MonsterId": 312,
+    "DamageTypeId": 5,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3900,
+    "MonsterId": 312,
+    "DamageTypeId": 6,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3901,
+    "MonsterId": 312,
+    "DamageTypeId": 7,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3902,
+    "MonsterId": 312,
+    "DamageTypeId": 8,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3903,
+    "MonsterId": 312,
+    "DamageTypeId": 9,
+    "Value": 25
+  },
+  {
+    "MonsterResistanceId": 3904,
+    "MonsterId": 312,
+    "DamageTypeId": 10,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3905,
+    "MonsterId": 312,
+    "DamageTypeId": 11,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3906,
+    "MonsterId": 312,
+    "DamageTypeId": 12,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3907,
+    "MonsterId": 312,
+    "DamageTypeId": 13,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3908,
+    "MonsterId": 312,
+    "DamageTypeId": 14,
+    "Value": -25
+  },
+  {
+    "MonsterResistanceId": 3909,
+    "MonsterId": 312,
+    "DamageTypeId": 15,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3910,
+    "MonsterId": 312,
+    "DamageTypeId": 16,
+    "Value": 0
+  },
+  {
+    "MonsterResistanceId": 3911,
+    "MonsterId": 312,
+    "DamageTypeId": 17,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3912,
+    "MonsterId": 312,
+    "DamageTypeId": 18,
+    "Value": 50
+  },
+  {
+    "MonsterResistanceId": 3913,
+    "MonsterId": 312,
+    "DamageTypeId": 19,
+    "Value": 25
   }
 ]
