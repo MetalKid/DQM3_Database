@@ -70,6 +70,20 @@
     "SkillStatEffectId": 2
   },
   {
+    "SkillId": 192,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Bad Hand",
+    "Identifier": "bad-hand",
+    "Description": "Inflicts outrageous dark-elemental damage on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
+    "MPCost": 52,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
     "SkillId": 14,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
@@ -95,6 +109,20 @@
     "DamageTypeId": null,
     "AttackTypeId": 1,
     "DamageFamilyId": 4,
+    "SkillStatEffectId": null
+  },
+  {
+    "SkillId": 191,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Big Banga",
+    "Identifier": "big-banga",
+    "Description": "Inflicts outrageous explosive damange on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
+    "MPCost": 36,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
     "SkillStatEffectId": null
   },
   {
@@ -1666,6 +1694,20 @@
     "SkillStatEffectId": null
   },
   {
+    "SkillId": 189,
+    "SkillTypeId": 2,
+    "SkillTargetTypeId": 4,
+    "Name": "Multiheal",
+    "Identifier": "multiheal",
+    "Description": "Restores 76 or more HP to all allies.",
+    "MPCost": 26,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
     "SkillId": 178,
     "SkillTypeId": 1,
     "SkillTargetTypeId": 2,
@@ -1731,6 +1773,20 @@
     "MPCost": 8,
     "MPCostTypeId": 1,
     "DamageTypeId": 16,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
+    "SkillId": 193,
+    "SkillTypeId": 2,
+    "SkillTargetTypeId": 4,
+    "Name": "Omniheal",
+    "Identifier": "omniheal",
+    "Description": "Restores 237 or more HP to all allies.",
+    "MPCost": 80,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
     "AttackTypeId": null,
     "DamageFamilyId": null,
     "SkillStatEffectId": null
@@ -2403,6 +2459,20 @@
     "MPCost": 4,
     "MPCostTypeId": 1,
     "DamageTypeId": 3,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
+    "SkillId": 190,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Withering Look",
+    "Identifier": "withering-look",
+    "Description": "Shoots a beam from the eyes that inflicts extreme damage on all enemies. The higher the user's level, the greater the damage that will be inflicted.",
+    "MPCost": 36,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
     "AttackTypeId": null,
     "DamageFamilyId": null,
     "SkillStatEffectId": null

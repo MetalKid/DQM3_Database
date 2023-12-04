@@ -2,96 +2,115 @@
   {
     "DamageTypeId": 12,
     "Name": "Antimagic",
-    "Identifier": "antimagic"
+    "Identifier": "antimagic",
+    "JapaneseName": "封じ"
   },
   {
     "DamageTypeId": 11,
     "Name": "Bedazzlement",
-    "Identifier": "bedazzlement"
+    "Identifier": "bedazzlement",
+    "JapaneseName": "幻惑"
   },
   {
     "DamageTypeId": 14,
     "Name": "Confusion",
-    "Identifier": "confusion"
+    "Identifier": "confusion",
+    "JapaneseName": "混乱"
   },
   {
     "DamageTypeId": 9,
     "Name": "Dark",
-    "Identifier": "dark"
+    "Identifier": "dark",
+    "JapaneseName": "闇"
   },
   {
     "DamageTypeId": 10,
     "Name": "Debilitation",
-    "Identifier": "debilitation"
+    "Identifier": "debilitation",
+    "JapaneseName": "弱体化"
   },
   {
     "DamageTypeId": 4,
     "Name": "Earth",
-    "Identifier": "earth"
+    "Identifier": "earth",
+    "JapaneseName": "地"
   },
   {
     "DamageTypeId": 7,
     "Name": "Electricity",
-    "Identifier": "electricity"
+    "Identifier": "electricity",
+    "JapaneseName": "電撃"
   },
   {
     "DamageTypeId": 5,
     "Name": "Explosions",
-    "Identifier": "explosions"
+    "Identifier": "explosions",
+    "JapaneseName": "爆発"
   },
   {
     "DamageTypeId": 1,
     "Name": "Fire",
-    "Identifier": "fire"
+    "Identifier": "fire",
+    "JapaneseName": "火"
   },
   {
     "DamageTypeId": 6,
     "Name": "Ice",
-    "Identifier": "ice"
+    "Identifier": "ice",
+    "JapaneseName": "氷結"
   },
   {
     "DamageTypeId": 19,
     "Name": "Instant Death",
-    "Identifier": "instant-death"
+    "Identifier": "instant-death",
+    "JapaneseName": "即死"
   },
   {
     "DamageTypeId": 8,
     "Name": "Light",
-    "Identifier": "light"
+    "Identifier": "light",
+    "JapaneseName": "光"
   },
   {
     "DamageTypeId": 13,
     "Name": "MP Absorption",
-    "Identifier": "mp-absorption"
+    "Identifier": "mp-absorption",
+    "JapaneseName": "MP吸収"
   },
   {
     "DamageTypeId": 16,
     "Name": "Paralysis",
-    "Identifier": "paralysis"
+    "Identifier": "paralysis",
+    "JapaneseName": "マヒ"
   },
   {
     "DamageTypeId": 18,
     "Name": "Poison",
-    "Identifier": "poison"
+    "Identifier": "poison",
+    "JapaneseName": "毒"
   },
   {
     "DamageTypeId": 15,
     "Name": "Sleep",
-    "Identifier": "sleep"
+    "Identifier": "sleep",
+    "JapaneseName": "眠り"
   },
   {
     "DamageTypeId": 17,
     "Name": "Stun",
-    "Identifier": "stun"
+    "Identifier": "stun",
+    "JapaneseName": "休み"
   },
   {
     "DamageTypeId": 2,
     "Name": "Water",
-    "Identifier": "water"
+    "Identifier": "water",
+    "JapaneseName": "水"
   },
   {
     "DamageTypeId": 3,
     "Name": "Wind",
-    "Identifier": "wind"
+    "Identifier": "wind",
+    "JapaneseName": "風"
   }
 ]

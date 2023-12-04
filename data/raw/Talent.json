@@ -150,6 +150,11 @@
     "Identifier": "choreographer"
   },
   {
+    "TalentId": 152,
+    "Name": "Cold Snapper",
+    "Identifier": "cold-snapper"
+  },
+  {
     "TalentId": 84,
     "Name": "Confusion Controller",
     "Identifier": "confusion-controller"
@@ -190,6 +195,11 @@
     "Identifier": "cupid"
   },
   {
+    "TalentId": 154,
+    "Name": "Cure-All",
+    "Identifier": "cure-all"
+  },
+  {
     "TalentId": 42,
     "Name": "Cutpurse",
     "Identifier": "cutpurse"
@@ -208,6 +218,11 @@
     "TalentId": 29,
     "Name": "Dark Artist",
     "Identifier": "dark-artist"
+  },
+  {
+    "TalentId": 153,
+    "Name": "Dark Horse",
+    "Identifier": "dark-horse"
   },
   {
     "TalentId": 86,
@@ -280,6 +295,11 @@
     "Identifier": "fighter"
   },
   {
+    "TalentId": 148,
+    "Name": "Firebrand",
+    "Identifier": "firebrand"
+  },
+  {
     "TalentId": 51,
     "Name": "Fortifier",
     "Identifier": "fortifier"
@@ -340,6 +360,16 @@
     "Identifier": "hair-splitter"
   },
   {
+    "TalentId": 151,
+    "Name": "Hardliner",
+    "Identifier": "hardliner"
+  },
+  {
+    "TalentId": 155,
+    "Name": "Hater",
+    "Identifier": "hater"
+  },
+  {
     "TalentId": 47,
     "Name": "Healer",
     "Identifier": "healer"
@@ -393,6 +423,11 @@
     "TalentId": 139,
     "Name": "Just Ruler",
     "Identifier": "just-ruler"
+  },
+  {
+    "TalentId": 147,
+    "Name": "Leading Light",
+    "Identifier": "leading-light"
   },
   {
     "TalentId": 106,
@@ -550,6 +585,11 @@
     "Identifier": "smart-blazer"
   },
   {
+    "TalentId": 149,
+    "Name": "Snow Drifer",
+    "Identifier": "snow-drifter"
+  },
+  {
     "TalentId": 87,
     "Name": "Soggy Slasher",
     "Identifier": "soggy-slasher"
@@ -683,6 +723,11 @@
     "TalentId": 70,
     "Name": "Woosh Ward",
     "Identifier": "woosh-ward"
+  },
+  {
+    "TalentId": 150,
+    "Name": "Wrecker",
+    "Identifier": "wrecker"
   },
   {
     "TalentId": 17,
