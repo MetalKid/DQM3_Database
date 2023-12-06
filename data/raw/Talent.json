@@ -2,761 +2,1129 @@
   {
     "TalentId": 64,
     "Name": "Agility Booster I",
-    "Identifier": "agility-booster-i"
+    "Identifier": "agility-booster-i",
+    "JapaneseName": null
   },
   {
     "TalentId": 65,
     "Name": "Agility Booster II",
-    "Identifier": "agility-booster-ii"
+    "Identifier": "agility-booster-ii",
+    "JapaneseName": null
   },
   {
     "TalentId": 122,
     "Name": "Agility Booster III",
-    "Identifier": "agility-booster-iii"
+    "Identifier": "agility-booster-iii",
+    "JapaneseName": null
   },
   {
     "TalentId": 123,
     "Name": "Agility Booster IV",
-    "Identifier": "agility-booster-iv"
+    "Identifier": "agility-booster-iv",
+    "JapaneseName": null
   },
   {
     "TalentId": 91,
     "Name": "Air Fryer",
-    "Identifier": "air-fryer"
+    "Identifier": "air-fryer",
+    "JapaneseName": null
   },
   {
     "TalentId": 142,
     "Name": "Anaesthetist",
-    "Identifier": "anaesthetist"
+    "Identifier": "anaesthetist",
+    "JapaneseName": "スタン"
   },
   {
     "TalentId": 79,
     "Name": "Antimagic Avoider",
-    "Identifier": "antimagic-avoider"
+    "Identifier": "antimagic-avoider",
+    "JapaneseName": null
   },
   {
     "TalentId": 113,
     "Name": "Antimagician",
-    "Identifier": "antimagician"
+    "Identifier": "antimagician",
+    "JapaneseName": "アンチスペル"
   },
   {
     "TalentId": 32,
     "Name": "Aquapothecary",
-    "Identifier": "aquapothecary"
+    "Identifier": "aquapothecary",
+    "JapaneseName": "みずげい"
   },
   {
     "TalentId": 44,
     "Name": "Assassin",
-    "Identifier": "assassin"
+    "Identifier": "assassin",
+    "JapaneseName": "アサシン"
   },
   {
     "TalentId": 60,
     "Name": "Attack Booster I",
-    "Identifier": "attack-booster-i"
+    "Identifier": "attack-booster-i",
+    "JapaneseName": null
   },
   {
     "TalentId": 61,
     "Name": "Attack Booster II",
-    "Identifier": "attack-booster-ii"
+    "Identifier": "attack-booster-ii",
+    "JapaneseName": null
   },
   {
     "TalentId": 118,
     "Name": "Attack Booster III",
-    "Identifier": "attack-booster-iii"
+    "Identifier": "attack-booster-iii",
+    "JapaneseName": null
   },
   {
     "TalentId": 119,
     "Name": "Attack Booster IV",
-    "Identifier": "attack-booster-iv"
+    "Identifier": "attack-booster-iv",
+    "JapaneseName": null
   },
   {
     "TalentId": 9,
     "Name": "Bang Afficionado",
-    "Identifier": "bang-afficionado"
+    "Identifier": "bang-afficionado",
+    "JapaneseName": "爆発の心"
   },
   {
     "TalentId": 10,
     "Name": "Bang Virtuoso",
-    "Identifier": "bang-virtuoso"
+    "Identifier": "bang-virtuoso",
+    "JapaneseName": null
   },
   {
     "TalentId": 72,
     "Name": "Bang Ward",
-    "Identifier": "bang-ward"
+    "Identifier": "bang-ward",
+    "JapaneseName": null
   },
   {
     "TalentId": 89,
     "Name": "Barricade",
-    "Identifier": "barricade"
+    "Identifier": "barricade",
+    "JapaneseName": "てっぺき"
   },
   {
     "TalentId": 78,
     "Name": "Bedazzlement Blocker",
-    "Identifier": "bedazzlement-blocker"
+    "Identifier": "bedazzlement-blocker",
+    "JapaneseName": null
   },
   {
     "TalentId": 41,
     "Name": "Blade Maven",
-    "Identifier": "blade-maven"
+    "Identifier": "blade-maven",
+    "JapaneseName": "剣術"
   },
   {
     "TalentId": 19,
     "Name": "Blazer",
-    "Identifier": "blazer"
+    "Identifier": "blazer",
+    "JapaneseName": "火炎"
   },
   {
     "TalentId": 143,
     "Name": "Blighter",
-    "Identifier": "blighter"
+    "Identifier": "blighter",
+    "JapaneseName": "暗闇"
   },
   {
     "TalentId": 127,
     "Name": "Blow Hard",
-    "Identifier": "blow-hard"
+    "Identifier": "blow-hard",
+    "JapaneseName": null
   },
   {
     "TalentId": 34,
     "Name": "Blowy Slasher",
-    "Identifier": "blowy-slasher"
+    "Identifier": "blowy-slasher",
+    "JapaneseName": "グリーンソード"
   },
   {
     "TalentId": 30,
     "Name": "Blusterer",
-    "Identifier": "blusterer"
+    "Identifier": "blusterer",
+    "JapaneseName": "つむじ風"
+  },
+  {
+    "TalentId": 170,
+    "Name": "Bombshell",
+    "Identifier": "bombshell",
+    "JapaneseName": "ボマー"
   },
   {
     "TalentId": 111,
     "Name": "Breath Taker",
-    "Identifier": "breath-taker"
+    "Identifier": "breath-taker",
+    "JapaneseName": "アンチブレス"
+  },
+  {
+    "TalentId": 183,
+    "Name": "Breath Worker",
+    "Identifier": "breath-worker",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 184,
+    "Name": "Charge Leader",
+    "Identifier": "charge-leader",
+    "JapaneseName": null
   },
   {
     "TalentId": 112,
     "Name": "Charmer",
-    "Identifier": "charmer"
+    "Identifier": "charmer",
+    "JapaneseName": "みわく"
   },
   {
     "TalentId": 133,
     "Name": "Chiaroscuro Shield",
-    "Identifier": "chiaroscuro-shield"
+    "Identifier": "chiaroscuro-shield",
+    "JapaneseName": null
   },
   {
     "TalentId": 110,
     "Name": "Chilly Receptionist",
-    "Identifier": "chilly-receptionist"
+    "Identifier": "chilly-receptionist",
+    "JapaneseName": "吹雪"
   },
   {
     "TalentId": 109,
     "Name": "Choreographer",
-    "Identifier": "choreographer"
+    "Identifier": "choreographer",
+    "JapaneseName": "エンターテイナー"
   },
   {
     "TalentId": 152,
     "Name": "Cold Snapper",
-    "Identifier": "cold-snapper"
+    "Identifier": "cold-snapper",
+    "JapaneseName": "アイスバーン"
   },
   {
     "TalentId": 84,
     "Name": "Confusion Controller",
-    "Identifier": "confusion-controller"
+    "Identifier": "confusion-controller",
+    "JapaneseName": null
   },
   {
     "TalentId": 11,
     "Name": "Crack Afficionado",
-    "Identifier": "crack-afficionado"
+    "Identifier": "crack-afficionado",
+    "JapaneseName": "氷結の心"
   },
   {
     "TalentId": 12,
     "Name": "Crack Virtuoso",
-    "Identifier": "crack-virtuoso"
+    "Identifier": "crack-virtuoso",
+    "JapaneseName": null
   },
   {
     "TalentId": 73,
     "Name": "Crack Ward",
-    "Identifier": "crack-ward"
+    "Identifier": "crack-ward",
+    "JapaneseName": null
   },
   {
     "TalentId": 7,
     "Name": "Crag Afficionado",
-    "Identifier": "crag-afficionado"
+    "Identifier": "crag-afficionado",
+    "JapaneseName": "地の心"
   },
   {
     "TalentId": 8,
     "Name": "Crag Virtuoso",
-    "Identifier": "crag-virtuoso"
+    "Identifier": "crag-virtuoso",
+    "JapaneseName": null
   },
   {
     "TalentId": 71,
     "Name": "Crag Ward",
-    "Identifier": "crag-ward"
+    "Identifier": "crag-ward",
+    "JapaneseName": null
   },
   {
     "TalentId": 96,
     "Name": "Cupid",
-    "Identifier": "cupid"
+    "Identifier": "cupid",
+    "JapaneseName": "キューピット"
   },
   {
     "TalentId": 154,
     "Name": "Cure-All",
-    "Identifier": "cure-all"
+    "Identifier": "cure-all",
+    "JapaneseName": "全体回復"
   },
   {
     "TalentId": 42,
     "Name": "Cutpurse",
-    "Identifier": "cutpurse"
+    "Identifier": "cutpurse",
+    "JapaneseName": "ぬすっと"
   },
   {
     "TalentId": 134,
     "Name": "Cyclone Shield",
-    "Identifier": "cyclone-shield"
+    "Identifier": "cyclone-shield",
+    "JapaneseName": null
   },
   {
     "TalentId": 22,
     "Name": "Dancer",
-    "Identifier": "dancer"
+    "Identifier": "dancer",
+    "JapaneseName": "ダンサー"
   },
   {
     "TalentId": 29,
     "Name": "Dark Artist",
-    "Identifier": "dark-artist"
+    "Identifier": "dark-artist",
+    "JapaneseName": "悪魔のささやき"
   },
   {
     "TalentId": 153,
     "Name": "Dark Horse",
-    "Identifier": "dark-horse"
+    "Identifier": "dark-horse",
+    "JapaneseName": "ダークホース"
   },
   {
     "TalentId": 86,
     "Name": "Death Defier",
-    "Identifier": "death-defier"
+    "Identifier": "death-defier",
+    "JapaneseName": null
   },
   {
     "TalentId": 77,
     "Name": "Debilitation Ducker",
-    "Identifier": "debilitation-ducker"
+    "Identifier": "debilitation-ducker",
+    "JapaneseName": null
   },
   {
     "TalentId": 21,
     "Name": "Deep Breather",
-    "Identifier": "deep-breather"
+    "Identifier": "deep-breather",
+    "JapaneseName": null
   },
   {
     "TalentId": 62,
     "Name": "Defence Booster I",
-    "Identifier": "defence-booster-i"
+    "Identifier": "defence-booster-i",
+    "JapaneseName": null
   },
   {
     "TalentId": 63,
     "Name": "Defence Booster II",
-    "Identifier": "defence-booster-ii"
+    "Identifier": "defence-booster-ii",
+    "JapaneseName": null
   },
   {
     "TalentId": 120,
     "Name": "Defence Booster III",
-    "Identifier": "defense-booster-iii"
+    "Identifier": "defense-booster-iii",
+    "JapaneseName": null
   },
   {
     "TalentId": 121,
     "Name": "Defence Booster IV",
-    "Identifier": "defense-booster-iv"
+    "Identifier": "defense-booster-iv",
+    "JapaneseName": null
   },
   {
     "TalentId": 54,
     "Name": "Defender",
-    "Identifier": "defender"
+    "Identifier": "defender",
+    "JapaneseName": "ぼうぎょ"
   },
   {
     "TalentId": 146,
     "Name": "Demoniac",
-    "Identifier": "demoniac"
+    "Identifier": "demoniac",
+    "JapaneseName": "魔氷壁"
+  },
+  {
+    "TalentId": 186,
+    "Name": "Destroyer",
+    "Identifier": "destroyer",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 180,
+    "Name": "Devil's Advocate",
+    "Identifier": "devils-advocate",
+    "JapaneseName": "デビルスマイル"
+  },
+  {
+    "TalentId": 165,
+    "Name": "Doomsayer",
+    "Identifier": "doomsayer",
+    "JapaneseName": "死の誘い"
   },
   {
     "TalentId": 24,
     "Name": "Dragonheart",
-    "Identifier": "dragonheart"
+    "Identifier": "dragonheart",
+    "JapaneseName": "ドラゴンソウル"
   },
   {
     "TalentId": 80,
     "Name": "Drain Dodger",
-    "Identifier": "drain-dodger"
+    "Identifier": "drain-dodger",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 167,
+    "Name": "Duelist",
+    "Identifier": "duelist",
+    "JapaneseName": "剣闘士"
+  },
+  {
+    "TalentId": 161,
+    "Name": "Empath",
+    "Identifier": "empath",
+    "JapaneseName": "ジャスティス"
   },
   {
     "TalentId": 52,
     "Name": "Enfeebler",
-    "Identifier": "enfeebler"
+    "Identifier": "enfeebler",
+    "JapaneseName": "ダウナー"
+  },
+  {
+    "TalentId": 156,
+    "Name": "Enigma",
+    "Identifier": "enigma",
+    "JapaneseName": null
   },
   {
     "TalentId": 137,
     "Name": "Evil Genius",
-    "Identifier": "evil-genius"
+    "Identifier": "evil-genius",
+    "JapaneseName": "邪悪"
   },
   {
     "TalentId": 40,
     "Name": "Fighter",
-    "Identifier": "fighter"
+    "Identifier": "fighter",
+    "JapaneseName": "ウォリアー"
+  },
+  {
+    "TalentId": 162,
+    "Name": "Fire Chief",
+    "Identifier": "fire-chief",
+    "JapaneseName": "フレア"
   },
   {
     "TalentId": 148,
     "Name": "Firebrand",
-    "Identifier": "firebrand"
+    "Identifier": "firebrand",
+    "JapaneseName": "バーニング"
   },
   {
     "TalentId": 51,
     "Name": "Fortifier",
-    "Identifier": "fortifier"
+    "Identifier": "fortifier",
+    "JapaneseName": "アッパー"
   },
   {
     "TalentId": 103,
     "Name": "Freeze Popper",
-    "Identifier": "freeze-popper"
+    "Identifier": "freeze-popper",
+    "JapaneseName": null
   },
   {
     "TalentId": 129,
     "Name": "Freezer Burner",
-    "Identifier": "freezer-burner"
+    "Identifier": "freezer-burner",
+    "JapaneseName": null
   },
   {
     "TalentId": 1,
     "Name": "Frizz Afficionado",
-    "Identifier": "frizz-afficionado"
+    "Identifier": "frizz-afficionado",
+    "JapaneseName": "火の心"
   },
   {
     "TalentId": 2,
     "Name": "Frizz Virtuoso",
-    "Identifier": "frizz-virtuoso"
+    "Identifier": "frizz-virtuoso",
+    "JapaneseName": null
   },
   {
     "TalentId": 68,
     "Name": "Frizz Ward",
-    "Identifier": "frizz-ward"
+    "Identifier": "frizz-ward",
+    "JapaneseName": null
   },
   {
     "TalentId": 126,
     "Name": "Frosty Receptionist",
-    "Identifier": "frosty-receptionist"
+    "Identifier": "frosty-receptionist",
+    "JapaneseName": null
   },
   {
     "TalentId": 131,
     "Name": "Fulgurite Shield",
-    "Identifier": "fulgurite-shield"
+    "Identifier": "fulgurite-shield",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 188,
+    "Name": "Fuzzy Thinker",
+    "Identifier": "fuzzy-thinker",
+    "JapaneseName": null
   },
   {
     "TalentId": 136,
     "Name": "Glacier Shield",
-    "Identifier": "glacier-shield"
+    "Identifier": "glacier-shield",
+    "JapaneseName": null
   },
   {
     "TalentId": 88,
     "Name": "Good Knight",
-    "Identifier": "good-knight"
+    "Identifier": "good-knight",
+    "JapaneseName": "騎士道"
   },
   {
     "TalentId": 25,
     "Name": "Graveheart",
-    "Identifier": "graveheart"
+    "Identifier": "graveheart",
+    "JapaneseName": "アンデッド"
   },
   {
     "TalentId": 104,
     "Name": "Hair Splitter",
-    "Identifier": "hair-splitter"
+    "Identifier": "hair-splitter",
+    "JapaneseName": null
   },
   {
     "TalentId": 151,
     "Name": "Hardliner",
-    "Identifier": "hardliner"
+    "Identifier": "hardliner",
+    "JapaneseName": "一文字"
   },
   {
     "TalentId": 155,
     "Name": "Hater",
-    "Identifier": "hater"
+    "Identifier": "hater",
+    "JapaneseName": "怨念"
   },
   {
     "TalentId": 47,
     "Name": "Healer",
-    "Identifier": "healer"
+    "Identifier": "healer",
+    "JapaneseName": "HP回復"
+  },
+  {
+    "TalentId": 177,
+    "Name": "Heavenly Herald",
+    "Identifier": "heavenly-herald",
+    "JapaneseName": null
   },
   {
     "TalentId": 37,
     "Name": "Hexcommunicator",
-    "Identifier": "hexcommunicator"
+    "Identifier": "hexcommunicator",
+    "JapaneseName": "カース"
   },
   {
     "TalentId": 26,
     "Name": "Hive Mind",
-    "Identifier": "hive-mind"
+    "Identifier": "hive-mind",
+    "JapaneseName": "むしのしらせ"
+  },
+  {
+    "TalentId": 181,
+    "Name": "Hottie",
+    "Identifier": "hottie",
+    "JapaneseName": "トロピカル"
   },
   {
     "TalentId": 56,
     "Name": "HP Booster I",
-    "Identifier": "hp-booster-i"
+    "Identifier": "hp-booster-i",
+    "JapaneseName": null
   },
   {
     "TalentId": 57,
     "Name": "HP Booster II",
-    "Identifier": "hp-booster-ii"
+    "Identifier": "hp-booster-ii",
+    "JapaneseName": null
   },
   {
     "TalentId": 114,
     "Name": "HP Booster III",
-    "Identifier": "hp-booster-iii"
+    "Identifier": "hp-booster-iii",
+    "JapaneseName": null
   },
   {
     "TalentId": 115,
     "Name": "HP Booster IV",
-    "Identifier": "hp-booster-iv"
+    "Identifier": "hp-booster-iv",
+    "JapaneseName": null
   },
   {
     "TalentId": 45,
     "Name": "Hulk",
-    "Identifier": "hulk"
+    "Identifier": "hulk",
+    "JapaneseName": "巨漢"
   },
   {
     "TalentId": 93,
     "Name": "Impactor",
-    "Identifier": "impactor"
+    "Identifier": "impactor",
+    "JapaneseName": null
   },
   {
     "TalentId": 97,
     "Name": "Irritant",
-    "Identifier": "irritant"
+    "Identifier": "irritant",
+    "JapaneseName": "ジャマー"
   },
   {
     "TalentId": 139,
     "Name": "Just Ruler",
-    "Identifier": "just-ruler"
+    "Identifier": "just-ruler",
+    "JapaneseName": "王道"
   },
   {
     "TalentId": 147,
     "Name": "Leading Light",
-    "Identifier": "leading-light"
+    "Identifier": "leading-light",
+    "JapaneseName": "ジェネラル"
+  },
+  {
+    "TalentId": 159,
+    "Name": "Lightning Rod",
+    "Identifier": "lightning-rod",
+    "JapaneseName": "ライトニング"
   },
   {
     "TalentId": 106,
     "Name": "Magic Maven",
-    "Identifier": "magic-maven"
+    "Identifier": "magic-maven",
+    "JapaneseName": "魔術"
   },
   {
     "TalentId": 135,
     "Name": "Magma Shield",
-    "Identifier": "magma-shield"
+    "Identifier": "magma-shield",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 164,
+    "Name": "Maniac",
+    "Identifier": "maniac",
+    "JapaneseName": "マッドキラー"
+  },
+  {
+    "TalentId": 171,
+    "Name": "Mariner",
+    "Identifier": "mariner",
+    "JapaneseName": "水兵"
   },
   {
     "TalentId": 108,
     "Name": "Martial Maven",
-    "Identifier": "martial-maven"
+    "Identifier": "martial-maven",
+    "JapaneseName": "武術"
   },
   {
     "TalentId": 99,
     "Name": "Martyr",
-    "Identifier": "martyr"
+    "Identifier": "martyr",
+    "JapaneseName": "じこぎせい"
   },
   {
     "TalentId": 27,
     "Name": "Materialist",
-    "Identifier": "materialist"
+    "Identifier": "materialist",
+    "JapaneseName": "いしあたま"
+  },
+  {
+    "TalentId": 173,
+    "Name": "Mouth Guard",
+    "Identifier": "mouth-guard",
+    "JapaneseName": "プロテクト"
   },
   {
     "TalentId": 58,
     "Name": "MP Booster I",
-    "Identifier": "mp-booster-i"
+    "Identifier": "mp-booster-i",
+    "JapaneseName": null
   },
   {
     "TalentId": 59,
     "Name": "MP Booster II",
-    "Identifier": "mp-booster-ii"
+    "Identifier": "mp-booster-ii",
+    "JapaneseName": null
   },
   {
     "TalentId": 116,
     "Name": "MP Booster III",
-    "Identifier": "mp-booster-iii"
+    "Identifier": "mp-booster-iii",
+    "JapaneseName": null
   },
   {
     "TalentId": 117,
     "Name": "MP Booster IV",
-    "Identifier": "mp-booster-iv"
+    "Identifier": "mp-booster-iv",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 189,
+    "Name": "Multidisciplinarian",
+    "Identifier": "multidisciplinarian",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 179,
+    "Name": "Musclehead",
+    "Identifier": "musclehead",
+    "JapaneseName": "マッスル"
   },
   {
     "TalentId": 28,
     "Name": "Naturalist",
-    "Identifier": "naturalist"
+    "Identifier": "naturalist",
+    "JapaneseName": "けもの道"
   },
   {
     "TalentId": 31,
     "Name": "Nature Child",
-    "Identifier": "nature-child"
+    "Identifier": "nature-child",
+    "JapaneseName": "ナチュラル"
   },
   {
     "TalentId": 140,
     "Name": "Nuisance",
-    "Identifier": "nuisance"
+    "Identifier": "nuisance",
+    "JapaneseName": "おじゃま虫"
   },
   {
     "TalentId": 107,
     "Name": "Outlaw",
-    "Identifier": "outlaw"
+    "Identifier": "outlaw",
+    "JapaneseName": "バンデッド"
+  },
+  {
+    "TalentId": 176,
+    "Name": "Paragon",
+    "Identifier": "paragon",
+    "JapaneseName": "ごうけつ"
   },
   {
     "TalentId": 85,
     "Name": "Paralysis Protector",
-    "Identifier": "paralysis-protector"
+    "Identifier": "paralysis-protector",
+    "JapaneseName": null
   },
   {
     "TalentId": 48,
     "Name": "Paramedic",
-    "Identifier": "paramedic"
+    "Identifier": "paramedic",
+    "JapaneseName": "異常回復"
+  },
+  {
+    "TalentId": 163,
+    "Name": "Party Monster",
+    "Identifier": "party-monster",
+    "JapaneseName": "カーニバル"
   },
   {
     "TalentId": 94,
     "Name": "Perfect Speller",
-    "Identifier": "perfect-speller"
+    "Identifier": "perfect-speller",
+    "JapaneseName": null
   },
   {
     "TalentId": 81,
     "Name": "Poison Preventer",
-    "Identifier": "poison-preventer"
+    "Identifier": "poison-preventer",
+    "JapaneseName": null
   },
   {
     "TalentId": 92,
     "Name": "Polariser",
-    "Identifier": "polariser"
+    "Identifier": "polariser",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 172,
+    "Name": "Pop Diva",
+    "Identifier": "pop-diva",
+    "JapaneseName": "アイドル"
   },
   {
     "TalentId": 144,
     "Name": "Pop Idol",
-    "Identifier": "pop-idol"
+    "Identifier": "pop-idol",
+    "JapaneseName": "ポップスター"
   },
   {
     "TalentId": 38,
     "Name": "Power Player",
-    "Identifier": "power-player"
+    "Identifier": "power-player",
+    "JapaneseName": "ちからもち"
   },
   {
     "TalentId": 46,
     "Name": "Prankster",
-    "Identifier": "prankster"
+    "Identifier": "prankster",
+    "JapaneseName": "いたずら"
+  },
+  {
+    "TalentId": 182,
+    "Name": "Protector",
+    "Identifier": "protector",
+    "JapaneseName": "ガーディアン"
+  },
+  {
+    "TalentId": 185,
+    "Name": "Pyrotechnician",
+    "Identifier": "pyrotechnician",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 190,
+    "Name": "Rainmaker",
+    "Identifier": "rainmaker",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 178,
+    "Name": "Rockin' Roller",
+    "Identifier": "rockin-roller",
+    "JapaneseName": "ロックスター"
   },
   {
     "TalentId": 145,
     "Name": "Rug Cutter",
-    "Identifier": "rug-cutter"
+    "Identifier": "rug-cutter",
+    "JapaneseName": "神舞"
+  },
+  {
+    "TalentId": 175,
+    "Name": "Sage",
+    "Identifier": "sage",
+    "JapaneseName": null
   },
   {
     "TalentId": 20,
     "Name": "Shallow Breather",
-    "Identifier": "shallow-breather"
+    "Identifier": "shallow-breather",
+    "JapaneseName": "息吹"
   },
   {
     "TalentId": 15,
     "Name": "Sizz Afficionado",
-    "Identifier": "sizz-afficionado"
+    "Identifier": "sizz-afficionado",
+    "JapaneseName": "光の心"
   },
   {
     "TalentId": 16,
     "Name": "Sizz Virtuoso",
-    "Identifier": "sizz-virtuoso"
+    "Identifier": "sizz-virtuoso",
+    "JapaneseName": null
   },
   {
     "TalentId": 75,
     "Name": "Sizz Ward",
-    "Identifier": "sizz-ward"
+    "Identifier": "sizz-ward",
+    "JapaneseName": null
   },
   {
     "TalentId": 141,
     "Name": "Slayer",
-    "Identifier": "slayer"
+    "Identifier": "slayer",
+    "JapaneseName": null
   },
   {
     "TalentId": 100,
     "Name": "Sleep Counsellor",
-    "Identifier": "sleep-counsellor"
+    "Identifier": "sleep-counsellor",
+    "JapaneseName": "睡魔"
   },
   {
     "TalentId": 83,
     "Name": "Sleep Suppressor",
-    "Identifier": "sleep-suppressor"
+    "Identifier": "sleep-suppressor",
+    "JapaneseName": null
   },
   {
     "TalentId": 23,
     "Name": "Slimer",
-    "Identifier": "slimer"
+    "Identifier": "slimer",
+    "JapaneseName": "スラフォース"
   },
   {
     "TalentId": 105,
     "Name": "Smart Blazer",
-    "Identifier": "smart-blazer"
+    "Identifier": "smart-blazer",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 187,
+    "Name": "Smarty-Pants",
+    "Identifier": "smarty-pants",
+    "JapaneseName": null
   },
   {
     "TalentId": 149,
     "Name": "Snow Drifer",
-    "Identifier": "snow-drifter"
+    "Identifier": "snow-drifter",
+    "JapaneseName": "暴風"
   },
   {
     "TalentId": 87,
     "Name": "Soggy Slasher",
-    "Identifier": "soggy-slasher"
+    "Identifier": "soggy-slasher",
+    "JapaneseName": "ブルーソード"
   },
   {
     "TalentId": 49,
     "Name": "Soothsayer",
-    "Identifier": "soothsayer"
+    "Identifier": "soothsayer",
+    "JapaneseName": "妖精"
+  },
+  {
+    "TalentId": 191,
+    "Name": "Sovereign",
+    "Identifier": "sovereign",
+    "JapaneseName": null
   },
   {
     "TalentId": 95,
     "Name": "Speedster",
-    "Identifier": "speedster"
+    "Identifier": "speedster",
+    "JapaneseName": "しんそく"
   },
   {
     "TalentId": 33,
     "Name": "Spicy Slasher",
-    "Identifier": "spicy-slasher"
+    "Identifier": "spicy-slasher",
+    "JapaneseName": "レッドソード"
   },
   {
     "TalentId": 3,
     "Name": "Splash Afficionado",
-    "Identifier": "splash-afficionado"
+    "Identifier": "splash-afficionado",
+    "JapaneseName": "水の心"
   },
   {
     "TalentId": 4,
     "Name": "Splash Virtuoso",
-    "Identifier": "splash-virtuoso"
+    "Identifier": "splash-virtuoso",
+    "JapaneseName": null
   },
   {
     "TalentId": 69,
     "Name": "Splish Ward",
-    "Identifier": "splish-ward"
+    "Identifier": "splish-ward",
+    "JapaneseName": null
   },
   {
     "TalentId": 55,
     "Name": "Stinker",
-    "Identifier": "stinker"
+    "Identifier": "stinker",
+    "JapaneseName": "あくしゅう"
   },
   {
     "TalentId": 35,
     "Name": "Stony Slasher",
-    "Identifier": "stony-slasher"
+    "Identifier": "stony-slasher",
+    "JapaneseName": "イエローソード"
   },
   {
     "TalentId": 130,
     "Name": "Storm Brewer",
-    "Identifier": "storm-brewer"
+    "Identifier": "storm-brewer",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 160,
+    "Name": "Storm Chaser",
+    "Identifier": "storm-chaser",
+    "JapaneseName": "ストーム"
+  },
+  {
+    "TalentId": 158,
+    "Name": "Strong Speller",
+    "Identifier": "strong-speller",
+    "JapaneseName": "ソーサラー"
   },
   {
     "TalentId": 82,
     "Name": "Stun Stopper",
-    "Identifier": "stun-stopper"
+    "Identifier": "stun-stopper",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 168,
+    "Name": "Super Naturalist",
+    "Identifier": "super-naturalist",
+    "JapaneseName": "ワイルド"
+  },
+  {
+    "TalentId": 174,
+    "Name": "Supreme Healer",
+    "Identifier": "supreme-healer",
+    "JapaneseName": null
   },
   {
     "TalentId": 98,
     "Name": "Sweet-Talker",
-    "Identifier": "sweet-talker"
+    "Identifier": "sweet-talker",
+    "JapaneseName": "スイート"
   },
   {
     "TalentId": 138,
     "Name": "Taste Buddies",
-    "Identifier": "taste-buddies"
+    "Identifier": "taste-buddies",
+    "JapaneseName": "もりもりハッピー"
+  },
+  {
+    "TalentId": 157,
+    "Name": "The Almighty",
+    "Identifier": "the-almighty",
+    "JapaneseName": null
   },
   {
     "TalentId": 36,
     "Name": "Thrill-Seeker",
-    "Identifier": "thrill-seeker"
+    "Identifier": "thrill-seeker",
+    "JapaneseName": "スリラー"
   },
   {
     "TalentId": 43,
     "Name": "Tongue Twister",
-    "Identifier": "tongue-twister"
+    "Identifier": "tongue-twister",
+    "JapaneseName": "ヌメヌメ"
   },
   {
     "TalentId": 50,
     "Name": "Toxicologist",
-    "Identifier": "toxicologist"
+    "Identifier": "toxicologist",
+    "JapaneseName": "毒舌"
   },
   {
     "TalentId": 132,
     "Name": "Tremor Shield",
-    "Identifier": "tremor-shield"
+    "Identifier": "tremor-shield",
+    "JapaneseName": null
+  },
+  {
+    "TalentId": 169,
+    "Name": "Vaudevillian",
+    "Identifier": "vaudevillian",
+    "JapaneseName": "アクロバット"
   },
   {
     "TalentId": 90,
     "Name": "Vexologist",
-    "Identifier": "vexologist"
+    "Identifier": "vexologist",
+    "JapaneseName": "トリッキー"
+  },
+  {
+    "TalentId": 166,
+    "Name": "Water Baby",
+    "Identifier": "water-baby",
+    "JapaneseName": "水の安らぎ"
   },
   {
     "TalentId": 39,
     "Name": "Wild Child",
-    "Identifier": "wild-child"
+    "Identifier": "wild-child",
+    "JapaneseName": "あばれんぼう"
   },
   {
     "TalentId": 53,
     "Name": "Willing Helper",
-    "Identifier": "willing-helper"
+    "Identifier": "willing-helper",
+    "JapaneseName": "サポーター"
   },
   {
     "TalentId": 66,
     "Name": "Wisdom Booster I",
-    "Identifier": "wisdoom-booster-i"
+    "Identifier": "wisdoom-booster-i",
+    "JapaneseName": null
   },
   {
     "TalentId": 67,
     "Name": "Wisdom Booster II",
-    "Identifier": "wisdom-booster-ii"
+    "Identifier": "wisdom-booster-ii",
+    "JapaneseName": null
   },
   {
     "TalentId": 124,
     "Name": "Wisdom Booster III",
-    "Identifier": "wisdoom-booster-iii"
+    "Identifier": "wisdoom-booster-iii",
+    "JapaneseName": null
   },
   {
     "TalentId": 125,
     "Name": "Wisdom Booster IV",
-    "Identifier": "wisdoom-booster-iv"
+    "Identifier": "wisdoom-booster-iv",
+    "JapaneseName": null
   },
   {
     "TalentId": 5,
     "Name": "Woosh Afficionado",
-    "Identifier": "woosh-afficionado"
+    "Identifier": "woosh-afficionado",
+    "JapaneseName": "風の心"
   },
   {
     "TalentId": 6,
     "Name": "Woosh Virtuoso",
-    "Identifier": "woosh-virtuoso"
+    "Identifier": "woosh-virtuoso",
+    "JapaneseName": null
   },
   {
     "TalentId": 70,
     "Name": "Woosh Ward",
-    "Identifier": "woosh-ward"
+    "Identifier": "woosh-ward",
+    "JapaneseName": null
   },
   {
     "TalentId": 150,
     "Name": "Wrecker",
-    "Identifier": "wrecker"
+    "Identifier": "wrecker",
+    "JapaneseName": null
   },
   {
     "TalentId": 17,
     "Name": "Zam Afficionado",
-    "Identifier": "zam-afficionado"
+    "Identifier": "zam-afficionado",
+    "JapaneseName": "闇の心"
   },
   {
     "TalentId": 18,
     "Name": "Zam Virtuoso",
-    "Identifier": "zam-virtuoso"
+    "Identifier": "zam-virtuoso",
+    "JapaneseName": null
   },
   {
     "TalentId": 76,
     "Name": "Zam Ward",
-    "Identifier": "zam-ward"
+    "Identifier": "zam-ward",
+    "JapaneseName": null
   },
   {
     "TalentId": 13,
     "Name": "Zap Afficionado",
-    "Identifier": "zap-afficionado"
+    "Identifier": "zap-afficionado",
+    "JapaneseName": "電撃の心"
   },
   {
     "TalentId": 14,
     "Name": "Zap Virtuoso",
-    "Identifier": "zap-virtuoso"
+    "Identifier": "zap-virtuoso",
+    "JapaneseName": null
   },
   {
     "TalentId": 74,
     "Name": "Zap Ward",
-    "Identifier": "zap-ward"
+    "Identifier": "zap-ward",
+    "JapaneseName": null
   }
 ]

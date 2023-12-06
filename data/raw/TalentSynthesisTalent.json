@@ -503,5 +503,25 @@
     "TalentSynthesisTalentId": 102,
     "TalentSynthesisId": 67,
     "TalentId": 69
+  },
+  {
+    "TalentSynthesisTalentId": 103,
+    "TalentSynthesisId": 68,
+    "TalentId": 154
+  },
+  {
+    "TalentSynthesisTalentId": 104,
+    "TalentSynthesisId": 68,
+    "TalentId": 47
+  },
+  {
+    "TalentSynthesisTalentId": 105,
+    "TalentSynthesisId": 69,
+    "TalentId": 154
+  },
+  {
+    "TalentSynthesisTalentId": 106,
+    "TalentSynthesisId": 69,
+    "TalentId": 48
   }
 ]

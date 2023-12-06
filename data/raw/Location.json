@@ -1,13 +1,38 @@
 [
   {
+    "LocationId": 5,
+    "Name": "Circle of Caprice, Lower",
+    "Identifier": "circle-of-caprice-lower"
+  },
+  {
     "LocationId": 2,
     "Name": "Circle of Conquest, Lower",
     "Identifier": "circle-of-conquest-lower"
   },
   {
+    "LocationId": 6,
+    "Name": "Circle of Fortitude, Lower",
+    "Identifier": "circle-of-fortitude-lower"
+  },
+  {
+    "LocationId": 8,
+    "Name": "Circle of Fortitude, Middle",
+    "Identifier": "circle-of-fortitude-middle"
+  },
+  {
+    "LocationId": 4,
+    "Name": "Circle of Indulgence, Lower",
+    "Identifier": "circle-of-indulgence-lower"
+  },
+  {
     "LocationId": 3,
     "Name": "Circle of Temper, Lower",
     "Identifier": "circle-of-temper-lower"
+  },
+  {
+    "LocationId": 7,
+    "Name": "Cradle of Corruption",
+    "Identifier": "cradle-of-corruption"
   },
   {
     "LocationId": 1,

@@ -598,5 +598,35 @@
     "SkillDamageTypeId": 120,
     "SkillId": 0,
     "DamageTypeId": 9
+  },
+  {
+    "SkillDamageTypeId": 121,
+    "SkillId": 0,
+    "DamageTypeId": 8
+  },
+  {
+    "SkillDamageTypeId": 122,
+    "SkillId": 0,
+    "DamageTypeId": 8
+  },
+  {
+    "SkillDamageTypeId": 123,
+    "SkillId": 0,
+    "DamageTypeId": 8
+  },
+  {
+    "SkillDamageTypeId": 124,
+    "SkillId": 0,
+    "DamageTypeId": 4
+  },
+  {
+    "SkillDamageTypeId": 125,
+    "SkillId": 0,
+    "DamageTypeId": 18
+  },
+  {
+    "SkillDamageTypeId": 126,
+    "SkillId": 0,
+    "DamageTypeId": 1
   }
 ]
