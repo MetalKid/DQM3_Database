@@ -7117,17 +7117,6 @@
     "AreBothRankSpecific": false
   },
   {
-    "MonsterSynthesisId": 1456,
-    "MonsterResultId": 583,
-    "MonsterParent1Id": null,
-    "MonsterGrandParent1AId": 613,
-    "MonsterGrandParent1BId": 482,
-    "MonsterParent2Id": null,
-    "MonsterGrandParent2AId": 612,
-    "MonsterGrandParent2BId": 615,
-    "AreBothRankSpecific": false
-  },
-  {
     "MonsterSynthesisId": 1457,
     "MonsterResultId": 584,
     "MonsterParent1Id": 603,

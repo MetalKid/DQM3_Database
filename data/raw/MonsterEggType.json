@@ -1,0 +1,612 @@
+[
+  {
+    "MonsterEggTypeId": 1,
+    "MonsterId": 101,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 3,
+    "MonsterId": 102,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 4,
+    "MonsterId": 103,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 7,
+    "MonsterId": 105,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 18,
+    "MonsterId": 109,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 38,
+    "MonsterId": 114,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 31,
+    "MonsterId": 116,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 87,
+    "MonsterId": 118,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 19,
+    "MonsterId": 124,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 49,
+    "MonsterId": 130,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 32,
+    "MonsterId": 133,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 40,
+    "MonsterId": 134,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 74,
+    "MonsterId": 136,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 68,
+    "MonsterId": 140,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 17,
+    "MonsterId": 142,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 10,
+    "MonsterId": 145,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 86,
+    "MonsterId": 149,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 67,
+    "MonsterId": 154,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 51,
+    "MonsterId": 158,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 108,
+    "MonsterId": 160,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 73,
+    "MonsterId": 162,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 70,
+    "MonsterId": 164,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 104,
+    "MonsterId": 165,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 84,
+    "MonsterId": 169,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 76,
+    "MonsterId": 174,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 55,
+    "MonsterId": 180,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 54,
+    "MonsterId": 182,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 34,
+    "MonsterId": 183,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 16,
+    "MonsterId": 187,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 72,
+    "MonsterId": 188,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 85,
+    "MonsterId": 190,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 89,
+    "MonsterId": 191,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 88,
+    "MonsterId": 194,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 33,
+    "MonsterId": 195,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 71,
+    "MonsterId": 196,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 48,
+    "MonsterId": 199,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 52,
+    "MonsterId": 203,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 37,
+    "MonsterId": 211,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 103,
+    "MonsterId": 223,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 109,
+    "MonsterId": 226,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 69,
+    "MonsterId": 229,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 2,
+    "MonsterId": 230,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 110,
+    "MonsterId": 234,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 50,
+    "MonsterId": 235,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 105,
+    "MonsterId": 238,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 9,
+    "MonsterId": 240,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 6,
+    "MonsterId": 241,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 5,
+    "MonsterId": 243,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 106,
+    "MonsterId": 254,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 35,
+    "MonsterId": 260,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 20,
+    "MonsterId": 261,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 53,
+    "MonsterId": 262,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 41,
+    "MonsterId": 266,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 90,
+    "MonsterId": 271,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 36,
+    "MonsterId": 272,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 107,
+    "MonsterId": 273,
+    "EggTypeId": 1
+  },
+  {
+    "MonsterEggTypeId": 21,
+    "MonsterId": 276,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 92,
+    "MonsterId": 288,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 91,
+    "MonsterId": 294,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 93,
+    "MonsterId": 297,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 78,
+    "MonsterId": 301,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 39,
+    "MonsterId": 305,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 75,
+    "MonsterId": 309,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 111,
+    "MonsterId": 310,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 113,
+    "MonsterId": 311,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 8,
+    "MonsterId": 322,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 11,
+    "MonsterId": 333,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 12,
+    "MonsterId": 335,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 13,
+    "MonsterId": 337,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 14,
+    "MonsterId": 338,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 15,
+    "MonsterId": 343,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 24,
+    "MonsterId": 362,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 25,
+    "MonsterId": 364,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 26,
+    "MonsterId": 366,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 27,
+    "MonsterId": 373,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 28,
+    "MonsterId": 374,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 30,
+    "MonsterId": 379,
+    "EggTypeId": 4
+  },
+  {
+    "MonsterEggTypeId": 42,
+    "MonsterId": 393,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 43,
+    "MonsterId": 394,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 44,
+    "MonsterId": 401,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 45,
+    "MonsterId": 405,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 46,
+    "MonsterId": 409,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 47,
+    "MonsterId": 410,
+    "EggTypeId": 4
+  },
+  {
+    "MonsterEggTypeId": 56,
+    "MonsterId": 416,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 59,
+    "MonsterId": 421,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 62,
+    "MonsterId": 423,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 63,
+    "MonsterId": 430,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 77,
+    "MonsterId": 449,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 79,
+    "MonsterId": 459,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 80,
+    "MonsterId": 465,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 94,
+    "MonsterId": 470,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 95,
+    "MonsterId": 471,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 96,
+    "MonsterId": 480,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 97,
+    "MonsterId": 482,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 98,
+    "MonsterId": 483,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 100,
+    "MonsterId": 487,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 101,
+    "MonsterId": 489,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 102,
+    "MonsterId": 495,
+    "EggTypeId": 4
+  },
+  {
+    "MonsterEggTypeId": 112,
+    "MonsterId": 505,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 114,
+    "MonsterId": 506,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 116,
+    "MonsterId": 519,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 119,
+    "MonsterId": 535,
+    "EggTypeId": 4
+  },
+  {
+    "MonsterEggTypeId": 120,
+    "MonsterId": 543,
+    "EggTypeId": 4
+  },
+  {
+    "MonsterEggTypeId": 121,
+    "MonsterId": 546,
+    "EggTypeId": 4
+  },
+  {
+    "MonsterEggTypeId": 57,
+    "MonsterId": 553,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 118,
+    "MonsterId": 556,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 99,
+    "MonsterId": 558,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 61,
+    "MonsterId": 560,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 117,
+    "MonsterId": 562,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 58,
+    "MonsterId": 563,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 29,
+    "MonsterId": 564,
+    "EggTypeId": 4
+  },
+  {
+    "MonsterEggTypeId": 115,
+    "MonsterId": 566,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 23,
+    "MonsterId": 567,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 122,
+    "MonsterId": 571,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 60,
+    "MonsterId": 574,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 22,
+    "MonsterId": 577,
+    "EggTypeId": 2
+  },
+  {
+    "MonsterEggTypeId": 64,
+    "MonsterId": 596,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 65,
+    "MonsterId": 599,
+    "EggTypeId": 3
+  },
+  {
+    "MonsterEggTypeId": 81,
+    "MonsterId": 609,
+    "EggTypeId": 4
+  },
+  {
+    "MonsterEggTypeId": 82,
+    "MonsterId": 611,
+    "EggTypeId": 4
+  },
+  {
+    "MonsterEggTypeId": 83,
+    "MonsterId": 615,
+    "EggTypeId": 4
+  },
+  {
+    "MonsterEggTypeId": 66,
+    "MonsterId": 635,
+    "EggTypeId": 4
+  }
+]

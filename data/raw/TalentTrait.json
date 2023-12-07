@@ -3526,5 +3526,23 @@
     "TalentId": 188,
     "TraitId": 134,
     "Points": 100
+  },
+  {
+    "TalentTraitId": 595,
+    "TalentId": 193,
+    "TraitId": 183,
+    "Points": 85
+  },
+  {
+    "TalentTraitId": 596,
+    "TalentId": 194,
+    "TraitId": 170,
+    "Points": 70
+  },
+  {
+    "TalentTraitId": 597,
+    "TalentId": 194,
+    "TraitId": 181,
+    "Points": 120
   }
 ]

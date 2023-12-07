@@ -2866,5 +2866,65 @@
     "MonsterId": 556,
     "TalentId": 155,
     "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 487,
+    "MonsterId": 535,
+    "TalentId": 194,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 488,
+    "MonsterId": 353,
+    "TalentId": 175,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 489,
+    "MonsterId": 497,
+    "TalentId": 175,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 490,
+    "MonsterId": 530,
+    "TalentId": 175,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 491,
+    "MonsterId": 562,
+    "TalentId": 186,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 492,
+    "MonsterId": 528,
+    "TalentId": 194,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 493,
+    "MonsterId": 597,
+    "TalentId": 186,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 494,
+    "MonsterId": 466,
+    "TalentId": 186,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 495,
+    "MonsterId": 518,
+    "TalentId": 186,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 496,
+    "MonsterId": 527,
+    "TalentId": 186,
+    "IsPrimary": true
   }
 ]

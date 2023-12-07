@@ -180,6 +180,12 @@
     "JapaneseName": "みわく"
   },
   {
+    "TalentId": 193,
+    "Name": "Cheesy Grin",
+    "Identifier": "cheesy-grin",
+    "JapaneseName": null
+  },
+  {
     "TalentId": 133,
     "Name": "Chiaroscuro Shield",
     "Identifier": "chiaroscuro-shield",
@@ -208,6 +214,12 @@
     "Name": "Confusion Controller",
     "Identifier": "confusion-controller",
     "JapaneseName": null
+  },
+  {
+    "TalentId": 194,
+    "Name": "Cool Customer",
+    "Identifier": "cool-customer",
+    "JapaneseName": "つめたいまなざし"
   },
   {
     "TalentId": 11,
@@ -345,7 +357,7 @@
     "TalentId": 186,
     "Name": "Destroyer",
     "Identifier": "destroyer",
-    "JapaneseName": null
+    "JapaneseName": "デストロイ"
   },
   {
     "TalentId": 180,
@@ -684,6 +696,12 @@
     "JapaneseName": "マッスル"
   },
   {
+    "TalentId": 192,
+    "Name": "Mystic",
+    "Identifier": "mystic",
+    "JapaneseName": null
+  },
+  {
     "TalentId": 28,
     "Name": "Naturalist",
     "Identifier": "naturalist",
@@ -807,7 +825,7 @@
     "TalentId": 175,
     "Name": "Sage",
     "Identifier": "sage",
-    "JapaneseName": null
+    "JapaneseName": "賢者"
   },
   {
     "TalentId": 20,

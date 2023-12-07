@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "EggTypeId": 3,
+    "Name": "Gold",
+    "Identifier": "gold",
+    "JapaneseName": "金"
+  },
+  {
+    "EggTypeId": 4,
+    "Name": "Rainbow",
+    "Identifier": "rainbow",
+    "JapaneseName": "虹"
+  },
+  {
+    "EggTypeId": 2,
+    "Name": "Silver",
+    "Identifier": "silver",
+    "JapaneseName": "銀"
+  },
+  {
+    "EggTypeId": 1,
+    "Name": "White",
+    "Identifier": "white",
+    "JapaneseName": "白"
+  }
+]
