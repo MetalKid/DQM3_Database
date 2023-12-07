@@ -1,1079 +1,3203 @@
 .dqm3 {
-    background-image: url(css_sprites.jpg);
+    background-image: url('../../images/DQM3/monsters-sprite.jpg');
     background-repeat: no-repeat;
     display: block;
 }
 
-.dqm3-unknown {
+.dqm3-unknown-thumb {
     width: 75px;
     height: 75px;
-    background-position: -940px -1025px;
+    background-position: -1650px -1425px;
+}
+
+.dqm3-a3g15-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 0;
+}
+
+.dqm3-abominableshowman-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px 0;
+}
+
+.dqm3-abracadabrador-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px 0;
+}
+
+.dqm3-abyssaldragon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px 0;
+}
+
+.dqm3-abyssdiver-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px 0;
+}
+
+.dqm3-admirer-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px 0;
 }
 
 .dqm3-airbagon-thumb {
     width: 75px;
     height: 75px;
-    background-position: -5px -5px;
+    background-position: -450px 0;
+}
+
+.dqm3-alarmour-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px 0;
+}
+
+.dqm3-angelslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px 0;
 }
 
 .dqm3-antguzzler-thumb {
     width: 75px;
     height: 75px;
-    background-position: -90px -5px;
+    background-position: -675px 0;
 }
 
-.dqm3-armouredwartois-thumb {
+.dqm3-archdemon-thumb {
     width: 75px;
     height: 75px;
-    background-position: -175px -5px;
+    background-position: -750px 0;
+}
+
+.dqm3-armouredscorpion-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px 0;
+}
+
+.dqm3-armouredwartoise-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px 0;
+}
+
+.dqm3-assassincircle-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px 0;
+}
+
+.dqm3-atlas-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px 0;
 }
 
 .dqm3-avianandroid-thumb {
     width: 75px;
     height: 75px;
-    background-position: -260px -5px;
+    background-position: -1125px 0;
 }
 
 .dqm3-awebergine-thumb {
     width: 75px;
     height: 75px;
-    background-position: -345px -5px;
+    background-position: -1200px 0;
+}
+
+.dqm3-axesaurus-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px 0;
 }
 
 .dqm3-bagolaughs-thumb {
     width: 75px;
     height: 75px;
-    background-position: -430px -5px;
+    background-position: -1350px 0;
+}
+
+.dqm3-bagotricks-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px 0;
 }
 
 .dqm3-bagworm-thumb {
     width: 75px;
     height: 75px;
-    background-position: -515px -5px;
+    background-position: -1500px 0;
+}
+
+.dqm3-baleenmage-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px 0;
+}
+
+.dqm3-balhib-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -75px;
+}
+
+.dqm3-bamboogieman-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -75px;
 }
 
 .dqm3-bambooligan-thumb {
     width: 75px;
     height: 75px;
-    background-position: -600px -5px;
+    background-position: -150px -75px;
 }
 
 .dqm3-bantamweight-thumb {
     width: 75px;
     height: 75px;
-    background-position: -685px -5px;
+    background-position: -225px -75px;
+}
+
+.dqm3-barbarus-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -75px;
+}
+
+.dqm3-barracuda-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -75px;
+}
+
+.dqm3-beaniemeanie-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -75px;
+}
+
+.dqm3-behemothslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -75px;
 }
 
 .dqm3-beleth-thumb {
     width: 75px;
     height: 75px;
-    background-position: -770px -5px;
+    background-position: -600px -75px;
+}
+
+.dqm3-belial-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -75px;
+}
+
+.dqm3-belishabeakon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -75px;
+}
+
+.dqm3-beshemothslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -75px;
+}
+
+.dqm3-bilhaw-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -75px;
+}
+
+.dqm3-blackdragon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -75px;
 }
 
 .dqm3-blinkster-thumb {
     width: 75px;
     height: 75px;
-    background-position: -855px -5px;
+    background-position: -1050px -75px;
+}
+
+.dqm3-bloodyhand-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -75px;
 }
 
 .dqm3-bludgerigar-thumb {
     width: 75px;
     height: 75px;
-    background-position: -940px -5px;
+    background-position: -1200px -75px;
+}
+
+.dqm3-bluemoon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -75px;
+}
+
+.dqm3-bobonga-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -75px;
 }
 
 .dqm3-bodkinarcher-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1025px -5px;
+    background-position: -1425px -75px;
+}
+
+.dqm3-bodkinfletcher-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -75px;
+}
+
+.dqm3-bomboulder-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -75px;
+}
+
+.dqm3-bonebaron-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -150px;
+}
+
+.dqm3-boneidol-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -150px;
 }
 
 .dqm3-bongodrongo-thumb {
     width: 75px;
     height: 75px;
-    background-position: -5px -90px;
+    background-position: -150px -150px;
+}
+
+.dqm3-bongofandango-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -150px;
 }
 
 .dqm3-boppinbadger-thumb {
     width: 75px;
     height: 75px;
-    background-position: -90px -90px;
+    background-position: -300px -150px;
+}
+
+.dqm3-borealserpent-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -150px;
+}
+
+.dqm3-bosstroll-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -150px;
 }
 
 .dqm3-boxslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -175px -90px;
+    background-position: -525px -150px;
+}
+
+.dqm3-brimstonebulb-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -150px;
 }
 
 .dqm3-brinybronco-thumb {
     width: 75px;
     height: 75px;
-    background-position: -260px -90px;
+    background-position: -675px -150px;
+}
+
+.dqm3-brollygagger-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -150px;
+}
+
+.dqm3-brownie-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -150px;
 }
 
 .dqm3-bubbleslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -345px -90px;
+    background-position: -900px -150px;
 }
 
 .dqm3-buddyslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -430px -90px;
+    background-position: -975px -150px;
+}
+
+.dqm3-buffalogre-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -150px;
 }
 
 .dqm3-bullfinch-thumb {
     width: 75px;
     height: 75px;
-    background-position: -515px -90px;
+    background-position: -1125px -150px;
 }
 
 .dqm3-bunicorn-thumb {
     width: 75px;
     height: 75px;
-    background-position: -600px -90px;
+    background-position: -1200px -150px;
+}
+
+.dqm3-buntzenberner-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -150px;
 }
 
 .dqm3-cactiball-thumb {
     width: 75px;
     height: 75px;
-    background-position: -685px -90px;
+    background-position: -1350px -150px;
+}
+
+.dqm3-calypsoking-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -150px;
 }
 
 .dqm3-candycat-thumb {
     width: 75px;
     height: 75px;
-    background-position: -770px -90px;
+    background-position: -1500px -150px;
 }
 
 .dqm3-cannibox-thumb {
     width: 75px;
     height: 75px;
-    background-position: -855px -90px;
+    background-position: -1575px -150px;
 }
 
 .dqm3-cannonbrawler-thumb {
     width: 75px;
     height: 75px;
-    background-position: -940px -90px;
+    background-position: 0 -225px;
 }
 
 .dqm3-capsichum-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1025px -90px;
+    background-position: -75px -225px;
+}
+
+.dqm3-carnivine-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -225px;
+}
+
+.dqm3-cauldragon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -225px;
+}
+
+.dqm3-cheatercheetah-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -225px;
+}
+
+.dqm3-chihuawyrm-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -225px;
 }
 
 .dqm3-chimaera-thumb {
     width: 75px;
     height: 75px;
-    background-position: -5px -175px;
+    background-position: -450px -225px;
 }
 
 .dqm3-chocolategolem-thumb {
     width: 75px;
     height: 75px;
-    background-position: -90px -175px;
+    background-position: -525px -225px;
+}
+
+.dqm3-chocolatewhisp-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -225px;
+}
+
+.dqm3-clawvus-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -225px;
 }
 
 .dqm3-clockworkcuckoo-thumb {
     width: 75px;
     height: 75px;
-    background-position: -175px -175px;
+    background-position: -750px -225px;
 }
 
 .dqm3-cloudsurfer-thumb {
     width: 75px;
     height: 75px;
-    background-position: -260px -175px;
+    background-position: -825px -225px;
+}
+
+.dqm3-cococoablobelisk-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -225px;
+}
+
+.dqm3-coralossus-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -225px;
+}
+
+.dqm3-corpsickle-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -225px;
+}
+
+.dqm3-cosmicchimaera-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -225px;
+}
+
+.dqm3-crabberdabberdoo-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -225px;
+}
+
+.dqm3-crabid-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -225px;
+}
+
+.dqm3-cremecaraslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -225px;
 }
 
 .dqm3-croc-a-bugle-doo-thumb {
     width: 75px;
     height: 75px;
-    background-position: -345px -175px;
+    background-position: -1425px -225px;
+}
+
+.dqm3-crosseye-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -225px;
 }
 
 .dqm3-cruelcumber-thumb {
     width: 75px;
     height: 75px;
-    background-position: -430px -175px;
+    background-position: -1575px -225px;
 }
 
 .dqm3-cumaulus-thumb {
     width: 75px;
     height: 75px;
-    background-position: -515px -175px;
+    background-position: 0 -300px;
+}
+
+.dqm3-cureslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -300px;
+}
+
+.dqm3-cursedcrooner-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -300px;
+}
+
+.dqm3-cyberslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -300px;
 }
 
 .dqm3-cyclops-thumb {
     width: 75px;
     height: 75px;
-    background-position: -600px -175px;
+    background-position: -300px -300px;
 }
 
 .dqm3-cyclown-thumb {
     width: 75px;
     height: 75px;
-    background-position: -685px -175px;
+    background-position: -375px -300px;
 }
 
 .dqm3-damselfly-thumb {
     width: 75px;
     height: 75px;
-    background-position: -770px -175px;
+    background-position: -450px -300px;
 }
 
 .dqm3-dancingdevil-thumb {
     width: 75px;
     height: 75px;
-    background-position: -855px -175px;
+    background-position: -525px -300px;
+}
+
+.dqm3-dancingflame-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -300px;
+}
+
+.dqm3-danglerfish-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -300px;
+}
+
+.dqm3-darkhare-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -300px;
+}
+
+.dqm3-darkkingslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -300px;
+}
+
+.dqm3-darksabrecat-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -300px;
 }
 
 .dqm3-darksabrecub-thumb {
     width: 75px;
     height: 75px;
-    background-position: -940px -175px;
+    background-position: -975px -300px;
 }
 
 .dqm3-darkslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1025px -175px;
+    background-position: -1050px -300px;
 }
 
 .dqm3-deadresident-thumb {
     width: 75px;
     height: 75px;
-    background-position: -5px -260px;
+    background-position: -1125px -300px;
+}
+
+.dqm3-demon-at-arms-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -300px;
 }
 
 .dqm3-dessertdemon-thumb {
     width: 75px;
     height: 75px;
-    background-position: -90px -260px;
+    background-position: -1275px -300px;
+}
+
+.dqm3-diamondslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -300px;
+}
+
+.dqm3-discombombulator-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -300px;
 }
 
 .dqm3-disfigurine-thumb {
     width: 75px;
     height: 75px;
-    background-position: -175px -260px;
+    background-position: -1500px -300px;
+}
+
+.dqm3-dora-in-grey-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -300px;
+}
+
+.dqm3-drackolyte-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -375px;
 }
 
 .dqm3-dracky-thumb {
     width: 75px;
     height: 75px;
-    background-position: -260px -260px;
+    background-position: -75px -375px;
+}
+
+.dqm3-drackyma-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -375px;
+}
+
+.dqm3-dragonrider-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -375px;
+}
+
+.dqm3-dragonslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -375px;
 }
 
 .dqm3-dragonthorn-thumb {
     width: 75px;
     height: 75px;
-    background-position: -345px -260px;
+    background-position: -375px -375px;
 }
 
 .dqm3-dragracer-thumb {
     width: 75px;
     height: 75px;
-    background-position: -430px -260px;
+    background-position: -450px -375px;
+}
+
+.dqm3-draguar-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -375px;
 }
 
 .dqm3-drakeslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -515px -260px;
+    background-position: -600px -375px;
+}
+
+.dqm3-drakulard-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -375px;
 }
 
 .dqm3-drakularge-thumb {
     width: 75px;
     height: 75px;
-    background-position: -600px -260px;
+    background-position: -750px -375px;
+}
+
+.dqm3-dreaddragon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -375px;
 }
 
 .dqm3-drohldrone-thumb {
     width: 75px;
     height: 75px;
-    background-position: -685px -260px;
+    background-position: -900px -375px;
+}
+
+.dqm3-droolingghoul-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -375px;
+}
+
+.dqm3-dullahan-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -375px;
 }
 
 .dqm3-eggsoskeleton-thumb {
     width: 75px;
     height: 75px;
-    background-position: -770px -260px;
+    background-position: -1125px -375px;
+}
+
+.dqm3-emperorslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -375px;
+}
+
+.dqm3-equinox-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -375px;
 }
 
 .dqm3-erazorblade-thumb {
     width: 75px;
     height: 75px;
-    background-position: -855px -260px;
+    background-position: -1350px -375px;
 }
 
 .dqm3-escudogre-thumb {
     width: 75px;
     height: 75px;
-    background-position: -940px -260px;
+    background-position: -1425px -375px;
+}
+
+.dqm3-faceinvader-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -375px;
+}
+
+.dqm3-fandangow-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -375px;
 }
 
 .dqm3-fatrat-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1025px -260px;
+    background-position: 0 -450px;
 }
 
 .dqm3-feralball-thumb {
     width: 75px;
     height: 75px;
-    background-position: -5px -345px;
+    background-position: -75px -450px;
 }
 
 .dqm3-feralslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -90px -345px;
+    background-position: -150px -450px;
+}
+
+.dqm3-fightgeist-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -450px;
+}
+
+.dqm3-firebird-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -450px;
 }
 
 .dqm3-firespirit-thumb {
     width: 75px;
     height: 75px;
-    background-position: -175px -345px;
+    background-position: -375px -450px;
+}
+
+.dqm3-firnfiend-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -450px;
+}
+
+.dqm3-flamethrower-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -450px;
+}
+
+.dqm3-float-o-copier-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -450px;
+}
+
+.dqm3-fluffy-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -450px;
+}
+
+.dqm3-flutterslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -450px;
+}
+
+.dqm3-flyingsaucers-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -450px;
 }
 
 .dqm3-flython-thumb {
     width: 75px;
     height: 75px;
-    background-position: -260px -345px;
+    background-position: -900px -450px;
+}
+
+.dqm3-foebergine-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -450px;
 }
 
 .dqm3-foodog-thumb {
     width: 75px;
     height: 75px;
-    background-position: -345px -345px;
+    background-position: -1050px -450px;
+}
+
+.dqm3-fowlbeast-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -450px;
+}
+
+.dqm3-freezingfog-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -450px;
 }
 
 .dqm3-frightbulb-thumb {
     width: 75px;
     height: 75px;
-    background-position: -430px -345px;
+    background-position: -1275px -450px;
+}
+
+.dqm3-frightknight-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -450px;
+}
+
+.dqm3-frolicker-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -450px;
+}
+
+.dqm3-fromagefey-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -450px;
 }
 
 .dqm3-fromagefray-thumb {
     width: 75px;
     height: 75px;
-    background-position: -515px -345px;
+    background-position: -1575px -450px;
+}
+
+.dqm3-frostburn-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -525px;
 }
 
 .dqm3-funghoul-thumb {
     width: 75px;
     height: 75px;
-    background-position: -600px -345px;
+    background-position: -75px -525px;
+}
+
+.dqm3-gander-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -525px;
+}
+
+.dqm3-gangleclaw-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -525px;
+}
+
+.dqm3-gargoyle-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -525px;
 }
 
 .dqm3-garuda-thumb {
     width: 75px;
     height: 75px;
-    background-position: -685px -345px;
+    background-position: -375px -525px;
 }
 
 .dqm3-gasbagon-thumb {
     width: 75px;
     height: 75px;
-    background-position: -770px -345px;
+    background-position: -450px -525px;
+}
+
+.dqm3-gemslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -525px;
 }
 
 .dqm3-ghost-thumb {
     width: 75px;
     height: 75px;
-    background-position: -855px -345px;
+    background-position: -600px -525px;
+}
+
+.dqm3-gigantes-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -525px;
+}
+
+.dqm3-giruffian-thumb {
+    width: 74px;
+    height: 75px;
+    background-position: -1650px 0;
+}
+
+.dqm3-github {
+    width: 30px;
+    height: 30px;
+    background-position: -1650px -75px;
+}
+
+.dqm3-gmail {
+    width: 30px;
+    height: 30px;
+    background-position: -1680px -75px;
+}
+
+.dqm3-gnumesis-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -525px;
+}
+
+.dqm3-golem-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -525px;
+}
+
+.dqm3-goodybag-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -525px;
+}
+
+.dqm3-goomulonimbus-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -525px;
 }
 
 .dqm3-goonachegoodie-thumb {
     width: 75px;
     height: 75px;
-    background-position: -940px -345px;
+    background-position: -1050px -525px;
+}
+
+.dqm3-goresby-purrvis-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -525px;
+}
+
+.dqm3-grandpaslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -525px;
+}
+
+.dqm3-gravenidol-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -525px;
+}
+
+.dqm3-greatargonlizard-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -525px;
+}
+
+.dqm3-greatdragon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -525px;
+}
+
+.dqm3-greaterplatypink-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -525px;
+}
+
+.dqm3-greaterplatypunk-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -525px;
+}
+
+.dqm3-greatkeeper-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -600px;
+}
+
+.dqm3-greatsabercat-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -600px;
 }
 
 .dqm3-greatsabrecub-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1025px -345px;
+    background-position: -150px -600px;
 }
 
 .dqm3-greendragon-thumb {
     width: 75px;
     height: 75px;
-    background-position: -5px -430px;
+    background-position: -225px -600px;
 }
 
 .dqm3-gremlin-thumb {
     width: 75px;
     height: 75px;
-    background-position: -90px -430px;
+    background-position: -300px -600px;
 }
 
-.dqm3-grinferno-thumb {
+.dqm3-greygnarl-thumb {
     width: 75px;
     height: 75px;
-    background-position: -175px -430px;
+    background-position: -375px -600px;
 }
 
-.dqm3-guaardvark-thumb {
+.dqm3-grillerpillar-thumb {
     width: 75px;
     height: 75px;
-    background-position: -260px -430px;
+    background-position: -450px -600px;
 }
 
-.dqm3-hammerhood-thumb {
+.dqm3-grimkeeper-thumb {
     width: 75px;
     height: 75px;
-    background-position: -345px -430px;
+    background-position: -525px -600px;
 }
 
-.dqm3-hawkman-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -430px -430px;
-}
-
-.dqm3-healslime-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -515px -430px;
-}
-
-.dqm3-hellboundhorror-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -600px -430px;
-}
-
-.dqm3-hellnino-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -685px -430px;
-}
-
-.dqm3-hood-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -770px -430px;
-}
-
-.dqm3-hoopertrooper-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -855px -430px;
-}
-
-.dqm3-horriflyingsaucers-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -940px -430px;
-}
-
-.dqm3-huntermech-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -1025px -430px;
-}
-
-.dqm3-imp-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -5px -515px;
-}
-
-.dqm3-jailcat-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -90px -515px;
-}
-
-.dqm3-jargon-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -175px -515px;
-}
-
-.dqm3-jumpingjackal-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -260px -515px;
-}
-
-.dqm3-khalamarikid-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -345px -515px;
-}
-
-.dqm3-killergila-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -430px -515px;
-}
-
-.dqm3-killerpillar-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -515px -515px;
-}
-
-.dqm3-kingkelp-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -600px -515px;
-}
-
-.dqm3-kisser-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -685px -515px;
-}
-
-.dqm3-knighterrant-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -770px -515px;
-}
-
-.dqm3-komodo-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -855px -515px;
-}
-
-.dqm3-lampling-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -940px -515px;
-}
-
-.dqm3-leafylarrikin-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -1025px -515px;
-}
-
-.dqm3-leerylout-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -5px -600px;
-}
-
-.dqm3-lips-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -90px -600px;
-}
-
-.dqm3-lumberinglizard-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -175px -600px;
-}
-
-.dqm3-lumpwizard-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -260px -600px;
-}
-
-.dqm3-lunatick-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -345px -600px;
-}
-
-.dqm3-madmollusk-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -430px -600px;
-}
-
-.dqm3-mecha-mynah-thumb {
-    width: 75px;
-    height: 75px;
-    background-position: -515px -600px;
-}
-
-.dqm3-meowgician-thumb {
+.dqm3-grimrider-thumb {
     width: 75px;
     height: 75px;
     background-position: -600px -600px;
 }
 
+.dqm3-grincinerator-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -600px;
+}
+
+.dqm3-grinferno-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -600px;
+}
+
+.dqm3-gripevine-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -600px;
+}
+
+.dqm3-grotwyrm-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -600px;
+}
+
+.dqm3-grrrgoyle-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -600px;
+}
+
+.dqm3-gryphon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -600px;
+}
+
+.dqm3-guaardvark-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -600px;
+}
+
+.dqm3-hacksaurus-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -600px;
+}
+
+.dqm3-hadescondor-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -600px;
+}
+
+.dqm3-hammerhood-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -600px;
+}
+
+.dqm3-hamshamwitch-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -600px;
+}
+
+.dqm3-hard-boiledeggsoskeleton-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -600px;
+}
+
+.dqm3-harmour-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -600px;
+}
+
+.dqm3-hawkman-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -675px;
+}
+
+.dqm3-headlesshorseman-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -675px;
+}
+
+.dqm3-healslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -675px;
+}
+
+.dqm3-heligator-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -675px;
+}
+
+.dqm3-hellboundhorror-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -675px;
+}
+
+.dqm3-hellgladiator-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -675px;
+}
+
+.dqm3-hellion-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -675px;
+}
+
+.dqm3-hellnino-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -675px;
+}
+
+.dqm3-hellspawn-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -675px;
+}
+
+.dqm3-hocus-poker-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -675px;
+}
+
+.dqm3-hood-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -675px;
+}
+
+.dqm3-hoopertrooper-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -675px;
+}
+
+.dqm3-horriflyingsaucers-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -675px;
+}
+
+.dqm3-huntermech-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -675px;
+}
+
+.dqm3-hyperboarean-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -675px;
+}
+
+.dqm3-hypothermion-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -675px;
+}
+
+.dqm3-ice-breaker-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -675px;
+}
+
+.dqm3-imp-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -675px;
+}
+
+.dqm3-infernalserpent-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -675px;
+}
+
+.dqm3-ironmaiden-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -675px;
+}
+
+.dqm3-irontortoise-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -675px;
+}
+
+.dqm3-jailcat-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -675px;
+}
+
+.dqm3-jargon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -750px;
+}
+
+.dqm3-jasperunbound-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -750px;
+}
+
+.dqm3-jesterslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -750px;
+}
+
+.dqm3-jinkster-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -750px;
+}
+
+.dqm3-jowler-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -750px;
+}
+
+.dqm3-jugularjoker-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -750px;
+}
+
+.dqm3-jumpingjackal-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -750px;
+}
+
+.dqm3-khalamarikid-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -750px;
+}
+
+.dqm3-killergila-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -750px;
+}
+
+.dqm3-killerpillar-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -750px;
+}
+
+.dqm3-killingmachine-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -750px;
+}
+
+.dqm3-kingbubbleslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -750px;
+}
+
+.dqm3-kingcureslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -750px;
+}
+
+.dqm3-kingfoodog-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -750px;
+}
+
+.dqm3-kinghydra-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -750px;
+}
+
+.dqm3-kingjesterslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -750px;
+}
+
+.dqm3-kingkelp-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -750px;
+}
+
+.dqm3-kingslickslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -750px;
+}
+
+.dqm3-kingslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -750px;
+}
+
+.dqm3-kingsquid-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -750px;
+}
+
+.dqm3-kisser-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -750px;
+}
+
+.dqm3-knightabhorrent-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -750px;
+}
+
+.dqm3-knighterrant-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -825px;
+}
+
+.dqm3-komodo-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -825px;
+}
+
+.dqm3-krystalinda-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -825px;
+}
+
+.dqm3-lampling-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -825px;
+}
+
+.dqm3-leafylarrikin-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -825px;
+}
+
+.dqm3-leerylout-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -825px;
+}
+
+.dqm3-liegelizard-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -825px;
+}
+
+.dqm3-linkedin {
+    width: 30px;
+    height: 30px;
+    background-position: -1650px -105px;
+}
+
+.dqm3-lips-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -825px;
+}
+
+.dqm3-liquidmetalslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -825px;
+}
+
+.dqm3-livingstatue-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -825px;
+}
+
+.dqm3-lordofthedragovians-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -825px;
+}
+
+.dqm3-lowdjinks-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -825px;
+}
+
+.dqm3-lumberinglizard-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -825px;
+}
+
+.dqm3-luminouslampling-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -825px;
+}
+
+.dqm3-lumpshaman-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -825px;
+}
+
+.dqm3-lumpwizard-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -825px;
+}
+
+.dqm3-lunatick-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -825px;
+}
+
+.dqm3-luneyetic-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -825px;
+}
+
+.dqm3-machopicchu-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -825px;
+}
+
+.dqm3-madmollusk-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -825px;
+}
+
+.dqm3-magmalice-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -825px;
+}
+
+.dqm3-mandrakemajor-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -825px;
+}
+
+.dqm3-mangleclaw-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -900px;
+}
+
+.dqm3-maniacalmole-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -900px;
+}
+
+.dqm3-mecha-mynah-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -900px;
+}
+
+.dqm3-meowgician-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -900px;
+}
+
 .dqm3-merman-thumb {
     width: 75px;
     height: 75px;
-    background-position: -685px -600px;
+    background-position: -300px -900px;
+}
+
+.dqm3-metaldragon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -900px;
+}
+
+.dqm3-metalkingslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -900px;
+}
+
+.dqm3-metalscorpion-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -900px;
+}
+
+.dqm3-metalslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -900px;
+}
+
+.dqm3-metalslimeknight-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -900px;
+}
+
+.dqm3-mimic-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -900px;
+}
+
+.dqm3-minidemon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -900px;
 }
 
 .dqm3-mischievousmole-thumb {
     width: 75px;
     height: 75px;
-    background-position: -770px -600px;
+    background-position: -900px -900px;
+}
+
+.dqm3-missinglynx-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -900px;
 }
 
 .dqm3-miteyoak-thumb {
     width: 75px;
     height: 75px;
-    background-position: -855px -600px;
+    background-position: -1050px -900px;
+}
+
+.dqm3-mogus-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -900px;
+}
+
+.dqm3-mohawker-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -900px;
 }
 
 .dqm3-monolog-thumb {
     width: 75px;
     height: 75px;
-    background-position: -940px -600px;
+    background-position: -1275px -900px;
+}
+
+.dqm3-mordegonlordofshadows-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -900px;
+}
+
+.dqm3-morpheanmushroom-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -900px;
+}
+
+.dqm3-mortoad-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -900px;
+}
+
+.dqm3-mottleshe-slime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -900px;
 }
 
 .dqm3-mottleslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1025px -600px;
+    background-position: 0 -975px;
 }
 
-.dqm3-mouseflap_thumb {
+.dqm3-mouldyslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -5px -685px;
+    background-position: -75px -975px;
+}
+
+.dqm3-mouseflap-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -975px;
 }
 
 .dqm3-muddyhand-thumb {
     width: 75px;
     height: 75px;
-    background-position: -90px -685px;
+    background-position: -225px -975px;
 }
 
 .dqm3-mudmannequin-thumb {
     width: 75px;
     height: 75px;
-    background-position: -175px -685px;
+    background-position: -300px -975px;
 }
 
 .dqm3-mudraker-thumb {
     width: 75px;
     height: 75px;
-    background-position: -260px -685px;
+    background-position: -375px -975px;
 }
 
 .dqm3-mummyboy-thumb {
     width: 75px;
     height: 75px;
-    background-position: -345px -685px;
+    background-position: -450px -975px;
+}
+
+.dqm3-murdaw-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -975px;
 }
 
 .dqm3-napir-thumb {
     width: 75px;
     height: 75px;
-    background-position: -430px -685px;
+    background-position: -600px -975px;
 }
 
 .dqm3-nardragon-thumb {
     width: 75px;
     height: 75px;
-    background-position: -515px -685px;
+    background-position: -675px -975px;
+}
+
+.dqm3-neer-do-well-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -975px;
+}
+
+.dqm3-nightknight-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -975px;
+}
+
+.dqm3-nightsneaker-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -975px;
+}
+
+.dqm3-noblegasbagon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -975px;
+}
+
+.dqm3-notsomacho-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -975px;
 }
 
 .dqm3-octopot-thumb {
     width: 75px;
     height: 75px;
-    background-position: -600px -685px;
+    background-position: -1125px -975px;
 }
 
 .dqm3-oddcob-thumb {
     width: 75px;
     height: 75px;
-    background-position: -685px -685px;
+    background-position: -1200px -975px;
+}
+
+.dqm3-ogre-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -975px;
 }
 
 .dqm3-onionslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -770px -685px;
+    background-position: -1350px -975px;
 }
 
 .dqm3-orc-thumb {
     width: 75px;
     height: 75px;
-    background-position: -855px -685px;
+    background-position: -1425px -975px;
+}
+
+.dqm3-orcking-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -975px;
+}
+
+.dqm3-orgodemir-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -975px;
 }
 
 .dqm3-orneryonion-thumb {
     width: 75px;
     height: 75px;
-    background-position: -940px -685px;
+    background-position: 0 -1050px;
+}
+
+.dqm3-orochi-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -1050px;
+}
+
+.dqm3-overkillingmachine-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -1050px;
+}
+
+.dqm3-overtoad-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -1050px;
+}
+
+.dqm3-palookaprawn-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -1050px;
+}
+
+.dqm3-pandorasbox-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -1050px;
 }
 
 .dqm3-panpiper-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1025px -685px;
+    background-position: -450px -1050px;
+}
+
+.dqm3-paralyslicer-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -1050px;
+}
+
+.dqm3-parchedpeckerel-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -1050px;
+}
+
+.dqm3-pastypastry-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -1050px;
+}
+
+.dqm3-pazuzu-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -1050px;
+}
+
+.dqm3-peeper-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -1050px;
+}
+
+.dqm3-phantomfencer-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -1050px;
+}
+
+.dqm3-phantomswordsman-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -1050px;
+}
+
+.dqm3-phoenix-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -1050px;
 }
 
 .dqm3-pickayune-thumb {
     width: 75px;
     height: 75px;
-    background-position: -5px -770px;
+    background-position: -1125px -1050px;
 }
 
 .dqm3-picksy-thumb {
     width: 75px;
     height: 75px;
-    background-position: -90px -770px;
+    background-position: -1200px -1050px;
+}
+
+.dqm3-placeholder-119-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -1050px;
+}
+
+.dqm3-placeholder-123-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -1050px;
+}
+
+.dqm3-placeholder-124-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -1050px;
+}
+
+.dqm3-placeholder-125-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -1050px;
+}
+
+.dqm3-placeholder-128-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -1050px;
+}
+
+.dqm3-placeholder-129-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -1125px;
+}
+
+.dqm3-placeholder-130-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -1125px;
+}
+
+.dqm3-placeholder-139-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -1125px;
+}
+
+.dqm3-placeholder-143-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -1125px;
+}
+
+.dqm3-placeholder-147-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -1125px;
+}
+
+.dqm3-placeholder-151-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -1125px;
+}
+
+.dqm3-placeholder-152-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -1125px;
+}
+
+.dqm3-placeholder-153-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -1125px;
+}
+
+.dqm3-placeholder-154-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -1125px;
+}
+
+.dqm3-placeholder-155-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -1125px;
+}
+
+.dqm3-placeholder-156-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -1125px;
+}
+
+.dqm3-placeholder-157-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -1125px;
+}
+
+.dqm3-placeholder-158-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -1125px;
+}
+
+.dqm3-placeholder-160-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -1125px;
+}
+
+.dqm3-placeholder-161-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -1125px;
+}
+
+.dqm3-placeholder-162-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -1125px;
+}
+
+.dqm3-placeholder-164-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -1125px;
+}
+
+.dqm3-placeholder-165-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -1125px;
+}
+
+.dqm3-placeholder-168-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -1125px;
+}
+
+.dqm3-placeholder-172-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -1125px;
+}
+
+.dqm3-placeholder-184-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -1125px;
+}
+
+.dqm3-placeholder-187-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -1125px;
+}
+
+.dqm3-placeholder-191-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -1200px;
+}
+
+.dqm3-placeholder-196-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -1200px;
+}
+
+.dqm3-placeholder-197-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -1200px;
+}
+
+.dqm3-placeholder-198-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -1200px;
+}
+
+.dqm3-placeholder-199-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -1200px;
+}
+
+.dqm3-placeholder-200-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -1200px;
+}
+
+.dqm3-placeholder-201-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -1200px;
+}
+
+.dqm3-placeholder-203-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -1200px;
+}
+
+.dqm3-placeholder-205-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -1200px;
+}
+
+.dqm3-placeholder-210-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -1200px;
+}
+
+.dqm3-placeholder-211-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -1200px;
+}
+
+.dqm3-placeholder-213-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -1200px;
+}
+
+.dqm3-placeholder-215-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -1200px;
+}
+
+.dqm3-placeholder-217-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -1200px;
+}
+
+.dqm3-placeholder-218-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -1200px;
+}
+
+.dqm3-placeholder-221-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -1200px;
+}
+
+.dqm3-placeholder-225-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -1200px;
+}
+
+.dqm3-placeholder-228-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -1200px;
+}
+
+.dqm3-placeholder-229-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -1200px;
+}
+
+.dqm3-placeholder-23-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -1200px;
+}
+
+.dqm3-placeholder-234-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -1200px;
+}
+
+.dqm3-placeholder-240-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -1200px;
+}
+
+.dqm3-placeholder-241-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -1275px;
+}
+
+.dqm3-placeholder-242-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -1275px;
+}
+
+.dqm3-placeholder-243-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -1275px;
+}
+
+.dqm3-placeholder-244-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -1275px;
+}
+
+.dqm3-placeholder-245-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -1275px;
+}
+
+.dqm3-placeholder-28-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -1275px;
+}
+
+.dqm3-placeholder-31-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -1275px;
+}
+
+.dqm3-placeholder-32-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -1275px;
+}
+
+.dqm3-placeholder-57-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -1275px;
+}
+
+.dqm3-placeholder-65-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -1275px;
+}
+
+.dqm3-placeholder-74-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -1275px;
+}
+
+.dqm3-placeholder-83-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -1275px;
+}
+
+.dqm3-placeholder-96-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -1275px;
+}
+
+.dqm3-placeholder-97-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -1275px;
 }
 
 .dqm3-platypunk-thumb {
     width: 75px;
     height: 75px;
-    background-position: -175px -770px;
+    background-position: -1050px -1275px;
 }
 
 .dqm3-pocuspoppet-thumb {
     width: 75px;
     height: 75px;
-    background-position: -260px -770px;
+    background-position: -1125px -1275px;
 }
 
 .dqm3-pogoinpenguin-thumb {
     width: 75px;
     height: 75px;
-    background-position: -345px -770px;
+    background-position: -1200px -1275px;
 }
 
 .dqm3-powieyowie-thumb {
     width: 75px;
     height: 75px;
-    background-position: -430px -770px;
+    background-position: -1275px -1275px;
 }
 
 .dqm3-prancingpillar-thumb {
     width: 75px;
     height: 75px;
-    background-position: -515px -770px;
+    background-position: -1350px -1275px;
+}
+
+.dqm3-prismpeacock-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -1275px;
+}
+
+.dqm3-pruslas-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -1275px;
+}
+
+.dqm3-psarospawn-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -1275px;
 }
 
 .dqm3-pteranodon-thumb {
     width: 75px;
     height: 75px;
-    background-position: -600px -770px;
+    background-position: 0 -1350px;
+}
+
+.dqm3-puffpoise-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -1350px;
 }
 
 .dqm3-putrefido-thumb {
     width: 75px;
     height: 75px;
-    background-position: -685px -770px;
+    background-position: -150px -1350px;
+}
+
+.dqm3-queenslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -1350px;
+}
+
+.dqm3-ramia-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -1350px;
 }
 
 .dqm3-raptile-thumb {
     width: 75px;
     height: 75px;
-    background-position: -770px -770px;
+    background-position: -375px -1350px;
+}
+
+.dqm3-rashaverak-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -1350px;
 }
 
 .dqm3-ratatattack-thumb {
     width: 75px;
     height: 75px;
-    background-position: -855px -770px;
+    background-position: -525px -1350px;
 }
 
 .dqm3-restlessarmour-thumb {
     width: 75px;
     height: 75px;
-    background-position: -940px -770px;
+    background-position: -600px -1350px;
+}
+
+.dqm3-rhinoceraxe-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -1350px;
+}
+
+.dqm3-rippedrabbit-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -1350px;
 }
 
 .dqm3-robberrabbit-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1025px -770px;
+    background-position: -825px -1350px;
 }
 
 .dqm3-rockbomb-thumb {
     width: 75px;
     height: 75px;
-    background-position: -5px -855px;
+    background-position: -900px -1350px;
+}
+
+.dqm3-rockinrockhopper-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -1350px;
+}
+
+.dqm3-roisteringrooster-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -1350px;
+}
+
+.dqm3-roninraccoon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -1350px;
+}
+
+.dqm3-roseguardin-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -1350px;
+}
+
+.dqm3-rottencotton-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -1350px;
+}
+
+.dqm3-royalreptile-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -1350px;
 }
 
 .dqm3-rubbleslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -90px -855px;
+    background-position: -1425px -1350px;
+}
+
+.dqm3-saccharinesacksquatch-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -1350px;
 }
 
 .dqm3-sacksquatch-thumb {
     width: 75px;
     height: 75px;
-    background-position: -175px -855px;
+    background-position: -1575px -1350px;
+}
+
+.dqm3-saltwaterstallion-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -1425px;
 }
 
 .dqm3-scallopslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -260px -855px;
+    background-position: -75px -1425px;
 }
 
 .dqm3-scarfish-thumb {
     width: 75px;
     height: 75px;
-    background-position: -345px -855px;
+    background-position: -150px -1425px;
 }
 
 .dqm3-scissorbeatle-thumb {
     width: 75px;
     height: 75px;
-    background-position: -430px -855px;
+    background-position: -225px -1425px;
 }
 
 .dqm3-scornet-thumb {
     width: 75px;
     height: 75px;
-    background-position: -515px -855px;
+    background-position: -300px -1425px;
+}
+
+.dqm3-sculptrice-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -1425px;
+}
+
+.dqm3-scuttleslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -450px -1425px;
 }
 
 .dqm3-seeurchin-thumb {
     width: 75px;
     height: 75px;
-    background-position: -600px -855px;
+    background-position: -525px -1425px;
+}
+
+.dqm3-sekerleton-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -1425px;
+}
+
+.dqm3-serpentofthescales-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -1425px;
 }
 
 .dqm3-shadow-thumb {
     width: 75px;
     height: 75px;
-    background-position: -685px -855px;
+    background-position: -750px -1425px;
+}
+
+.dqm3-shadowslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -825px -1425px;
 }
 
 .dqm3-shamhatwitch-thumb {
     width: 75px;
     height: 75px;
-    background-position: -770px -855px;
+    background-position: -900px -1425px;
+}
+
+.dqm3-shantak-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -975px -1425px;
 }
 
 .dqm3-she-slime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -855px -855px;
+    background-position: -1050px -1425px;
 }
 
 .dqm3-shellslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -940px -855px;
+    background-position: -1125px -1425px;
+}
+
+.dqm3-shiveryshrubbery-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -1425px;
+}
+
+.dqm3-shogum-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -1425px;
+}
+
+.dqm3-silvapithecus-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -1425px;
+}
+
+.dqm3-silverserpent-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -1425px;
+}
+
+.dqm3-sintaur-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -1425px;
+}
+
+.dqm3-skelegon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -1425px;
 }
 
 .dqm3-skeleton-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1025px -855px;
+    background-position: 0 -1500px;
+}
+
+.dqm3-skeletonsoldier-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -75px -1500px;
+}
+
+.dqm3-skeletonswordsman-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -150px -1500px;
+}
+
+.dqm3-skellyfish-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -1500px;
 }
 
 .dqm3-skipper-thumb {
     width: 75px;
     height: 75px;
-    background-position: -5px -940px;
+    background-position: -300px -1500px;
 }
 
 .dqm3-skullrider-thumb {
     width: 75px;
     height: 75px;
-    background-position: -90px -940px;
+    background-position: -375px -1500px;
 }
 
 .dqm3-slickslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -175px -940px;
+    background-position: -450px -1500px;
 }
 
 .dqm3-slime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -260px -940px;
+    background-position: -525px -1500px;
 }
 
 .dqm3-slimeknight-thumb {
     width: 75px;
     height: 75px;
-    background-position: -345px -940px;
+    background-position: -600px -1500px;
 }
 
 .dqm3-slimeshroom-thumb {
     width: 75px;
     height: 75px;
-    background-position: -430px -940px;
+    background-position: -675px -1500px;
+}
+
+.dqm3-slimesnack-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -1500px;
 }
 
 .dqm3-slimestack-thumb {
     width: 75px;
     height: 75px;
-    background-position: -515px -940px;
+    background-position: -825px -1500px;
+}
+
+.dqm3-slionheart-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -900px -1500px;
 }
 
 .dqm3-smallfry-thumb {
     width: 75px;
     height: 75px;
-    background-position: -600px -940px;
+    background-position: -975px -1500px;
 }
 
 .dqm3-snailslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -685px -940px;
+    background-position: -1050px -1500px;
+}
+
+.dqm3-snowbird-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -1500px;
+}
+
+.dqm3-snowgre-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -1500px;
 }
 
 .dqm3-snowmangler-thumb {
     width: 75px;
     height: 75px;
-    background-position: -770px -940px;
+    background-position: -1275px -1500px;
 }
 
 .dqm3-softservespook-thumb {
     width: 75px;
     height: 75px;
-    background-position: -855px -940px;
+    background-position: -1350px -1500px;
+}
+
+.dqm3-soulspawn-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -1500px;
+}
+
+.dqm3-soysoldier-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -1500px;
+}
+
+.dqm3-spikedhare-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -1500px;
+}
+
+.dqm3-spinchilla-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: 0 -1575px;
 }
 
 .dqm3-spinyslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -940px -940px;
+    background-position: -75px -1575px;
 }
 
 .dqm3-spitnik-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1025px -940px;
+    background-position: -150px -1575px;
 }
 
 .dqm3-spitzfire-thumb {
     width: 75px;
     height: 75px;
-    background-position: -5px -1025px;
+    background-position: -225px -1575px;
+}
+
+.dqm3-splatypunk-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -300px -1575px;
+}
+
+.dqm3-spritebulb-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -375px -1575px;
 }
 
 .dqm3-stabosaur-thumb {
     width: 75px;
     height: 75px;
-    background-position: -90px -1025px;
+    background-position: -450px -1575px;
+}
+
+.dqm3-stackoverflow {
+    width: 30px;
+    height: 30px;
+    background-position: -1680px -105px;
 }
 
 .dqm3-starkraven-thumb {
     width: 75px;
     height: 75px;
-    background-position: -175px -1025px;
+    background-position: -525px -1575px;
+}
+
+.dqm3-stonegolem-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -600px -1575px;
+}
+
+.dqm3-stouttroll-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -1575px;
 }
 
 .dqm3-stringfella-thumb {
     width: 75px;
     height: 75px;
-    background-position: -260px -1025px;
+    background-position: -750px -1575px;
 }
 
 .dqm3-stumpchump-thumb {
     width: 75px;
     height: 75px;
-    background-position: -345px -1025px;
+    background-position: -825px -1575px;
 }
 
 .dqm3-succubat-thumb {
     width: 75px;
     height: 75px;
-    background-position: -430px -1025px;
+    background-position: -900px -1575px;
 }
 
 .dqm3-sucklingocker-thumb {
     width: 75px;
     height: 75px;
-    background-position: -515px -1025px;
+    background-position: -975px -1575px;
+}
+
+.dqm3-sugarbaddie-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -1575px;
+}
+
+.dqm3-sugarstarslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -1575px;
 }
 
 .dqm3-sunsetsultan-thumb {
     width: 75px;
     height: 75px;
-    background-position: -600px -1025px;
+    background-position: -1200px -1575px;
+}
+
+.dqm3-superiorslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -1575px;
+}
+
+.dqm3-sweatyyeti-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -1575px;
+}
+
+.dqm3-swingre-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -1575px;
+}
+
+.dqm3-tantamount-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1500px -1575px;
+}
+
+.dqm3-tartaruseagle-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1575px -1575px;
 }
 
 .dqm3-teenysanguini-thumb {
     width: 75px;
     height: 75px;
-    background-position: -685px -1025px;
+    background-position: -1724px 0;
+}
+
+.dqm3-thealmighty-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1710px -75px;
+}
+
+.dqm3-thedragonlord-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -150px;
+}
+
+.dqm3-thetimebeing-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -225px;
+}
+
+.dqm3-thetrauminator-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -300px;
 }
 
 .dqm3-toady-thumb {
     width: 75px;
     height: 75px;
-    background-position: -770px -1025px;
+    background-position: -1650px -375px;
+}
+
+.dqm3-togre-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -450px;
 }
 
 .dqm3-tortoceratops-thumb {
     width: 75px;
     height: 75px;
-    background-position: -855px -1025px;
+    background-position: -1650px -525px;
+}
+
+.dqm3-torturedsoul-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -600px;
+}
+
+.dqm3-treefeller-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -675px;
+}
+
+.dqm3-treevil-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -750px;
+}
+
+.dqm3-triplesplatty-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -825px;
+}
+
+.dqm3-truedragonlord-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -900px;
+}
+
+.dqm3-tuffpoise-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -975px;
+}
+
+.dqm3-tuftytot-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -1050px;
+}
+
+.dqm3-tumblr {
+    width: 30px;
+    height: 30px;
+    background-position: -1725px -150px;
+}
+
+.dqm3-tundragster-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -1125px;
+}
+
+.dqm3-tuskateer-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -1200px;
+}
+
+.dqm3-twitter {
+    width: 30px;
+    height: 30px;
+    background-position: -1755px -150px;
+}
+
+.dqm3-tyrannoceratops-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -1275px;
+}
+
+.dqm3-uberkillingmachine-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -1350px;
 }
 
 .dqm3-ursamajor-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1025px -1025px;
+    background-position: -1650px -1500px;
+}
+
+.dqm3-ursamega-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1650px -1575px;
 }
 
 .dqm3-vampirecat-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1110px -5px;
+    background-position: 0 -1650px;
 }
 
 .dqm3-vegandragora-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1110px -90px;
+    background-position: -75px -1650px;
 }
 
 .dqm3-walkingcorpse-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1110px -175px;
+    background-position: -150px -1650px;
+}
+
+.dqm3-warhog-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -225px -1650px;
 }
 
 .dqm3-waxmurderer-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1110px -260px;
+    background-position: -300px -1650px;
 }
 
 .dqm3-weakenbeakon-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1110px -345px;
+    background-position: -375px -1650px;
 }
 
 .dqm3-weartiger-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1110px -430px;
+    background-position: -450px -1650px;
+}
+
+.dqm3-wellwisher-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -525px -1650px;
 }
 
 .dqm3-whizzard-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1110px -515px;
+    background-position: -600px -1650px;
+}
+
+.dqm3-wightking-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -675px -1650px;
+}
+
+.dqm3-wildslime-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -750px -1650px;
 }
 
 .dqm3-wingslime-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1110px -600px;
+    background-position: -825px -1650px;
 }
 
 .dqm3-winky-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1110px -685px;
+    background-position: -900px -1650px;
 }
 
 .dqm3-woebergine-thumb {
     width: 75px;
     height: 75px;
-    background-position: -1110px -770px;
+    background-position: -975px -1650px;
+}
+
+.dqm3-wyrmholedragon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1050px -1650px;
+}
+
+.dqm3-wyrtle-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1125px -1650px;
+}
+
+.dqm3-wyrtoise-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1200px -1650px;
+}
+
+.dqm3-wyvern-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1275px -1650px;
+}
+
+.dqm3-xenlon-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1350px -1650px;
+}
+
+.dqm3-zaptile-thumb {
+    width: 75px;
+    height: 75px;
+    background-position: -1425px -1650px;
 }
