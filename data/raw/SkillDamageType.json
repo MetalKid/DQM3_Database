@@ -638,5 +638,145 @@
     "SkillDamageTypeId": 128,
     "SkillId": 0,
     "DamageTypeId": 7
+  },
+  {
+    "SkillDamageTypeId": 129,
+    "SkillId": 0,
+    "DamageTypeId": 1
+  },
+  {
+    "SkillDamageTypeId": 130,
+    "SkillId": 0,
+    "DamageTypeId": 17
+  },
+  {
+    "SkillDamageTypeId": 131,
+    "SkillId": 204,
+    "DamageTypeId": 1
+  },
+  {
+    "SkillDamageTypeId": 132,
+    "SkillId": 202,
+    "DamageTypeId": 1
+  },
+  {
+    "SkillDamageTypeId": 133,
+    "SkillId": 184,
+    "DamageTypeId": 1
+  },
+  {
+    "SkillDamageTypeId": 134,
+    "SkillId": 188,
+    "DamageTypeId": 2
+  },
+  {
+    "SkillDamageTypeId": 135,
+    "SkillId": 178,
+    "DamageTypeId": 15
+  },
+  {
+    "SkillDamageTypeId": 136,
+    "SkillId": 178,
+    "DamageTypeId": 14
+  },
+  {
+    "SkillDamageTypeId": 137,
+    "SkillId": 192,
+    "DamageTypeId": 9
+  },
+  {
+    "SkillDamageTypeId": 138,
+    "SkillId": 182,
+    "DamageTypeId": 9
+  },
+  {
+    "SkillDamageTypeId": 139,
+    "SkillId": 163,
+    "DamageTypeId": 9
+  },
+  {
+    "SkillDamageTypeId": 140,
+    "SkillId": 198,
+    "DamageTypeId": 4
+  },
+  {
+    "SkillDamageTypeId": 141,
+    "SkillId": 191,
+    "DamageTypeId": 5
+  },
+  {
+    "SkillDamageTypeId": 142,
+    "SkillId": 186,
+    "DamageTypeId": 19
+  },
+  {
+    "SkillDamageTypeId": 143,
+    "SkillId": 179,
+    "DamageTypeId": 19
+  },
+  {
+    "SkillDamageTypeId": 144,
+    "SkillId": 63,
+    "DamageTypeId": 19
+  },
+  {
+    "SkillDamageTypeId": 145,
+    "SkillId": 195,
+    "DamageTypeId": 8
+  },
+  {
+    "SkillDamageTypeId": 146,
+    "SkillId": 196,
+    "DamageTypeId": 8
+  },
+  {
+    "SkillDamageTypeId": 147,
+    "SkillId": 197,
+    "DamageTypeId": 8
+  },
+  {
+    "SkillDamageTypeId": 148,
+    "SkillId": 181,
+    "DamageTypeId": 18
+  },
+  {
+    "SkillDamageTypeId": 149,
+    "SkillId": 181,
+    "DamageTypeId": 16
+  },
+  {
+    "SkillDamageTypeId": 150,
+    "SkillId": 199,
+    "DamageTypeId": 18
+  },
+  {
+    "SkillDamageTypeId": 151,
+    "SkillId": 34,
+    "DamageTypeId": 15
+  },
+  {
+    "SkillDamageTypeId": 152,
+    "SkillId": 178,
+    "DamageTypeId": 15
+  },
+  {
+    "SkillDamageTypeId": 153,
+    "SkillId": 178,
+    "DamageTypeId": 14
+  },
+  {
+    "SkillDamageTypeId": 154,
+    "SkillId": 180,
+    "DamageTypeId": 17
+  },
+  {
+    "SkillDamageTypeId": 155,
+    "SkillId": 177,
+    "DamageTypeId": 7
+  },
+  {
+    "SkillDamageTypeId": 156,
+    "SkillId": 203,
+    "DamageTypeId": 7
   }
 ]

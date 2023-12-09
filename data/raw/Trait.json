@@ -141,7 +141,7 @@
     "Identifier": "antitoxidant",
     "JapaneseName": null,
     "Description": "Slightly increases resistance to poison and severe poison.",
-    "Notes": null
+    "Notes": "Increases resistance by 25%."
   },
   {
     "TraitId": 142,
@@ -333,7 +333,7 @@
     "Identifier": "clear-thinker",
     "JapaneseName": null,
     "Description": "Slightly increases resistance to confusion.",
-    "Notes": null
+    "Notes": "Increases resistance by 25%."
   },
   {
     "TraitId": 84,
@@ -437,7 +437,7 @@
     "Identifier": "death-defier",
     "JapaneseName": null,
     "Description": "Slightly increases resistance to instant death.",
-    "Notes": null
+    "Notes": "Increases resistance by 25%."
   },
   {
     "TraitId": 230,
@@ -597,7 +597,7 @@
     "Identifier": "drain-blocker",
     "JapaneseName": null,
     "Description": "Slightly increases resistance to MP absorption.",
-    "Notes": null
+    "Notes": "Increases resistance by 25%."
   },
   {
     "TraitId": 99,
@@ -621,7 +621,7 @@
     "Identifier": "fidget",
     "JapaneseName": null,
     "Description": "Slightly increases resistance to paralysis.",
-    "Notes": null
+    "Notes": "Increases resistance by 25%."
   },
   {
     "TraitId": 22,
@@ -637,7 +637,7 @@
     "Identifier": "granite-chin",
     "JapaneseName": null,
     "Description": "Slightly increases resistance to being stunned.",
-    "Notes": null
+    "Notes": "Increases resistance by 25%."
   },
   {
     "TraitId": 31,
@@ -693,7 +693,7 @@
     "Identifier": "insomniac",
     "JapaneseName": null,
     "Description": "Slightly increases resistance to being put to sleep.",
-    "Notes": null
+    "Notes": "Increases resistance by 25%."
   },
   {
     "TraitId": 7,
@@ -1245,7 +1245,7 @@
     "Identifier": "spellbinder",
     "JapaneseName": null,
     "Description": "Slightly increases resistance to antimagic.",
-    "Notes": null
+    "Notes": "Increases resistance by 25%."
   },
   {
     "TraitId": 33,
@@ -1333,7 +1333,7 @@
     "Identifier": "tactical-commander",
     "JapaneseName": "2回行動",
     "Description": "Performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes.",
-    "Notes": null
+    "Notes": "Reduces all stats by 20%."
   },
   {
     "TraitId": 3,
@@ -1341,7 +1341,7 @@
     "Identifier": "tactical-genius",
     "JapaneseName": "1〜3回行動",
     "Description": "Sometimes performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes.",
-    "Notes": null
+    "Notes": "Reduces all stats by 20%."
   },
   {
     "TraitId": 4,
@@ -1349,7 +1349,7 @@
     "Identifier": "tactical-titan",
     "JapaneseName": "2〜3回行動",
     "Description": "Performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Lowers the monster's attribute.",
-    "Notes": null
+    "Notes": "Reduces all stats by 30%."
   },
   {
     "TraitId": 1,
@@ -1357,7 +1357,7 @@
     "Identifier": "tactical-trooper",
     "JapaneseName": "1〜2回行動",
     "Description": "Sometimes performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Very slightly lowers the monster's attributes.",
-    "Notes": null
+    "Notes": "Reduces all stats by 10%."
   },
   {
     "TraitId": 91,
@@ -1373,7 +1373,7 @@
     "Identifier": "tough-customer",
     "JapaneseName": null,
     "Description": "Slightly increases resistance to debilitation.",
-    "Notes": null
+    "Notes": "Increases resistance by 25%."
   },
   {
     "TraitId": 101,
@@ -1389,7 +1389,7 @@
     "Identifier": "uber-beastsbane",
     "JapaneseName": "超魔獣キラー",
     "Description": "Greatly increases damage inflicted on monsters from the beast family and somewhat lowers all resistances.",
-    "Notes": null
+    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
   },
   {
     "TraitId": 231,
@@ -1397,7 +1397,7 @@
     "Identifier": "uber-bossesbane",
     "JapaneseName": "超？？？キラー",
     "Description": "Greatly increases damage inflicted on monsters from the ??? family and somewhat lowers all resistances.",
-    "Notes": null
+    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
   },
   {
     "TraitId": 242,
@@ -1405,7 +1405,7 @@
     "Identifier": "uber-demonsbane",
     "JapaneseName": "超悪魔キラー",
     "Description": "Greatly increases damage inflicted on monsters from the demon family and somewhat lowers all resistances.",
-    "Notes": null
+    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
   },
   {
     "TraitId": 55,
@@ -1413,7 +1413,7 @@
     "Identifier": "uber-dragonsbane",
     "JapaneseName": "超ドラゴンキラー",
     "Description": "Greatly increases damage inflicted on monsters from the dragon family and somewhat lowers all resistances.",
-    "Notes": null
+    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
   },
   {
     "TraitId": 61,
@@ -1421,7 +1421,7 @@
     "Identifier": "uber-matterbane",
     "JapaneseName": "超物質キラー",
     "Description": "Greatly increases damage inflicted on monsters from the material family and somewhat lowers all resistances.",
-    "Notes": null
+    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
   },
   {
     "TraitId": 57,
@@ -1429,7 +1429,7 @@
     "Identifier": "uber-naturesbane",
     "JapaneseName": "超自然キラー",
     "Description": "Greatly increases damage inflicted on monsters from the nature family and somewhat lowers all resistances.",
-    "Notes": null
+    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
   },
   {
     "TraitId": 232,
@@ -1437,7 +1437,7 @@
     "Identifier": "ubber-slimesbane",
     "JapaneseName": "超スライムキラー",
     "Description": "Greatly increases damage inflicted on monsters from the slime family and somewhat lowers all resistances.",
-    "Notes": null
+    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
   },
   {
     "TraitId": 60,
@@ -1445,7 +1445,7 @@
     "Identifier": "uber-zombiesbane",
     "JapaneseName": "超ゾンビキラー",
     "Description": "Greatly increases damage inflicted on monsters from the undead family and somewhat lowers all resistances.",
-    "Notes": null
+    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
   },
   {
     "TraitId": 186,
@@ -1453,7 +1453,7 @@
     "Identifier": "ultra-antitoxidant",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to poison and severe poison.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 180,
@@ -1461,7 +1461,7 @@
     "Identifier": "ultra-bang-ward",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to explosive attacks.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 190,
@@ -1469,7 +1469,7 @@
     "Identifier": "ultra-clear-thinker",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to confusion.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%. "
   },
   {
     "TraitId": 181,
@@ -1477,23 +1477,23 @@
     "Identifier": "ultra-crack-ward",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to ice-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 106,
     "Name": "Ultra Crafty Banger",
     "Identifier": "ultra-crafty-banger",
     "JapaneseName": "爆発ブレイク大",
-    "Description": "Greatly increases the damage inflicted by explosinve attacks.",
-    "Notes": null
+    "Description": "Greatly increases the damage inflicted by explosive attacks.",
+    "Notes": "Increases damage by 50%."
   },
   {
     "TraitId": 115,
     "Name": "Ultra Crafty Confuser",
     "Identifier": "ultra-crafty-confuser",
     "JapaneseName": "こんらんブレイク大",
-    "Description": "Makes it much easier to the enemy.",
-    "Notes": null
+    "Description": "Makes it much easier to confuse the enemy.",
+    "Notes": "Decreases resistance by 50%."
   },
   {
     "TraitId": 107,
@@ -1501,7 +1501,7 @@
     "Identifier": "ultra-crafty-cracker",
     "JapaneseName": "氷結ブレイク大",
     "Description": "Greatly increases the damage inflicted by ice-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases damage by 50%."
   },
   {
     "TraitId": 105,
@@ -1509,7 +1509,7 @@
     "Identifier": "ultra-crafty-cragger",
     "JapaneseName": "地ブレイク大",
     "Description": "Greatly increases the damage inflicted by earth-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases damage by 50%."
   },
   {
     "TraitId": 112,
@@ -1517,7 +1517,7 @@
     "Identifier": "ultra-crafty-dazzler",
     "JapaneseName": "幻惑ブレイク大",
     "Description": "Makes it much easier to bedazzle the enemy.",
-    "Notes": null
+    "Notes": "Decreases resistance by 50%."
   },
   {
     "TraitId": 111,
@@ -1525,7 +1525,7 @@
     "Identifier": "ultra-crafty-debilitator",
     "JapaneseName": "弱体化ブレイク大",
     "Description": "Makes it much easier to reduce an enemy's attack, defence, agility or wisdom.",
-    "Notes": null
+    "Notes": "Decreases resistance by 50%."
   },
   {
     "TraitId": 102,
@@ -1533,7 +1533,7 @@
     "Identifier": "ultra-crafty-frizzer",
     "JapaneseName": "火ブレイク大",
     "Description": "Greatly increases the damage inflicted by fire-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases damage by 50%."
   },
   {
     "TraitId": 114,
@@ -1541,7 +1541,7 @@
     "Identifier": "ultra-crafty-magic-drainer",
     "JapaneseName": "MP吸収ブレイク大",
     "Description": "Makes it much easier to absorb MP.",
-    "Notes": null
+    "Notes": "Decreases resistance by 50%."
   },
   {
     "TraitId": 117,
@@ -1549,7 +1549,7 @@
     "Identifier": "ultra-crafty-paralyser",
     "JapaneseName": "マヒブレイク大",
     "Description": "Makes it much easier to paralyse the enemy.",
-    "Notes": null
+    "Notes": "Decreases resistance by 50%."
   },
   {
     "TraitId": 119,
@@ -1557,7 +1557,7 @@
     "Identifier": "ultra-crafty-poisoner",
     "JapaneseName": "どくブレイク大",
     "Description": "Makes it much easier to poison or severely poison the enemy.",
-    "Notes": null
+    "Notes": "Decreases resistance by 50%."
   },
   {
     "TraitId": 109,
@@ -1565,7 +1565,7 @@
     "Identifier": "ultra-crafty-sizzer",
     "JapaneseName": "光ブレイク大",
     "Description": "Greatly increases the damage inflicted by light-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases damage by 50%."
   },
   {
     "TraitId": 116,
@@ -1573,7 +1573,7 @@
     "Identifier": "ultra-crafty-sleeper",
     "JapaneseName": "ねむりブレイク大",
     "Description": "Makes it much easier to put the enemy to sleep.",
-    "Notes": null
+    "Notes": "Decreases resistance by 50%."
   },
   {
     "TraitId": 113,
@@ -1581,7 +1581,7 @@
     "Identifier": "ultra-crafty-spellbinder",
     "JapaneseName": "封じブレイク大",
     "Description": "Makes it much easier to prevent spellcasting.",
-    "Notes": null
+    "Notes": "Decreases resistance by 50%."
   },
   {
     "TraitId": 103,
@@ -1589,7 +1589,7 @@
     "Identifier": "ultra-crafty-splasher",
     "JapaneseName": "水ブレイク大",
     "Description": "Greatly increases the damage inflicted by water-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases damage by 50%."
   },
   {
     "TraitId": 118,
@@ -1597,7 +1597,7 @@
     "Identifier": "ultra-crafty-stunner",
     "JapaneseName": "休みブレイク大",
     "Description": "Makes it much easier to stun the enemy.",
-    "Notes": null
+    "Notes": "Decreases resistance by 50%."
   },
   {
     "TraitId": 120,
@@ -1605,7 +1605,7 @@
     "Identifier": "ultra-crafty-whacker",
     "JapaneseName": "即死ブレイク大",
     "Description": "Makes it much easier to kill the enemy instantly.",
-    "Notes": null
+    "Notes": "Decreases resistance by 50%."
   },
   {
     "TraitId": 104,
@@ -1613,7 +1613,7 @@
     "Identifier": "ultra-crafty-woosher",
     "JapaneseName": "風ブレイク大",
     "Description": "Greatly increases the damage inflicted by wind-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases damage by 50%."
   },
   {
     "TraitId": 110,
@@ -1621,7 +1621,7 @@
     "Identifier": "ultra-crafty-zammer",
     "JapaneseName": "闇ブレイク大",
     "Description": "Greatly increases the damage inflicted by dark-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases damage by 50%."
   },
   {
     "TraitId": 108,
@@ -1629,7 +1629,7 @@
     "Identifier": "ultra-crafty-zapper",
     "JapaneseName": "電撃ブレイク大",
     "Description": "Greatly increases the damage inflicted by electrical attacks.",
-    "Notes": null
+    "Notes": "Increases damage by 50%."
   },
   {
     "TraitId": 179,
@@ -1637,7 +1637,7 @@
     "Identifier": "ultra-crag-ward",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to earth-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 196,
@@ -1645,7 +1645,7 @@
     "Identifier": "ultra-death-defier",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to instant death.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 204,
@@ -1653,7 +1653,7 @@
     "Identifier": "ultra-drain-blocker",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to MP absorption.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 194,
@@ -1661,7 +1661,7 @@
     "Identifier": "ultra-fidget",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to paralysis.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 176,
@@ -1669,7 +1669,7 @@
     "Identifier": "ultra-frizz-ward",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to fire-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 187,
@@ -1677,7 +1677,7 @@
     "Identifier": "ultra-granite-chin",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to being stunned.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 192,
@@ -1685,7 +1685,7 @@
     "Identifier": "ultra-insomniac",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to being put to sleep.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 183,
@@ -1693,7 +1693,7 @@
     "Identifier": "ultra-sizz-ward",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to light-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 202,
@@ -1701,7 +1701,7 @@
     "Identifier": "ultra-spellbinder",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to antimagic.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 177,
@@ -1709,7 +1709,7 @@
     "Identifier": "ultra-splish-ward",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to water-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 198,
@@ -1717,7 +1717,7 @@
     "Identifier": "ultra-tough-customer",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to debilitation.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 200,
@@ -1725,7 +1725,7 @@
     "Identifier": "ultra-visionary",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to bedazzlement.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 178,
@@ -1733,7 +1733,7 @@
     "Identifier": "ultra-woosh-ward",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to wind-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 184,
@@ -1741,7 +1741,7 @@
     "Identifier": "ultra-zam-ward",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to dark-elemental attacks.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 182,
@@ -1749,7 +1749,7 @@
     "Identifier": "ultra-zap-ward",
     "JapaneseName": null,
     "Description": "Greatly increases resistance to electrical attacks.",
-    "Notes": null
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 96,
@@ -1765,7 +1765,7 @@
     "Identifier": "visionary",
     "JapaneseName": null,
     "Description": "Slightly increases resistance to bedazzlement.",
-    "Notes": null
+    "Notes": "Increases resistance by 25%."
   },
   {
     "TraitId": 169,

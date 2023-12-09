@@ -161,6 +161,13 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 223,
+    "Name": "Barbarus",
+    "Identifier": "barbarus",
+    "JapaneseName": "闇竜バルボロス",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 89,
     "Name": "Barricade",
     "Identifier": "barricade",
@@ -172,6 +179,13 @@
     "Name": "Bedazzlement Blocker",
     "Identifier": "bedazzlement-blocker",
     "JapaneseName": "幻惑ガード",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 228,
+    "Name": "Bishop Ladja",
+    "Identifier": "bishop-ladja",
+    "JapaneseName": "ゲマ",
     "IsEggOnly": false
   },
   {
@@ -245,6 +259,13 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 230,
+    "Name": "Calasmos",
+    "Identifier": "calasmos",
+    "JapaneseName": "邪神ニズゼルファ",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 184,
     "Name": "Charge Leader",
     "Identifier": "charge-leader",
@@ -312,6 +333,13 @@
     "Name": "Cool Customer",
     "Identifier": "cool-customer",
     "JapaneseName": "つめたいまなざし",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 233,
+    "Name": "Corvus",
+    "Identifier": "corvus",
+    "JapaneseName": "堕天使エルギオス",
     "IsEggOnly": false
   },
   {
@@ -483,6 +511,13 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 236,
+    "Name": "Dhoulmagus",
+    "Identifier": "dhoulmagus",
+    "JapaneseName": "ドルマゲス",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 165,
     "Name": "Doomsayer",
     "Identifier": "doomsayer",
@@ -532,6 +567,13 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 242,
+    "Name": "Estark",
+    "Identifier": "estark",
+    "JapaneseName": "エスターク",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 137,
     "Name": "Evil Genius",
     "Identifier": "evil-genius",
@@ -557,6 +599,13 @@
     "Name": "Firebrand",
     "Identifier": "firebrand",
     "JapaneseName": "バーニング",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 219,
+    "Name": "Fluffy",
+    "Identifier": "fluffy",
+    "JapaneseName": "わたぼう",
     "IsEggOnly": false
   },
   {
@@ -644,6 +693,13 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 221,
+    "Name": "Greygnarl",
+    "Identifier": "greygnarl",
+    "JapaneseName": "グレイナル",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 204,
     "Name": "Grump",
     "Identifier": "grump",
@@ -672,6 +728,13 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 237,
+    "Name": "Hargon",
+    "Identifier": "hargon",
+    "JapaneseName": "ハーゴン",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 155,
     "Name": "Hater",
     "Identifier": "hater",
@@ -697,6 +760,13 @@
     "Name": "Heavenly Herald",
     "Identifier": "heavenly-herald",
     "JapaneseName": null,
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 226,
+    "Name": "Heretic",
+    "Identifier": "heretic",
+    "JapaneseName": "禁術",
     "IsEggOnly": false
   },
   {
@@ -777,6 +847,13 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 238,
+    "Name": "Jasper Unbound",
+    "Identifier": "jasper-unbound",
+    "JapaneseName": "魔軍司令ホメロス",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 139,
     "Name": "Just Ruler",
     "Identifier": "just-ruler",
@@ -798,6 +875,13 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 217,
+    "Name": "Lord of the Dragovians",
+    "Identifier": "lord-of-the-dragovians",
+    "JapaneseName": "竜神王",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 208,
     "Name": "Mad Scientist",
     "Identifier": "mad-scientist",
@@ -816,6 +900,13 @@
     "Name": "Magma Shield",
     "Identifier": "magma-shield",
     "JapaneseName": null,
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 229,
+    "Name": "Malroth",
+    "Identifier": "malroth",
+    "JapaneseName": "シドー",
     "IsEggOnly": false
   },
   {
@@ -851,6 +942,20 @@
     "Name": "Materialist",
     "Identifier": "materialist",
     "JapaneseName": "いしあたま",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 232,
+    "Name": "Mordegon, Lord of Shadows",
+    "Identifier": "mordegon-lord-of-shadows",
+    "JapaneseName": "大魔王ウルノーガ",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 234,
+    "Name": "Mortamor",
+    "Identifier": "mortamor",
+    "JapaneseName": "デスタムーア",
     "IsEggOnly": false
   },
   {
@@ -896,6 +1001,13 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 240,
+    "Name": "Murdaw",
+    "Identifier": "murdaw",
+    "JapaneseName": "ムドー",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 179,
     "Name": "Musclehead",
     "Identifier": "musclehead",
@@ -906,7 +1018,7 @@
     "TalentId": 192,
     "Name": "Mystic",
     "Identifier": "mystic",
-    "JapaneseName": null,
+    "JapaneseName": "神秘",
     "IsEggOnly": false
   },
   {
@@ -921,6 +1033,27 @@
     "Name": "Nature Child",
     "Identifier": "nature-child",
     "JapaneseName": "ナチュラル",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 241,
+    "Name": "Nelgel the Netherfiend",
+    "Identifier": "nelgel-the-netherfiend",
+    "JapaneseName": "冥獣王ネルゲル",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 239,
+    "Name": "Nimzo",
+    "Identifier": "nimzo",
+    "JapaneseName": "ミルドラース",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 244,
+    "Name": "Nokturnus",
+    "Identifier": "nokturnus",
+    "JapaneseName": "ダークドレアム",
     "IsEggOnly": false
   },
   {
@@ -1036,6 +1169,13 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 235,
+    "Name": "Psaro the Manslayer",
+    "Identifier": "psaro-the-manslayer",
+    "JapaneseName": "デスピサロ",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 185,
     "Name": "Pyrotechnician",
     "Identifier": "pyrotechnician",
@@ -1050,6 +1190,20 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 245,
+    "Name": "Ramia",
+    "Identifier": "ramia",
+    "JapaneseName": "ラーミア",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 231,
+    "Name": "Razerburn",
+    "Identifier": "razerburn",
+    "JapaneseName": "守護者ラズバーン",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 203,
     "Name": "Refrigerator",
     "Identifier": "refrigerator",
@@ -1061,6 +1215,13 @@
     "Name": "Respirator",
     "Identifier": "respirator",
     "JapaneseName": "呼吸術",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 227,
+    "Name": "Rhapthorne",
+    "Identifier": "rhapthorne",
+    "JapaneseName": "暗黒神ラプソーン",
     "IsEggOnly": false
   },
   {
@@ -1082,6 +1243,13 @@
     "Name": "Sage",
     "Identifier": "sage",
     "JapaneseName": "賢者",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 220,
+    "Name": "Scruffy",
+    "Identifier": "scruffy",
+    "JapaneseName": "ワルぼう",
     "IsEggOnly": false
   },
   {
@@ -1302,6 +1470,13 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 218,
+    "Name": "The Dragonlord",
+    "Identifier": "the-dragonlord",
+    "JapaneseName": "竜王",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 36,
     "Name": "Thrill-Seeker",
     "Identifier": "thrill-seeker",
@@ -1327,6 +1502,13 @@
     "Name": "Tremor Shield",
     "Identifier": "tremor-shield",
     "JapaneseName": null,
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 225,
+    "Name": "Überkilling Machine",
+    "Identifier": "uberkilling-machine",
+    "JapaneseName": "キラーマジンガ",
     "IsEggOnly": false
   },
   {
@@ -1442,6 +1624,20 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 222,
+    "Name": "Wyrmhole Dragon",
+    "Identifier": "wyrmhole-dragon",
+    "JapaneseName": "じげんりゅう",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 224,
+    "Name": "Xenlon",
+    "Identifier": "xenlon",
+    "JapaneseName": "しんりゅう",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 17,
     "Name": "Zam Afficionado",
     "Identifier": "zam-afficionado",
@@ -1481,6 +1677,13 @@
     "Name": "Zap Ward",
     "Identifier": "zap-ward",
     "JapaneseName": "電撃ガード",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 243,
+    "Name": "Zoma",
+    "Identifier": "zoma",
+    "JapaneseName": "ゾーマ",
     "IsEggOnly": false
   }
 ]

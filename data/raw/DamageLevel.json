@@ -1,0 +1,27 @@
+[
+  {
+    "DamageLevelId": 4,
+    "Name": "Extreme",
+    "Identifier": "extreme"
+  },
+  {
+    "DamageLevelId": 3,
+    "Name": "Major",
+    "Identifier": "major"
+  },
+  {
+    "DamageLevelId": 2,
+    "Name": "Medium",
+    "Identifier": "medium"
+  },
+  {
+    "DamageLevelId": 1,
+    "Name": "Minor",
+    "Identifier": "minor"
+  },
+  {
+    "DamageLevelId": 5,
+    "Name": "Outrageous",
+    "Identifier": "outrageous"
+  }
+]
