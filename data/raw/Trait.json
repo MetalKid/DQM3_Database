@@ -4,1637 +4,1911 @@
     "Name": "Absorbent Touch",
     "Identifier": "absorbent-touch",
     "JapaneseName": "マホトラ攻撃",
-    "Description": "Regular attacks sometimes absorb a portion of the enemy's MP."
+    "Description": "Regular attacks sometimes absorb a portion of the enemy's MP.",
+    "Notes": null
   },
   {
     "TraitId": 40,
     "Name": "Ace Evader",
     "Identifier": "ace-evader",
     "JapaneseName": "みかわしアップ大",
-    "Description": "Makes it somewhat easier to avoid enemy attacks."
+    "Description": "Makes it somewhat easier to avoid enemy attacks.",
+    "Notes": null
   },
   {
     "TraitId": 100,
     "Name": "Adrenaline Rush",
     "Identifier": "adrenaline-rush",
     "JapaneseName": "ファイターズハイ",
-    "Description": "Greatly increases the attack after inflicting a critical hit."
+    "Description": "Greatly increases the attack after inflicting a critical hit.",
+    "Notes": null
   },
   {
     "TraitId": 77,
     "Name": "Agent of Chaos",
     "Identifier": "agent-of-chaos",
     "JapaneseName": "きょうせんし",
-    "Description": "Always attacks an enemy when the monster is confused. Successful strikes inflict critical hits."
+    "Description": "Always attacks an enemy when the monster is confused. Successful strikes inflict critical hits.",
+    "Notes": null
   },
   {
     "TraitId": 160,
     "Name": "Agility +12",
     "Identifier": "agility-12",
     "JapaneseName": null,
-    "Description": "Raises agility by 12."
+    "Description": "Raises agility by 12.",
+    "Notes": null
   },
   {
     "TraitId": 161,
     "Name": "Agility +16",
     "Identifier": "agility-16",
     "JapaneseName": null,
-    "Description": "Raises agility by 16."
+    "Description": "Raises agility by 16.",
+    "Notes": null
   },
   {
     "TraitId": 211,
     "Name": "Agility +2",
     "Identifier": "agility-2",
     "JapaneseName": null,
-    "Description": "Raises agility by 2."
+    "Description": "Raises agility by 2.",
+    "Notes": null
   },
   {
     "TraitId": 206,
     "Name": "Agility +20",
     "Identifier": "agility-20",
     "JapaneseName": null,
-    "Description": "Raises agility by 20."
+    "Description": "Raises agility by 20.",
+    "Notes": null
   },
   {
     "TraitId": 162,
     "Name": "Agility +24",
     "Identifier": "agility-24",
     "JapaneseName": null,
-    "Description": "Raises agility by 24."
+    "Description": "Raises agility by 24.",
+    "Notes": null
   },
   {
     "TraitId": 213,
     "Name": "Agility +30",
     "Identifier": "agility-30",
     "JapaneseName": null,
-    "Description": "Raises agility by 30."
+    "Description": "Raises agility by 30.",
+    "Notes": null
   },
   {
     "TraitId": 163,
     "Name": "Agility +32",
     "Identifier": "agility-32",
     "JapaneseName": null,
-    "Description": "Raises agility by 32."
+    "Description": "Raises agility by 32.",
+    "Notes": null
   },
   {
     "TraitId": 214,
     "Name": "Agility +36",
     "Identifier": "agility-36",
     "JapaneseName": null,
-    "Description": "Raises agility by 36."
+    "Description": "Raises agility by 36.",
+    "Notes": null
   },
   {
     "TraitId": 158,
     "Name": "Agility +4",
     "Identifier": "agility-4",
     "JapaneseName": null,
-    "Description": "Raises agility by 4."
+    "Description": "Raises agility by 4.",
+    "Notes": null
   },
   {
     "TraitId": 164,
     "Name": "Agility +40",
     "Identifier": "agility-40",
     "JapaneseName": null,
-    "Description": "Raises agility by 40."
+    "Description": "Raises agility by 40.",
+    "Notes": null
   },
   {
     "TraitId": 165,
     "Name": "Agility +48",
     "Identifier": "agility-48",
     "JapaneseName": null,
-    "Description": "Raises agility by 48."
+    "Description": "Raises agility by 48.",
+    "Notes": null
   },
   {
     "TraitId": 166,
     "Name": "Agility +64",
     "Identifier": "agility-64",
     "JapaneseName": null,
-    "Description": "Raises agility by 64."
+    "Description": "Raises agility by 64.",
+    "Notes": null
   },
   {
     "TraitId": 159,
     "Name": "Agility +8",
     "Identifier": "agility-8",
     "JapaneseName": null,
-    "Description": "Raises agility by 8."
+    "Description": "Raises agility by 8.",
+    "Notes": null
   },
   {
     "TraitId": 185,
     "Name": "Antitoxidant",
     "Identifier": "antitoxidant",
     "JapaneseName": null,
-    "Description": "Slightly increases resistance to poison and severe poison."
+    "Description": "Slightly increases resistance to poison and severe poison.",
+    "Notes": null
   },
   {
     "TraitId": 142,
     "Name": "Attack +12",
     "Identifier": "attack-12",
     "JapaneseName": null,
-    "Description": "Raises attack by 12."
+    "Description": "Raises attack by 12.",
+    "Notes": null
   },
   {
     "TraitId": 143,
     "Name": "Attack +16",
     "Identifier": "attack-16",
     "JapaneseName": null,
-    "Description": "Raises attack by 16."
+    "Description": "Raises attack by 16.",
+    "Notes": null
   },
   {
     "TraitId": 226,
     "Name": "Attack +2",
     "Identifier": "attack-2",
     "JapaneseName": null,
-    "Description": "Raises attack by 2."
+    "Description": "Raises attack by 2.",
+    "Notes": null
   },
   {
     "TraitId": 222,
     "Name": "Attack +20",
     "Identifier": "attack-20",
     "JapaneseName": null,
-    "Description": "Raises attack by 20."
+    "Description": "Raises attack by 20.",
+    "Notes": null
   },
   {
     "TraitId": 144,
     "Name": "Attack +24",
     "Identifier": "attack-24",
     "JapaneseName": null,
-    "Description": "Raises attack by 24."
+    "Description": "Raises attack by 24.",
+    "Notes": null
   },
   {
     "TraitId": 228,
     "Name": "Attack +30",
     "Identifier": "attack-30",
     "JapaneseName": null,
-    "Description": "Raises attack by 30."
+    "Description": "Raises attack by 30.",
+    "Notes": null
   },
   {
     "TraitId": 145,
     "Name": "Attack +32",
     "Identifier": "attack-32",
     "JapaneseName": null,
-    "Description": "Raises attack by 32."
+    "Description": "Raises attack by 32.",
+    "Notes": null
   },
   {
     "TraitId": 229,
     "Name": "Attack +36",
     "Identifier": "attack-36",
     "JapaneseName": null,
-    "Description": "Raises attack by 36."
+    "Description": "Raises attack by 36.",
+    "Notes": null
   },
   {
     "TraitId": 140,
     "Name": "Attack +4",
     "Identifier": "attack-4",
     "JapaneseName": null,
-    "Description": "Raises attack by 4."
+    "Description": "Raises attack by 4.",
+    "Notes": null
   },
   {
     "TraitId": 146,
     "Name": "Attack +40",
     "Identifier": "attack-40",
     "JapaneseName": null,
-    "Description": "Raises attack by 40."
+    "Description": "Raises attack by 40.",
+    "Notes": null
   },
   {
     "TraitId": 147,
     "Name": "Attack +48",
     "Identifier": "attack-48",
     "JapaneseName": null,
-    "Description": "Raises attack by 48"
+    "Description": "Raises attack by 48",
+    "Notes": null
   },
   {
     "TraitId": 148,
     "Name": "Attack +64",
     "Identifier": "attack-64",
     "JapaneseName": null,
-    "Description": "Raises attack by 64."
+    "Description": "Raises attack by 64.",
+    "Notes": null
   },
   {
     "TraitId": 141,
     "Name": "Attack +8",
     "Identifier": "attack-8",
     "JapaneseName": null,
-    "Description": "Raises attack by 8."
+    "Description": "Raises attack by 8.",
+    "Notes": null
   },
   {
     "TraitId": 93,
     "Name": "Attacking Impulse",
     "Identifier": "attacking-impulse",
     "JapaneseName": "とうそうほんのう",
-    "Description": "Increases damage inflicted when HP drop to 1/2."
+    "Description": "Increases damage inflicted when HP drop to 1/2.",
+    "Notes": null
   },
   {
     "TraitId": 50,
     "Name": "Auto-Cadabra",
     "Identifier": "auto-cadabra",
     "JapaneseName": null,
-    "Description": "Restores a small amount of MP after each action."
+    "Description": "Restores a small amount of MP after each action.",
+    "Notes": null
   },
   {
     "TraitId": 49,
     "Name": "Auto-Restora",
     "Identifier": "auto-restora",
     "JapaneseName": null,
-    "Description": "Restores a small amount of HP after each action."
+    "Description": "Restores a small amount of HP after each action.",
+    "Notes": null
   },
   {
     "TraitId": 26,
     "Name": "Bangmeister",
     "Identifier": "bangmeister",
     "JapaneseName": "爆発のコツ",
-    "Description": "Increases the potency of explosie attacks and decreases their MP consumption."
+    "Description": "Increases the potency of explosie attacks and decreases their MP consumption.",
+    "Notes": null
   },
   {
     "TraitId": 52,
     "Name": "Beastsbane",
     "Identifier": "beastsbane",
     "JapaneseName": "魔獣キラー",
-    "Description": "Increases damage inflicted on monsters from the beast family and slightly lowers all resistances."
+    "Description": "Increases damage inflicted on monsters from the beast family and slightly lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 88,
     "Name": "Benefaction",
     "Identifier": "benefaction",
     "JapaneseName": "最後の息吹",
-    "Description": "Massively increases the attack, defence, agility and wisdom of allies when a killer blow is received."
+    "Description": "Massively increases the attack, defence, agility and wisdom of allies when a killer blow is received.",
+    "Notes": null
   },
   {
     "TraitId": 73,
     "Name": "Big Bully",
     "Identifier": "big-bully",
     "JapaneseName": "ラージキラー",
-    "Description": "Increases damage inflicted on L-size monsters"
+    "Description": "Increases damage inflicted on L-size monsters",
+    "Notes": null
   },
   {
     "TraitId": 82,
     "Name": "Bigger Upper",
     "Identifier": "bigger-upper",
     "JapaneseName": "おだてじょうず",
-    "Description": "Extends the duration of skills that raise the strength, defence, agility or wisdom of allies to 5 turns. In addtion, randomly grants invincibility, the ability to reflect spells or breath attacks, or raises evasion."
+    "Description": "Extends the duration of skills that raise the strength, defence, agility or wisdom of allies to 5 turns. In addtion, randomly grants invincibility, the ability to reflect spells or breath attacks, or raises evasion.",
+    "Notes": null
+  },
+  {
+    "TraitId": 243,
+    "Name": "Bossesbane",
+    "Identifier": "bossesbane",
+    "JapaneseName": "？？？キラー",
+    "Description": "Increases damage inflicted on monsters from the ??? family and slightly lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 51,
     "Name": "Castslasher",
     "Identifier": "castslasher",
     "JapaneseName": null,
-    "Description": "Reduces MP consumption by 1/2."
+    "Description": "Reduces MP consumption by 1/2.",
+    "Notes": null
   },
   {
     "TraitId": 189,
     "Name": "Clear Thinker",
     "Identifier": "clear-thinker",
     "JapaneseName": null,
-    "Description": "Slightly increases resistance to confusion."
+    "Description": "Slightly increases resistance to confusion.",
+    "Notes": null
   },
   {
     "TraitId": 84,
     "Name": "Close Scraper",
     "Identifier": "close-scraper",
     "JapaneseName": "くじけぬ心",
-    "Description": "Sometimes allows the monster to survive at 1 HP after suffering an attack that would otherwise kill it."
+    "Description": "Sometimes allows the monster to survive at 1 HP after suffering an attack that would otherwise kill it.",
+    "Notes": null
   },
   {
     "TraitId": 97,
     "Name": "Collective Punishment",
     "Identifier": "collective-punishment",
     "JapaneseName": "全体攻撃",
-    "Description": "Attacks that do more damage as the attack attribute increases will strike all enemies insetead of a single target."
+    "Description": "Attacks that do more damage as the attack attribute increases will strike all enemies insetead of a single target.",
+    "Notes": null
   },
   {
     "TraitId": 65,
     "Name": "Confusing Touch",
     "Identifier": "confusing-touch",
     "JapaneseName": "こんらん攻撃",
-    "Description": "Regular attacks sometimes confuse the enemy."
+    "Description": "Regular attacks sometimes confuse the enemy.",
+    "Notes": null
   },
   {
     "TraitId": 27,
     "Name": "Crackmeister",
     "Identifier": "crackmeister",
     "JapaneseName": "氷結のコツ",
-    "Description": "Increases the potency of ice-elemental attacks and decreases their MP consumption."
+    "Description": "Increases the potency of ice-elemental attacks and decreases their MP consumption.",
+    "Notes": null
   },
   {
     "TraitId": 121,
     "Name": "Crafty Devil",
     "Identifier": "crafty-devil",
     "JapaneseName": "全ガードブレイク",
-    "Description": "Makes it moderately easier to inflict status ailments on the enemy."
+    "Description": "Makes it moderately easier to inflict status ailments on the enemy.",
+    "Notes": null
   },
   {
     "TraitId": 25,
     "Name": "Cragmeister",
     "Identifier": "cragmeister",
     "JapaneseName": "地のコツ",
-    "Description": "Increases the potency of earth-elemental attacks and decreases their MP consumption."
+    "Description": "Increases the potency of earth-elemental attacks and decreases their MP consumption.",
+    "Notes": null
   },
   {
     "TraitId": 238,
     "Name": "Critical Mastermind",
     "Identifier": "critical-mastermind",
     "JapaneseName": "超魔力暴走率アップ",
-    "Description": "Makes it much easier to cast critical spells."
+    "Description": "Makes it much easier to cast critical spells.",
+    "Notes": null
   },
   {
     "TraitId": 45,
     "Name": "Critical Moment",
     "Identifier": "critical-moment",
     "JapaneseName": "ピンチで会心",
-    "Description": "Makes it easier to inflict critical hits when HP drops to 1/2, and even more so when HP drops to 1/4."
+    "Description": "Makes it easier to inflict critical hits when HP drops to 1/2, and even more so when HP drops to 1/4.",
+    "Notes": null
   },
   {
     "TraitId": 44,
     "Name": "Critical Sensation",
     "Identifier": "critical-sensation",
     "JapaneseName": "超会心率アップ",
-    "Description": "Makes it much easier to inflict critical hits."
+    "Description": "Makes it much easier to inflict critical hits.",
+    "Notes": null
   },
   {
     "TraitId": 46,
     "Name": "Critical Theorist",
     "Identifier": "critical-theorist",
     "JapaneseName": "魔力暴走率アップ大",
-    "Description": "Makes it somewhat easier to cast critical spells."
+    "Description": "Makes it somewhat easier to cast critical spells.",
+    "Notes": null
   },
   {
     "TraitId": 43,
     "Name": "Critical Triumph",
     "Identifier": "critical-triumph",
     "JapaneseName": "会心率アップ大",
-    "Description": "Makes it somewhat easier to inflict critical hits."
+    "Description": "Makes it somewhat easier to inflict critical hits.",
+    "Notes": null
   },
   {
     "TraitId": 67,
     "Name": "Deadly Touch",
     "Identifier": "deadly-touch",
     "JapaneseName": "ザキ攻撃",
-    "Description": "Regular attacks sometimes kill the enemy instantly."
+    "Description": "Regular attacks sometimes kill the enemy instantly.",
+    "Notes": null
   },
   {
     "TraitId": 195,
     "Name": "Death Defier",
     "Identifier": "death-defier",
     "JapaneseName": null,
-    "Description": "Slightly increases resistance to instant death."
+    "Description": "Slightly increases resistance to instant death.",
+    "Notes": null
   },
   {
     "TraitId": 230,
     "Name": "Decontaminate",
     "Identifier": "decontaminate",
     "JapaneseName": "医術士",
-    "Description": "Sometimes cures allies of sleep, confusion, poison, severe poison, and paralysis durin battle."
+    "Description": "Sometimes cures allies of sleep, confusion, poison, severe poison, and paralysis durin battle.",
+    "Notes": null
   },
   {
     "TraitId": 151,
     "Name": "Defence +12",
     "Identifier": "defence-12",
     "JapaneseName": null,
-    "Description": "Raises defence by 12."
+    "Description": "Raises defence by 12.",
+    "Notes": null
   },
   {
     "TraitId": 152,
     "Name": "Defence +16",
     "Identifier": "defence-16",
     "JapaneseName": null,
-    "Description": "Raises defence by 16."
+    "Description": "Raises defence by 16.",
+    "Notes": null
   },
   {
     "TraitId": 153,
     "Name": "Defence +24",
     "Identifier": "defence-24",
     "JapaneseName": null,
-    "Description": "Raises defence by 24."
+    "Description": "Raises defence by 24.",
+    "Notes": null
   },
   {
     "TraitId": 154,
     "Name": "Defence +32",
     "Identifier": "defence-32",
     "JapaneseName": null,
-    "Description": "Raises defence by 32."
+    "Description": "Raises defence by 32.",
+    "Notes": null
   },
   {
     "TraitId": 149,
     "Name": "Defence +4",
     "Identifier": "defence-4",
     "JapaneseName": null,
-    "Description": "Raises defence by 4."
+    "Description": "Raises defence by 4.",
+    "Notes": null
   },
   {
     "TraitId": 155,
     "Name": "Defence +40",
     "Identifier": "defence-40",
     "JapaneseName": null,
-    "Description": "Raises defence by 40."
+    "Description": "Raises defence by 40.",
+    "Notes": null
   },
   {
     "TraitId": 156,
     "Name": "Defence +48",
     "Identifier": "defence-48",
     "JapaneseName": null,
-    "Description": "Raises defence by 48."
+    "Description": "Raises defence by 48.",
+    "Notes": null
   },
   {
     "TraitId": 215,
     "Name": "Defence +60",
     "Identifier": "defence-60",
     "JapaneseName": null,
-    "Description": "Raises defence by 60."
+    "Description": "Raises defence by 60.",
+    "Notes": null
   },
   {
     "TraitId": 157,
     "Name": "Defence +64",
     "Identifier": "defence-64",
     "JapaneseName": null,
-    "Description": "Raises defence by 64."
+    "Description": "Raises defence by 64.",
+    "Notes": null
   },
   {
     "TraitId": 216,
     "Name": "Defence +72",
     "Identifier": "defence-72",
     "JapaneseName": null,
-    "Description": "Raises defence by 72."
+    "Description": "Raises defence by 72.",
+    "Notes": null
   },
   {
     "TraitId": 150,
     "Name": "Defence +8",
     "Identifier": "defence-8",
     "JapaneseName": null,
-    "Description": "Raises defence by 8."
+    "Description": "Raises defence by 8.",
+    "Notes": null
   },
   {
     "TraitId": 217,
     "Name": "Defence +96",
     "Identifier": "defence-96",
     "JapaneseName": null,
-    "Description": "Raises defence by 96."
+    "Description": "Raises defence by 96.",
+    "Notes": null
   },
   {
     "TraitId": 94,
     "Name": "Defensive Impulse",
     "Identifier": "defensive-impulse",
     "JapaneseName": "ぼうえいほんのう",
-    "Description": "Reduces damage received when HP drop to 1/2."
+    "Description": "Reduces damage received when HP drop to 1/2.",
+    "Notes": null
+  },
+  {
+    "TraitId": 240,
+    "Name": "Demonsbane",
+    "Identifier": "demonsbane",
+    "JapaneseName": "悪魔キラー",
+    "Description": "Increases damage inflicted on monsters from the demon family and slightly lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 48,
     "Name": "Desperate Measures",
     "Identifier": "desperate-measures",
     "JapaneseName": "会心かんぜんガード",
-    "Description": "Negates all damage suffered from critical hits and critical spells."
+    "Description": "Negates all damage suffered from critical hits and critical spells.",
+    "Notes": null
   },
   {
     "TraitId": 81,
     "Name": "Detox",
     "Identifier": "detox",
     "JapaneseName": "セラピー",
-    "Description": "Sometimes cures allies of poison, severe poison and paralysis during battle."
+    "Description": "Sometimes cures allies of poison, severe poison and paralysis during battle.",
+    "Notes": null
   },
   {
     "TraitId": 42,
     "Name": "Dodge Denier",
     "Identifier": "dodge-denier",
     "JapaneseName": "みかわし無効",
-    "Description": "Ensures the enemy cannot avoid attacks."
+    "Description": "Ensures the enemy cannot avoid attacks.",
+    "Notes": null
   },
   {
     "TraitId": 59,
     "Name": "Dragonsbane",
     "Identifier": "dragonsbane",
-    "JapaneseName": null,
-    "Description": "Increases damage inflicted on monsters from the dragon family and slightly lowers all resistances."
+    "JapaneseName": "ドラゴンキラー",
+    "Description": "Increases damage inflicted on monsters from the dragon family and slightly lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 203,
     "Name": "Drain Blocker",
     "Identifier": "drain-blocker",
     "JapaneseName": null,
-    "Description": "Slightly increases resistance to MP absorption."
+    "Description": "Slightly increases resistance to MP absorption.",
+    "Notes": null
   },
   {
     "TraitId": 99,
     "Name": "Echonomist",
     "Identifier": "echonomist",
     "JapaneseName": "やまびこ",
-    "Description": "Sometimes casts the same spell twice. Consumes slightly more MP than usual."
+    "Description": "Sometimes casts the same spell twice. Consumes slightly more MP than usual.",
+    "Notes": null
   },
   {
     "TraitId": 95,
     "Name": "Evasive Impulse",
     "Identifier": "evasive-impulse",
     "JapaneseName": "かいひほんのう",
-    "Description": "Sometimes increases evasion and greatly increases agility during battle when HP has dropped to 1/2. Only activates once per battle."
+    "Description": "Sometimes increases evasion and greatly increases agility during battle when HP has dropped to 1/2. Only activates once per battle.",
+    "Notes": null
   },
   {
     "TraitId": 193,
     "Name": "Fidget",
     "Identifier": "fidget",
     "JapaneseName": null,
-    "Description": "Slightly increases resistance to paralysis."
+    "Description": "Slightly increases resistance to paralysis.",
+    "Notes": null
   },
   {
     "TraitId": 22,
     "Name": "Frizzmeister",
     "Identifier": "frizzmeister",
     "JapaneseName": "火のコツ",
-    "Description": "Increases the potency of fire-elemental attacks and decreases their MP consumption."
+    "Description": "Increases the potency of fire-elemental attacks and decreases their MP consumption.",
+    "Notes": null
   },
   {
     "TraitId": 188,
     "Name": "Granite Chin",
     "Identifier": "granite-chin",
     "JapaneseName": null,
-    "Description": "Slightly increases resistance to being stunned."
+    "Description": "Slightly increases resistance to being stunned.",
+    "Notes": null
   },
   {
     "TraitId": 31,
     "Name": "Health Professional",
     "Identifier": "health-professional",
     "JapaneseName": "回復のコツ",
-    "Description": "Increases the potency of healing skills and decreases their MP consumption."
+    "Description": "Increases the potency of healing skills and decreases their MP consumption.",
+    "Notes": null
   },
   {
     "TraitId": 233,
     "Name": "Heaven-Sent",
     "Identifier": "heaven-sent",
     "JapaneseName": "星のおくりもの",
-    "Description": "Sometimes greatly increases attack, defense, agility or wisdom during battle."
+    "Description": "Sometimes greatly increases attack, defense, agility or wisdom during battle.",
+    "Notes": null
   },
   {
     "TraitId": 19,
     "Name": "High Heal",
     "Identifier": "high-heal",
     "JapaneseName": "癒しの大力",
-    "Description": "Sometimes restores 80 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerfull."
+    "Description": "Sometimes restores 80 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerfull.",
+    "Notes": null
   },
   {
     "TraitId": 236,
     "Name": "Hothead",
     "Identifier": "hothead",
     "JapaneseName": "バースト確率アップ",
-    "Description": "Makes it easier to activate a frenzied state, turning the monster into a formidable fighting force."
+    "Description": "Makes it easier to activate a frenzied state, turning the monster into a formidable fighting force.",
+    "Notes": null
   },
   {
     "TraitId": 34,
     "Name": "Infected Skin",
     "Identifier": "infected-skin",
     "JapaneseName": "どくどくボディ",
-    "Description": "Sometimes poisons enemies that inflict indirect attacks."
+    "Description": "Sometimes poisons enemies that inflict indirect attacks.",
+    "Notes": null
   },
   {
     "TraitId": 38,
     "Name": "Insensitive Skin",
     "Identifier": "insensitive-skin",
     "JapaneseName": "ビリビリボディ",
-    "Description": "Sometimes paralyses enemies that inflict direct attacks."
+    "Description": "Sometimes paralyses enemies that inflict direct attacks.",
+    "Notes": null
   },
   {
     "TraitId": 191,
     "Name": "Insomniac",
     "Identifier": "insomniac",
     "JapaneseName": null,
-    "Description": "Slightly increases resistance to being put to sleep."
+    "Description": "Slightly increases resistance to being put to sleep.",
+    "Notes": null
   },
   {
     "TraitId": 7,
     "Name": "Insta-Accel",
     "Identifier": "insta-accel",
     "JapaneseName": "いきなりピオラ",
-    "Description": "Monster sometimes casts Accelerate on itself at the start of battle."
+    "Description": "Monster sometimes casts Accelerate on itself at the start of battle.",
+    "Notes": null
   },
   {
     "TraitId": 9,
     "Name": "Insta-Bounce",
     "Identifier": "insta-bounce",
     "JapaneseName": "いきなりマホカンタ",
-    "Description": "Monster sometimes casts Bounce on itself at the start of battle."
+    "Description": "Monster sometimes casts Bounce on itself at the start of battle.",
+    "Notes": null
   },
   {
     "TraitId": 6,
     "Name": "Insta-Buff",
     "Identifier": "insta-buff",
     "JapaneseName": "いきなりスカラ",
-    "Description": "Monster sometimes casts Buff on itself at the start of battle."
+    "Description": "Monster sometimes casts Buff on itself at the start of battle.",
+    "Notes": null
   },
   {
     "TraitId": 5,
     "Name": "Insta-Oomph",
     "Identifier": "insta-oomph",
     "JapaneseName": "いきなりバイキルト",
-    "Description": "Monster sometimes casts Oomph on itself at the start of battle."
+    "Description": "Monster sometimes casts Oomph on itself at the start of battle.",
+    "Notes": null
   },
   {
     "TraitId": 8,
     "Name": "Insta-Ping",
     "Identifier": "insta-ping",
     "JapaneseName": "いきなりインテ",
-    "Description": "Monster sometimes casts Ping on itself at the start of battle."
+    "Description": "Monster sometimes casts Ping on itself at the start of battle.",
+    "Notes": null
   },
   {
     "TraitId": 74,
     "Name": "Insult to Injury",
     "Identifier": "insult-to-injury",
     "JapaneseName": "おいうち",
-    "Description": "Increases damage inflicted on enemies that are poisoned, severely poisoned, stunned, asleep, confused or paralysed."
+    "Description": "Increases damage inflicted on enemies that are poisoned, severely poisoned, stunned, asleep, confused or paralysed.",
+    "Notes": null
   },
   {
     "TraitId": 75,
     "Name": "Intimidating",
     "Identifier": "intimidating",
     "JapaneseName": "プレッシャー",
-    "Description": "Sometimes stuns the enemy during battle for 1 turn."
+    "Description": "Sometimes stuns the enemy during battle for 1 turn.",
+    "Notes": null
   },
   {
     "TraitId": 21,
     "Name": "Last Gasp",
     "Identifier": "last-gasp",
     "JapaneseName": "ふっかつの祈り",
-    "Description": "Revives a single ally after it falls in battle. Only works once per battle."
+    "Description": "Revives a single ally after it falls in battle. Only works once per battle.",
+    "Notes": null
   },
   {
     "TraitId": 85,
     "Name": "Last Legs",
     "Identifier": "last-legs",
     "JapaneseName": "ラストスタンド",
-    "Description": "Allows the montser to survive at 1 HP after suffering an attack that would otherwise kill it."
+    "Description": "Allows the montser to survive at 1 HP after suffering an attack that would otherwise kill it.",
+    "Notes": null
   },
   {
     "TraitId": 90,
     "Name": "Late Bloomer",
     "Identifier": "late-bloomer",
     "JapaneseName": "秘めたるチカラ",
-    "Description": "Increases attack, defence, agility and wisdom from round 3 onwards, and even more so from round 6."
+    "Description": "Increases attack, defence, agility and wisdom from round 3 onwards, and even more so from round 6.",
+    "Notes": null
   },
   {
     "TraitId": 72,
     "Name": "Little Menace",
     "Identifier": "little-menace",
     "JapaneseName": "スモールキラー",
-    "Description": "Increases damage inflicted on S-size monsters."
+    "Description": "Increases damage inflicted on S-size monsters.",
+    "Notes": null
   },
   {
     "TraitId": 18,
     "Name": "Low Heal",
     "Identifier": "low-heal",
     "JapaneseName": "癒しの力",
-    "Description": "Sometimes restores 30 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerfull."
+    "Description": "Sometimes restores 30 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerfull.",
+    "Notes": null
   },
   {
     "TraitId": 47,
     "Name": "Magical Moment",
     "Identifier": "magical-moment",
     "JapaneseName": "ピンチで魔力暴走",
-    "Description": "Makes it easier to inflict cast critical spells when HP drops to 1/2, and even more so when HP drops to 1/4."
+    "Description": "Makes it easier to inflict cast critical spells when HP drops to 1/2, and even more so when HP drops to 1/4.",
+    "Notes": null
   },
   {
     "TraitId": 83,
     "Name": "Major Downer",
     "Identifier": "major-downer",
     "JapaneseName": "いやがらせ",
-    "Description": "Extends the duration of skills that lower the strength, defence, agility or wisdom of enemies to 5 turns. In addition, randomly prevents breath attacks, critical hits or the casting of magic, or bedazzles the enemy."
+    "Description": "Extends the duration of skills that lower the strength, defence, agility or wisdom of enemies to 5 turns. In addition, randomly prevents breath attacks, critical hits or the casting of magic, or bedazzles the enemy.",
+    "Notes": null
   },
   {
     "TraitId": 54,
     "Name": "Matterbane",
     "Identifier": "matterbane",
     "JapaneseName": "物質キラー",
-    "Description": "Increases damage inflicted on monsters from the material family and slightly lowers all resistances."
+    "Description": "Increases damage inflicted on monsters from the material family and slightly lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 124,
     "Name": "Max. HP +12",
     "Identifier": "max-hp-12",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 12."
+    "Description": "Raises max. HP by 12.",
+    "Notes": null
   },
   {
     "TraitId": 125,
     "Name": "Max. HP +16",
     "Identifier": "max-hp-16",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 16."
+    "Description": "Raises max. HP by 16.",
+    "Notes": null
   },
   {
     "TraitId": 220,
     "Name": "Max. HP +2",
     "Identifier": "max-hp-2",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 2."
+    "Description": "Raises max. HP by 2.",
+    "Notes": null
   },
   {
     "TraitId": 209,
     "Name": "Max. HP +20",
     "Identifier": "max-hp-20",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 20."
+    "Description": "Raises max. HP by 20.",
+    "Notes": null
   },
   {
     "TraitId": 126,
     "Name": "Max. HP +24",
     "Identifier": "max-hp-24",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 24."
+    "Description": "Raises max. HP by 24.",
+    "Notes": null
   },
   {
     "TraitId": 221,
     "Name": "Max. HP +30",
     "Identifier": "max-hp-30",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 30."
+    "Description": "Raises max. HP by 30.",
+    "Notes": null
   },
   {
     "TraitId": 127,
     "Name": "Max. HP +32",
     "Identifier": "max-hp-32",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 32."
+    "Description": "Raises max. HP by 32.",
+    "Notes": null
   },
   {
     "TraitId": 210,
     "Name": "Max. HP +36",
     "Identifier": "max-hp-36",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 36."
+    "Description": "Raises max. HP by 36.",
+    "Notes": null
   },
   {
     "TraitId": 122,
     "Name": "Max. HP +4",
     "Identifier": "max-hp-4",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 4."
+    "Description": "Raises max. HP by 4.",
+    "Notes": null
   },
   {
     "TraitId": 128,
     "Name": "Max. HP +40",
     "Identifier": "max-hp-40",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 40."
+    "Description": "Raises max. HP by 40.",
+    "Notes": null
   },
   {
     "TraitId": 129,
     "Name": "Max. HP +48",
     "Identifier": "max-hp-48",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 48."
+    "Description": "Raises max. HP by 48.",
+    "Notes": null
   },
   {
     "TraitId": 130,
     "Name": "Max. HP +64",
     "Identifier": "max-hp-64",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 64."
+    "Description": "Raises max. HP by 64.",
+    "Notes": null
   },
   {
     "TraitId": 123,
     "Name": "Max. HP +8",
     "Identifier": "max-hp-8",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 8."
+    "Description": "Raises max. HP by 8.",
+    "Notes": null
   },
   {
     "TraitId": 133,
     "Name": "Max. MP +12",
     "Identifier": "max-mp-12",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 12."
+    "Description": "Raises max. HP by 12.",
+    "Notes": null
   },
   {
     "TraitId": 134,
     "Name": "Max. MP +16",
     "Identifier": "max-mp-16",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 16."
+    "Description": "Raises max. HP by 16.",
+    "Notes": null
   },
   {
     "TraitId": 207,
     "Name": "Max. MP +20",
     "Identifier": "max-mp-20",
     "JapaneseName": null,
-    "Description": "Raises max. MP by 20."
+    "Description": "Raises max. MP by 20.",
+    "Notes": null
   },
   {
     "TraitId": 135,
     "Name": "Max. MP +24",
     "Identifier": "max-mp-24",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 24."
+    "Description": "Raises max. HP by 24.",
+    "Notes": null
   },
   {
     "TraitId": 136,
     "Name": "Max. MP +32",
     "Identifier": "max-mp-32",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 32."
+    "Description": "Raises max. HP by 32.",
+    "Notes": null
   },
   {
     "TraitId": 131,
     "Name": "Max. MP +4",
     "Identifier": "max-mp-4",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 4."
+    "Description": "Raises max. HP by 4.",
+    "Notes": null
   },
   {
     "TraitId": 137,
     "Name": "Max. MP +40",
     "Identifier": "max-mp-40",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 40."
+    "Description": "Raises max. HP by 40.",
+    "Notes": null
   },
   {
     "TraitId": 138,
     "Name": "Max. MP +48",
     "Identifier": "max-mp-48",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 48."
+    "Description": "Raises max. HP by 48.",
+    "Notes": null
   },
   {
     "TraitId": 218,
     "Name": "Max. MP +60",
     "Identifier": "max-mp-60",
     "JapaneseName": null,
-    "Description": "Raises max. MP by 60."
+    "Description": "Raises max. MP by 60.",
+    "Notes": null
   },
   {
     "TraitId": 139,
     "Name": "Max. MP +64",
     "Identifier": "max-mp-64",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 64."
+    "Description": "Raises max. HP by 64.",
+    "Notes": null
   },
   {
     "TraitId": 208,
     "Name": "Max. MP +72",
     "Identifier": "max-mp-72",
     "JapaneseName": null,
-    "Description": "Raises max. MP by 72."
+    "Description": "Raises max. MP by 72.",
+    "Notes": null
   },
   {
     "TraitId": 132,
     "Name": "Max. MP +8",
     "Identifier": "max-mp-8",
     "JapaneseName": null,
-    "Description": "Raises max. HP by 8."
+    "Description": "Raises max. HP by 8.",
+    "Notes": null
   },
   {
     "TraitId": 219,
     "Name": "Max. MP +96",
     "Identifier": "max-mp-96",
     "JapaneseName": null,
-    "Description": "Raises max. MP by 96."
+    "Description": "Raises max. MP by 96.",
+    "Notes": null
   },
   {
     "TraitId": 70,
     "Name": "Metal Beater",
     "Identifier": "metal-beater",
     "JapaneseName": "メタルハンター",
-    "Description": "Inflicts additional damage on enemies. A higher level increases the effect. Works on enemies with the Metal Skin trait."
+    "Description": "Inflicts additional damage on enemies. A higher level increases the effect. Works on enemies with the Metal Skin trait.",
+    "Notes": null
   },
   {
     "TraitId": 71,
     "Name": "Metal Medley",
     "Identifier": "metal-medley",
     "JapaneseName": "メタルキラー",
-    "Description": "Ignores the damage-reducing effect that the Metal Skin trait provides."
+    "Description": "Ignores the damage-reducing effect that the Metal Skin trait provides.",
+    "Notes": null
+  },
+  {
+    "TraitId": 239,
+    "Name": "Metal Skin",
+    "Identifier": "metal-skin",
+    "JapaneseName": "メタルボディ",
+    "Description": "Reduces damage received by 1/3, but doubles the MP consumption of spells and abiltiies.",
+    "Notes": "This also reduces the effective base HP by 1/3 as well. The true max value is reflected on the site."
   },
   {
     "TraitId": 68,
     "Name": "Miraculous Touch",
     "Identifier": "miraculous-touch",
     "JapaneseName": "ミラクル攻撃",
-    "Description": "Regular attacks restore 1/2 of the damage they inflict on the enemy as HP."
+    "Description": "Regular attacks restore 1/2 of the damage they inflict on the enemy as HP.",
+    "Notes": null
   },
   {
     "TraitId": 92,
     "Name": "Naked Ambition",
     "Identifier": "naked-ambition",
     "JapaneseName": "徒手空拳",
-    "Description": "Increases the likelihood of critical hits and critical spells if no accessory is equipped."
+    "Description": "Increases the likelihood of critical hits and critical spells if no accessory is equipped.",
+    "Notes": null
   },
   {
     "TraitId": 58,
     "Name": "Naturesbane",
     "Identifier": "naturesbane",
-    "JapaneseName": null,
-    "Description": "Increases damage inflicted on monsters from the nature family and slightly lowers all resistances."
+    "JapaneseName": "自然キラー",
+    "Description": "Increases damage inflicted on monsters from the nature family and slightly lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 66,
     "Name": "Paralysing Touch",
     "Identifier": "paralysing-touch",
     "JapaneseName": "マヒ攻撃",
-    "Description": "Regular attacks sometimes paralyse the enemy."
+    "Description": "Regular attacks sometimes paralyse the enemy.",
+    "Notes": null
   },
   {
     "TraitId": 87,
     "Name": "Parting Gift",
     "Identifier": "parting-gift",
     "JapaneseName": "最後のあがき",
-    "Description": "Inflicts damage back on all enemies when a killer blow is received. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero."
+    "Description": "Inflicts damage back on all enemies when a killer blow is received. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero.",
+    "Notes": null
   },
   {
     "TraitId": 98,
     "Name": "Personal Grudge",
     "Identifier": "personal-grudge",
     "JapaneseName": "根に持つタイプ",
-    "Description": "Greatly decreases the attack, defence, agility and wisdom of an enemy that lands a killer blow, and stuns them for the next turn."
+    "Description": "Greatly decreases the attack, defence, agility and wisdom of an enemy that lands a killer blow, and stuns them for the next turn.",
+    "Notes": null
   },
   {
     "TraitId": 62,
     "Name": "Poisonous Touch",
     "Identifier": "poisonous-touch",
     "JapaneseName": "どく攻撃",
-    "Description": "Regular attacks sometimes poison the enemy."
+    "Description": "Regular attacks sometimes poison the enemy.",
+    "Notes": null
   },
   {
     "TraitId": 12,
     "Name": "Rando-Accel",
     "Identifier": "rando-accel",
     "JapaneseName": "ときどきピオラ",
-    "Description": "Monster sometimes casts Accelerate on itself during battle."
+    "Description": "Monster sometimes casts Accelerate on itself during battle.",
+    "Notes": null
   },
   {
     "TraitId": 11,
     "Name": "Rando-Buff",
     "Identifier": "rando-buff",
     "JapaneseName": "ときどきスカラ",
-    "Description": "Monster sometimes casts Buff on itself during battle."
+    "Description": "Monster sometimes casts Buff on itself during battle.",
+    "Notes": null
   },
   {
     "TraitId": 234,
     "Name": "Rando-Disrupt",
     "Identifier": "rando-disrupt",
     "JapaneseName": "いてつくはどう",
-    "Description": "Sometimes uses Disruptive Wave during battle."
+    "Description": "Sometimes uses Disruptive Wave during battle.",
+    "Notes": null
   },
   {
     "TraitId": 14,
     "Name": "Rando-Mister",
     "Identifier": "rando-mister",
     "JapaneseName": "ときどきまもりの霧",
-    "Description": "Monster sometimes casts Mist Me on itself during battle."
+    "Description": "Monster sometimes casts Mist Me on itself during battle.",
+    "Notes": null
   },
   {
     "TraitId": 17,
     "Name": "Rando-Muster",
     "Identifier": "rando-muster",
     "JapaneseName": "ちからため",
-    "Description": "Sometimes uses Muster Strength during battle."
+    "Description": "Sometimes uses Muster Strength during battle.",
+    "Notes": null
   },
   {
     "TraitId": 10,
     "Name": "Rando-Oomph",
     "Identifier": "rando-oomph",
     "JapaneseName": "ときどきバイキルト",
-    "Description": "Monster sometimes casts Oomph on itself during battle."
+    "Description": "Monster sometimes casts Oomph on itself during battle.",
+    "Notes": null
   },
   {
     "TraitId": 16,
     "Name": "Rando-Panic",
     "Identifier": "rando-panic",
     "JapaneseName": "やみのはどう",
-    "Description": "Monster sometimes casts Wave of Panic on itself during battle."
+    "Description": "Monster sometimes casts Wave of Panic on itself during battle.",
+    "Notes": null
   },
   {
     "TraitId": 13,
     "Name": "Rando-Ping",
     "Identifier": "rando-ping",
     "JapaneseName": "ときどきインテ",
-    "Description": "Monster sometimes casts Ping on itself during battle."
+    "Description": "Monster sometimes casts Ping on itself during battle.",
+    "Notes": null
   },
   {
     "TraitId": 15,
     "Name": "Rando-Relief",
     "Identifier": "rando-relief",
     "JapaneseName": "ひかりのはどう",
-    "Description": "Monster sometimes casts Wave of Relief on itself during battle."
+    "Description": "Monster sometimes casts Wave of Relief on itself during battle.",
+    "Notes": null
   },
   {
     "TraitId": 29,
     "Name": "Sizzmeister",
     "Identifier": "sizzmeister",
     "JapaneseName": "光のコツ",
-    "Description": "Increases the potency of light-elemental attacks and decreases their MP consumption."
+    "Description": "Increases the potency of light-elemental attacks and decreases their MP consumption.",
+    "Notes": null
   },
   {
     "TraitId": 78,
     "Name": "Sleep Twitch",
     "Identifier": "sleep-twitch",
     "JapaneseName": "ねがえり",
-    "Description": "Attacks all enemies when the monster is asleep."
+    "Description": "Attacks all enemies when the monster is asleep.",
+    "Notes": null
   },
   {
     "TraitId": 64,
     "Name": "Sleepy Touch",
     "Identifier": "sleepy-touch",
     "JapaneseName": "ねむり攻撃",
-    "Description": "Regular attacks sometimes put the enemy to sleep."
+    "Description": "Regular attacks sometimes put the enemy to sleep.",
+    "Notes": null
   },
   {
     "TraitId": 32,
     "Name": "Slick Skin",
     "Identifier": "slick-skin",
     "JapaneseName": "ギャンブルボディ",
-    "Description": "Sometimes causes incoming direct attacks to miss."
+    "Description": "Sometimes causes incoming direct attacks to miss.",
+    "Notes": null
+  },
+  {
+    "TraitId": 241,
+    "Name": "Slimesbane",
+    "Identifier": "slimesbane",
+    "JapaneseName": "スライムキラー",
+    "Description": "Increases damage inflicted on monsters from the slime family and slightly lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 86,
     "Name": "Snappy Comeback",
     "Identifier": "snappy-comeback",
     "JapaneseName": "わるあがき",
-    "Description": "Inflicts damage back on an enemy that lands a killer blow. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero."
+    "Description": "Inflicts damage back on an enemy that lands a killer blow. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero.",
+    "Notes": null
   },
   {
     "TraitId": 80,
     "Name": "Sobering Slap",
     "Identifier": "sobering-slap",
     "JapaneseName": "ツッコミ",
-    "Description": "Sometimes cures allies of sleep and confusion during battle."
+    "Description": "Sometimes cures allies of sleep and confusion during battle.",
+    "Notes": null
   },
   {
     "TraitId": 36,
     "Name": "Somnolent Skin",
     "Identifier": "somnolent-skin",
     "JapaneseName": "スヤスヤボディ",
-    "Description": "Sometimes cuts enemies that inflect direct attacks to sleep."
+    "Description": "Sometimes cuts enemies that inflect direct attacks to sleep.",
+    "Notes": null
   },
   {
     "TraitId": 201,
     "Name": "Spellbinder",
     "Identifier": "spellbinder",
     "JapaneseName": null,
-    "Description": "Slightly increases resistance to antimagic."
+    "Description": "Slightly increases resistance to antimagic.",
+    "Notes": null
   },
   {
     "TraitId": 33,
     "Name": "Spiky Skin",
     "Identifier": "spiky-skin",
     "JapaneseName": "やいばのボディ",
-    "Description": "Returns 1/4 of the damage suffered from direct attacks back at the attacking enemy."
+    "Description": "Returns 1/4 of the damage suffered from direct attacks back at the attacking enemy.",
+    "Notes": null
   },
   {
     "TraitId": 23,
     "Name": "Splishmeister",
     "Identifier": "splishmeister",
     "JapaneseName": "水のコツ",
-    "Description": "Increases the potency of water-elemental attacks and decreases their MP consumption."
+    "Description": "Increases the potency of water-elemental attacks and decreases their MP consumption.",
+    "Notes": null
   },
   {
     "TraitId": 39,
     "Name": "Spongy Skin",
     "Identifier": "spongy-skin",
     "JapaneseName": "マホキテボディ",
-    "Description": "Sometimes absorbs MP from enemies that inflict direct attacks."
+    "Description": "Sometimes absorbs MP from enemies that inflict direct attacks.",
+    "Notes": null
   },
   {
     "TraitId": 79,
     "Name": "Static Discharge",
     "Identifier": "static-discharge",
     "JapaneseName": "たいでんたいしつ",
-    "Description": "Sometimes paralyses enemies that inflict direct attacks when the monster is paralysed itself."
+    "Description": "Sometimes paralyses enemies that inflict direct attacks when the monster is paralysed itself.",
+    "Notes": null
   },
   {
     "TraitId": 76,
     "Name": "Strangely Alluring",
     "Identifier": "strangely-alluring",
     "JapaneseName": "ラブリー",
-    "Description": "Sometimes stuns the enemy during battle for 1 turn."
+    "Description": "Sometimes stuns the enemy during battle for 1 turn.",
+    "Notes": null
   },
   {
     "TraitId": 89,
     "Name": "Strong Starter",
     "Identifier": "strong-starter",
     "JapaneseName": "ロケットスタート",
-    "Description": "Raises damage inflicted on enemies up to round 3, but lowers it from round 4 onwards."
+    "Description": "Raises damage inflicted on enemies up to round 3, but lowers it from round 4 onwards.",
+    "Notes": null
   },
   {
     "TraitId": 35,
     "Name": "Stunning Skin",
     "Identifier": "stunning-skin",
     "JapaneseName": "ヘロヘロボディ",
-    "Description": "Sometimes stuns enemies that inflict direct attacks for 1 turn."
+    "Description": "Sometimes stuns enemies that inflict direct attacks for 1 turn.",
+    "Notes": null
   },
   {
     "TraitId": 63,
     "Name": "Stunning Touch",
     "Identifier": "stunning-touch",
     "JapaneseName": "ショック攻撃",
-    "Description": "Regular attacks sometimes stun the enemy for 1 turn."
+    "Description": "Regular attacks sometimes stun the enemy for 1 turn.",
+    "Notes": null
   },
   {
     "TraitId": 37,
     "Name": "Stupefying Skin",
     "Identifier": "stupefying-skin",
     "JapaneseName": "ぐるぐるボディ",
-    "Description": "Sometimes confuses enemies that inflict direct attacks."
+    "Description": "Sometimes confuses enemies that inflict direct attacks.",
+    "Notes": null
   },
   {
     "TraitId": 41,
     "Name": "Supreme Sidestepper",
     "Identifier": "supreme-sidestepper",
     "JapaneseName": "超みかわしアップ",
-    "Description": "Makes it much easier to avoid enemy attacks."
+    "Description": "Makes it much easier to avoid enemy attacks.",
+    "Notes": null
   },
   {
     "TraitId": 2,
     "Name": "Tactical Commander",
     "Identifier": "tactical-commander",
     "JapaneseName": "2回行動",
-    "Description": "Performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes."
+    "Description": "Performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes.",
+    "Notes": null
   },
   {
     "TraitId": 3,
     "Name": "Tactical Genius",
     "Identifier": "tactical-genius",
     "JapaneseName": "1〜3回行動",
-    "Description": "Sometimes performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes."
+    "Description": "Sometimes performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes.",
+    "Notes": null
   },
   {
     "TraitId": 4,
     "Name": "Tactical Titan",
     "Identifier": "tactical-titan",
     "JapaneseName": "2〜3回行動",
-    "Description": "Performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Lowers the monster's attribute."
+    "Description": "Performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Lowers the monster's attribute.",
+    "Notes": null
   },
   {
     "TraitId": 1,
     "Name": "Tactical Trooper",
     "Identifier": "tactical-trooper",
     "JapaneseName": "1〜2回行動",
-    "Description": "Sometimes performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Very slightly lowers the monster's attributes."
+    "Description": "Sometimes performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Very slightly lowers the monster's attributes.",
+    "Notes": null
   },
   {
     "TraitId": 91,
     "Name": "Tit for Tat",
     "Identifier": "tit-for-tat",
     "JapaneseName": "しっぺがえし",
-    "Description": "When a monster is inflicted with a status ailment, the attacking enemy will have the same ailment inflicted back on them."
+    "Description": "When a monster is inflicted with a status ailment, the attacking enemy will have the same ailment inflicted back on them.",
+    "Notes": null
   },
   {
     "TraitId": 197,
     "Name": "Tough Customer",
     "Identifier": "tough-customer",
     "JapaneseName": null,
-    "Description": "Slightly increases resistance to debilitation."
+    "Description": "Slightly increases resistance to debilitation.",
+    "Notes": null
   },
   {
     "TraitId": 101,
     "Name": "Trance State",
     "Identifier": "trance-state",
     "JapaneseName": "マジシャンズハイ",
-    "Description": "Greatly increases wisdom after casting a critical spell."
+    "Description": "Greatly increases wisdom after casting a critical spell.",
+    "Notes": null
   },
   {
     "TraitId": 56,
     "Name": "Über Beastsbane",
     "Identifier": "uber-beastsbane",
     "JapaneseName": "超魔獣キラー",
-    "Description": "Greatly increases damage inflicted on monsters from the beast family and somewhat lowers all resistances."
+    "Description": "Greatly increases damage inflicted on monsters from the beast family and somewhat lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 231,
     "Name": "Über Bossesbane",
     "Identifier": "uber-bossesbane",
     "JapaneseName": "超？？？キラー",
-    "Description": "Greatly increases damage inflicted on monsters from the ??? family and somewhat lowers all resistances."
+    "Description": "Greatly increases damage inflicted on monsters from the ??? family and somewhat lowers all resistances.",
+    "Notes": null
+  },
+  {
+    "TraitId": 242,
+    "Name": "Über Demonsbane",
+    "Identifier": "uber-demonsbane",
+    "JapaneseName": "超悪魔キラー",
+    "Description": "Greatly increases damage inflicted on monsters from the demon family and somewhat lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 55,
     "Name": "Über Dragonsbane",
     "Identifier": "uber-dragonsbane",
     "JapaneseName": "超ドラゴンキラー",
-    "Description": "Greatly increases damage inflicted on monsters from the dragon family and somewhat lowers all resistances."
+    "Description": "Greatly increases damage inflicted on monsters from the dragon family and somewhat lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 61,
     "Name": "Über Matterbane",
     "Identifier": "uber-matterbane",
     "JapaneseName": "超物質キラー",
-    "Description": "Greatly increases damage inflicted on monsters from the material family and somewhat lowers all resistances."
+    "Description": "Greatly increases damage inflicted on monsters from the material family and somewhat lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 57,
     "Name": "Über Naturesbane",
     "Identifier": "uber-naturesbane",
     "JapaneseName": "超自然キラー",
-    "Description": "Greatly increases damage inflicted on monsters from the nature family and somewhat lowers all resistances."
+    "Description": "Greatly increases damage inflicted on monsters from the nature family and somewhat lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 232,
     "Name": "Über Slimesbane",
     "Identifier": "ubber-slimesbane",
     "JapaneseName": "超スライムキラー",
-    "Description": "Greatly increases damage inflicted on monsters from the slime family and somewhat lowers all resistances."
+    "Description": "Greatly increases damage inflicted on monsters from the slime family and somewhat lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 60,
     "Name": "Über Zombiesbane",
     "Identifier": "uber-zombiesbane",
     "JapaneseName": "超ゾンビキラー",
-    "Description": "Greatly increases damage inflicted on monsters from the undead family and somewhat lowers all resistances."
+    "Description": "Greatly increases damage inflicted on monsters from the undead family and somewhat lowers all resistances.",
+    "Notes": null
   },
   {
     "TraitId": 186,
     "Name": "Ultra Antitoxidant",
     "Identifier": "ultra-antitoxidant",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to poison and severe poison."
+    "Description": "Greatly increases resistance to poison and severe poison.",
+    "Notes": null
   },
   {
     "TraitId": 180,
     "Name": "Ultra Bang Ward",
     "Identifier": "ultra-bang-ward",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to explosive attacks."
+    "Description": "Greatly increases resistance to explosive attacks.",
+    "Notes": null
   },
   {
     "TraitId": 190,
     "Name": "Ultra Clear Thinker",
     "Identifier": "ultra-clear-thinker",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to confusion."
+    "Description": "Greatly increases resistance to confusion.",
+    "Notes": null
   },
   {
     "TraitId": 181,
     "Name": "Ultra Crack Ward",
     "Identifier": "ultra-crack-ward",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to ice-elemental attacks."
+    "Description": "Greatly increases resistance to ice-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 106,
     "Name": "Ultra Crafty Banger",
     "Identifier": "ultra-crafty-banger",
     "JapaneseName": "爆発ブレイク大",
-    "Description": "Greatly increases the damage inflicted by explosinve attacks."
+    "Description": "Greatly increases the damage inflicted by explosinve attacks.",
+    "Notes": null
   },
   {
     "TraitId": 115,
     "Name": "Ultra Crafty Confuser",
     "Identifier": "ultra-crafty-confuser",
     "JapaneseName": "こんらんブレイク大",
-    "Description": "Makes it much easier to the enemy."
+    "Description": "Makes it much easier to the enemy.",
+    "Notes": null
   },
   {
     "TraitId": 107,
     "Name": "Ultra Crafty Cracker",
     "Identifier": "ultra-crafty-cracker",
     "JapaneseName": "氷結ブレイク大",
-    "Description": "Greatly increases the damage inflicted by ice-elemental attacks."
+    "Description": "Greatly increases the damage inflicted by ice-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 105,
     "Name": "Ultra Crafty Cragger",
     "Identifier": "ultra-crafty-cragger",
     "JapaneseName": "地ブレイク大",
-    "Description": "Greatly increases the damage inflicted by earth-elemental attacks."
+    "Description": "Greatly increases the damage inflicted by earth-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 112,
     "Name": "Ultra Crafty Dazzler",
     "Identifier": "ultra-crafty-dazzler",
     "JapaneseName": "幻惑ブレイク大",
-    "Description": "Makes it much easier to bedazzle the enemy."
+    "Description": "Makes it much easier to bedazzle the enemy.",
+    "Notes": null
   },
   {
     "TraitId": 111,
     "Name": "Ultra Crafty Debilitator",
     "Identifier": "ultra-crafty-debilitator",
     "JapaneseName": "弱体化ブレイク大",
-    "Description": "Makes it much easier to reduce an enemy's attack, defence, agility or wisdom."
+    "Description": "Makes it much easier to reduce an enemy's attack, defence, agility or wisdom.",
+    "Notes": null
   },
   {
     "TraitId": 102,
     "Name": "Ultra Crafty Frizzer",
     "Identifier": "ultra-crafty-frizzer",
     "JapaneseName": "火ブレイク大",
-    "Description": "Greatly increases the damage inflicted by fire-elemental attacks."
+    "Description": "Greatly increases the damage inflicted by fire-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 114,
     "Name": "Ultra Crafty Magic Drainer",
     "Identifier": "ultra-crafty-magic-drainer",
     "JapaneseName": "MP吸収ブレイク大",
-    "Description": "Makes it much easier to absorb MP."
+    "Description": "Makes it much easier to absorb MP.",
+    "Notes": null
   },
   {
     "TraitId": 117,
     "Name": "Ultra Crafty Paralyser",
     "Identifier": "ultra-crafty-paralyser",
     "JapaneseName": "マヒブレイク大",
-    "Description": "Makes it much easier to paralyse the enemy."
+    "Description": "Makes it much easier to paralyse the enemy.",
+    "Notes": null
   },
   {
     "TraitId": 119,
     "Name": "Ultra Crafty Poisoner",
     "Identifier": "ultra-crafty-poisoner",
     "JapaneseName": "どくブレイク大",
-    "Description": "Makes it much easier to poison or severely poison the enemy."
+    "Description": "Makes it much easier to poison or severely poison the enemy.",
+    "Notes": null
   },
   {
     "TraitId": 109,
     "Name": "Ultra Crafty Sizzer",
     "Identifier": "ultra-crafty-sizzer",
     "JapaneseName": "光ブレイク大",
-    "Description": "Greatly increases the damage inflicted by light-elemental attacks."
+    "Description": "Greatly increases the damage inflicted by light-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 116,
     "Name": "Ultra Crafty Sleeper",
     "Identifier": "ultra-crafty-sleeper",
     "JapaneseName": "ねむりブレイク大",
-    "Description": "Makes it much easier to put the enemy to sleep."
+    "Description": "Makes it much easier to put the enemy to sleep.",
+    "Notes": null
   },
   {
     "TraitId": 113,
     "Name": "Ultra Crafty Spellbinder",
     "Identifier": "ultra-crafty-spellbinder",
     "JapaneseName": "封じブレイク大",
-    "Description": "Makes it much easier to prevent spellcasting."
+    "Description": "Makes it much easier to prevent spellcasting.",
+    "Notes": null
   },
   {
     "TraitId": 103,
     "Name": "Ultra Crafty Splasher",
     "Identifier": "ultra-crafty-splasher",
     "JapaneseName": "水ブレイク大",
-    "Description": "Greatly increases the damage inflicted by water-elemental attacks."
+    "Description": "Greatly increases the damage inflicted by water-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 118,
     "Name": "Ultra Crafty Stunner",
     "Identifier": "ultra-crafty-stunner",
     "JapaneseName": "休みブレイク大",
-    "Description": "Makes it much easier to stun the enemy."
+    "Description": "Makes it much easier to stun the enemy.",
+    "Notes": null
   },
   {
     "TraitId": 120,
     "Name": "Ultra Crafty Whacker",
     "Identifier": "ultra-crafty-whacker",
     "JapaneseName": "即死ブレイク大",
-    "Description": "Makes it much easier to kill the enemy instantly."
+    "Description": "Makes it much easier to kill the enemy instantly.",
+    "Notes": null
   },
   {
     "TraitId": 104,
     "Name": "Ultra Crafty Woosher",
     "Identifier": "ultra-crafty-woosher",
     "JapaneseName": "風ブレイク大",
-    "Description": "Greatly increases the damage inflicted by wind-elemental attacks."
+    "Description": "Greatly increases the damage inflicted by wind-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 110,
     "Name": "Ultra Crafty Zammer",
     "Identifier": "ultra-crafty-zammer",
     "JapaneseName": "闇ブレイク大",
-    "Description": "Greatly increases the damage inflicted by dark-elemental attacks."
+    "Description": "Greatly increases the damage inflicted by dark-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 108,
     "Name": "Ultra Crafty Zapper",
     "Identifier": "ultra-crafty-zapper",
     "JapaneseName": "電撃ブレイク大",
-    "Description": "Greatly increases the damage inflicted by electrical attacks."
+    "Description": "Greatly increases the damage inflicted by electrical attacks.",
+    "Notes": null
   },
   {
     "TraitId": 179,
     "Name": "Ultra Crag Ward",
     "Identifier": "ultra-crag-ward",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to earth-elemental attacks."
+    "Description": "Greatly increases resistance to earth-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 196,
     "Name": "Ultra Death Defier",
     "Identifier": "ultra-death-defier",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to instant death."
+    "Description": "Greatly increases resistance to instant death.",
+    "Notes": null
   },
   {
     "TraitId": 204,
     "Name": "Ultra Drain Blocker",
     "Identifier": "ultra-drain-blocker",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to MP absorption."
+    "Description": "Greatly increases resistance to MP absorption.",
+    "Notes": null
   },
   {
     "TraitId": 194,
     "Name": "Ultra Fidget",
     "Identifier": "ultra-fidget",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to paralysis."
+    "Description": "Greatly increases resistance to paralysis.",
+    "Notes": null
   },
   {
     "TraitId": 176,
     "Name": "Ultra Frizz Ward",
     "Identifier": "ultra-frizz-ward",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to fire-elemental attacks."
+    "Description": "Greatly increases resistance to fire-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 187,
     "Name": "Ultra Granite Chin",
     "Identifier": "ultra-granite-chin",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to being stunned."
+    "Description": "Greatly increases resistance to being stunned.",
+    "Notes": null
   },
   {
     "TraitId": 192,
     "Name": "Ultra Insomniac",
     "Identifier": "ultra-insomniac",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to being put to sleep."
+    "Description": "Greatly increases resistance to being put to sleep.",
+    "Notes": null
   },
   {
     "TraitId": 183,
     "Name": "Ultra Sizz Ward",
     "Identifier": "ultra-sizz-ward",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to light-elemental attacks."
+    "Description": "Greatly increases resistance to light-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 202,
     "Name": "Ultra Spellbinder",
     "Identifier": "ultra-spellbinder",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to antimagic."
+    "Description": "Greatly increases resistance to antimagic.",
+    "Notes": null
   },
   {
     "TraitId": 177,
     "Name": "Ultra Splish Ward",
     "Identifier": "ultra-splish-ward",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to water-elemental attacks."
+    "Description": "Greatly increases resistance to water-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 198,
     "Name": "Ultra Tough Customer",
     "Identifier": "ultra-tough-customer",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to debilitation."
+    "Description": "Greatly increases resistance to debilitation.",
+    "Notes": null
   },
   {
     "TraitId": 200,
     "Name": "Ultra Visionary",
     "Identifier": "ultra-visionary",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to bedazzlement."
+    "Description": "Greatly increases resistance to bedazzlement.",
+    "Notes": null
   },
   {
     "TraitId": 178,
     "Name": "Ultra Woosh Ward",
     "Identifier": "ultra-woosh-ward",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to wind-elemental attacks."
+    "Description": "Greatly increases resistance to wind-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 184,
     "Name": "Ultra Zam Ward",
     "Identifier": "ultra-zam-ward",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to dark-elemental attacks."
+    "Description": "Greatly increases resistance to dark-elemental attacks.",
+    "Notes": null
   },
   {
     "TraitId": 182,
     "Name": "Ultra Zap Ward",
     "Identifier": "ultra-zap-ward",
     "JapaneseName": null,
-    "Description": "Greatly increases resistance to electrical attacks."
+    "Description": "Greatly increases resistance to electrical attacks.",
+    "Notes": null
   },
   {
     "TraitId": 96,
     "Name": "Unhealthy Advantage",
     "Identifier": "unhealthy-advantage",
     "JapaneseName": "背水の陣",
-    "Description": "Inflicts increasing amounts of damage as remaining HP gets lower."
+    "Description": "Inflicts increasing amounts of damage as remaining HP gets lower.",
+    "Notes": null
   },
   {
     "TraitId": 199,
     "Name": "Visionary",
     "Identifier": "visionary",
     "JapaneseName": null,
-    "Description": "Slightly increases resistance to bedazzlement."
+    "Description": "Slightly increases resistance to bedazzlement.",
+    "Notes": null
   },
   {
     "TraitId": 169,
     "Name": "Wisdom +12",
     "Identifier": "wisdom-12",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 12."
+    "Description": "Raises wisdom by 12.",
+    "Notes": null
   },
   {
     "TraitId": 170,
     "Name": "Wisdom +16",
     "Identifier": "wisdom-16",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 16."
+    "Description": "Raises wisdom by 16.",
+    "Notes": null
   },
   {
     "TraitId": 171,
     "Name": "Wisdom +24",
     "Identifier": "wisdom-24",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 24."
+    "Description": "Raises wisdom by 24.",
+    "Notes": null
   },
   {
     "TraitId": 172,
     "Name": "Wisdom +32",
     "Identifier": "wisdom-32",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 32."
+    "Description": "Raises wisdom by 32.",
+    "Notes": null
   },
   {
     "TraitId": 167,
     "Name": "Wisdom +4",
     "Identifier": "wisdom-4",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 4."
+    "Description": "Raises wisdom by 4.",
+    "Notes": null
   },
   {
     "TraitId": 173,
     "Name": "Wisdom +40",
     "Identifier": "wisdom-40",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 40."
+    "Description": "Raises wisdom by 40.",
+    "Notes": null
   },
   {
     "TraitId": 174,
     "Name": "Wisdom +48",
     "Identifier": "wisdom-48",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 48."
+    "Description": "Raises wisdom by 48.",
+    "Notes": null
   },
   {
     "TraitId": 223,
     "Name": "Wisdom +60",
     "Identifier": "wisdom-60",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 60."
+    "Description": "Raises wisdom by 60.",
+    "Notes": null
   },
   {
     "TraitId": 175,
     "Name": "Wisdom +64",
     "Identifier": "wisdom-64",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 64."
+    "Description": "Raises wisdom by 64.",
+    "Notes": null
   },
   {
     "TraitId": 224,
     "Name": "Wisdom +72",
     "Identifier": "wisdom-72",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 72."
+    "Description": "Raises wisdom by 72.",
+    "Notes": null
   },
   {
     "TraitId": 168,
     "Name": "Wisdom +8",
     "Identifier": "wisdom-8",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 8."
+    "Description": "Raises wisdom by 8.",
+    "Notes": null
   },
   {
     "TraitId": 225,
     "Name": "Wisdom +96",
     "Identifier": "wisdom-96",
     "JapaneseName": null,
-    "Description": "Raises wisdom by 96."
+    "Description": "Raises wisdom by 96.",
+    "Notes": null
   },
   {
     "TraitId": 205,
     "Name": "Wizardly Waft",
     "Identifier": "wizardly-waft",
     "JapaneseName": "魔力の風",
-    "Description": "Sometimes restores 1 or more MP to all allies during battle. A higher level increases the restored amount."
+    "Description": "Sometimes restores 1 or more MP to all allies during battle. A higher level increases the restored amount.",
+    "Notes": null
   },
   {
     "TraitId": 20,
     "Name": "Wizardly Wind",
     "Identifier": "wizardly-wind",
     "JapaneseName": "魔力の強風",
-    "Description": "Sometimes restores 5 or more MP to all allies during battle. Higher wisdom makes the healing effect more powerfull."
+    "Description": "Sometimes restores 5 or more MP to all allies during battle. Higher wisdom makes the healing effect more powerfull.",
+    "Notes": null
   },
   {
     "TraitId": 24,
     "Name": "Wooshmeister",
     "Identifier": "wooshmeister",
     "JapaneseName": "風のコツ",
-    "Description": "Increases the potency of wind-elemental attacks and decreases their MP consumption."
+    "Description": "Increases the potency of wind-elemental attacks and decreases their MP consumption.",
+    "Notes": null
   },
   {
     "TraitId": 30,
     "Name": "Zammeister",
     "Identifier": "zammeister",
     "JapaneseName": "闇のコツ",
-    "Description": "Increases the potency of dark-elemental attacks and decreases their MP consumption."
+    "Description": "Increases the potency of dark-elemental attacks and decreases their MP consumption.",
+    "Notes": null
   },
   {
     "TraitId": 28,
     "Name": "Zapmeister",
     "Identifier": "zapmeister",
     "JapaneseName": "電撃のコツ",
-    "Description": "Increases the potency of electrical attacks and decreases their MP consumption."
+    "Description": "Increases the potency of electrical attacks and decreases their MP consumption.",
+    "Notes": null
   },
   {
     "TraitId": 53,
     "Name": "Zombiesbane",
     "Identifier": "zombiesbane",
     "JapaneseName": "ゾンビキラー",
-    "Description": "Increases damage inflicted on monsters from the undead family and slightly lowers all resistances."
+    "Description": "Increases damage inflicted on monsters from the undead family and slightly lowers all resistances.",
+    "Notes": null
   }
 ]

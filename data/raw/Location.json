@@ -1,42 +1,104 @@
 [
   {
     "LocationId": 5,
-    "Name": "Circle of Caprice, Lower",
-    "Identifier": "circle-of-caprice-lower"
+    "Name": "Circle of Caprice - Lower",
+    "Identifier": "circle-of-caprice-lower",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 12,
+    "Name": "Circle of Caprice - Middle",
+    "Identifier": "circle-of-caprice-middle",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 18,
+    "Name": "Circle of Caprice - Upper",
+    "Identifier": "circle-of-caprice-upper",
+    "JapaneseName": null
   },
   {
     "LocationId": 2,
-    "Name": "Circle of Conquest, Lower",
-    "Identifier": "circle-of-conquest-lower"
+    "Name": "Circle of Conquest - Lower",
+    "Identifier": "circle-of-conquest-lower",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 9,
+    "Name": "Circle of Conquest - Middle",
+    "Identifier": "circle-of-conquest-middle",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 13,
+    "Name": "Circle of Conquest - Upper",
+    "Identifier": "circle-of-conquest-upper",
+    "JapaneseName": null
   },
   {
     "LocationId": 6,
-    "Name": "Circle of Fortitude, Lower",
-    "Identifier": "circle-of-fortitude-lower"
+    "Name": "Circle of Fortitude - Lower",
+    "Identifier": "circle-of-fortitude-lower",
+    "JapaneseName": null
   },
   {
     "LocationId": 8,
-    "Name": "Circle of Fortitude, Middle",
-    "Identifier": "circle-of-fortitude-middle"
+    "Name": "Circle of Fortitude - Middle",
+    "Identifier": "circle-of-fortitude-middle",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 19,
+    "Name": "Circle of Fortitude - Upper",
+    "Identifier": "circle-of-fortitude-upper",
+    "JapaneseName": null
   },
   {
     "LocationId": 4,
-    "Name": "Circle of Indulgence, Lower",
-    "Identifier": "circle-of-indulgence-lower"
+    "Name": "Circle of Indulgence - Lower",
+    "Identifier": "circle-of-indulgence-lower",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 11,
+    "Name": "Circle of Indulgence - Middle",
+    "Identifier": "circle-of-indulgence-middle",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 17,
+    "Name": "Circle of Indulgence - Upper",
+    "Identifier": "circle-of-indulgence-upper",
+    "JapaneseName": null
   },
   {
     "LocationId": 3,
-    "Name": "Circle of Temper, Lower",
-    "Identifier": "circle-of-temper-lower"
+    "Name": "Circle of Temper - Lower",
+    "Identifier": "circle-of-temper-lower",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 10,
+    "Name": "Circle of Temper - Middle",
+    "Identifier": "circle-of-temper-middle",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 14,
+    "Name": "Circle of Temper - Upper",
+    "Identifier": "circle-of-temper-upper",
+    "JapaneseName": null
   },
   {
     "LocationId": 7,
     "Name": "Cradle of Corruption",
-    "Identifier": "cradle-of-corruption"
+    "Identifier": "cradle-of-corruption",
+    "JapaneseName": null
   },
   {
     "LocationId": 1,
     "Name": "Terrestria",
-    "Identifier": "terrestria"
+    "Identifier": "terrestria",
+    "JapaneseName": null
   }
 ]

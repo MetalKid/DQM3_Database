@@ -210,6 +210,11 @@
     "Parent2": "Bludgerigar"
   },
   {
+    "Result": "Baramos",
+    "Parent1": "Umbra",
+    "Parent2": "Boss Troll"
+  },
+  {
     "Result": "Barbarus",
     "Parent1": "Equinox",
     "Parent2": "Greygnarl"
@@ -218,11 +223,6 @@
     "Result": "Barbatos",
     "Parent1": "Moosifer",
     "Parent2": "Marquis De Leon"
-  },
-  {
-    "Result": "Baromos",
-    "Parent1": "Umbra",
-    "Parent2": "boss Troll"
   },
   {
     "Result": "Beanie Meanie",
@@ -278,6 +278,11 @@
     "Result": "Bilhaw",
     "Parent1": "Sintaur",
     "Parent2": "Moosifer"
+  },
+  {
+    "Result": "Bishop Ladja",
+    "Parent1": "Hyperanemon",
+    "Parent2": "Aamon"
   },
   {
     "Result": "Black Dragon",
@@ -376,7 +381,7 @@
   },
   {
     "Result": "Bones of Baramos",
-    "Parent1": "Baromos",
+    "Parent1": "Baramos",
     "Parent2": "Skelegon"
   },
   {
@@ -410,12 +415,12 @@
     "Parent2": "Tundragster"
   },
   {
-    "Result": "boss Troll",
+    "Result": "Boss Troll",
     "Parent1": "Cyclops",
     "Parent2": "Tuskateer"
   },
   {
-    "Result": "boss Troll",
+    "Result": "Boss Troll",
     "Parent1": "Cyclops",
     "Parent2": "Mimic with Cheese"
   },
@@ -532,7 +537,7 @@
   {
     "Result": "Carnivine",
     "Parent1": "Cannibox",
-    "Parent2": "Facetree"
+    "Parent2": "Treeface"
   },
   {
     "Result": "Carnivine",
@@ -591,7 +596,7 @@
   },
   {
     "Result": "Clawvus",
-    "Parent1": "Shantak",
+    "Parent1": "Crowgre",
     "Parent2": "Gangleclaw"
   },
   {
@@ -673,6 +678,11 @@
     "Result": "Cross Eye",
     "Parent1": "See Urchin",
     "Parent2": "Beast Family (Any)"
+  },
+  {
+    "Result": "Crowgre",
+    "Parent1": "Liege Lizard",
+    "Parent2": "Hades condor"
   },
   {
     "Result": "Cruelcumber",
@@ -823,6 +833,11 @@
     "Result": "Dessert Demon",
     "Parent1": "Chocolate Golem",
     "Parent2": "Imp"
+  },
+  {
+    "Result": "Dhoulmagus",
+    "Parent1": "Bishop Ladja",
+    "Parent2": "Jugular joker"
   },
   {
     "Result": "Diamond Slime",
@@ -1030,11 +1045,6 @@
     "Parent2": "Beast Family (C)"
   },
   {
-    "Result": "Facetree",
-    "Parent1": "Stump Chump",
-    "Parent2": "Brollygagger"
-  },
-  {
     "Result": "Fandangow",
     "Parent1": "Nature Family (C)",
     "Parent2": "Demon Family (C)"
@@ -1162,7 +1172,7 @@
   {
     "Result": "Foebergine",
     "Parent1": "Awebergine",
-    "Parent2": "Scourgette "
+    "Parent2": "Scourgette"
   },
   {
     "Result": "Foo Dog",
@@ -1323,11 +1333,6 @@
     "Result": "Goonache Goodie",
     "Parent1": "Fromage Fray",
     "Parent2": "Shell Slime"
-  },
-  {
-    "Result": "Goresby-Purrvis",
-    "Parent1": "Dark Sabrecat",
-    "Parent2": "Ronin Raccoon"
   },
   {
     "Result": "Grandpa Slime",
@@ -1721,7 +1726,7 @@
   },
   {
     "Result": "Jasper Unbound",
-    "Parent1": "Goresby-Purrvis",
+    "Parent1": "Lieutenant Goresby-Purrvis",
     "Parent2": "Dread Dragooner"
   },
   {
@@ -1772,7 +1777,7 @@
   {
     "Result": "Khalasmos",
     "Parent1": "The Darkling",
-    "Parent2": "PLACEHOLDER-164"
+    "Parent2": "Nelgel the Netherfiend"
   },
   {
     "Result": "Killer Gila",
@@ -1913,6 +1918,11 @@
     "Result": "Lieutenant Goreham-Hogg",
     "Parent1": "Mohawker",
     "Parent2": "Swingre"
+  },
+  {
+    "Result": "Lieutenant Goresby-Purrvis",
+    "Parent1": "Dark Sabrecat",
+    "Parent2": "Ronin Raccoon"
   },
   {
     "Result": "Lieutenant Hootingham-Gore",
@@ -2285,6 +2295,11 @@
     "Parent2": "Sekerleton"
   },
   {
+    "Result": "Nelgel the Netherfiend",
+    "Parent1": "Razerburn",
+    "Parent2": "Corvus"
+  },
+  {
     "Result": "Night Clubber",
     "Parent1": "Gigantes",
     "Parent2": "Pickayune"
@@ -2500,26 +2515,6 @@
     "Parent2": "Demon Family (G)"
   },
   {
-    "Result": "PLACEHOLDER-164",
-    "Parent1": "Razerburn",
-    "Parent2": "Corvus"
-  },
-  {
-    "Result": "PLACEHOLDER-197",
-    "Parent1": "Hyperanemon",
-    "Parent2": "Aamon"
-  },
-  {
-    "Result": "PLACEHOLDER-200",
-    "Parent1": "PLACEHOLDER-197",
-    "Parent2": "Jugular joker"
-  },
-  {
-    "Result": "PLACEHOLDER-229",
-    "Parent1": "PLACEHOLDER-200",
-    "Parent2": "Evil Sir Leopold"
-  },
-  {
     "Result": "Platypunk",
     "Parent1": "Bludgerigar",
     "Parent2": "Teeny Sanguini"
@@ -2618,6 +2613,11 @@
     "Result": "Restless Armour",
     "Parent1": "Slime Knight",
     "Parent2": "Bambooligan"
+  },
+  {
+    "Result": "Rhapthorne",
+    "Parent1": "Dhoulmagus",
+    "Parent2": "Evil Sir Leopold"
   },
   {
     "Result": "Rhinoceraxe",
@@ -2813,11 +2813,6 @@
     "Result": "Sham Hatwitch",
     "Parent1": "Beast Family (G)",
     "Parent2": "Dragon Family (G)"
-  },
-  {
-    "Result": "Shantak",
-    "Parent1": "Liege Lizard",
-    "Parent2": "Hades condor"
   },
   {
     "Result": "Shell Slime",
@@ -3096,7 +3091,7 @@
   },
   {
     "Result": "Stout Troll",
-    "Parent1": "boss Troll",
+    "Parent1": "Boss Troll",
     "Parent2": "Noble Gasbagon"
   },
   {
@@ -3127,7 +3122,7 @@
   {
     "Result": "Sugar Baddie",
     "Parent1": "Dessert Demon",
-    "Parent2": "PLACEHOLDER-184"
+    "Parent2": "Flurry Fiend"
   },
   {
     "Result": "Sugarstar Slime",
@@ -3178,11 +3173,6 @@
     "Result": "Tartarus Eagle",
     "Parent1": "Hades condor",
     "Parent2": "Gryphon"
-  },
-  {
-    "Result": "Teeny Sanguini",
-    "Parent1": "??? Family (A)",
-    "Parent2": "??? Family (A)"
   },
   {
     "Result": "Teeny Sanguini",
@@ -3240,8 +3230,13 @@
     "Parent2": "Dead Resident"
   },
   {
+    "Result": "Treeface",
+    "Parent1": "Stump Chump",
+    "Parent2": "Brollygagger"
+  },
+  {
     "Result": "Treevil",
-    "Parent1": "Facetree",
+    "Parent1": "Treeface",
     "Parent2": "Bloody Hand"
   },
   {

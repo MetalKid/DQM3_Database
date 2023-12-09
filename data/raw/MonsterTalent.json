@@ -2926,5 +2926,551 @@
     "MonsterId": 527,
     "TalentId": 186,
     "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 497,
+    "MonsterId": 641,
+    "TalentId": 156,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 498,
+    "MonsterId": 589,
+    "TalentId": 150,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 499,
+    "MonsterId": 601,
+    "TalentId": 187,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 500,
+    "MonsterId": 401,
+    "TalentId": 187,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 501,
+    "MonsterId": 407,
+    "TalentId": 187,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 502,
+    "MonsterId": 626,
+    "TalentId": 150,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 503,
+    "MonsterId": 568,
+    "TalentId": 156,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 504,
+    "MonsterId": 620,
+    "TalentId": 156,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 505,
+    "MonsterId": 594,
+    "TalentId": 156,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 506,
+    "MonsterId": 479,
+    "TalentId": 156,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 507,
+    "MonsterId": 491,
+    "TalentId": 150,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 508,
+    "MonsterId": 493,
+    "TalentId": 150,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 509,
+    "MonsterId": 566,
+    "TalentId": 156,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 510,
+    "MonsterId": 581,
+    "TalentId": 156,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 511,
+    "MonsterId": 211,
+    "TalentId": 60,
+    "IsPrimary": false
+  },
+  {
+    "MonsterTalentId": 512,
+    "MonsterId": 167,
+    "TalentId": 62,
+    "IsPrimary": false
+  },
+  {
+    "MonsterTalentId": 513,
+    "MonsterId": 130,
+    "TalentId": 71,
+    "IsPrimary": false
+  },
+  {
+    "MonsterTalentId": 514,
+    "MonsterId": 229,
+    "TalentId": 66,
+    "IsPrimary": false
+  },
+  {
+    "MonsterTalentId": 515,
+    "MonsterId": 241,
+    "TalentId": 56,
+    "IsPrimary": false
+  },
+  {
+    "MonsterTalentId": 516,
+    "MonsterId": 226,
+    "TalentId": 76,
+    "IsPrimary": false
+  },
+  {
+    "MonsterTalentId": 517,
+    "MonsterId": 136,
+    "TalentId": 78,
+    "IsPrimary": false
+  },
+  {
+    "MonsterTalentId": 518,
+    "MonsterId": 154,
+    "TalentId": 60,
+    "IsPrimary": false
+  },
+  {
+    "MonsterTalentId": 519,
+    "MonsterId": 323,
+    "TalentId": 58,
+    "IsPrimary": false
+  },
+  {
+    "MonsterTalentId": 520,
+    "MonsterId": 340,
+    "TalentId": 209,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 521,
+    "MonsterId": 345,
+    "TalentId": 185,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 522,
+    "MonsterId": 347,
+    "TalentId": 198,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 523,
+    "MonsterId": 358,
+    "TalentId": 184,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 524,
+    "MonsterId": 363,
+    "TalentId": 185,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 525,
+    "MonsterId": 369,
+    "TalentId": 199,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 526,
+    "MonsterId": 370,
+    "TalentId": 207,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 527,
+    "MonsterId": 371,
+    "TalentId": 209,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 528,
+    "MonsterId": 373,
+    "TalentId": 185,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 529,
+    "MonsterId": 559,
+    "TalentId": 185,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 530,
+    "MonsterId": 561,
+    "TalentId": 205,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 531,
+    "MonsterId": 564,
+    "TalentId": 205,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 532,
+    "MonsterId": 608,
+    "TalentId": 185,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 533,
+    "MonsterId": 377,
+    "TalentId": 200,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 534,
+    "MonsterId": 378,
+    "TalentId": 205,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 535,
+    "MonsterId": 382,
+    "TalentId": 205,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 536,
+    "MonsterId": 604,
+    "TalentId": 199,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 537,
+    "MonsterId": 607,
+    "TalentId": 200,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 538,
+    "MonsterId": 424,
+    "TalentId": 207,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 539,
+    "MonsterId": 426,
+    "TalentId": 141,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 540,
+    "MonsterId": 438,
+    "TalentId": 198,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 541,
+    "MonsterId": 617,
+    "TalentId": 205,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 542,
+    "MonsterId": 441,
+    "TalentId": 208,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 543,
+    "MonsterId": 465,
+    "TalentId": 203,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 544,
+    "MonsterId": 615,
+    "TalentId": 204,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 545,
+    "MonsterId": 480,
+    "TalentId": 141,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 546,
+    "MonsterId": 482,
+    "TalentId": 201,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 547,
+    "MonsterId": 485,
+    "TalentId": 184,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 548,
+    "MonsterId": 558,
+    "TalentId": 207,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 549,
+    "MonsterId": 500,
+    "TalentId": 200,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 550,
+    "MonsterId": 503,
+    "TalentId": 202,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 551,
+    "MonsterId": 504,
+    "TalentId": 204,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 552,
+    "MonsterId": 508,
+    "TalentId": 141,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 553,
+    "MonsterId": 606,
+    "TalentId": 141,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 554,
+    "MonsterId": 415,
+    "TalentId": 203,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 555,
+    "MonsterId": 526,
+    "TalentId": 203,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 556,
+    "MonsterId": 531,
+    "TalentId": 204,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 557,
+    "MonsterId": 532,
+    "TalentId": 205,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 558,
+    "MonsterId": 533,
+    "TalentId": 141,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 559,
+    "MonsterId": 534,
+    "TalentId": 206,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 560,
+    "MonsterId": 349,
+    "TalentId": 211,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 561,
+    "MonsterId": 350,
+    "TalentId": 190,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 562,
+    "MonsterId": 351,
+    "TalentId": 191,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 563,
+    "MonsterId": 352,
+    "TalentId": 212,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 564,
+    "MonsterId": 375,
+    "TalentId": 191,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 565,
+    "MonsterId": 616,
+    "TalentId": 183,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 566,
+    "MonsterId": 554,
+    "TalentId": 211,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 567,
+    "MonsterId": 379,
+    "TalentId": 191,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 568,
+    "MonsterId": 413,
+    "TalentId": 183,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 569,
+    "MonsterId": 414,
+    "TalentId": 183,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 570,
+    "MonsterId": 436,
+    "TalentId": 189,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 571,
+    "MonsterId": 635,
+    "TalentId": 213,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 572,
+    "MonsterId": 613,
+    "TalentId": 213,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 573,
+    "MonsterId": 609,
+    "TalentId": 189,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 574,
+    "MonsterId": 611,
+    "TalentId": 211,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 575,
+    "MonsterId": 495,
+    "TalentId": 213,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 576,
+    "MonsterId": 565,
+    "TalentId": 210,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 577,
+    "MonsterId": 496,
+    "TalentId": 189,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 578,
+    "MonsterId": 498,
+    "TalentId": 210,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 579,
+    "MonsterId": 499,
+    "TalentId": 213,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 580,
+    "MonsterId": 614,
+    "TalentId": 210,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 581,
+    "MonsterId": 634,
+    "TalentId": 210,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 582,
+    "MonsterId": 612,
+    "TalentId": 189,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 583,
+    "MonsterId": 529,
+    "TalentId": 213,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 584,
+    "MonsterId": 642,
+    "TalentId": 214,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 585,
+    "MonsterId": 585,
+    "TalentId": 188,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 586,
+    "MonsterId": 630,
+    "TalentId": 157,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 587,
+    "MonsterId": 421,
+    "TalentId": 216,
+    "IsPrimary": true
   }
 ]

@@ -23,7 +23,7 @@
     "BonusDef": 1,
     "BonusAgi": 1,
     "BonusWis": null,
-    "Order": 3
+    "Order": 4
   },
   {
     "FamilyId": 6,
@@ -36,7 +36,7 @@
     "BonusDef": 1,
     "BonusAgi": null,
     "BonusWis": null,
-    "Order": 2
+    "Order": 6
   },
   {
     "FamilyId": 2,
@@ -49,7 +49,7 @@
     "BonusDef": null,
     "BonusAgi": null,
     "BonusWis": null,
-    "Order": 4
+    "Order": 2
   },
   {
     "FamilyId": 5,
@@ -62,7 +62,7 @@
     "BonusDef": 1,
     "BonusAgi": null,
     "BonusWis": 1,
-    "Order": 7
+    "Order": 5
   },
   {
     "FamilyId": 3,
@@ -75,7 +75,7 @@
     "BonusDef": 1,
     "BonusAgi": 1,
     "BonusWis": 1,
-    "Order": 5
+    "Order": 3
   },
   {
     "FamilyId": 1,
@@ -101,6 +101,6 @@
     "BonusDef": null,
     "BonusAgi": 1,
     "BonusWis": null,
-    "Order": 6
+    "Order": 7
   }
 ]

@@ -2145,6 +2145,21 @@
     "SkillStatEffectId": null
   },
   {
+    "SkillId": 203,
+    "SkillTypeId": 1,
+    "SkillTargetTypeId": 2,
+    "Name": "Power Surge",
+    "Identifier": "power-surge",
+    "JapaneseName": null,
+    "Description": "Inflicts outrageous electrical damage on all enemies.",
+    "MPCost": 52,
+    "MPCostTypeId": 1,
+    "DamageTypeId": null,
+    "AttackTypeId": null,
+    "DamageFamilyId": null,
+    "SkillStatEffectId": null
+  },
+  {
     "SkillId": 105,
     "SkillTypeId": 2,
     "SkillTargetTypeId": 4,
