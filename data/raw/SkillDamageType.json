@@ -778,5 +778,15 @@
     "SkillDamageTypeId": 156,
     "SkillId": 203,
     "DamageTypeId": 7
+  },
+  {
+    "SkillDamageTypeId": 157,
+    "SkillId": 176,
+    "DamageTypeId": 7
+  },
+  {
+    "SkillDamageTypeId": 158,
+    "SkillId": 183,
+    "DamageTypeId": 7
   }
 ]

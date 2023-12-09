@@ -1,104 +1,200 @@
 [
   {
+    "LocationId": 31,
+    "Name": "Aamon's Sanctum",
+    "Identifier": "aamons-sanctum",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 27,
+    "Name": "Barbatos's Bastion",
+    "Identifier": "barbatoss-bastion",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 25,
+    "Name": "Battenburg",
+    "Identifier": "battenburg",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 32,
+    "Name": "Caverns of Conflagration",
+    "Identifier": "caverns-of-conflagration",
+    "JapaneseName": null
+  },
+  {
     "LocationId": 5,
-    "Name": "Circle of Caprice - Lower",
-    "Identifier": "circle-of-caprice-lower",
+    "Name": "Circle of Caprice - Lower Echelon",
+    "Identifier": "circle-of-caprice-lower-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 12,
-    "Name": "Circle of Caprice - Middle",
-    "Identifier": "circle-of-caprice-middle",
+    "Name": "Circle of Caprice - Middle Echelon",
+    "Identifier": "circle-of-caprice-middle-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 18,
-    "Name": "Circle of Caprice - Upper",
-    "Identifier": "circle-of-caprice-upper",
+    "Name": "Circle of Caprice - Upper Echelon",
+    "Identifier": "circle-of-caprice-upper-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 2,
-    "Name": "Circle of Conquest - Lower",
-    "Identifier": "circle-of-conquest-lower",
+    "Name": "Circle of Conquest - Lower Echelon",
+    "Identifier": "circle-of-conquest-lower-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 9,
-    "Name": "Circle of Conquest - Middle",
-    "Identifier": "circle-of-conquest-middle",
+    "Name": "Circle of Conquest - Middle Echelon",
+    "Identifier": "circle-of-conquest-middle-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 13,
-    "Name": "Circle of Conquest - Upper",
-    "Identifier": "circle-of-conquest-upper",
+    "Name": "Circle of Conquest - Upper Echelon",
+    "Identifier": "circle-of-conquest-upper-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 6,
-    "Name": "Circle of Fortitude - Lower",
-    "Identifier": "circle-of-fortitude-lower",
+    "Name": "Circle of Fortitude - Lower Echelon",
+    "Identifier": "circle-of-fortitude-lower-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 8,
-    "Name": "Circle of Fortitude - Middle",
-    "Identifier": "circle-of-fortitude-middle",
+    "Name": "Circle of Fortitude - Middle Echelon",
+    "Identifier": "circle-of-fortitude-middle-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 19,
-    "Name": "Circle of Fortitude - Upper",
-    "Identifier": "circle-of-fortitude-upper",
+    "Name": "Circle of Fortitude - Upper Echelon",
+    "Identifier": "circle-of-fortitude-upper-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 4,
-    "Name": "Circle of Indulgence - Lower",
-    "Identifier": "circle-of-indulgence-lower",
+    "Name": "Circle of Indulgence - Lower Echelon",
+    "Identifier": "circle-of-indulgence-lower-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 11,
-    "Name": "Circle of Indulgence - Middle",
-    "Identifier": "circle-of-indulgence-middle",
+    "Name": "Circle of Indulgence - Middle Echelon",
+    "Identifier": "circle-of-indulgence-middle-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 17,
-    "Name": "Circle of Indulgence - Upper",
-    "Identifier": "circle-of-indulgence-upper",
+    "Name": "Circle of Indulgence - Upper Echelon",
+    "Identifier": "circle-of-indulgence-upper-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 3,
-    "Name": "Circle of Temper - Lower",
-    "Identifier": "circle-of-temper-lower",
+    "Name": "Circle of Temper - Lower Echelon",
+    "Identifier": "circle-of-temper-lower-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 10,
-    "Name": "Circle of Temper - Middle",
-    "Identifier": "circle-of-temper-middle",
+    "Name": "Circle of Temper - Middle Echelon",
+    "Identifier": "circle-of-temper-middle-echelon",
     "JapaneseName": null
   },
   {
     "LocationId": 14,
-    "Name": "Circle of Temper - Upper",
-    "Identifier": "circle-of-temper-upper",
+    "Name": "Circle of Temper - Upper Echelon",
+    "Identifier": "circle-of-temper-upper-echelon",
     "JapaneseName": null
   },
   {
-    "LocationId": 7,
-    "Name": "Cradle of Corruption",
-    "Identifier": "cradle-of-corruption",
+    "LocationId": 22,
+    "Name": "Conqueror's Keep",
+    "Identifier": "conquerors-keep",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 35,
+    "Name": "Cradle of Corruption - Lower Level",
+    "Identifier": "circle-of-corruption-lower-level",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 36,
+    "Name": "Cradle of Corruption - Middle Level",
+    "Identifier": "circle-of-corruption-middle-level",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 30,
+    "Name": "Cradle of Corruption - Upper Level",
+    "Identifier": "circle-of-corruption-upper-level",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 34,
+    "Name": "Desserted Dungeon",
+    "Identifier": "desserted-dungeon",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 26,
+    "Name": "Dragonspate",
+    "Identifier": "dragonspate",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 24,
+    "Name": "Fort Nox",
+    "Identifier": "fort-nox",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 20,
+    "Name": "Gleaming Grotto",
+    "Identifier": "gleaming-grotto",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 21,
+    "Name": "Grimglow Cave",
+    "Identifier": "grimglow-cave",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 28,
+    "Name": "Hotcake Heap",
+    "Identifier": "hotcake-heap",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 29,
+    "Name": "House of Shifting Sands",
+    "Identifier": "house-of-shifting-sands",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 23,
+    "Name": "Sepulchre of Flames",
+    "Identifier": "sepulchre-of-flames",
     "JapaneseName": null
   },
   {
     "LocationId": 1,
     "Name": "Terrestria",
     "Identifier": "terrestria",
+    "JapaneseName": null
+  },
+  {
+    "LocationId": 33,
+    "Name": "The Watchtower",
+    "Identifier": "the-watchtower",
     "JapaneseName": null
   }
 ]
