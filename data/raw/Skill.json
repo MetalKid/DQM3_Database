@@ -1174,7 +1174,7 @@
     "Name": "Hustle Dance",
     "Identifier": "hustle-dance",
     "JapaneseName": null,
-    "Description": "A dance that heals allies at random, 2 to 6 tiems in total. The higher the user's level, the greater the healing amount.",
+    "Description": "A dance that heals allies at random, 2 to 6 times in total. The higher the user's level, the greater the healing amount.",
     "MPCost": 40,
     "MPCostTypeId": 1,
     "DamageTypeId": null,

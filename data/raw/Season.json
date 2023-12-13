@@ -2,21 +2,25 @@
   {
     "SeasonId": 3,
     "Name": "Fall",
-    "Identifier": "fall"
+    "Identifier": "fall",
+    "JapaneseName": "秋"
   },
   {
     "SeasonId": 1,
     "Name": "Spring",
-    "Identifier": "spring"
+    "Identifier": "spring",
+    "JapaneseName": "春"
   },
   {
     "SeasonId": 2,
     "Name": "Summer",
-    "Identifier": "summer"
+    "Identifier": "summer",
+    "JapaneseName": "夏"
   },
   {
     "SeasonId": 4,
     "Name": "Winter",
-    "Identifier": "winter"
+    "Identifier": "winter",
+    "JapaneseName": "冬"
   }
 ]

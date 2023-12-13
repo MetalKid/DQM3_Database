@@ -211,8 +211,8 @@
   },
   {
     "TalentId": 127,
-    "Name": "Blow Hard",
-    "Identifier": "blow-hard",
+    "Name": "Blowhard",
+    "Identifier": "blowhard",
     "JapaneseName": null,
     "IsEggOnly": false
   },
@@ -750,16 +750,9 @@
   },
   {
     "TalentId": 216,
-    "Name": "Heavenly Hearld",
+    "Name": "Heavenly Herald",
     "Identifier": "heavenly-hearld",
     "JapaneseName": "神の使い",
-    "IsEggOnly": false
-  },
-  {
-    "TalentId": 177,
-    "Name": "Heavenly Herald",
-    "Identifier": "heavenly-herald",
-    "JapaneseName": null,
     "IsEggOnly": false
   },
   {

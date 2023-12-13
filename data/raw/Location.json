@@ -3,198 +3,350 @@
     "LocationId": 31,
     "Name": "Aamon's Sanctum",
     "Identifier": "aamons-sanctum",
-    "JapaneseName": null
+    "JapaneseName": "エビルプリーストの隠れ家",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 27,
     "Name": "Barbatos's Bastion",
     "Identifier": "barbatoss-bastion",
-    "JapaneseName": null
+    "JapaneseName": "ヘルバトラー城",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 25,
     "Name": "Battenburg",
     "Identifier": "battenburg",
-    "JapaneseName": null
+    "JapaneseName": "お菓子の城",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 32,
     "Name": "Caverns of Conflagration",
     "Identifier": "caverns-of-conflagration",
-    "JapaneseName": null
+    "JapaneseName": "烈火の洞窟",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 5,
     "Name": "Circle of Caprice - Lower Echelon",
     "Identifier": "circle-of-caprice-lower-echelon",
-    "JapaneseName": null
+    "JapaneseName": "流神殿の魔界 - 初級",
+    "MapLongitudeMax": -218.461000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -109.230000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 12,
     "Name": "Circle of Caprice - Middle Echelon",
     "Identifier": "circle-of-caprice-middle-echelon",
-    "JapaneseName": null
+    "JapaneseName": "流神殿の魔界 - 中級",
+    "MapLongitudeMax": -145.589000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -72.794000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 18,
     "Name": "Circle of Caprice - Upper Echelon",
     "Identifier": "circle-of-caprice-upper-echelon",
-    "JapaneseName": null
+    "JapaneseName": "流神殿の魔界 - 上級",
+    "MapLongitudeMax": -148.716000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -74.358000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 2,
     "Name": "Circle of Conquest - Lower Echelon",
     "Identifier": "circle-of-conquest-lower-echelon",
-    "JapaneseName": null
+    "JapaneseName": "覇王城の魔界 - 初級",
+    "MapLongitudeMax": -108.790000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -54.395000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 9,
     "Name": "Circle of Conquest - Middle Echelon",
     "Identifier": "circle-of-conquest-middle-echelon",
-    "JapaneseName": null
+    "JapaneseName": "覇王城の魔界 - 中級",
+    "MapLongitudeMax": -210.370000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -105.185000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 13,
     "Name": "Circle of Conquest - Upper Echelon",
     "Identifier": "circle-of-conquest-upper-echelon",
-    "JapaneseName": null
+    "JapaneseName": "覇王城の魔界 - 上級",
+    "MapLongitudeMax": -177.500000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -88.750000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 6,
     "Name": "Circle of Fortitude - Lower Echelon",
     "Identifier": "circle-of-fortitude-lower-echelon",
-    "JapaneseName": null
+    "JapaneseName": "鉄鋼砦の魔界 - 初級",
+    "MapLongitudeMax": -125.663000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -62.831000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 8,
     "Name": "Circle of Fortitude - Middle Echelon",
     "Identifier": "circle-of-fortitude-middle-echelon",
-    "JapaneseName": null
+    "JapaneseName": "鉄鋼砦の魔界 - 中級",
+    "MapLongitudeMax": -248.500000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -124.250000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 19,
     "Name": "Circle of Fortitude - Upper Echelon",
     "Identifier": "circle-of-fortitude-upper-echelon",
-    "JapaneseName": null
+    "JapaneseName": "鉄鋼砦の魔界 - 上級",
+    "MapLongitudeMax": -171.774000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -85.887000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 4,
     "Name": "Circle of Indulgence - Lower Echelon",
     "Identifier": "circle-of-indulgence-lower-echelon",
-    "JapaneseName": null
+    "JapaneseName": "甘味楼の魔界 - 初級",
+    "MapLongitudeMax": -110.937000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -55.468000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 11,
     "Name": "Circle of Indulgence - Middle Echelon",
     "Identifier": "circle-of-indulgence-middle-echelon",
-    "JapaneseName": null
+    "JapaneseName": "甘味楼の魔界 - 中級",
+    "MapLongitudeMax": -148.813000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -74.406000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 17,
     "Name": "Circle of Indulgence - Upper Echelon",
     "Identifier": "circle-of-indulgence-upper-echelon",
-    "JapaneseName": null
+    "JapaneseName": "甘味楼の魔界 - 上級",
+    "MapLongitudeMax": -165.075000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -82.537000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 3,
     "Name": "Circle of Temper - Lower Echelon",
     "Identifier": "circle-of-temper-lower-echelon",
-    "JapaneseName": null
+    "JapaneseName": "煉獄峠の魔界 - 初級",
+    "MapLongitudeMax": -123.896000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -61.948000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 10,
     "Name": "Circle of Temper - Middle Echelon",
     "Identifier": "circle-of-temper-middle-echelon",
-    "JapaneseName": null
+    "JapaneseName": "煉獄峠の魔界 - 中級",
+    "MapLongitudeMax": -147.325000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -73.662000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 14,
     "Name": "Circle of Temper - Upper Echelon",
     "Identifier": "circle-of-temper-upper-echelon",
-    "JapaneseName": null
+    "JapaneseName": "煉獄峠の魔界 - 上級",
+    "MapLongitudeMax": -119.619000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -59.809000000000,
+    "MapLatitudeStart": 88.750000000000
   },
   {
     "LocationId": 22,
     "Name": "Conqueror's Keep",
     "Identifier": "conquerors-keep",
-    "JapaneseName": null
+    "JapaneseName": "覇王城",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 35,
     "Name": "Cradle of Corruption - Lower Level",
     "Identifier": "circle-of-corruption-lower-level",
-    "JapaneseName": null
+    "JapaneseName": "災厄の魔宮 - 低層",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 36,
     "Name": "Cradle of Corruption - Middle Level",
     "Identifier": "circle-of-corruption-middle-level",
-    "JapaneseName": null
+    "JapaneseName": "災厄の魔宮 - 中層",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 30,
     "Name": "Cradle of Corruption - Upper Level",
     "Identifier": "circle-of-corruption-upper-level",
-    "JapaneseName": null
+    "JapaneseName": "災厄の魔宮 - 高層",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 34,
     "Name": "Desserted Dungeon",
     "Identifier": "desserted-dungeon",
-    "JapaneseName": null
+    "JapaneseName": "アイスの迷宮",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 26,
     "Name": "Dragonspate",
     "Identifier": "dragonspate",
-    "JapaneseName": null
+    "JapaneseName": "竜の首",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 24,
     "Name": "Fort Nox",
     "Identifier": "fort-nox",
-    "JapaneseName": null
+    "JapaneseName": "常夜の要塞",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 20,
     "Name": "Gleaming Grotto",
     "Identifier": "gleaming-grotto",
-    "JapaneseName": null
+    "JapaneseName": "大結晶の洞窟",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 21,
     "Name": "Grimglow Cave",
     "Identifier": "grimglow-cave",
-    "JapaneseName": null
+    "JapaneseName": "白冥の洞窟",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 28,
     "Name": "Hotcake Heap",
     "Identifier": "hotcake-heap",
-    "JapaneseName": null
+    "JapaneseName": "パンケーキ山の洞窟",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 29,
     "Name": "House of Shifting Sands",
     "Identifier": "house-of-shifting-sands",
-    "JapaneseName": null
+    "JapaneseName": "流砂の宮殿",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 23,
     "Name": "Sepulchre of Flames",
     "Identifier": "sepulchre-of-flames",
-    "JapaneseName": null
+    "JapaneseName": "炎の神殿",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 1,
     "Name": "Terrestria",
     "Identifier": "terrestria",
-    "JapaneseName": null
+    "JapaneseName": "人間界",
+    "MapLongitudeMax": -223.804000000000,
+    "MapLatitudeMax": 177.500000000000,
+    "MapLongitudeStart": -111.902000000000,
+    "MapLatitudeStart": 88.750000000000
+  },
+  {
+    "LocationId": 38,
+    "Name": "Terrestria - Forest",
+    "Identifier": "terrestria-forest",
+    "JapaneseName": "人間界 - 森",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   },
   {
     "LocationId": 33,
     "Name": "The Watchtower",
     "Identifier": "the-watchtower",
-    "JapaneseName": null
+    "JapaneseName": "大監視塔",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
+  },
+  {
+    "LocationId": 37,
+    "Name": "The Whispwoods",
+    "Identifier": "the-whispwoods",
+    "JapaneseName": "精霊樹の森",
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
   }
 ]

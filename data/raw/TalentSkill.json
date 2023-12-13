@@ -5688,54 +5688,6 @@
     "Points": 150
   },
   {
-    "TalentSkillId": 951,
-    "TalentId": 177,
-    "SkillId": 26,
-    "Points": 3
-  },
-  {
-    "TalentSkillId": 952,
-    "TalentId": 177,
-    "SkillId": 28,
-    "Points": 10
-  },
-  {
-    "TalentSkillId": 953,
-    "TalentId": 177,
-    "SkillId": 41,
-    "Points": 20
-  },
-  {
-    "TalentSkillId": 954,
-    "TalentId": 177,
-    "SkillId": 55,
-    "Points": 30
-  },
-  {
-    "TalentSkillId": 955,
-    "TalentId": 177,
-    "SkillId": 128,
-    "Points": 50
-  },
-  {
-    "TalentSkillId": 956,
-    "TalentId": 177,
-    "SkillId": 153,
-    "Points": 85
-  },
-  {
-    "TalentSkillId": 957,
-    "TalentId": 177,
-    "SkillId": 189,
-    "Points": 120
-  },
-  {
-    "TalentSkillId": 958,
-    "TalentId": 177,
-    "SkillId": 157,
-    "Points": 150
-  },
-  {
     "TalentSkillId": 959,
     "TalentId": 178,
     "SkillId": 40,

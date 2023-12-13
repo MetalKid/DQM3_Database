@@ -1,0 +1,9632 @@
+[
+  {
+    "EggLocationSeasonId": 1,
+    "EggLocationId": 1,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 2,
+    "EggLocationId": 1,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 3,
+    "EggLocationId": 1,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 4,
+    "EggLocationId": 1,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 5,
+    "EggLocationId": 2,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 6,
+    "EggLocationId": 2,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 7,
+    "EggLocationId": 2,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 8,
+    "EggLocationId": 2,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 9,
+    "EggLocationId": 3,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 10,
+    "EggLocationId": 3,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 11,
+    "EggLocationId": 3,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 12,
+    "EggLocationId": 3,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 13,
+    "EggLocationId": 4,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 14,
+    "EggLocationId": 4,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 15,
+    "EggLocationId": 4,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 16,
+    "EggLocationId": 4,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 17,
+    "EggLocationId": 5,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 18,
+    "EggLocationId": 5,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 19,
+    "EggLocationId": 5,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 20,
+    "EggLocationId": 5,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 21,
+    "EggLocationId": 6,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 22,
+    "EggLocationId": 6,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 23,
+    "EggLocationId": 6,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 24,
+    "EggLocationId": 6,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 25,
+    "EggLocationId": 7,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 26,
+    "EggLocationId": 8,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 27,
+    "EggLocationId": 8,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 28,
+    "EggLocationId": 8,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 29,
+    "EggLocationId": 8,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 30,
+    "EggLocationId": 9,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 31,
+    "EggLocationId": 9,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 32,
+    "EggLocationId": 9,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 33,
+    "EggLocationId": 9,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 34,
+    "EggLocationId": 10,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 35,
+    "EggLocationId": 10,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 36,
+    "EggLocationId": 10,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 37,
+    "EggLocationId": 10,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 38,
+    "EggLocationId": 11,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 39,
+    "EggLocationId": 12,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 40,
+    "EggLocationId": 12,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 41,
+    "EggLocationId": 12,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 42,
+    "EggLocationId": 12,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 43,
+    "EggLocationId": 13,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 44,
+    "EggLocationId": 13,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 45,
+    "EggLocationId": 13,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 46,
+    "EggLocationId": 13,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 47,
+    "EggLocationId": 14,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 48,
+    "EggLocationId": 14,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 49,
+    "EggLocationId": 14,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 50,
+    "EggLocationId": 14,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 51,
+    "EggLocationId": 15,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 52,
+    "EggLocationId": 15,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 53,
+    "EggLocationId": 15,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 54,
+    "EggLocationId": 15,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 55,
+    "EggLocationId": 16,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 56,
+    "EggLocationId": 17,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 57,
+    "EggLocationId": 18,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 58,
+    "EggLocationId": 18,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 59,
+    "EggLocationId": 18,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 60,
+    "EggLocationId": 18,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 61,
+    "EggLocationId": 19,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 62,
+    "EggLocationId": 19,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 63,
+    "EggLocationId": 19,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 64,
+    "EggLocationId": 19,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 65,
+    "EggLocationId": 20,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 66,
+    "EggLocationId": 20,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 67,
+    "EggLocationId": 20,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 68,
+    "EggLocationId": 20,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 69,
+    "EggLocationId": 21,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 70,
+    "EggLocationId": 21,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 71,
+    "EggLocationId": 21,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 72,
+    "EggLocationId": 21,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 73,
+    "EggLocationId": 22,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 74,
+    "EggLocationId": 22,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 75,
+    "EggLocationId": 22,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 76,
+    "EggLocationId": 22,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 77,
+    "EggLocationId": 23,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 78,
+    "EggLocationId": 23,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 79,
+    "EggLocationId": 23,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 80,
+    "EggLocationId": 23,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 81,
+    "EggLocationId": 24,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 82,
+    "EggLocationId": 24,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 83,
+    "EggLocationId": 24,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 84,
+    "EggLocationId": 24,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 85,
+    "EggLocationId": 25,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 86,
+    "EggLocationId": 25,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 87,
+    "EggLocationId": 25,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 88,
+    "EggLocationId": 25,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 89,
+    "EggLocationId": 26,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 90,
+    "EggLocationId": 26,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 91,
+    "EggLocationId": 26,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 92,
+    "EggLocationId": 26,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 93,
+    "EggLocationId": 27,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 94,
+    "EggLocationId": 27,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 95,
+    "EggLocationId": 27,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 96,
+    "EggLocationId": 27,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 97,
+    "EggLocationId": 28,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 98,
+    "EggLocationId": 28,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 99,
+    "EggLocationId": 28,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 100,
+    "EggLocationId": 28,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 101,
+    "EggLocationId": 29,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 102,
+    "EggLocationId": 29,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 103,
+    "EggLocationId": 29,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 104,
+    "EggLocationId": 29,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 105,
+    "EggLocationId": 30,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 106,
+    "EggLocationId": 30,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 107,
+    "EggLocationId": 30,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 108,
+    "EggLocationId": 30,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 109,
+    "EggLocationId": 31,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 110,
+    "EggLocationId": 31,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 111,
+    "EggLocationId": 31,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 112,
+    "EggLocationId": 31,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 113,
+    "EggLocationId": 32,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 114,
+    "EggLocationId": 33,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 115,
+    "EggLocationId": 34,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 116,
+    "EggLocationId": 34,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 117,
+    "EggLocationId": 34,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 118,
+    "EggLocationId": 34,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 119,
+    "EggLocationId": 35,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 120,
+    "EggLocationId": 35,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 121,
+    "EggLocationId": 35,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 122,
+    "EggLocationId": 35,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 123,
+    "EggLocationId": 36,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 124,
+    "EggLocationId": 36,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 125,
+    "EggLocationId": 36,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 126,
+    "EggLocationId": 36,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 127,
+    "EggLocationId": 37,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 128,
+    "EggLocationId": 37,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 129,
+    "EggLocationId": 37,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 130,
+    "EggLocationId": 37,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 131,
+    "EggLocationId": 38,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 132,
+    "EggLocationId": 38,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 133,
+    "EggLocationId": 38,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 134,
+    "EggLocationId": 38,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 135,
+    "EggLocationId": 39,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 136,
+    "EggLocationId": 39,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 137,
+    "EggLocationId": 39,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 138,
+    "EggLocationId": 39,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 139,
+    "EggLocationId": 40,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 140,
+    "EggLocationId": 40,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 141,
+    "EggLocationId": 40,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 142,
+    "EggLocationId": 40,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 143,
+    "EggLocationId": 41,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 144,
+    "EggLocationId": 41,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 145,
+    "EggLocationId": 41,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 146,
+    "EggLocationId": 41,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 147,
+    "EggLocationId": 42,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 148,
+    "EggLocationId": 42,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 149,
+    "EggLocationId": 42,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 150,
+    "EggLocationId": 42,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 151,
+    "EggLocationId": 43,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 152,
+    "EggLocationId": 43,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 153,
+    "EggLocationId": 43,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 154,
+    "EggLocationId": 43,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 155,
+    "EggLocationId": 44,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 156,
+    "EggLocationId": 44,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 157,
+    "EggLocationId": 44,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 158,
+    "EggLocationId": 44,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 159,
+    "EggLocationId": 45,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 160,
+    "EggLocationId": 45,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 161,
+    "EggLocationId": 45,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 162,
+    "EggLocationId": 45,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 163,
+    "EggLocationId": 46,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 164,
+    "EggLocationId": 46,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 165,
+    "EggLocationId": 46,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 166,
+    "EggLocationId": 46,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 167,
+    "EggLocationId": 47,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 168,
+    "EggLocationId": 47,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 169,
+    "EggLocationId": 47,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 170,
+    "EggLocationId": 47,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 171,
+    "EggLocationId": 48,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 172,
+    "EggLocationId": 48,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 173,
+    "EggLocationId": 48,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 174,
+    "EggLocationId": 48,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 175,
+    "EggLocationId": 49,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 176,
+    "EggLocationId": 49,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 177,
+    "EggLocationId": 49,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 178,
+    "EggLocationId": 49,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 179,
+    "EggLocationId": 50,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 180,
+    "EggLocationId": 50,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 181,
+    "EggLocationId": 50,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 182,
+    "EggLocationId": 50,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 183,
+    "EggLocationId": 51,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 184,
+    "EggLocationId": 51,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 185,
+    "EggLocationId": 51,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 186,
+    "EggLocationId": 51,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 187,
+    "EggLocationId": 52,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 188,
+    "EggLocationId": 52,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 189,
+    "EggLocationId": 52,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 190,
+    "EggLocationId": 52,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 191,
+    "EggLocationId": 53,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 192,
+    "EggLocationId": 53,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 193,
+    "EggLocationId": 53,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 194,
+    "EggLocationId": 53,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 195,
+    "EggLocationId": 54,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 196,
+    "EggLocationId": 54,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 197,
+    "EggLocationId": 54,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 198,
+    "EggLocationId": 54,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 199,
+    "EggLocationId": 55,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 200,
+    "EggLocationId": 55,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 201,
+    "EggLocationId": 55,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 202,
+    "EggLocationId": 55,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 203,
+    "EggLocationId": 56,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 204,
+    "EggLocationId": 56,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 205,
+    "EggLocationId": 56,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 206,
+    "EggLocationId": 56,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 207,
+    "EggLocationId": 57,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 208,
+    "EggLocationId": 57,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 209,
+    "EggLocationId": 57,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 210,
+    "EggLocationId": 57,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 211,
+    "EggLocationId": 58,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 212,
+    "EggLocationId": 58,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 213,
+    "EggLocationId": 58,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 214,
+    "EggLocationId": 58,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 215,
+    "EggLocationId": 59,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 216,
+    "EggLocationId": 59,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 217,
+    "EggLocationId": 59,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 218,
+    "EggLocationId": 59,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 219,
+    "EggLocationId": 60,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 220,
+    "EggLocationId": 60,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 221,
+    "EggLocationId": 60,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 222,
+    "EggLocationId": 60,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 223,
+    "EggLocationId": 61,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 224,
+    "EggLocationId": 61,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 225,
+    "EggLocationId": 61,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 226,
+    "EggLocationId": 61,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 227,
+    "EggLocationId": 62,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 228,
+    "EggLocationId": 62,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 229,
+    "EggLocationId": 62,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 230,
+    "EggLocationId": 62,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 231,
+    "EggLocationId": 63,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 232,
+    "EggLocationId": 63,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 233,
+    "EggLocationId": 63,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 234,
+    "EggLocationId": 63,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 235,
+    "EggLocationId": 64,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 236,
+    "EggLocationId": 64,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 237,
+    "EggLocationId": 64,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 238,
+    "EggLocationId": 64,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 239,
+    "EggLocationId": 65,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 240,
+    "EggLocationId": 65,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 241,
+    "EggLocationId": 65,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 242,
+    "EggLocationId": 65,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 243,
+    "EggLocationId": 66,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 244,
+    "EggLocationId": 66,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 245,
+    "EggLocationId": 66,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 246,
+    "EggLocationId": 66,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 247,
+    "EggLocationId": 67,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 248,
+    "EggLocationId": 67,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 249,
+    "EggLocationId": 67,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 250,
+    "EggLocationId": 67,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 251,
+    "EggLocationId": 68,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 252,
+    "EggLocationId": 68,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 253,
+    "EggLocationId": 68,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 254,
+    "EggLocationId": 68,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 255,
+    "EggLocationId": 69,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 256,
+    "EggLocationId": 69,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 257,
+    "EggLocationId": 69,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 258,
+    "EggLocationId": 69,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 259,
+    "EggLocationId": 70,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 260,
+    "EggLocationId": 70,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 261,
+    "EggLocationId": 70,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 262,
+    "EggLocationId": 70,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 263,
+    "EggLocationId": 71,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 264,
+    "EggLocationId": 71,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 265,
+    "EggLocationId": 71,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 266,
+    "EggLocationId": 71,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 267,
+    "EggLocationId": 72,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 268,
+    "EggLocationId": 72,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 269,
+    "EggLocationId": 72,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 270,
+    "EggLocationId": 72,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 271,
+    "EggLocationId": 73,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 272,
+    "EggLocationId": 73,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 273,
+    "EggLocationId": 73,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 274,
+    "EggLocationId": 73,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 275,
+    "EggLocationId": 74,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 276,
+    "EggLocationId": 74,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 277,
+    "EggLocationId": 74,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 278,
+    "EggLocationId": 74,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 279,
+    "EggLocationId": 75,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 280,
+    "EggLocationId": 75,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 281,
+    "EggLocationId": 75,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 282,
+    "EggLocationId": 75,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 283,
+    "EggLocationId": 76,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 284,
+    "EggLocationId": 76,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 285,
+    "EggLocationId": 76,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 286,
+    "EggLocationId": 76,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 287,
+    "EggLocationId": 77,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 288,
+    "EggLocationId": 77,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 289,
+    "EggLocationId": 77,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 290,
+    "EggLocationId": 77,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 291,
+    "EggLocationId": 78,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 292,
+    "EggLocationId": 78,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 293,
+    "EggLocationId": 78,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 294,
+    "EggLocationId": 78,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 295,
+    "EggLocationId": 79,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 296,
+    "EggLocationId": 79,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 297,
+    "EggLocationId": 79,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 298,
+    "EggLocationId": 79,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 299,
+    "EggLocationId": 80,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 300,
+    "EggLocationId": 80,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 301,
+    "EggLocationId": 80,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 302,
+    "EggLocationId": 80,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 303,
+    "EggLocationId": 81,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 304,
+    "EggLocationId": 81,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 305,
+    "EggLocationId": 81,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 306,
+    "EggLocationId": 81,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 307,
+    "EggLocationId": 82,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 308,
+    "EggLocationId": 82,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 309,
+    "EggLocationId": 82,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 310,
+    "EggLocationId": 82,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 311,
+    "EggLocationId": 83,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 312,
+    "EggLocationId": 83,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 313,
+    "EggLocationId": 83,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 314,
+    "EggLocationId": 83,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 315,
+    "EggLocationId": 84,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 316,
+    "EggLocationId": 84,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 317,
+    "EggLocationId": 84,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 318,
+    "EggLocationId": 84,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 319,
+    "EggLocationId": 85,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 320,
+    "EggLocationId": 85,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 321,
+    "EggLocationId": 85,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 322,
+    "EggLocationId": 85,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 323,
+    "EggLocationId": 86,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 324,
+    "EggLocationId": 86,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 325,
+    "EggLocationId": 86,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 326,
+    "EggLocationId": 86,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 327,
+    "EggLocationId": 87,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 328,
+    "EggLocationId": 87,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 329,
+    "EggLocationId": 87,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 330,
+    "EggLocationId": 87,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 331,
+    "EggLocationId": 88,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 332,
+    "EggLocationId": 88,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 333,
+    "EggLocationId": 88,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 334,
+    "EggLocationId": 88,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 335,
+    "EggLocationId": 89,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 336,
+    "EggLocationId": 89,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 337,
+    "EggLocationId": 89,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 338,
+    "EggLocationId": 89,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 339,
+    "EggLocationId": 90,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 340,
+    "EggLocationId": 90,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 341,
+    "EggLocationId": 90,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 342,
+    "EggLocationId": 90,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 343,
+    "EggLocationId": 91,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 344,
+    "EggLocationId": 91,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 345,
+    "EggLocationId": 91,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 346,
+    "EggLocationId": 91,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 347,
+    "EggLocationId": 92,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 348,
+    "EggLocationId": 92,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 349,
+    "EggLocationId": 92,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 350,
+    "EggLocationId": 92,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 351,
+    "EggLocationId": 93,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 352,
+    "EggLocationId": 93,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 353,
+    "EggLocationId": 93,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 354,
+    "EggLocationId": 93,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 355,
+    "EggLocationId": 94,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 356,
+    "EggLocationId": 94,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 357,
+    "EggLocationId": 94,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 358,
+    "EggLocationId": 94,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 359,
+    "EggLocationId": 95,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 360,
+    "EggLocationId": 95,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 361,
+    "EggLocationId": 95,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 362,
+    "EggLocationId": 95,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 363,
+    "EggLocationId": 96,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 364,
+    "EggLocationId": 96,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 365,
+    "EggLocationId": 96,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 366,
+    "EggLocationId": 96,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 367,
+    "EggLocationId": 97,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 368,
+    "EggLocationId": 97,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 369,
+    "EggLocationId": 97,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 370,
+    "EggLocationId": 97,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 371,
+    "EggLocationId": 98,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 372,
+    "EggLocationId": 98,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 373,
+    "EggLocationId": 98,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 374,
+    "EggLocationId": 98,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 375,
+    "EggLocationId": 99,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 376,
+    "EggLocationId": 99,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 377,
+    "EggLocationId": 99,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 378,
+    "EggLocationId": 99,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 379,
+    "EggLocationId": 100,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 380,
+    "EggLocationId": 100,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 381,
+    "EggLocationId": 100,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 382,
+    "EggLocationId": 100,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 383,
+    "EggLocationId": 101,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 384,
+    "EggLocationId": 101,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 385,
+    "EggLocationId": 101,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 386,
+    "EggLocationId": 101,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 387,
+    "EggLocationId": 102,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 388,
+    "EggLocationId": 102,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 389,
+    "EggLocationId": 102,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 390,
+    "EggLocationId": 102,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 391,
+    "EggLocationId": 103,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 392,
+    "EggLocationId": 103,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 393,
+    "EggLocationId": 103,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 394,
+    "EggLocationId": 103,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 395,
+    "EggLocationId": 104,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 396,
+    "EggLocationId": 104,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 397,
+    "EggLocationId": 104,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 398,
+    "EggLocationId": 104,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 399,
+    "EggLocationId": 105,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 400,
+    "EggLocationId": 105,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 401,
+    "EggLocationId": 105,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 402,
+    "EggLocationId": 105,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 403,
+    "EggLocationId": 106,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 404,
+    "EggLocationId": 106,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 405,
+    "EggLocationId": 106,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 406,
+    "EggLocationId": 106,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 407,
+    "EggLocationId": 107,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 408,
+    "EggLocationId": 107,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 409,
+    "EggLocationId": 107,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 410,
+    "EggLocationId": 107,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 411,
+    "EggLocationId": 108,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 412,
+    "EggLocationId": 108,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 413,
+    "EggLocationId": 108,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 414,
+    "EggLocationId": 108,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 415,
+    "EggLocationId": 109,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 416,
+    "EggLocationId": 109,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 417,
+    "EggLocationId": 109,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 418,
+    "EggLocationId": 109,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 419,
+    "EggLocationId": 110,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 420,
+    "EggLocationId": 110,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 421,
+    "EggLocationId": 110,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 422,
+    "EggLocationId": 110,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 423,
+    "EggLocationId": 111,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 424,
+    "EggLocationId": 111,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 425,
+    "EggLocationId": 111,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 426,
+    "EggLocationId": 111,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 427,
+    "EggLocationId": 112,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 428,
+    "EggLocationId": 112,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 429,
+    "EggLocationId": 112,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 430,
+    "EggLocationId": 112,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 431,
+    "EggLocationId": 113,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 432,
+    "EggLocationId": 113,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 433,
+    "EggLocationId": 113,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 434,
+    "EggLocationId": 113,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 435,
+    "EggLocationId": 114,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 436,
+    "EggLocationId": 114,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 437,
+    "EggLocationId": 114,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 438,
+    "EggLocationId": 114,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 439,
+    "EggLocationId": 115,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 440,
+    "EggLocationId": 115,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 441,
+    "EggLocationId": 115,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 442,
+    "EggLocationId": 115,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 443,
+    "EggLocationId": 116,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 444,
+    "EggLocationId": 116,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 445,
+    "EggLocationId": 116,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 446,
+    "EggLocationId": 116,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 447,
+    "EggLocationId": 117,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 448,
+    "EggLocationId": 117,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 449,
+    "EggLocationId": 117,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 450,
+    "EggLocationId": 117,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 451,
+    "EggLocationId": 118,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 452,
+    "EggLocationId": 118,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 453,
+    "EggLocationId": 118,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 454,
+    "EggLocationId": 118,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 455,
+    "EggLocationId": 119,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 456,
+    "EggLocationId": 119,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 457,
+    "EggLocationId": 119,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 458,
+    "EggLocationId": 119,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 459,
+    "EggLocationId": 120,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 460,
+    "EggLocationId": 120,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 461,
+    "EggLocationId": 120,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 462,
+    "EggLocationId": 120,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 463,
+    "EggLocationId": 121,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 464,
+    "EggLocationId": 121,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 465,
+    "EggLocationId": 121,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 466,
+    "EggLocationId": 121,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 467,
+    "EggLocationId": 122,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 468,
+    "EggLocationId": 122,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 469,
+    "EggLocationId": 122,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 470,
+    "EggLocationId": 122,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 471,
+    "EggLocationId": 123,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 472,
+    "EggLocationId": 123,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 473,
+    "EggLocationId": 123,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 474,
+    "EggLocationId": 123,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 475,
+    "EggLocationId": 124,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 476,
+    "EggLocationId": 124,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 477,
+    "EggLocationId": 124,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 478,
+    "EggLocationId": 124,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 479,
+    "EggLocationId": 125,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 480,
+    "EggLocationId": 125,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 481,
+    "EggLocationId": 125,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 482,
+    "EggLocationId": 125,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 483,
+    "EggLocationId": 126,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 484,
+    "EggLocationId": 126,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 485,
+    "EggLocationId": 126,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 486,
+    "EggLocationId": 126,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 487,
+    "EggLocationId": 127,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 488,
+    "EggLocationId": 127,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 489,
+    "EggLocationId": 127,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 490,
+    "EggLocationId": 127,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 491,
+    "EggLocationId": 128,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 492,
+    "EggLocationId": 128,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 493,
+    "EggLocationId": 128,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 494,
+    "EggLocationId": 128,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 495,
+    "EggLocationId": 129,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 496,
+    "EggLocationId": 129,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 497,
+    "EggLocationId": 129,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 498,
+    "EggLocationId": 129,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 499,
+    "EggLocationId": 130,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 500,
+    "EggLocationId": 130,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 501,
+    "EggLocationId": 130,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 502,
+    "EggLocationId": 130,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 503,
+    "EggLocationId": 131,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 504,
+    "EggLocationId": 131,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 505,
+    "EggLocationId": 131,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 506,
+    "EggLocationId": 131,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 507,
+    "EggLocationId": 132,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 508,
+    "EggLocationId": 132,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 509,
+    "EggLocationId": 132,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 510,
+    "EggLocationId": 132,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 511,
+    "EggLocationId": 133,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 512,
+    "EggLocationId": 133,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 513,
+    "EggLocationId": 133,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 514,
+    "EggLocationId": 133,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 515,
+    "EggLocationId": 134,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 516,
+    "EggLocationId": 134,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 517,
+    "EggLocationId": 134,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 518,
+    "EggLocationId": 134,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 519,
+    "EggLocationId": 135,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 520,
+    "EggLocationId": 135,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 521,
+    "EggLocationId": 135,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 522,
+    "EggLocationId": 135,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 523,
+    "EggLocationId": 136,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 524,
+    "EggLocationId": 136,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 525,
+    "EggLocationId": 136,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 526,
+    "EggLocationId": 136,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 527,
+    "EggLocationId": 137,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 528,
+    "EggLocationId": 137,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 529,
+    "EggLocationId": 137,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 530,
+    "EggLocationId": 137,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 531,
+    "EggLocationId": 138,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 532,
+    "EggLocationId": 138,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 533,
+    "EggLocationId": 138,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 534,
+    "EggLocationId": 138,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 535,
+    "EggLocationId": 139,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 536,
+    "EggLocationId": 139,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 537,
+    "EggLocationId": 139,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 538,
+    "EggLocationId": 139,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 539,
+    "EggLocationId": 140,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 540,
+    "EggLocationId": 140,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 541,
+    "EggLocationId": 140,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 542,
+    "EggLocationId": 140,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 543,
+    "EggLocationId": 141,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 544,
+    "EggLocationId": 141,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 545,
+    "EggLocationId": 141,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 546,
+    "EggLocationId": 141,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 547,
+    "EggLocationId": 142,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 548,
+    "EggLocationId": 142,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 549,
+    "EggLocationId": 142,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 550,
+    "EggLocationId": 142,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 551,
+    "EggLocationId": 143,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 552,
+    "EggLocationId": 143,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 553,
+    "EggLocationId": 143,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 554,
+    "EggLocationId": 143,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 555,
+    "EggLocationId": 144,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 556,
+    "EggLocationId": 144,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 557,
+    "EggLocationId": 144,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 558,
+    "EggLocationId": 144,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 559,
+    "EggLocationId": 145,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 560,
+    "EggLocationId": 145,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 561,
+    "EggLocationId": 145,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 562,
+    "EggLocationId": 145,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 563,
+    "EggLocationId": 146,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 564,
+    "EggLocationId": 146,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 565,
+    "EggLocationId": 146,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 566,
+    "EggLocationId": 146,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 567,
+    "EggLocationId": 147,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 568,
+    "EggLocationId": 147,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 569,
+    "EggLocationId": 147,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 570,
+    "EggLocationId": 147,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 571,
+    "EggLocationId": 148,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 572,
+    "EggLocationId": 148,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 573,
+    "EggLocationId": 148,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 574,
+    "EggLocationId": 148,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 575,
+    "EggLocationId": 149,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 576,
+    "EggLocationId": 149,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 577,
+    "EggLocationId": 149,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 578,
+    "EggLocationId": 149,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 579,
+    "EggLocationId": 150,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 580,
+    "EggLocationId": 150,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 581,
+    "EggLocationId": 150,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 582,
+    "EggLocationId": 150,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 583,
+    "EggLocationId": 151,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 584,
+    "EggLocationId": 151,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 585,
+    "EggLocationId": 151,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 586,
+    "EggLocationId": 151,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 587,
+    "EggLocationId": 152,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 588,
+    "EggLocationId": 152,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 589,
+    "EggLocationId": 152,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 590,
+    "EggLocationId": 152,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 591,
+    "EggLocationId": 153,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 592,
+    "EggLocationId": 153,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 593,
+    "EggLocationId": 153,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 594,
+    "EggLocationId": 153,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 595,
+    "EggLocationId": 154,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 596,
+    "EggLocationId": 154,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 597,
+    "EggLocationId": 154,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 598,
+    "EggLocationId": 154,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 599,
+    "EggLocationId": 155,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 600,
+    "EggLocationId": 155,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 601,
+    "EggLocationId": 155,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 602,
+    "EggLocationId": 155,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 603,
+    "EggLocationId": 156,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 604,
+    "EggLocationId": 156,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 605,
+    "EggLocationId": 156,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 606,
+    "EggLocationId": 156,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 607,
+    "EggLocationId": 157,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 608,
+    "EggLocationId": 157,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 609,
+    "EggLocationId": 157,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 610,
+    "EggLocationId": 157,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 611,
+    "EggLocationId": 158,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 612,
+    "EggLocationId": 158,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 613,
+    "EggLocationId": 158,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 614,
+    "EggLocationId": 158,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 615,
+    "EggLocationId": 159,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 616,
+    "EggLocationId": 159,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 617,
+    "EggLocationId": 159,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 618,
+    "EggLocationId": 159,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 619,
+    "EggLocationId": 160,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 620,
+    "EggLocationId": 160,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 621,
+    "EggLocationId": 160,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 622,
+    "EggLocationId": 160,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 623,
+    "EggLocationId": 161,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 624,
+    "EggLocationId": 161,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 625,
+    "EggLocationId": 161,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 626,
+    "EggLocationId": 161,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 627,
+    "EggLocationId": 162,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 628,
+    "EggLocationId": 162,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 629,
+    "EggLocationId": 162,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 630,
+    "EggLocationId": 162,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 631,
+    "EggLocationId": 163,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 632,
+    "EggLocationId": 163,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 633,
+    "EggLocationId": 163,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 634,
+    "EggLocationId": 163,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 635,
+    "EggLocationId": 164,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 636,
+    "EggLocationId": 164,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 637,
+    "EggLocationId": 164,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 638,
+    "EggLocationId": 164,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 639,
+    "EggLocationId": 165,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 640,
+    "EggLocationId": 165,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 641,
+    "EggLocationId": 165,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 642,
+    "EggLocationId": 165,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 643,
+    "EggLocationId": 166,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 644,
+    "EggLocationId": 166,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 645,
+    "EggLocationId": 166,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 646,
+    "EggLocationId": 166,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 647,
+    "EggLocationId": 167,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 648,
+    "EggLocationId": 167,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 649,
+    "EggLocationId": 167,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 650,
+    "EggLocationId": 167,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 651,
+    "EggLocationId": 168,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 652,
+    "EggLocationId": 168,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 653,
+    "EggLocationId": 168,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 654,
+    "EggLocationId": 168,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 655,
+    "EggLocationId": 169,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 656,
+    "EggLocationId": 169,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 657,
+    "EggLocationId": 169,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 658,
+    "EggLocationId": 169,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 659,
+    "EggLocationId": 170,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 660,
+    "EggLocationId": 170,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 661,
+    "EggLocationId": 170,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 662,
+    "EggLocationId": 170,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 663,
+    "EggLocationId": 171,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 664,
+    "EggLocationId": 171,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 665,
+    "EggLocationId": 171,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 666,
+    "EggLocationId": 171,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 667,
+    "EggLocationId": 172,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 668,
+    "EggLocationId": 172,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 669,
+    "EggLocationId": 172,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 670,
+    "EggLocationId": 172,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 671,
+    "EggLocationId": 173,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 672,
+    "EggLocationId": 173,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 673,
+    "EggLocationId": 173,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 674,
+    "EggLocationId": 173,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 675,
+    "EggLocationId": 174,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 676,
+    "EggLocationId": 174,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 677,
+    "EggLocationId": 174,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 678,
+    "EggLocationId": 174,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 679,
+    "EggLocationId": 175,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 680,
+    "EggLocationId": 175,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 681,
+    "EggLocationId": 175,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 682,
+    "EggLocationId": 175,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 683,
+    "EggLocationId": 176,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 684,
+    "EggLocationId": 176,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 685,
+    "EggLocationId": 176,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 686,
+    "EggLocationId": 176,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 687,
+    "EggLocationId": 177,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 688,
+    "EggLocationId": 177,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 689,
+    "EggLocationId": 177,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 690,
+    "EggLocationId": 177,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 691,
+    "EggLocationId": 178,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 692,
+    "EggLocationId": 178,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 693,
+    "EggLocationId": 178,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 694,
+    "EggLocationId": 178,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 695,
+    "EggLocationId": 179,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 696,
+    "EggLocationId": 179,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 697,
+    "EggLocationId": 179,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 698,
+    "EggLocationId": 179,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 699,
+    "EggLocationId": 180,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 700,
+    "EggLocationId": 180,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 701,
+    "EggLocationId": 180,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 702,
+    "EggLocationId": 180,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 703,
+    "EggLocationId": 181,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 704,
+    "EggLocationId": 181,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 705,
+    "EggLocationId": 181,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 706,
+    "EggLocationId": 181,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 707,
+    "EggLocationId": 182,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 708,
+    "EggLocationId": 182,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 709,
+    "EggLocationId": 182,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 710,
+    "EggLocationId": 182,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 711,
+    "EggLocationId": 183,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 712,
+    "EggLocationId": 183,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 713,
+    "EggLocationId": 183,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 714,
+    "EggLocationId": 183,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 715,
+    "EggLocationId": 184,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 716,
+    "EggLocationId": 184,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 717,
+    "EggLocationId": 184,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 718,
+    "EggLocationId": 184,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 719,
+    "EggLocationId": 185,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 720,
+    "EggLocationId": 185,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 721,
+    "EggLocationId": 185,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 722,
+    "EggLocationId": 185,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 723,
+    "EggLocationId": 186,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 724,
+    "EggLocationId": 186,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 725,
+    "EggLocationId": 186,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 726,
+    "EggLocationId": 186,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 727,
+    "EggLocationId": 187,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 728,
+    "EggLocationId": 187,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 729,
+    "EggLocationId": 187,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 730,
+    "EggLocationId": 187,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 731,
+    "EggLocationId": 188,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 732,
+    "EggLocationId": 188,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 733,
+    "EggLocationId": 188,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 734,
+    "EggLocationId": 188,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 735,
+    "EggLocationId": 189,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 736,
+    "EggLocationId": 189,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 737,
+    "EggLocationId": 189,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 738,
+    "EggLocationId": 189,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 739,
+    "EggLocationId": 190,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 740,
+    "EggLocationId": 190,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 741,
+    "EggLocationId": 190,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 742,
+    "EggLocationId": 190,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 743,
+    "EggLocationId": 191,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 744,
+    "EggLocationId": 191,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 745,
+    "EggLocationId": 191,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 746,
+    "EggLocationId": 191,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 747,
+    "EggLocationId": 192,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 748,
+    "EggLocationId": 192,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 749,
+    "EggLocationId": 192,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 750,
+    "EggLocationId": 192,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 751,
+    "EggLocationId": 193,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 752,
+    "EggLocationId": 193,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 753,
+    "EggLocationId": 193,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 754,
+    "EggLocationId": 193,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 755,
+    "EggLocationId": 194,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 756,
+    "EggLocationId": 194,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 757,
+    "EggLocationId": 194,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 758,
+    "EggLocationId": 194,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 759,
+    "EggLocationId": 195,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 760,
+    "EggLocationId": 195,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 761,
+    "EggLocationId": 195,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 762,
+    "EggLocationId": 195,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 763,
+    "EggLocationId": 196,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 764,
+    "EggLocationId": 196,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 765,
+    "EggLocationId": 196,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 766,
+    "EggLocationId": 196,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 767,
+    "EggLocationId": 197,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 768,
+    "EggLocationId": 197,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 769,
+    "EggLocationId": 197,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 770,
+    "EggLocationId": 197,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 771,
+    "EggLocationId": 198,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 772,
+    "EggLocationId": 198,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 773,
+    "EggLocationId": 198,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 774,
+    "EggLocationId": 198,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 775,
+    "EggLocationId": 199,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 776,
+    "EggLocationId": 199,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 777,
+    "EggLocationId": 199,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 778,
+    "EggLocationId": 199,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 779,
+    "EggLocationId": 200,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 780,
+    "EggLocationId": 200,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 781,
+    "EggLocationId": 200,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 782,
+    "EggLocationId": 200,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 783,
+    "EggLocationId": 201,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 784,
+    "EggLocationId": 201,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 785,
+    "EggLocationId": 201,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 786,
+    "EggLocationId": 201,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 787,
+    "EggLocationId": 202,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 788,
+    "EggLocationId": 202,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 789,
+    "EggLocationId": 202,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 790,
+    "EggLocationId": 202,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 791,
+    "EggLocationId": 203,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 792,
+    "EggLocationId": 203,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 793,
+    "EggLocationId": 203,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 794,
+    "EggLocationId": 203,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 795,
+    "EggLocationId": 204,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 796,
+    "EggLocationId": 204,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 797,
+    "EggLocationId": 204,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 798,
+    "EggLocationId": 204,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 799,
+    "EggLocationId": 205,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 800,
+    "EggLocationId": 205,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 801,
+    "EggLocationId": 205,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 802,
+    "EggLocationId": 205,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 803,
+    "EggLocationId": 206,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 804,
+    "EggLocationId": 206,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 805,
+    "EggLocationId": 206,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 806,
+    "EggLocationId": 206,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 807,
+    "EggLocationId": 207,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 808,
+    "EggLocationId": 207,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 809,
+    "EggLocationId": 207,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 810,
+    "EggLocationId": 207,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 811,
+    "EggLocationId": 208,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 812,
+    "EggLocationId": 208,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 813,
+    "EggLocationId": 208,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 814,
+    "EggLocationId": 208,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 815,
+    "EggLocationId": 209,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 816,
+    "EggLocationId": 209,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 817,
+    "EggLocationId": 209,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 818,
+    "EggLocationId": 209,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 819,
+    "EggLocationId": 210,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 820,
+    "EggLocationId": 210,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 821,
+    "EggLocationId": 210,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 822,
+    "EggLocationId": 210,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 823,
+    "EggLocationId": 211,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 824,
+    "EggLocationId": 211,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 825,
+    "EggLocationId": 211,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 826,
+    "EggLocationId": 211,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 827,
+    "EggLocationId": 212,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 828,
+    "EggLocationId": 212,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 829,
+    "EggLocationId": 212,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 830,
+    "EggLocationId": 212,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 831,
+    "EggLocationId": 213,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 832,
+    "EggLocationId": 213,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 833,
+    "EggLocationId": 213,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 834,
+    "EggLocationId": 213,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 835,
+    "EggLocationId": 214,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 836,
+    "EggLocationId": 214,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 837,
+    "EggLocationId": 214,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 838,
+    "EggLocationId": 214,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 839,
+    "EggLocationId": 215,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 840,
+    "EggLocationId": 215,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 841,
+    "EggLocationId": 215,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 842,
+    "EggLocationId": 215,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 843,
+    "EggLocationId": 216,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 844,
+    "EggLocationId": 216,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 845,
+    "EggLocationId": 216,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 846,
+    "EggLocationId": 216,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 847,
+    "EggLocationId": 217,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 848,
+    "EggLocationId": 217,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 849,
+    "EggLocationId": 217,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 850,
+    "EggLocationId": 217,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 851,
+    "EggLocationId": 218,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 852,
+    "EggLocationId": 218,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 853,
+    "EggLocationId": 218,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 854,
+    "EggLocationId": 218,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 855,
+    "EggLocationId": 219,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 856,
+    "EggLocationId": 219,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 857,
+    "EggLocationId": 219,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 858,
+    "EggLocationId": 219,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 859,
+    "EggLocationId": 220,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 860,
+    "EggLocationId": 220,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 861,
+    "EggLocationId": 220,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 862,
+    "EggLocationId": 220,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 863,
+    "EggLocationId": 221,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 864,
+    "EggLocationId": 221,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 865,
+    "EggLocationId": 221,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 866,
+    "EggLocationId": 221,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 867,
+    "EggLocationId": 222,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 868,
+    "EggLocationId": 222,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 869,
+    "EggLocationId": 222,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 870,
+    "EggLocationId": 222,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 871,
+    "EggLocationId": 223,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 872,
+    "EggLocationId": 223,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 873,
+    "EggLocationId": 223,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 874,
+    "EggLocationId": 223,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 875,
+    "EggLocationId": 224,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 876,
+    "EggLocationId": 224,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 877,
+    "EggLocationId": 224,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 878,
+    "EggLocationId": 224,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 879,
+    "EggLocationId": 225,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 880,
+    "EggLocationId": 225,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 881,
+    "EggLocationId": 225,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 882,
+    "EggLocationId": 225,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 883,
+    "EggLocationId": 226,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 884,
+    "EggLocationId": 226,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 885,
+    "EggLocationId": 226,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 886,
+    "EggLocationId": 226,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 887,
+    "EggLocationId": 227,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 888,
+    "EggLocationId": 227,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 889,
+    "EggLocationId": 227,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 890,
+    "EggLocationId": 227,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 891,
+    "EggLocationId": 228,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 892,
+    "EggLocationId": 228,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 893,
+    "EggLocationId": 228,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 894,
+    "EggLocationId": 228,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 895,
+    "EggLocationId": 229,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 896,
+    "EggLocationId": 229,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 897,
+    "EggLocationId": 229,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 898,
+    "EggLocationId": 229,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 899,
+    "EggLocationId": 230,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 900,
+    "EggLocationId": 230,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 901,
+    "EggLocationId": 230,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 902,
+    "EggLocationId": 230,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 903,
+    "EggLocationId": 231,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 904,
+    "EggLocationId": 231,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 905,
+    "EggLocationId": 231,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 906,
+    "EggLocationId": 231,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 907,
+    "EggLocationId": 232,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 908,
+    "EggLocationId": 232,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 909,
+    "EggLocationId": 232,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 910,
+    "EggLocationId": 232,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 911,
+    "EggLocationId": 233,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 912,
+    "EggLocationId": 233,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 913,
+    "EggLocationId": 233,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 914,
+    "EggLocationId": 233,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 915,
+    "EggLocationId": 234,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 916,
+    "EggLocationId": 234,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 917,
+    "EggLocationId": 234,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 918,
+    "EggLocationId": 234,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 919,
+    "EggLocationId": 235,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 920,
+    "EggLocationId": 235,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 921,
+    "EggLocationId": 235,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 922,
+    "EggLocationId": 235,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 923,
+    "EggLocationId": 236,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 924,
+    "EggLocationId": 236,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 925,
+    "EggLocationId": 236,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 926,
+    "EggLocationId": 236,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 927,
+    "EggLocationId": 237,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 928,
+    "EggLocationId": 237,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 929,
+    "EggLocationId": 237,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 930,
+    "EggLocationId": 237,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 931,
+    "EggLocationId": 238,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 932,
+    "EggLocationId": 238,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 933,
+    "EggLocationId": 238,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 934,
+    "EggLocationId": 238,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 935,
+    "EggLocationId": 239,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 936,
+    "EggLocationId": 239,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 937,
+    "EggLocationId": 239,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 938,
+    "EggLocationId": 239,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 939,
+    "EggLocationId": 240,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 940,
+    "EggLocationId": 240,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 941,
+    "EggLocationId": 240,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 942,
+    "EggLocationId": 240,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 943,
+    "EggLocationId": 241,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 944,
+    "EggLocationId": 241,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 945,
+    "EggLocationId": 241,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 946,
+    "EggLocationId": 241,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 947,
+    "EggLocationId": 242,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 948,
+    "EggLocationId": 242,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 949,
+    "EggLocationId": 242,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 950,
+    "EggLocationId": 242,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 951,
+    "EggLocationId": 243,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 952,
+    "EggLocationId": 243,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 953,
+    "EggLocationId": 243,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 954,
+    "EggLocationId": 243,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 955,
+    "EggLocationId": 244,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 956,
+    "EggLocationId": 244,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 957,
+    "EggLocationId": 244,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 958,
+    "EggLocationId": 244,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 959,
+    "EggLocationId": 245,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 960,
+    "EggLocationId": 245,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 961,
+    "EggLocationId": 245,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 962,
+    "EggLocationId": 245,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 963,
+    "EggLocationId": 246,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 964,
+    "EggLocationId": 246,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 965,
+    "EggLocationId": 246,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 966,
+    "EggLocationId": 246,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 967,
+    "EggLocationId": 247,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 968,
+    "EggLocationId": 247,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 969,
+    "EggLocationId": 247,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 970,
+    "EggLocationId": 247,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 971,
+    "EggLocationId": 248,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 972,
+    "EggLocationId": 248,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 973,
+    "EggLocationId": 248,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 974,
+    "EggLocationId": 248,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 975,
+    "EggLocationId": 249,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 976,
+    "EggLocationId": 249,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 977,
+    "EggLocationId": 249,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 978,
+    "EggLocationId": 249,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 979,
+    "EggLocationId": 250,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 980,
+    "EggLocationId": 250,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 981,
+    "EggLocationId": 250,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 982,
+    "EggLocationId": 250,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 983,
+    "EggLocationId": 251,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 984,
+    "EggLocationId": 251,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 985,
+    "EggLocationId": 251,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 986,
+    "EggLocationId": 251,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 987,
+    "EggLocationId": 252,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 988,
+    "EggLocationId": 252,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 989,
+    "EggLocationId": 252,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 990,
+    "EggLocationId": 252,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 991,
+    "EggLocationId": 253,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 992,
+    "EggLocationId": 253,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 993,
+    "EggLocationId": 253,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 994,
+    "EggLocationId": 253,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 995,
+    "EggLocationId": 254,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 996,
+    "EggLocationId": 254,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 997,
+    "EggLocationId": 254,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 998,
+    "EggLocationId": 254,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 999,
+    "EggLocationId": 255,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1000,
+    "EggLocationId": 255,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1001,
+    "EggLocationId": 255,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1002,
+    "EggLocationId": 255,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1003,
+    "EggLocationId": 256,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1004,
+    "EggLocationId": 256,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1005,
+    "EggLocationId": 256,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1006,
+    "EggLocationId": 256,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1007,
+    "EggLocationId": 257,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1008,
+    "EggLocationId": 257,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1009,
+    "EggLocationId": 257,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1010,
+    "EggLocationId": 257,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1011,
+    "EggLocationId": 258,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1012,
+    "EggLocationId": 258,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1013,
+    "EggLocationId": 258,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1014,
+    "EggLocationId": 258,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1015,
+    "EggLocationId": 259,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1016,
+    "EggLocationId": 259,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1017,
+    "EggLocationId": 259,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1018,
+    "EggLocationId": 259,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1019,
+    "EggLocationId": 260,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1020,
+    "EggLocationId": 260,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1021,
+    "EggLocationId": 260,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1022,
+    "EggLocationId": 260,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1023,
+    "EggLocationId": 261,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1024,
+    "EggLocationId": 261,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1025,
+    "EggLocationId": 261,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1026,
+    "EggLocationId": 261,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1027,
+    "EggLocationId": 262,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1028,
+    "EggLocationId": 262,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1029,
+    "EggLocationId": 262,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1030,
+    "EggLocationId": 262,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1031,
+    "EggLocationId": 263,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1032,
+    "EggLocationId": 263,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1033,
+    "EggLocationId": 263,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1034,
+    "EggLocationId": 263,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1035,
+    "EggLocationId": 264,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1036,
+    "EggLocationId": 264,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1037,
+    "EggLocationId": 264,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1038,
+    "EggLocationId": 264,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1039,
+    "EggLocationId": 265,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1040,
+    "EggLocationId": 265,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1041,
+    "EggLocationId": 265,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1042,
+    "EggLocationId": 265,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1043,
+    "EggLocationId": 266,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1044,
+    "EggLocationId": 266,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1045,
+    "EggLocationId": 266,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1046,
+    "EggLocationId": 266,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1047,
+    "EggLocationId": 267,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1048,
+    "EggLocationId": 267,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1049,
+    "EggLocationId": 267,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1050,
+    "EggLocationId": 267,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1051,
+    "EggLocationId": 268,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1052,
+    "EggLocationId": 268,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1053,
+    "EggLocationId": 268,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1054,
+    "EggLocationId": 268,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1055,
+    "EggLocationId": 269,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1056,
+    "EggLocationId": 269,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1057,
+    "EggLocationId": 269,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1058,
+    "EggLocationId": 269,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1059,
+    "EggLocationId": 270,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1060,
+    "EggLocationId": 270,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1061,
+    "EggLocationId": 270,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1062,
+    "EggLocationId": 270,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1063,
+    "EggLocationId": 271,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1064,
+    "EggLocationId": 271,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1065,
+    "EggLocationId": 271,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1066,
+    "EggLocationId": 271,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1067,
+    "EggLocationId": 272,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1068,
+    "EggLocationId": 272,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1069,
+    "EggLocationId": 272,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1070,
+    "EggLocationId": 272,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1071,
+    "EggLocationId": 273,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1072,
+    "EggLocationId": 273,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1073,
+    "EggLocationId": 273,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1074,
+    "EggLocationId": 273,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1075,
+    "EggLocationId": 274,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1076,
+    "EggLocationId": 274,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1077,
+    "EggLocationId": 274,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1078,
+    "EggLocationId": 274,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1079,
+    "EggLocationId": 275,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1080,
+    "EggLocationId": 275,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1081,
+    "EggLocationId": 275,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1082,
+    "EggLocationId": 275,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1083,
+    "EggLocationId": 276,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1084,
+    "EggLocationId": 276,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1085,
+    "EggLocationId": 276,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1086,
+    "EggLocationId": 276,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1087,
+    "EggLocationId": 277,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1088,
+    "EggLocationId": 277,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1089,
+    "EggLocationId": 277,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1090,
+    "EggLocationId": 277,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1091,
+    "EggLocationId": 278,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1092,
+    "EggLocationId": 278,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1093,
+    "EggLocationId": 278,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1094,
+    "EggLocationId": 278,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1095,
+    "EggLocationId": 279,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1096,
+    "EggLocationId": 279,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1097,
+    "EggLocationId": 279,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1098,
+    "EggLocationId": 279,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1099,
+    "EggLocationId": 280,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1100,
+    "EggLocationId": 280,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1101,
+    "EggLocationId": 280,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1102,
+    "EggLocationId": 280,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1103,
+    "EggLocationId": 281,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1104,
+    "EggLocationId": 281,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1105,
+    "EggLocationId": 281,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1106,
+    "EggLocationId": 281,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1107,
+    "EggLocationId": 282,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1108,
+    "EggLocationId": 282,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1109,
+    "EggLocationId": 282,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1110,
+    "EggLocationId": 282,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1111,
+    "EggLocationId": 283,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1112,
+    "EggLocationId": 283,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1113,
+    "EggLocationId": 283,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1114,
+    "EggLocationId": 283,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1115,
+    "EggLocationId": 284,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1116,
+    "EggLocationId": 284,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1117,
+    "EggLocationId": 284,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1118,
+    "EggLocationId": 284,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1119,
+    "EggLocationId": 285,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1120,
+    "EggLocationId": 285,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1121,
+    "EggLocationId": 285,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1122,
+    "EggLocationId": 285,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1123,
+    "EggLocationId": 286,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1124,
+    "EggLocationId": 286,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1125,
+    "EggLocationId": 286,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1126,
+    "EggLocationId": 286,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1127,
+    "EggLocationId": 287,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1128,
+    "EggLocationId": 287,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1129,
+    "EggLocationId": 287,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1130,
+    "EggLocationId": 287,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1131,
+    "EggLocationId": 288,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1132,
+    "EggLocationId": 288,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1133,
+    "EggLocationId": 288,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1134,
+    "EggLocationId": 288,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1135,
+    "EggLocationId": 289,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1136,
+    "EggLocationId": 289,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1137,
+    "EggLocationId": 289,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1138,
+    "EggLocationId": 289,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1139,
+    "EggLocationId": 290,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1140,
+    "EggLocationId": 290,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1141,
+    "EggLocationId": 290,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1142,
+    "EggLocationId": 290,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1143,
+    "EggLocationId": 291,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1144,
+    "EggLocationId": 291,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1145,
+    "EggLocationId": 291,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1146,
+    "EggLocationId": 291,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1147,
+    "EggLocationId": 292,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1148,
+    "EggLocationId": 292,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1149,
+    "EggLocationId": 292,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1150,
+    "EggLocationId": 292,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1151,
+    "EggLocationId": 293,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1152,
+    "EggLocationId": 293,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1153,
+    "EggLocationId": 293,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1154,
+    "EggLocationId": 293,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1155,
+    "EggLocationId": 294,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1156,
+    "EggLocationId": 294,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1157,
+    "EggLocationId": 294,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1158,
+    "EggLocationId": 294,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1159,
+    "EggLocationId": 295,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1160,
+    "EggLocationId": 295,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1161,
+    "EggLocationId": 295,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1162,
+    "EggLocationId": 295,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1163,
+    "EggLocationId": 296,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1164,
+    "EggLocationId": 296,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1165,
+    "EggLocationId": 296,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1166,
+    "EggLocationId": 296,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1167,
+    "EggLocationId": 297,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1168,
+    "EggLocationId": 297,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1169,
+    "EggLocationId": 297,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1170,
+    "EggLocationId": 297,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1171,
+    "EggLocationId": 298,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1172,
+    "EggLocationId": 298,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1173,
+    "EggLocationId": 298,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1174,
+    "EggLocationId": 298,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1175,
+    "EggLocationId": 299,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1176,
+    "EggLocationId": 299,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1177,
+    "EggLocationId": 299,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1178,
+    "EggLocationId": 299,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1179,
+    "EggLocationId": 300,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1180,
+    "EggLocationId": 300,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1181,
+    "EggLocationId": 300,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1182,
+    "EggLocationId": 300,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1183,
+    "EggLocationId": 301,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1184,
+    "EggLocationId": 301,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1185,
+    "EggLocationId": 301,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1186,
+    "EggLocationId": 301,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1187,
+    "EggLocationId": 302,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1188,
+    "EggLocationId": 302,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1189,
+    "EggLocationId": 302,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1190,
+    "EggLocationId": 302,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1191,
+    "EggLocationId": 303,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1192,
+    "EggLocationId": 303,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1193,
+    "EggLocationId": 303,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1194,
+    "EggLocationId": 303,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1195,
+    "EggLocationId": 304,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1196,
+    "EggLocationId": 304,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1197,
+    "EggLocationId": 304,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1198,
+    "EggLocationId": 304,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1199,
+    "EggLocationId": 305,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1200,
+    "EggLocationId": 305,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1201,
+    "EggLocationId": 305,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1202,
+    "EggLocationId": 305,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1203,
+    "EggLocationId": 306,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1204,
+    "EggLocationId": 306,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1205,
+    "EggLocationId": 306,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1206,
+    "EggLocationId": 306,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1207,
+    "EggLocationId": 307,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1208,
+    "EggLocationId": 307,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1209,
+    "EggLocationId": 307,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1210,
+    "EggLocationId": 307,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1211,
+    "EggLocationId": 308,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1212,
+    "EggLocationId": 308,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1213,
+    "EggLocationId": 308,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1214,
+    "EggLocationId": 308,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1215,
+    "EggLocationId": 309,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1216,
+    "EggLocationId": 309,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1217,
+    "EggLocationId": 309,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1218,
+    "EggLocationId": 309,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1219,
+    "EggLocationId": 310,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1220,
+    "EggLocationId": 310,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1221,
+    "EggLocationId": 310,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1222,
+    "EggLocationId": 310,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1223,
+    "EggLocationId": 311,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1224,
+    "EggLocationId": 311,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1225,
+    "EggLocationId": 311,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1226,
+    "EggLocationId": 311,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1227,
+    "EggLocationId": 312,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1228,
+    "EggLocationId": 312,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1229,
+    "EggLocationId": 312,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1230,
+    "EggLocationId": 312,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1231,
+    "EggLocationId": 313,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1232,
+    "EggLocationId": 313,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1233,
+    "EggLocationId": 313,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1234,
+    "EggLocationId": 313,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1235,
+    "EggLocationId": 314,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1236,
+    "EggLocationId": 314,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1237,
+    "EggLocationId": 314,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1238,
+    "EggLocationId": 314,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1239,
+    "EggLocationId": 315,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1240,
+    "EggLocationId": 315,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1241,
+    "EggLocationId": 315,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1242,
+    "EggLocationId": 315,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1243,
+    "EggLocationId": 316,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1244,
+    "EggLocationId": 316,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1245,
+    "EggLocationId": 316,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1246,
+    "EggLocationId": 316,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1247,
+    "EggLocationId": 317,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1248,
+    "EggLocationId": 317,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1249,
+    "EggLocationId": 317,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1250,
+    "EggLocationId": 317,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1251,
+    "EggLocationId": 318,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1252,
+    "EggLocationId": 318,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1253,
+    "EggLocationId": 318,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1254,
+    "EggLocationId": 318,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1255,
+    "EggLocationId": 319,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1256,
+    "EggLocationId": 319,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1257,
+    "EggLocationId": 319,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1258,
+    "EggLocationId": 319,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1259,
+    "EggLocationId": 320,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1260,
+    "EggLocationId": 320,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1261,
+    "EggLocationId": 320,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1262,
+    "EggLocationId": 320,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1263,
+    "EggLocationId": 321,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1264,
+    "EggLocationId": 321,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1265,
+    "EggLocationId": 321,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1266,
+    "EggLocationId": 321,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1267,
+    "EggLocationId": 322,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1268,
+    "EggLocationId": 322,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1269,
+    "EggLocationId": 322,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1270,
+    "EggLocationId": 322,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1271,
+    "EggLocationId": 323,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1272,
+    "EggLocationId": 323,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1273,
+    "EggLocationId": 323,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1274,
+    "EggLocationId": 323,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1275,
+    "EggLocationId": 324,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1276,
+    "EggLocationId": 324,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1277,
+    "EggLocationId": 324,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1278,
+    "EggLocationId": 324,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1279,
+    "EggLocationId": 325,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1280,
+    "EggLocationId": 325,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1281,
+    "EggLocationId": 325,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1282,
+    "EggLocationId": 325,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1283,
+    "EggLocationId": 326,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1284,
+    "EggLocationId": 326,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1285,
+    "EggLocationId": 326,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1286,
+    "EggLocationId": 326,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1287,
+    "EggLocationId": 327,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1288,
+    "EggLocationId": 327,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1289,
+    "EggLocationId": 327,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1290,
+    "EggLocationId": 327,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1291,
+    "EggLocationId": 328,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1292,
+    "EggLocationId": 328,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1293,
+    "EggLocationId": 328,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1294,
+    "EggLocationId": 328,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1295,
+    "EggLocationId": 329,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1296,
+    "EggLocationId": 329,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1297,
+    "EggLocationId": 329,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1298,
+    "EggLocationId": 329,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1299,
+    "EggLocationId": 330,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1300,
+    "EggLocationId": 330,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1301,
+    "EggLocationId": 330,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1302,
+    "EggLocationId": 330,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1303,
+    "EggLocationId": 331,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1304,
+    "EggLocationId": 331,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1305,
+    "EggLocationId": 331,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1306,
+    "EggLocationId": 331,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1307,
+    "EggLocationId": 332,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1308,
+    "EggLocationId": 332,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1309,
+    "EggLocationId": 332,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1310,
+    "EggLocationId": 332,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1311,
+    "EggLocationId": 333,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1312,
+    "EggLocationId": 333,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1313,
+    "EggLocationId": 333,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1314,
+    "EggLocationId": 333,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1315,
+    "EggLocationId": 334,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1316,
+    "EggLocationId": 334,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1317,
+    "EggLocationId": 334,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1318,
+    "EggLocationId": 334,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1319,
+    "EggLocationId": 335,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1320,
+    "EggLocationId": 335,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1321,
+    "EggLocationId": 335,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1322,
+    "EggLocationId": 335,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1323,
+    "EggLocationId": 336,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1324,
+    "EggLocationId": 336,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1325,
+    "EggLocationId": 336,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1326,
+    "EggLocationId": 336,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1327,
+    "EggLocationId": 337,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1328,
+    "EggLocationId": 337,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1329,
+    "EggLocationId": 337,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1330,
+    "EggLocationId": 337,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1331,
+    "EggLocationId": 338,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1332,
+    "EggLocationId": 338,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1333,
+    "EggLocationId": 338,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1334,
+    "EggLocationId": 338,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1335,
+    "EggLocationId": 339,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1336,
+    "EggLocationId": 339,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1337,
+    "EggLocationId": 339,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1338,
+    "EggLocationId": 339,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1339,
+    "EggLocationId": 340,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1340,
+    "EggLocationId": 340,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1341,
+    "EggLocationId": 340,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1342,
+    "EggLocationId": 340,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1343,
+    "EggLocationId": 341,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1344,
+    "EggLocationId": 341,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1345,
+    "EggLocationId": 341,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1346,
+    "EggLocationId": 341,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1347,
+    "EggLocationId": 342,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1348,
+    "EggLocationId": 342,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1349,
+    "EggLocationId": 342,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1350,
+    "EggLocationId": 342,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1351,
+    "EggLocationId": 343,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1352,
+    "EggLocationId": 343,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1353,
+    "EggLocationId": 343,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1354,
+    "EggLocationId": 343,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1355,
+    "EggLocationId": 344,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1356,
+    "EggLocationId": 344,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1357,
+    "EggLocationId": 344,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1358,
+    "EggLocationId": 344,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1359,
+    "EggLocationId": 345,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1360,
+    "EggLocationId": 345,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1361,
+    "EggLocationId": 345,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1362,
+    "EggLocationId": 345,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1363,
+    "EggLocationId": 346,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1364,
+    "EggLocationId": 346,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1365,
+    "EggLocationId": 346,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1366,
+    "EggLocationId": 346,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1367,
+    "EggLocationId": 347,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1368,
+    "EggLocationId": 347,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1369,
+    "EggLocationId": 347,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1370,
+    "EggLocationId": 347,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1371,
+    "EggLocationId": 348,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1372,
+    "EggLocationId": 348,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1373,
+    "EggLocationId": 348,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1374,
+    "EggLocationId": 348,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1375,
+    "EggLocationId": 349,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1376,
+    "EggLocationId": 349,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1377,
+    "EggLocationId": 349,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1378,
+    "EggLocationId": 349,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1379,
+    "EggLocationId": 350,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1380,
+    "EggLocationId": 350,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1381,
+    "EggLocationId": 350,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1382,
+    "EggLocationId": 350,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1383,
+    "EggLocationId": 351,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1384,
+    "EggLocationId": 351,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1385,
+    "EggLocationId": 351,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1386,
+    "EggLocationId": 351,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1387,
+    "EggLocationId": 352,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1388,
+    "EggLocationId": 352,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1389,
+    "EggLocationId": 352,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1390,
+    "EggLocationId": 352,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1391,
+    "EggLocationId": 353,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1392,
+    "EggLocationId": 353,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1393,
+    "EggLocationId": 353,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1394,
+    "EggLocationId": 353,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1395,
+    "EggLocationId": 354,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1396,
+    "EggLocationId": 354,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1397,
+    "EggLocationId": 354,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1398,
+    "EggLocationId": 354,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1399,
+    "EggLocationId": 355,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1400,
+    "EggLocationId": 355,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1401,
+    "EggLocationId": 355,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1402,
+    "EggLocationId": 355,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1403,
+    "EggLocationId": 356,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1404,
+    "EggLocationId": 356,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1405,
+    "EggLocationId": 356,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1406,
+    "EggLocationId": 356,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1407,
+    "EggLocationId": 357,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1408,
+    "EggLocationId": 357,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1409,
+    "EggLocationId": 357,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1410,
+    "EggLocationId": 357,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1411,
+    "EggLocationId": 358,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1412,
+    "EggLocationId": 358,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1413,
+    "EggLocationId": 358,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1414,
+    "EggLocationId": 358,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1415,
+    "EggLocationId": 359,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1416,
+    "EggLocationId": 359,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1417,
+    "EggLocationId": 359,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1418,
+    "EggLocationId": 359,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1419,
+    "EggLocationId": 360,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1420,
+    "EggLocationId": 360,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1421,
+    "EggLocationId": 360,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1422,
+    "EggLocationId": 360,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1423,
+    "EggLocationId": 361,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1424,
+    "EggLocationId": 361,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1425,
+    "EggLocationId": 361,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1426,
+    "EggLocationId": 361,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1427,
+    "EggLocationId": 362,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1428,
+    "EggLocationId": 362,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1429,
+    "EggLocationId": 362,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1430,
+    "EggLocationId": 362,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1431,
+    "EggLocationId": 363,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1432,
+    "EggLocationId": 363,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1433,
+    "EggLocationId": 363,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1434,
+    "EggLocationId": 363,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1435,
+    "EggLocationId": 364,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1436,
+    "EggLocationId": 364,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1437,
+    "EggLocationId": 364,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1438,
+    "EggLocationId": 364,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1439,
+    "EggLocationId": 365,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1440,
+    "EggLocationId": 365,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1441,
+    "EggLocationId": 365,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1442,
+    "EggLocationId": 365,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1443,
+    "EggLocationId": 366,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1444,
+    "EggLocationId": 366,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1445,
+    "EggLocationId": 366,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1446,
+    "EggLocationId": 366,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1447,
+    "EggLocationId": 367,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1448,
+    "EggLocationId": 367,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1449,
+    "EggLocationId": 367,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1450,
+    "EggLocationId": 367,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1451,
+    "EggLocationId": 368,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1452,
+    "EggLocationId": 368,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1453,
+    "EggLocationId": 368,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1454,
+    "EggLocationId": 368,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1455,
+    "EggLocationId": 369,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1456,
+    "EggLocationId": 369,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1457,
+    "EggLocationId": 369,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1458,
+    "EggLocationId": 369,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1459,
+    "EggLocationId": 370,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1460,
+    "EggLocationId": 370,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1461,
+    "EggLocationId": 370,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1462,
+    "EggLocationId": 370,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1463,
+    "EggLocationId": 371,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1464,
+    "EggLocationId": 371,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1465,
+    "EggLocationId": 371,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1466,
+    "EggLocationId": 371,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1467,
+    "EggLocationId": 372,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1468,
+    "EggLocationId": 372,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1469,
+    "EggLocationId": 372,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1470,
+    "EggLocationId": 372,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1471,
+    "EggLocationId": 373,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1472,
+    "EggLocationId": 373,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1473,
+    "EggLocationId": 373,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1474,
+    "EggLocationId": 373,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1475,
+    "EggLocationId": 374,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1476,
+    "EggLocationId": 374,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1477,
+    "EggLocationId": 374,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1478,
+    "EggLocationId": 374,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1479,
+    "EggLocationId": 375,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1480,
+    "EggLocationId": 375,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1481,
+    "EggLocationId": 375,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1482,
+    "EggLocationId": 375,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1483,
+    "EggLocationId": 376,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1484,
+    "EggLocationId": 376,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1485,
+    "EggLocationId": 376,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1486,
+    "EggLocationId": 376,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1487,
+    "EggLocationId": 377,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1488,
+    "EggLocationId": 377,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1489,
+    "EggLocationId": 377,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1490,
+    "EggLocationId": 377,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1491,
+    "EggLocationId": 378,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1492,
+    "EggLocationId": 378,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1493,
+    "EggLocationId": 378,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1494,
+    "EggLocationId": 378,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1495,
+    "EggLocationId": 379,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1496,
+    "EggLocationId": 379,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1497,
+    "EggLocationId": 379,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1498,
+    "EggLocationId": 379,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1499,
+    "EggLocationId": 380,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1500,
+    "EggLocationId": 380,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1501,
+    "EggLocationId": 380,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1502,
+    "EggLocationId": 380,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1503,
+    "EggLocationId": 381,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1504,
+    "EggLocationId": 381,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1505,
+    "EggLocationId": 381,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1506,
+    "EggLocationId": 381,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1507,
+    "EggLocationId": 382,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1508,
+    "EggLocationId": 382,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1509,
+    "EggLocationId": 382,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1510,
+    "EggLocationId": 382,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1511,
+    "EggLocationId": 383,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1512,
+    "EggLocationId": 383,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1513,
+    "EggLocationId": 383,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1514,
+    "EggLocationId": 383,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1515,
+    "EggLocationId": 384,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1516,
+    "EggLocationId": 384,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1517,
+    "EggLocationId": 384,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1518,
+    "EggLocationId": 384,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1519,
+    "EggLocationId": 385,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1520,
+    "EggLocationId": 385,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1521,
+    "EggLocationId": 385,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1522,
+    "EggLocationId": 385,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1523,
+    "EggLocationId": 386,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1524,
+    "EggLocationId": 386,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1525,
+    "EggLocationId": 386,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1526,
+    "EggLocationId": 386,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1527,
+    "EggLocationId": 387,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1528,
+    "EggLocationId": 387,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1529,
+    "EggLocationId": 387,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1530,
+    "EggLocationId": 387,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1531,
+    "EggLocationId": 388,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1532,
+    "EggLocationId": 388,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1533,
+    "EggLocationId": 388,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1534,
+    "EggLocationId": 388,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1535,
+    "EggLocationId": 389,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1536,
+    "EggLocationId": 389,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1537,
+    "EggLocationId": 389,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1538,
+    "EggLocationId": 389,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1539,
+    "EggLocationId": 390,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1540,
+    "EggLocationId": 390,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1541,
+    "EggLocationId": 390,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1542,
+    "EggLocationId": 390,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1543,
+    "EggLocationId": 391,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1544,
+    "EggLocationId": 391,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1545,
+    "EggLocationId": 391,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1546,
+    "EggLocationId": 391,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1547,
+    "EggLocationId": 392,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1548,
+    "EggLocationId": 392,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1549,
+    "EggLocationId": 392,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1550,
+    "EggLocationId": 392,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1551,
+    "EggLocationId": 393,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1552,
+    "EggLocationId": 393,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1553,
+    "EggLocationId": 393,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1554,
+    "EggLocationId": 393,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1555,
+    "EggLocationId": 394,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1556,
+    "EggLocationId": 394,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1557,
+    "EggLocationId": 394,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1558,
+    "EggLocationId": 394,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1559,
+    "EggLocationId": 395,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1560,
+    "EggLocationId": 395,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1561,
+    "EggLocationId": 395,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1562,
+    "EggLocationId": 395,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1563,
+    "EggLocationId": 396,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1564,
+    "EggLocationId": 396,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1565,
+    "EggLocationId": 396,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1566,
+    "EggLocationId": 396,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1567,
+    "EggLocationId": 397,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1568,
+    "EggLocationId": 397,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1569,
+    "EggLocationId": 397,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1570,
+    "EggLocationId": 397,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1571,
+    "EggLocationId": 398,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1572,
+    "EggLocationId": 398,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1573,
+    "EggLocationId": 398,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1574,
+    "EggLocationId": 398,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1575,
+    "EggLocationId": 399,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1576,
+    "EggLocationId": 399,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1577,
+    "EggLocationId": 399,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1578,
+    "EggLocationId": 399,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1579,
+    "EggLocationId": 400,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1580,
+    "EggLocationId": 400,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1581,
+    "EggLocationId": 400,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1582,
+    "EggLocationId": 400,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1583,
+    "EggLocationId": 401,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1584,
+    "EggLocationId": 401,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1585,
+    "EggLocationId": 401,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1586,
+    "EggLocationId": 401,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1587,
+    "EggLocationId": 402,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1588,
+    "EggLocationId": 402,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1589,
+    "EggLocationId": 402,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1590,
+    "EggLocationId": 402,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1591,
+    "EggLocationId": 403,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1592,
+    "EggLocationId": 403,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1593,
+    "EggLocationId": 403,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1594,
+    "EggLocationId": 403,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1595,
+    "EggLocationId": 404,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1596,
+    "EggLocationId": 404,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1597,
+    "EggLocationId": 404,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1598,
+    "EggLocationId": 404,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1599,
+    "EggLocationId": 405,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1600,
+    "EggLocationId": 405,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1601,
+    "EggLocationId": 405,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1602,
+    "EggLocationId": 405,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1603,
+    "EggLocationId": 406,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1604,
+    "EggLocationId": 406,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1605,
+    "EggLocationId": 406,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1606,
+    "EggLocationId": 406,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1607,
+    "EggLocationId": 407,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1608,
+    "EggLocationId": 407,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1609,
+    "EggLocationId": 407,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1610,
+    "EggLocationId": 407,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1611,
+    "EggLocationId": 408,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1612,
+    "EggLocationId": 408,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1613,
+    "EggLocationId": 408,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1614,
+    "EggLocationId": 408,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1615,
+    "EggLocationId": 409,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1616,
+    "EggLocationId": 409,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1617,
+    "EggLocationId": 409,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1618,
+    "EggLocationId": 409,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1619,
+    "EggLocationId": 410,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1620,
+    "EggLocationId": 410,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1621,
+    "EggLocationId": 410,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1622,
+    "EggLocationId": 410,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1623,
+    "EggLocationId": 411,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1624,
+    "EggLocationId": 411,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1625,
+    "EggLocationId": 411,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1626,
+    "EggLocationId": 411,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1627,
+    "EggLocationId": 412,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1628,
+    "EggLocationId": 412,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1629,
+    "EggLocationId": 412,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1630,
+    "EggLocationId": 412,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1631,
+    "EggLocationId": 413,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1632,
+    "EggLocationId": 413,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1633,
+    "EggLocationId": 413,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1634,
+    "EggLocationId": 413,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1635,
+    "EggLocationId": 414,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1636,
+    "EggLocationId": 414,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1637,
+    "EggLocationId": 414,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1638,
+    "EggLocationId": 414,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1639,
+    "EggLocationId": 415,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1640,
+    "EggLocationId": 415,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1641,
+    "EggLocationId": 415,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1642,
+    "EggLocationId": 415,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1643,
+    "EggLocationId": 416,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1644,
+    "EggLocationId": 416,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1645,
+    "EggLocationId": 416,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1646,
+    "EggLocationId": 416,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1647,
+    "EggLocationId": 417,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1648,
+    "EggLocationId": 417,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1649,
+    "EggLocationId": 417,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1650,
+    "EggLocationId": 417,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1651,
+    "EggLocationId": 418,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1652,
+    "EggLocationId": 418,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1653,
+    "EggLocationId": 418,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1654,
+    "EggLocationId": 418,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1655,
+    "EggLocationId": 419,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1656,
+    "EggLocationId": 419,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1657,
+    "EggLocationId": 419,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1658,
+    "EggLocationId": 419,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1659,
+    "EggLocationId": 420,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1660,
+    "EggLocationId": 420,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1661,
+    "EggLocationId": 420,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1662,
+    "EggLocationId": 420,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1663,
+    "EggLocationId": 421,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1664,
+    "EggLocationId": 421,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1665,
+    "EggLocationId": 421,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1666,
+    "EggLocationId": 421,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1667,
+    "EggLocationId": 422,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1668,
+    "EggLocationId": 422,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1669,
+    "EggLocationId": 422,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1670,
+    "EggLocationId": 422,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1671,
+    "EggLocationId": 423,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1672,
+    "EggLocationId": 423,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1673,
+    "EggLocationId": 423,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1674,
+    "EggLocationId": 423,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1675,
+    "EggLocationId": 424,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1676,
+    "EggLocationId": 424,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1677,
+    "EggLocationId": 424,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1678,
+    "EggLocationId": 424,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1679,
+    "EggLocationId": 425,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1680,
+    "EggLocationId": 425,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1681,
+    "EggLocationId": 425,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1682,
+    "EggLocationId": 425,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1683,
+    "EggLocationId": 426,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1684,
+    "EggLocationId": 426,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1685,
+    "EggLocationId": 426,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1686,
+    "EggLocationId": 426,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1687,
+    "EggLocationId": 427,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1688,
+    "EggLocationId": 427,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1689,
+    "EggLocationId": 427,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1690,
+    "EggLocationId": 427,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1691,
+    "EggLocationId": 428,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1692,
+    "EggLocationId": 428,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1693,
+    "EggLocationId": 428,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1694,
+    "EggLocationId": 428,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1695,
+    "EggLocationId": 429,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1696,
+    "EggLocationId": 429,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1697,
+    "EggLocationId": 429,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1698,
+    "EggLocationId": 429,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1699,
+    "EggLocationId": 430,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1700,
+    "EggLocationId": 430,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1701,
+    "EggLocationId": 430,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1702,
+    "EggLocationId": 430,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1703,
+    "EggLocationId": 431,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1704,
+    "EggLocationId": 431,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1705,
+    "EggLocationId": 431,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1706,
+    "EggLocationId": 431,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1707,
+    "EggLocationId": 432,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1708,
+    "EggLocationId": 432,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1709,
+    "EggLocationId": 432,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1710,
+    "EggLocationId": 432,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1711,
+    "EggLocationId": 433,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1712,
+    "EggLocationId": 433,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1713,
+    "EggLocationId": 433,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1714,
+    "EggLocationId": 433,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1715,
+    "EggLocationId": 434,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1716,
+    "EggLocationId": 434,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1717,
+    "EggLocationId": 434,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1718,
+    "EggLocationId": 434,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1719,
+    "EggLocationId": 435,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1720,
+    "EggLocationId": 435,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1721,
+    "EggLocationId": 435,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1722,
+    "EggLocationId": 435,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1723,
+    "EggLocationId": 436,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1724,
+    "EggLocationId": 436,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1725,
+    "EggLocationId": 436,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1726,
+    "EggLocationId": 436,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1727,
+    "EggLocationId": 437,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1728,
+    "EggLocationId": 437,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1729,
+    "EggLocationId": 437,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1730,
+    "EggLocationId": 437,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1731,
+    "EggLocationId": 438,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1732,
+    "EggLocationId": 438,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1733,
+    "EggLocationId": 438,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1734,
+    "EggLocationId": 438,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1735,
+    "EggLocationId": 439,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1736,
+    "EggLocationId": 439,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1737,
+    "EggLocationId": 439,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1738,
+    "EggLocationId": 439,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1739,
+    "EggLocationId": 440,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1740,
+    "EggLocationId": 440,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1741,
+    "EggLocationId": 440,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1742,
+    "EggLocationId": 440,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1743,
+    "EggLocationId": 441,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1744,
+    "EggLocationId": 441,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1745,
+    "EggLocationId": 441,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1746,
+    "EggLocationId": 441,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1747,
+    "EggLocationId": 442,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1748,
+    "EggLocationId": 442,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1749,
+    "EggLocationId": 442,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1750,
+    "EggLocationId": 442,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1751,
+    "EggLocationId": 443,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1752,
+    "EggLocationId": 443,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1753,
+    "EggLocationId": 443,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1754,
+    "EggLocationId": 443,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1755,
+    "EggLocationId": 444,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1756,
+    "EggLocationId": 444,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1757,
+    "EggLocationId": 444,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1758,
+    "EggLocationId": 444,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1759,
+    "EggLocationId": 445,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1760,
+    "EggLocationId": 445,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1761,
+    "EggLocationId": 445,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1762,
+    "EggLocationId": 445,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1763,
+    "EggLocationId": 446,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1764,
+    "EggLocationId": 446,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1765,
+    "EggLocationId": 446,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1766,
+    "EggLocationId": 446,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1767,
+    "EggLocationId": 447,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1768,
+    "EggLocationId": 447,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1769,
+    "EggLocationId": 447,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1770,
+    "EggLocationId": 447,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1771,
+    "EggLocationId": 448,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1772,
+    "EggLocationId": 448,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1773,
+    "EggLocationId": 448,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1774,
+    "EggLocationId": 448,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1775,
+    "EggLocationId": 449,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1776,
+    "EggLocationId": 449,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1777,
+    "EggLocationId": 449,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1778,
+    "EggLocationId": 449,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1779,
+    "EggLocationId": 450,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1780,
+    "EggLocationId": 450,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1781,
+    "EggLocationId": 450,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1782,
+    "EggLocationId": 450,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1783,
+    "EggLocationId": 451,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1784,
+    "EggLocationId": 451,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1785,
+    "EggLocationId": 451,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1786,
+    "EggLocationId": 451,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1787,
+    "EggLocationId": 452,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1788,
+    "EggLocationId": 452,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1789,
+    "EggLocationId": 452,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1790,
+    "EggLocationId": 452,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1791,
+    "EggLocationId": 453,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1792,
+    "EggLocationId": 453,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1793,
+    "EggLocationId": 453,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1794,
+    "EggLocationId": 453,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1795,
+    "EggLocationId": 454,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1796,
+    "EggLocationId": 454,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1797,
+    "EggLocationId": 454,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1798,
+    "EggLocationId": 454,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1799,
+    "EggLocationId": 455,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1800,
+    "EggLocationId": 455,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1801,
+    "EggLocationId": 455,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1802,
+    "EggLocationId": 455,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1803,
+    "EggLocationId": 456,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1804,
+    "EggLocationId": 456,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1805,
+    "EggLocationId": 456,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1806,
+    "EggLocationId": 456,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1807,
+    "EggLocationId": 457,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1808,
+    "EggLocationId": 457,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1809,
+    "EggLocationId": 457,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1810,
+    "EggLocationId": 457,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1811,
+    "EggLocationId": 458,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1812,
+    "EggLocationId": 458,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1813,
+    "EggLocationId": 458,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1814,
+    "EggLocationId": 458,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1815,
+    "EggLocationId": 459,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1816,
+    "EggLocationId": 459,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1817,
+    "EggLocationId": 459,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1818,
+    "EggLocationId": 459,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1819,
+    "EggLocationId": 460,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1820,
+    "EggLocationId": 460,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1821,
+    "EggLocationId": 460,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1822,
+    "EggLocationId": 460,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1823,
+    "EggLocationId": 461,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1824,
+    "EggLocationId": 461,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1825,
+    "EggLocationId": 461,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1826,
+    "EggLocationId": 461,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1827,
+    "EggLocationId": 462,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1828,
+    "EggLocationId": 462,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1829,
+    "EggLocationId": 462,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1830,
+    "EggLocationId": 462,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1831,
+    "EggLocationId": 463,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1832,
+    "EggLocationId": 463,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1833,
+    "EggLocationId": 463,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1834,
+    "EggLocationId": 463,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1835,
+    "EggLocationId": 464,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1836,
+    "EggLocationId": 464,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1837,
+    "EggLocationId": 464,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1838,
+    "EggLocationId": 464,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1839,
+    "EggLocationId": 465,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1840,
+    "EggLocationId": 465,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1841,
+    "EggLocationId": 465,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1842,
+    "EggLocationId": 465,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1843,
+    "EggLocationId": 466,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1844,
+    "EggLocationId": 466,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1845,
+    "EggLocationId": 466,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1846,
+    "EggLocationId": 466,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1847,
+    "EggLocationId": 467,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1848,
+    "EggLocationId": 467,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1849,
+    "EggLocationId": 467,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1850,
+    "EggLocationId": 467,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1851,
+    "EggLocationId": 468,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1852,
+    "EggLocationId": 468,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1853,
+    "EggLocationId": 468,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1854,
+    "EggLocationId": 468,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1855,
+    "EggLocationId": 469,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1856,
+    "EggLocationId": 469,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1857,
+    "EggLocationId": 469,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1858,
+    "EggLocationId": 469,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1859,
+    "EggLocationId": 470,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1860,
+    "EggLocationId": 470,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1861,
+    "EggLocationId": 470,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1862,
+    "EggLocationId": 470,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1863,
+    "EggLocationId": 471,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1864,
+    "EggLocationId": 471,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1865,
+    "EggLocationId": 471,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1866,
+    "EggLocationId": 471,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1867,
+    "EggLocationId": 472,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1868,
+    "EggLocationId": 472,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1869,
+    "EggLocationId": 472,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1870,
+    "EggLocationId": 472,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1871,
+    "EggLocationId": 473,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1872,
+    "EggLocationId": 473,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1873,
+    "EggLocationId": 473,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1874,
+    "EggLocationId": 473,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1875,
+    "EggLocationId": 474,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1876,
+    "EggLocationId": 474,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1877,
+    "EggLocationId": 474,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1878,
+    "EggLocationId": 474,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1879,
+    "EggLocationId": 475,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1880,
+    "EggLocationId": 475,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1881,
+    "EggLocationId": 475,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1882,
+    "EggLocationId": 475,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1883,
+    "EggLocationId": 476,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1884,
+    "EggLocationId": 476,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1885,
+    "EggLocationId": 476,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1886,
+    "EggLocationId": 476,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1887,
+    "EggLocationId": 477,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1888,
+    "EggLocationId": 477,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1889,
+    "EggLocationId": 477,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1890,
+    "EggLocationId": 477,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1891,
+    "EggLocationId": 478,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1892,
+    "EggLocationId": 478,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1893,
+    "EggLocationId": 478,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1894,
+    "EggLocationId": 478,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1895,
+    "EggLocationId": 479,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1896,
+    "EggLocationId": 479,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1897,
+    "EggLocationId": 479,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1898,
+    "EggLocationId": 479,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1899,
+    "EggLocationId": 480,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1900,
+    "EggLocationId": 480,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1901,
+    "EggLocationId": 480,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1902,
+    "EggLocationId": 480,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1903,
+    "EggLocationId": 481,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1904,
+    "EggLocationId": 481,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1905,
+    "EggLocationId": 481,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1906,
+    "EggLocationId": 481,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1907,
+    "EggLocationId": 482,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1908,
+    "EggLocationId": 482,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1909,
+    "EggLocationId": 482,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1910,
+    "EggLocationId": 482,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1911,
+    "EggLocationId": 483,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1912,
+    "EggLocationId": 483,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1913,
+    "EggLocationId": 483,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1914,
+    "EggLocationId": 483,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1915,
+    "EggLocationId": 484,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1916,
+    "EggLocationId": 484,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1917,
+    "EggLocationId": 484,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1918,
+    "EggLocationId": 484,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1919,
+    "EggLocationId": 485,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1920,
+    "EggLocationId": 485,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1921,
+    "EggLocationId": 485,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1922,
+    "EggLocationId": 485,
+    "SeasonId": 4
+  },
+  {
+    "EggLocationSeasonId": 1923,
+    "EggLocationId": 486,
+    "SeasonId": 1
+  },
+  {
+    "EggLocationSeasonId": 1924,
+    "EggLocationId": 486,
+    "SeasonId": 2
+  },
+  {
+    "EggLocationSeasonId": 1925,
+    "EggLocationId": 486,
+    "SeasonId": 3
+  },
+  {
+    "EggLocationSeasonId": 1926,
+    "EggLocationId": 486,
+    "SeasonId": 4
+  }
+]
