@@ -10,6 +10,13 @@
     "Parent2": "Drooling Ghoul"
   },
   {
+    "Result": "Abominable Showman",
+    "GrandParent1A": "Sweaty Yeti",
+    "GrandParent1B": "Powie Yowie",
+    "GrandParent2A": "Fightgeist",
+    "GrandParent2B": "Frolicker"
+  },
+  {
     "Result": "Abracadabrador",
     "Parent1": "Foo Dog",
     "Parent2": "Lump Shaman"
@@ -188,6 +195,13 @@
     "Result": "Baleen Mage",
     "Parent1": "Overtoad",
     "Parent2": "Mogus"
+  },
+  {
+    "Result": "Balhib",
+    "GrandParent1A": "Magmalice",
+    "GrandParent1B": "Firn Fiend",
+    "GrandParent2A": "Coralossus",
+    "GrandParent2B": "Stone Golem"
   },
   {
     "Result": "Balzack",
@@ -500,9 +514,21 @@
     "Parent2": "Nardragon"
   },
   {
+    "Result": "Buntzenberner",
+    "GrandParent1A": "Dancing Flame",
+    "GrandParent1B": "Frostburn",
+    "GrandParent2A": "Soulspawn",
+    "GrandParent2B": "Brimstone Bulb"
+  },
+  {
     "Result": "Cactiball",
     "Parent1": "Disfigurine",
     "Parent2": "Nature Family (Any)"
+  },
+  {
+    "Result": "Calasmos",
+    "Parent1": "The Darkling",
+    "Parent2": "Nelgel the Netherfiend"
   },
   {
     "Result": "Calypso King",
@@ -638,6 +664,13 @@
     "Result": "Corpsickle",
     "Parent1": "Walking Corpse",
     "Parent2": "Cauldragon"
+  },
+  {
+    "Result": "Corvus",
+    "GrandParent1A": "Lieutenant Hootingham-Gore",
+    "GrandParent1B": "Lieutenant Goreham-Hogg",
+    "GrandParent2A": "Lieutenant Goresby-Purrvis",
+    "GrandParent2B": "Barbarus"
   },
   {
     "Result": "Cosmic Chimaera",
@@ -783,6 +816,13 @@
     "Result": "Dark King Slime",
     "Parent1": "Slime Family (D)",
     "Parent2": "Demon Family (D)"
+  },
+  {
+    "Result": "Dark Sabrecat",
+    "GrandParent1A": "Great Sabercat",
+    "GrandParent1B": "Great Sabercat",
+    "GrandParent2A": "Dark Sabrecub",
+    "GrandParent2B": "Dark Hare"
   },
   {
     "Result": "Dark Sabrecat",
@@ -1023,6 +1063,13 @@
     "Result": "Escudogre",
     "Parent1": "Material Family (E)",
     "Parent2": "Beast Family (E)"
+  },
+  {
+    "Result": "Estark",
+    "GrandParent1A": "Psaro the Manslayer",
+    "GrandParent1B": "Nimzo",
+    "GrandParent2A": "Rhapthorne",
+    "GrandParent2B": "Nelgel the Netherfiend"
   },
   {
     "Result": "Evil Sir Leopold",
@@ -1375,6 +1422,13 @@
     "Parent2": "Beast Family (G)"
   },
   {
+    "Result": "Greater Platypink",
+    "GrandParent1A": "Queen Slime",
+    "GrandParent1B": "King Jester Slime",
+    "GrandParent2A": "Greater Platypunk",
+    "GrandParent2B": "Splatypunk"
+  },
+  {
     "Result": "Greater Platypunk",
     "Parent1": "Platypunk",
     "Parent2": "King Slime"
@@ -1518,6 +1572,13 @@
     "Result": "Hard-Boiled Eggsoskeleton",
     "Parent1": "Material Family (B)",
     "Parent2": "Slime Family (B)"
+  },
+  {
+    "Result": "Hargon",
+    "GrandParent1A": "Atlas",
+    "GrandParent1B": "Belial",
+    "GrandParent2A": "Wrecktor",
+    "GrandParent2B": "Pazuzu"
   },
   {
     "Result": "Harmour",
@@ -1731,6 +1792,13 @@
   },
   {
     "Result": "Jester Slime",
+    "GrandParent1A": "Dark Slime",
+    "GrandParent1B": "Jinkster",
+    "GrandParent2A": "Angel Slime",
+    "GrandParent2B": "Lump Shaman"
+  },
+  {
+    "Result": "Jester Slime",
     "Parent1": "Slime Family (C)",
     "Parent2": "Undead Family (C)"
   },
@@ -1773,11 +1841,6 @@
     "Result": "Khalamari Kid",
     "Parent1": "Slime Family (G)",
     "Parent2": "Nature Family (G)"
-  },
-  {
-    "Result": "Khalasmos",
-    "Parent1": "The Darkling",
-    "Parent2": "Nelgel the Netherfiend"
   },
   {
     "Result": "Killer Gila",
@@ -1848,6 +1911,13 @@
     "Result": "King Kelp",
     "Parent1": "Scarfish",
     "Parent2": "Woebergine"
+  },
+  {
+    "Result": "King Slick Slime",
+    "GrandParent1A": "King Bubble Slime",
+    "GrandParent1B": "Slick Slime",
+    "GrandParent2A": "Scuttle Slime",
+    "GrandParent2B": "Magmalice"
   },
   {
     "Result": "King Slick Slime",
@@ -2120,6 +2190,13 @@
     "Parent2": "Metal Slime"
   },
   {
+    "Result": "Mimic",
+    "GrandParent1A": "Cannibox",
+    "GrandParent1B": "Well Wisher",
+    "GrandParent2A": "Cannibox",
+    "GrandParent2B": "Bag o' Tricks"
+  },
+  {
     "Result": "Minidemon",
     "Parent1": "Demon Family (D)",
     "Parent2": "Slime Family (D)"
@@ -2198,6 +2275,13 @@
     "Result": "Morphean Mushroom",
     "Parent1": "Undead Family (E)",
     "Parent2": "Nature Family (E)"
+  },
+  {
+    "Result": "Mortamor",
+    "GrandParent1A": "Murdaw",
+    "GrandParent1B": "Überkilling Machine",
+    "GrandParent2A": "Hacksaurus",
+    "GrandParent2B": "Stout Troll"
   },
   {
     "Result": "Mottle She-Slime",
@@ -2320,6 +2404,13 @@
     "Parent2": "Night Emperor"
   },
   {
+    "Result": "Nimzo",
+    "GrandParent1A": "Bishop Ladja",
+    "GrandParent1B": "Mechan-o'-Wyrm",
+    "GrandParent2A": "Luneyetic",
+    "GrandParent2B": "Bilhaw"
+  },
+  {
     "Result": "Noble Gasbagon",
     "Parent1": "Dragon Family (C)",
     "Parent2": "Slime Family (C)"
@@ -2328,6 +2419,13 @@
     "Result": "Noble Gasbagon",
     "Parent1": "Saltwater Stallion",
     "Parent2": "Gasbagon"
+  },
+  {
+    "Result": "Nokturnus",
+    "GrandParent1A": "Mortamor",
+    "GrandParent1B": "Ramia",
+    "GrandParent2A": "The Almighty",
+    "GrandParent2B": "Lord of the Dragovians"
   },
   {
     "Result": "Notso Macho",
@@ -2408,6 +2506,13 @@
     "Result": "Orc King",
     "Parent1": "Orc",
     "Parent2": "Cheater Cheetah"
+  },
+  {
+    "Result": "Orgodemir",
+    "GrandParent1A": "Macho Picchu",
+    "GrandParent1B": "The Time Being",
+    "GrandParent2A": "Night Knight",
+    "GrandParent2B": "Pandora's Box"
   },
   {
     "Result": "Ornery Onion",
@@ -2550,9 +2655,23 @@
     "Parent2": "Pocus Poppet"
   },
   {
+    "Result": "Prism peacock",
+    "GrandParent1A": "Firebird",
+    "GrandParent1B": "Phoenix",
+    "GrandParent2A": "Snowbird",
+    "GrandParent2B": "Gangleclaw"
+  },
+  {
     "Result": "Pruslas",
     "Parent1": "Balzack",
     "Parent2": "Metal Scorpion"
+  },
+  {
+    "Result": "Psaro the Manslayer",
+    "GrandParent1A": "Rashaverak",
+    "GrandParent1B": "Aamon",
+    "GrandParent2A": "Pruslas",
+    "GrandParent2B": "Barbatos"
   },
   {
     "Result": "Pteranodon",
@@ -2583,6 +2702,13 @@
     "Result": "Rabid Rector",
     "Parent1": "The Time Being",
     "Parent2": "Goomulonimbus"
+  },
+  {
+    "Result": "Ramia",
+    "GrandParent1A": "Xenlon",
+    "GrandParent1B": "Great Keeper",
+    "GrandParent2A": "Phoenix",
+    "GrandParent2B": "Fluffy"
   },
   {
     "Result": "Raptile",
@@ -3473,5 +3599,12 @@
     "Result": "Zaptile",
     "Parent1": "Raptile",
     "Parent2": "Scornet"
+  },
+  {
+    "Result": "Zoma",
+    "GrandParent1A": "King Hydra",
+    "GrandParent1B": "Malroth",
+    "GrandParent2A": "Bones of Baramos",
+    "GrandParent2B": "Calasmos"
   }
 ]

@@ -3664,5 +3664,17 @@
     "MonsterId": 543,
     "TalentId": 238,
     "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 620,
+    "MonsterId": 548,
+    "TalentId": 193,
+    "IsPrimary": true
+  },
+  {
+    "MonsterTalentId": 621,
+    "MonsterId": 571,
+    "TalentId": 246,
+    "IsPrimary": true
   }
 ]

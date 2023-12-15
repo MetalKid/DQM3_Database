@@ -24,28 +24,28 @@
     "TalentId": 65,
     "Name": "Agility Booster II",
     "Identifier": "agility-booster-ii",
-    "JapaneseName": null,
+    "JapaneseName": "すばやさアップ2",
     "IsEggOnly": false
   },
   {
     "TalentId": 122,
     "Name": "Agility Booster III",
     "Identifier": "agility-booster-iii",
-    "JapaneseName": null,
+    "JapaneseName": "すばやさアップ3",
     "IsEggOnly": false
   },
   {
     "TalentId": 123,
     "Name": "Agility Booster IV",
     "Identifier": "agility-booster-iv",
-    "JapaneseName": null,
+    "JapaneseName": "すばやさアップ4",
     "IsEggOnly": false
   },
   {
     "TalentId": 91,
     "Name": "Air Fryer",
     "Identifier": "air-fryer",
-    "JapaneseName": null,
+    "JapaneseName": "風炎の剣技",
     "IsEggOnly": false
   },
   {
@@ -108,21 +108,21 @@
     "TalentId": 61,
     "Name": "Attack Booster II",
     "Identifier": "attack-booster-ii",
-    "JapaneseName": null,
+    "JapaneseName": "攻撃力アップ2",
     "IsEggOnly": false
   },
   {
     "TalentId": 118,
     "Name": "Attack Booster III",
     "Identifier": "attack-booster-iii",
-    "JapaneseName": null,
+    "JapaneseName": "攻撃力アップ3",
     "IsEggOnly": false
   },
   {
     "TalentId": 119,
     "Name": "Attack Booster IV",
     "Identifier": "attack-booster-iv",
-    "JapaneseName": null,
+    "JapaneseName": "攻撃力アップ4",
     "IsEggOnly": false
   },
   {
@@ -143,7 +143,7 @@
     "TalentId": 10,
     "Name": "Bang Virtuoso",
     "Identifier": "bang-virtuoso",
-    "JapaneseName": null,
+    "JapaneseName": "爆発の極意",
     "IsEggOnly": false
   },
   {
@@ -213,7 +213,7 @@
     "TalentId": 127,
     "Name": "Blowhard",
     "Identifier": "blowhard",
-    "JapaneseName": null,
+    "JapaneseName": "グランドブレスSP",
     "IsEggOnly": false
   },
   {
@@ -283,14 +283,14 @@
     "TalentId": 193,
     "Name": "Cheesy Grin",
     "Identifier": "cheesy-grin",
-    "JapaneseName": null,
+    "JapaneseName": "もぐもぐスマイル",
     "IsEggOnly": false
   },
   {
     "TalentId": 133,
     "Name": "Chiaroscuro Shield",
     "Identifier": "chiaroscuro-shield",
-    "JapaneseName": null,
+    "JapaneseName": "白黒ガードSP",
     "IsEggOnly": false
   },
   {
@@ -353,7 +353,7 @@
     "TalentId": 12,
     "Name": "Crack Virtuoso",
     "Identifier": "crack-virtuoso",
-    "JapaneseName": null,
+    "JapaneseName": "氷結の極意",
     "IsEggOnly": false
   },
   {
@@ -374,7 +374,7 @@
     "TalentId": 8,
     "Name": "Crag Virtuoso",
     "Identifier": "crag-virtuoso",
-    "JapaneseName": null,
+    "JapaneseName": "地の極意",
     "IsEggOnly": false
   },
   {
@@ -409,7 +409,7 @@
     "TalentId": 134,
     "Name": "Cyclone Shield",
     "Identifier": "cyclone-shield",
-    "JapaneseName": null,
+    "JapaneseName": "爆風ガードSP",
     "IsEggOnly": false
   },
   {
@@ -451,7 +451,7 @@
     "TalentId": 21,
     "Name": "Deep Breather",
     "Identifier": "deep-breather",
-    "JapaneseName": null,
+    "JapaneseName": "ブレスマスター",
     "IsEggOnly": false
   },
   {
@@ -465,21 +465,21 @@
     "TalentId": 63,
     "Name": "Defence Booster II",
     "Identifier": "defence-booster-ii",
-    "JapaneseName": null,
+    "JapaneseName": "守備力アップ2",
     "IsEggOnly": false
   },
   {
     "TalentId": 120,
     "Name": "Defence Booster III",
     "Identifier": "defense-booster-iii",
-    "JapaneseName": null,
+    "JapaneseName": "守備力アップ3",
     "IsEggOnly": false
   },
   {
     "TalentId": 121,
     "Name": "Defence Booster IV",
     "Identifier": "defense-booster-iv",
-    "JapaneseName": null,
+    "JapaneseName": "守備力アップ4",
     "IsEggOnly": false
   },
   {
@@ -619,14 +619,14 @@
     "TalentId": 103,
     "Name": "Freeze Popper",
     "Identifier": "freeze-popper",
-    "JapaneseName": null,
+    "JapaneseName": "爆氷の剣技",
     "IsEggOnly": false
   },
   {
     "TalentId": 129,
     "Name": "Freezer Burner",
     "Identifier": "freezer-burner",
-    "JapaneseName": null,
+    "JapaneseName": "氷炎の剣技",
     "IsEggOnly": false
   },
   {
@@ -640,7 +640,7 @@
     "TalentId": 2,
     "Name": "Frizz Virtuoso",
     "Identifier": "frizz-virtuoso",
-    "JapaneseName": null,
+    "JapaneseName": "火の極意",
     "IsEggOnly": false
   },
   {
@@ -654,14 +654,14 @@
     "TalentId": 126,
     "Name": "Frosty Receptionist",
     "Identifier": "frosty-receptionist",
-    "JapaneseName": null,
+    "JapaneseName": "氷獄",
     "IsEggOnly": false
   },
   {
     "TalentId": 131,
     "Name": "Fulgurite Shield",
     "Identifier": "fulgurite-shield",
-    "JapaneseName": null,
+    "JapaneseName": "稲妻ガードSP",
     "IsEggOnly": false
   },
   {
@@ -675,7 +675,7 @@
     "TalentId": 136,
     "Name": "Glacier Shield",
     "Identifier": "glacier-shield",
-    "JapaneseName": null,
+    "JapaneseName": "流氷ガードSP",
     "IsEggOnly": false
   },
   {
@@ -710,14 +710,14 @@
     "TalentId": 104,
     "Name": "Hair Splitter",
     "Identifier": "hair-splitter",
-    "JapaneseName": null,
+    "JapaneseName": "けんごうSP",
     "IsEggOnly": false
   },
   {
     "TalentId": 197,
     "Name": "Hard Warder",
     "Identifier": "hard-warder",
-    "JapaneseName": null,
+    "JapaneseName": "ウルトラガードSP",
     "IsEggOnly": true
   },
   {
@@ -780,7 +780,7 @@
     "TalentId": 195,
     "Name": "Holy Warder",
     "Identifier": "holy-warder",
-    "JapaneseName": null,
+    "JapaneseName": "ミラクルガードSP",
     "IsEggOnly": true
   },
   {
@@ -801,21 +801,21 @@
     "TalentId": 57,
     "Name": "HP Booster II",
     "Identifier": "hp-booster-ii",
-    "JapaneseName": null,
+    "JapaneseName": "HPアップ2",
     "IsEggOnly": false
   },
   {
     "TalentId": 114,
     "Name": "HP Booster III",
     "Identifier": "hp-booster-iii",
-    "JapaneseName": null,
+    "JapaneseName": "HPアップ3",
     "IsEggOnly": false
   },
   {
     "TalentId": 115,
     "Name": "HP Booster IV",
     "Identifier": "hp-booster-iv",
-    "JapaneseName": null,
+    "JapaneseName": "HPアップ4",
     "IsEggOnly": false
   },
   {
@@ -829,7 +829,7 @@
     "TalentId": 93,
     "Name": "Impactor",
     "Identifier": "impactor",
-    "JapaneseName": null,
+    "JapaneseName": "闇の爆炎SP",
     "IsEggOnly": false
   },
   {
@@ -892,7 +892,7 @@
     "TalentId": 135,
     "Name": "Magma Shield",
     "Identifier": "magma-shield",
-    "JapaneseName": null,
+    "JapaneseName": "流氷ガードSP",
     "IsEggOnly": false
   },
   {
@@ -969,21 +969,21 @@
     "TalentId": 59,
     "Name": "MP Booster II",
     "Identifier": "mp-booster-ii",
-    "JapaneseName": null,
+    "JapaneseName": "MPアップ2",
     "IsEggOnly": false
   },
   {
     "TalentId": 116,
     "Name": "MP Booster III",
     "Identifier": "mp-booster-iii",
-    "JapaneseName": null,
+    "JapaneseName": "MPアップ3",
     "IsEggOnly": false
   },
   {
     "TalentId": 117,
     "Name": "MP Booster IV",
     "Identifier": "mp-booster-iv",
-    "JapaneseName": null,
+    "JapaneseName": "MPアップ4",
     "IsEggOnly": false
   },
   {
@@ -1102,7 +1102,7 @@
     "TalentId": 94,
     "Name": "Perfect Speller",
     "Identifier": "perfect-speller",
-    "JapaneseName": null,
+    "JapaneseName": "グランスペルSP",
     "IsEggOnly": false
   },
   {
@@ -1123,7 +1123,7 @@
     "TalentId": 92,
     "Name": "Polariser",
     "Identifier": "polariser",
-    "JapaneseName": null,
+    "JapaneseName": "聖なる吹雪SP",
     "IsEggOnly": false
   },
   {
@@ -1263,7 +1263,7 @@
     "TalentId": 16,
     "Name": "Sizz Virtuoso",
     "Identifier": "sizz-virtuoso",
-    "JapaneseName": null,
+    "JapaneseName": "光の極意",
     "IsEggOnly": false
   },
   {
@@ -1305,7 +1305,7 @@
     "TalentId": 105,
     "Name": "Smart Blazer",
     "Identifier": "smart-blazer",
-    "JapaneseName": null,
+    "JapaneseName": "獄炎",
     "IsEggOnly": false
   },
   {
@@ -1347,7 +1347,7 @@
     "TalentId": 196,
     "Name": "Sparkling Warder",
     "Identifier": "sparkling-warder",
-    "JapaneseName": null,
+    "JapaneseName": "スーパーガードSP",
     "IsEggOnly": true
   },
   {
@@ -1375,7 +1375,7 @@
     "TalentId": 4,
     "Name": "Splash Virtuoso",
     "Identifier": "splash-virtuoso",
-    "JapaneseName": null,
+    "JapaneseName": "水の極意",
     "IsEggOnly": false
   },
   {
@@ -1403,7 +1403,7 @@
     "TalentId": 130,
     "Name": "Storm Brewer",
     "Identifier": "storm-brewer",
-    "JapaneseName": null,
+    "JapaneseName": "風雷の剣技",
     "IsEggOnly": false
   },
   {
@@ -1438,7 +1438,7 @@
     "TalentId": 174,
     "Name": "Supreme Healer",
     "Identifier": "supreme-healer",
-    "JapaneseName": null,
+    "JapaneseName": "超回復SP",
     "IsEggOnly": false
   },
   {
@@ -1446,6 +1446,13 @@
     "Name": "Sweet-Talker",
     "Identifier": "sweet-talker",
     "JapaneseName": "スイート",
+    "IsEggOnly": false
+  },
+  {
+    "TalentId": 246,
+    "Name": "Swirling Dervish",
+    "Identifier": "swirling-dervish",
+    "JapaneseName": "ハラハラフルーリー",
     "IsEggOnly": false
   },
   {
@@ -1494,7 +1501,7 @@
     "TalentId": 132,
     "Name": "Tremor Shield",
     "Identifier": "tremor-shield",
-    "JapaneseName": null,
+    "JapaneseName": "流氷ガードSP",
     "IsEggOnly": false
   },
   {
@@ -1571,21 +1578,21 @@
     "TalentId": 67,
     "Name": "Wisdom Booster II",
     "Identifier": "wisdom-booster-ii",
-    "JapaneseName": null,
+    "JapaneseName": "かしこさアップ2",
     "IsEggOnly": false
   },
   {
     "TalentId": 124,
     "Name": "Wisdom Booster III",
     "Identifier": "wisdoom-booster-iii",
-    "JapaneseName": null,
+    "JapaneseName": "かしこさアップ3",
     "IsEggOnly": false
   },
   {
     "TalentId": 125,
     "Name": "Wisdom Booster IV",
     "Identifier": "wisdoom-booster-iv",
-    "JapaneseName": null,
+    "JapaneseName": "かしこさアップ4",
     "IsEggOnly": false
   },
   {
@@ -1599,7 +1606,7 @@
     "TalentId": 6,
     "Name": "Woosh Virtuoso",
     "Identifier": "woosh-virtuoso",
-    "JapaneseName": null,
+    "JapaneseName": "風の極意",
     "IsEggOnly": false
   },
   {
@@ -1641,7 +1648,7 @@
     "TalentId": 18,
     "Name": "Zam Virtuoso",
     "Identifier": "zam-virtuoso",
-    "JapaneseName": null,
+    "JapaneseName": "闇の極意",
     "IsEggOnly": false
   },
   {
@@ -1662,7 +1669,7 @@
     "TalentId": 14,
     "Name": "Zap Virtuoso",
     "Identifier": "zap-virtuoso",
-    "JapaneseName": null,
+    "JapaneseName": "電撃の極意",
     "IsEggOnly": false
   },
   {
