@@ -1512,17 +1512,17 @@
     "IsEggOnly": false
   },
   {
+    "TalentId": 198,
+    "Name": "Vagabond",
+    "Identifier": "vagabond",
+    "JapaneseName": "ふうらいぼう",
+    "IsEggOnly": false
+  },
+  {
     "TalentId": 169,
     "Name": "Vaudevillian",
     "Identifier": "vaudevillian",
     "JapaneseName": "アクロバット",
-    "IsEggOnly": false
-  },
-  {
-    "TalentId": 198,
-    "Name": "Vegabond",
-    "Identifier": "vegabond",
-    "JapaneseName": "ふうらいぼう",
     "IsEggOnly": false
   },
   {

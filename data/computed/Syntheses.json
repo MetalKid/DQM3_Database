@@ -112,11 +112,6 @@
     "Parent2": "Material Family (F)"
   },
   {
-    "Result": "Assassin Circle",
-    "Parent1": "Peeper",
-    "Parent2": "Dancing Flame"
-  },
-  {
     "Result": "Atlas",
     "Parent1": "Gigantes",
     "Parent2": "Stout Troll"
@@ -317,6 +312,11 @@
     "Result": "Blizzybody",
     "Parent1": "Frostburn",
     "Parent2": "Beleth"
+  },
+  {
+    "Result": "Bloodbonnet",
+    "Parent1": "Peeper",
+    "Parent2": "Dancing Flame"
   },
   {
     "Result": "Bloody Hand",
@@ -1362,6 +1362,11 @@
     "Parent2": "Stone Golem"
   },
   {
+    "Result": "Goobonce",
+    "Parent1": "Winky",
+    "Parent2": "Frostburn"
+  },
+  {
     "Result": "Goodybag",
     "Parent1": "Material Family (E)",
     "Parent2": "Slime Family (E)"
@@ -1721,11 +1726,6 @@
     "Parent2": "Undead Family (D)"
   },
   {
-    "Result": "Ice-Breaker",
-    "Parent1": "Winky",
-    "Parent2": "Frostburn"
-  },
-  {
     "Result": "Imp",
     "Parent1": "Blinkster",
     "Parent2": "Dracky"
@@ -2062,12 +2062,12 @@
   {
     "Result": "Luneyetic",
     "Parent1": "Cross Eye",
-    "Parent2": "Assassin Circle"
+    "Parent2": "Bloodbonnet"
   },
   {
     "Result": "Luneyetic",
     "Parent1": "Cross Eye",
-    "Parent2": "Ice-Breaker"
+    "Parent2": "Goobonce"
   },
   {
     "Result": "Macho Picchu",

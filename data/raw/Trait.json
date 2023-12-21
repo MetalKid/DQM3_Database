@@ -2349,7 +2349,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Reduces all stats by 20%."
+    "Notes": "Reduces all stats by 20%. Attacks 1 to 3 times."
   },
   {
     "TraitId": 4,
@@ -2377,7 +2377,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Reduces all stats by 10%."
+    "Notes": "Reduces all stats by 10%. Attacks 1 to 2 times. "
   },
   {
     "TraitId": 91,
