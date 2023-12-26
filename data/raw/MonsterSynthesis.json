@@ -7852,5 +7852,16 @@
     "MonsterGrandParent2AId": null,
     "MonsterGrandParent2BId": null,
     "AreBothRankSpecific": false
+  },
+  {
+    "MonsterSynthesisId": 1530,
+    "MonsterResultId": 261,
+    "MonsterParent1Id": 23,
+    "MonsterGrandParent1AId": null,
+    "MonsterGrandParent1BId": null,
+    "MonsterParent2Id": 43,
+    "MonsterGrandParent2AId": null,
+    "MonsterGrandParent2BId": null,
+    "AreBothRankSpecific": false
   }
 ]
