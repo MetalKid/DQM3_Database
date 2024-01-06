@@ -1,0 +1,717 @@
+[
+  {
+    "ItemTraitId": 86,
+    "ItemId": 160,
+    "TraitId": 40
+  },
+  {
+    "ItemTraitId": 87,
+    "ItemId": 161,
+    "TraitId": 40
+  },
+  {
+    "ItemTraitId": 23,
+    "ItemId": 65,
+    "TraitId": 49
+  },
+  {
+    "ItemTraitId": 10,
+    "ItemId": 66,
+    "TraitId": 49
+  },
+  {
+    "ItemTraitId": 137,
+    "ItemId": 149,
+    "TraitId": 49
+  },
+  {
+    "ItemTraitId": 75,
+    "ItemId": 150,
+    "TraitId": 49
+  },
+  {
+    "ItemTraitId": 19,
+    "ItemId": 67,
+    "TraitId": 50
+  },
+  {
+    "ItemTraitId": 108,
+    "ItemId": 151,
+    "TraitId": 50
+  },
+  {
+    "ItemTraitId": 99,
+    "ItemId": 152,
+    "TraitId": 50
+  },
+  {
+    "ItemTraitId": 100,
+    "ItemId": 153,
+    "TraitId": 50
+  },
+  {
+    "ItemTraitId": 26,
+    "ItemId": 44,
+    "TraitId": 51
+  },
+  {
+    "ItemTraitId": 143,
+    "ItemId": 162,
+    "TraitId": 51
+  },
+  {
+    "ItemTraitId": 52,
+    "ItemId": 163,
+    "TraitId": 51
+  },
+  {
+    "ItemTraitId": 53,
+    "ItemId": 164,
+    "TraitId": 51
+  },
+  {
+    "ItemTraitId": 3,
+    "ItemId": 36,
+    "TraitId": 185
+  },
+  {
+    "ItemTraitId": 49,
+    "ItemId": 178,
+    "TraitId": 185
+  },
+  {
+    "ItemTraitId": 117,
+    "ItemId": 179,
+    "TraitId": 185
+  },
+  {
+    "ItemTraitId": 118,
+    "ItemId": 180,
+    "TraitId": 185
+  },
+  {
+    "ItemTraitId": 132,
+    "ItemId": 186,
+    "TraitId": 185
+  },
+  {
+    "ItemTraitId": 135,
+    "ItemId": 187,
+    "TraitId": 185
+  },
+  {
+    "ItemTraitId": 29,
+    "ItemId": 88,
+    "TraitId": 188
+  },
+  {
+    "ItemTraitId": 50,
+    "ItemId": 174,
+    "TraitId": 188
+  },
+  {
+    "ItemTraitId": 51,
+    "ItemId": 175,
+    "TraitId": 188
+  },
+  {
+    "ItemTraitId": 119,
+    "ItemId": 176,
+    "TraitId": 188
+  },
+  {
+    "ItemTraitId": 120,
+    "ItemId": 177,
+    "TraitId": 188
+  },
+  {
+    "ItemTraitId": 111,
+    "ItemId": 184,
+    "TraitId": 188
+  },
+  {
+    "ItemTraitId": 112,
+    "ItemId": 185,
+    "TraitId": 188
+  },
+  {
+    "ItemTraitId": 2,
+    "ItemId": 45,
+    "TraitId": 189
+  },
+  {
+    "ItemTraitId": 101,
+    "ItemId": 146,
+    "TraitId": 189
+  },
+  {
+    "ItemTraitId": 48,
+    "ItemId": 165,
+    "TraitId": 189
+  },
+  {
+    "ItemTraitId": 115,
+    "ItemId": 166,
+    "TraitId": 189
+  },
+  {
+    "ItemTraitId": 116,
+    "ItemId": 167,
+    "TraitId": 189
+  },
+  {
+    "ItemTraitId": 109,
+    "ItemId": 184,
+    "TraitId": 189
+  },
+  {
+    "ItemTraitId": 114,
+    "ItemId": 185,
+    "TraitId": 189
+  },
+  {
+    "ItemTraitId": 1,
+    "ItemId": 46,
+    "TraitId": 191
+  },
+  {
+    "ItemTraitId": 43,
+    "ItemId": 171,
+    "TraitId": 191
+  },
+  {
+    "ItemTraitId": 121,
+    "ItemId": 172,
+    "TraitId": 191
+  },
+  {
+    "ItemTraitId": 122,
+    "ItemId": 173,
+    "TraitId": 191
+  },
+  {
+    "ItemTraitId": 110,
+    "ItemId": 184,
+    "TraitId": 191
+  },
+  {
+    "ItemTraitId": 113,
+    "ItemId": 185,
+    "TraitId": 191
+  },
+  {
+    "ItemTraitId": 33,
+    "ItemId": 92,
+    "TraitId": 193
+  },
+  {
+    "ItemTraitId": 91,
+    "ItemId": 168,
+    "TraitId": 193
+  },
+  {
+    "ItemTraitId": 92,
+    "ItemId": 169,
+    "TraitId": 193
+  },
+  {
+    "ItemTraitId": 93,
+    "ItemId": 170,
+    "TraitId": 193
+  },
+  {
+    "ItemTraitId": 131,
+    "ItemId": 186,
+    "TraitId": 193
+  },
+  {
+    "ItemTraitId": 136,
+    "ItemId": 187,
+    "TraitId": 193
+  },
+  {
+    "ItemTraitId": 11,
+    "ItemId": 47,
+    "TraitId": 195
+  },
+  {
+    "ItemTraitId": 88,
+    "ItemId": 181,
+    "TraitId": 195
+  },
+  {
+    "ItemTraitId": 89,
+    "ItemId": 182,
+    "TraitId": 195
+  },
+  {
+    "ItemTraitId": 90,
+    "ItemId": 183,
+    "TraitId": 195
+  },
+  {
+    "ItemTraitId": 133,
+    "ItemId": 186,
+    "TraitId": 195
+  },
+  {
+    "ItemTraitId": 134,
+    "ItemId": 187,
+    "TraitId": 195
+  },
+  {
+    "ItemTraitId": 4,
+    "ItemId": 55,
+    "TraitId": 244
+  },
+  {
+    "ItemTraitId": 16,
+    "ItemId": 83,
+    "TraitId": 244
+  },
+  {
+    "ItemTraitId": 54,
+    "ItemId": 202,
+    "TraitId": 244
+  },
+  {
+    "ItemTraitId": 58,
+    "ItemId": 203,
+    "TraitId": 244
+  },
+  {
+    "ItemTraitId": 59,
+    "ItemId": 204,
+    "TraitId": 244
+  },
+  {
+    "ItemTraitId": 44,
+    "ItemId": 216,
+    "TraitId": 244
+  },
+  {
+    "ItemTraitId": 47,
+    "ItemId": 217,
+    "TraitId": 244
+  },
+  {
+    "ItemTraitId": 5,
+    "ItemId": 60,
+    "TraitId": 245
+  },
+  {
+    "ItemTraitId": 81,
+    "ItemId": 230,
+    "TraitId": 245
+  },
+  {
+    "ItemTraitId": 82,
+    "ItemId": 231,
+    "TraitId": 245
+  },
+  {
+    "ItemTraitId": 57,
+    "ItemId": 235,
+    "TraitId": 245
+  },
+  {
+    "ItemTraitId": 55,
+    "ItemId": 236,
+    "TraitId": 245
+  },
+  {
+    "ItemTraitId": 56,
+    "ItemId": 237,
+    "TraitId": 245
+  },
+  {
+    "ItemTraitId": 6,
+    "ItemId": 48,
+    "TraitId": 246
+  },
+  {
+    "ItemTraitId": 17,
+    "ItemId": 83,
+    "TraitId": 246
+  },
+  {
+    "ItemTraitId": 60,
+    "ItemId": 188,
+    "TraitId": 246
+  },
+  {
+    "ItemTraitId": 64,
+    "ItemId": 189,
+    "TraitId": 246
+  },
+  {
+    "ItemTraitId": 65,
+    "ItemId": 190,
+    "TraitId": 246
+  },
+  {
+    "ItemTraitId": 76,
+    "ItemId": 214,
+    "TraitId": 246
+  },
+  {
+    "ItemTraitId": 79,
+    "ItemId": 215,
+    "TraitId": 246
+  },
+  {
+    "ItemTraitId": 7,
+    "ItemId": 50,
+    "TraitId": 247
+  },
+  {
+    "ItemTraitId": 9,
+    "ItemId": 52,
+    "TraitId": 247
+  },
+  {
+    "ItemTraitId": 15,
+    "ItemId": 83,
+    "TraitId": 247
+  },
+  {
+    "ItemTraitId": 70,
+    "ItemId": 200,
+    "TraitId": 247
+  },
+  {
+    "ItemTraitId": 74,
+    "ItemId": 201,
+    "TraitId": 247
+  },
+  {
+    "ItemTraitId": 8,
+    "ItemId": 59,
+    "TraitId": 248
+  },
+  {
+    "ItemTraitId": 73,
+    "ItemId": 232,
+    "TraitId": 248
+  },
+  {
+    "ItemTraitId": 71,
+    "ItemId": 233,
+    "TraitId": 248
+  },
+  {
+    "ItemTraitId": 72,
+    "ItemId": 234,
+    "TraitId": 248
+  },
+  {
+    "ItemTraitId": 12,
+    "ItemId": 56,
+    "TraitId": 249
+  },
+  {
+    "ItemTraitId": 22,
+    "ItemId": 57,
+    "TraitId": 249
+  },
+  {
+    "ItemTraitId": 94,
+    "ItemId": 211,
+    "TraitId": 249
+  },
+  {
+    "ItemTraitId": 97,
+    "ItemId": 212,
+    "TraitId": 249
+  },
+  {
+    "ItemTraitId": 98,
+    "ItemId": 213,
+    "TraitId": 249
+  },
+  {
+    "ItemTraitId": 129,
+    "ItemId": 220,
+    "TraitId": 249
+  },
+  {
+    "ItemTraitId": 13,
+    "ItemId": 61,
+    "TraitId": 250
+  },
+  {
+    "ItemTraitId": 14,
+    "ItemId": 62,
+    "TraitId": 250
+  },
+  {
+    "ItemTraitId": 95,
+    "ItemId": 244,
+    "TraitId": 250
+  },
+  {
+    "ItemTraitId": 96,
+    "ItemId": 245,
+    "TraitId": 250
+  },
+  {
+    "ItemTraitId": 18,
+    "ItemId": 54,
+    "TraitId": 251
+  },
+  {
+    "ItemTraitId": 102,
+    "ItemId": 208,
+    "TraitId": 251
+  },
+  {
+    "ItemTraitId": 106,
+    "ItemId": 209,
+    "TraitId": 251
+  },
+  {
+    "ItemTraitId": 107,
+    "ItemId": 210,
+    "TraitId": 251
+  },
+  {
+    "ItemTraitId": 66,
+    "ItemId": 218,
+    "TraitId": 251
+  },
+  {
+    "ItemTraitId": 69,
+    "ItemId": 219,
+    "TraitId": 251
+  },
+  {
+    "ItemTraitId": 20,
+    "ItemId": 53,
+    "TraitId": 252
+  },
+  {
+    "ItemTraitId": 123,
+    "ItemId": 205,
+    "TraitId": 252
+  },
+  {
+    "ItemTraitId": 127,
+    "ItemId": 206,
+    "TraitId": 252
+  },
+  {
+    "ItemTraitId": 128,
+    "ItemId": 207,
+    "TraitId": 252
+  },
+  {
+    "ItemTraitId": 67,
+    "ItemId": 218,
+    "TraitId": 252
+  },
+  {
+    "ItemTraitId": 68,
+    "ItemId": 219,
+    "TraitId": 252
+  },
+  {
+    "ItemTraitId": 24,
+    "ItemId": 49,
+    "TraitId": 253
+  },
+  {
+    "ItemTraitId": 21,
+    "ItemId": 57,
+    "TraitId": 253
+  },
+  {
+    "ItemTraitId": 138,
+    "ItemId": 191,
+    "TraitId": 253
+  },
+  {
+    "ItemTraitId": 141,
+    "ItemId": 192,
+    "TraitId": 253
+  },
+  {
+    "ItemTraitId": 142,
+    "ItemId": 193,
+    "TraitId": 253
+  },
+  {
+    "ItemTraitId": 130,
+    "ItemId": 220,
+    "TraitId": 253
+  },
+  {
+    "ItemTraitId": 25,
+    "ItemId": 58,
+    "TraitId": 254
+  },
+  {
+    "ItemTraitId": 36,
+    "ItemId": 95,
+    "TraitId": 254
+  },
+  {
+    "ItemTraitId": 140,
+    "ItemId": 224,
+    "TraitId": 254
+  },
+  {
+    "ItemTraitId": 139,
+    "ItemId": 225,
+    "TraitId": 254
+  },
+  {
+    "ItemTraitId": 27,
+    "ItemId": 84,
+    "TraitId": 255
+  },
+  {
+    "ItemTraitId": 63,
+    "ItemId": 221,
+    "TraitId": 255
+  },
+  {
+    "ItemTraitId": 61,
+    "ItemId": 222,
+    "TraitId": 255
+  },
+  {
+    "ItemTraitId": 62,
+    "ItemId": 223,
+    "TraitId": 255
+  },
+  {
+    "ItemTraitId": 28,
+    "ItemId": 86,
+    "TraitId": 256
+  },
+  {
+    "ItemTraitId": 105,
+    "ItemId": 241,
+    "TraitId": 256
+  },
+  {
+    "ItemTraitId": 103,
+    "ItemId": 242,
+    "TraitId": 256
+  },
+  {
+    "ItemTraitId": 104,
+    "ItemId": 243,
+    "TraitId": 256
+  },
+  {
+    "ItemTraitId": 30,
+    "ItemId": 89,
+    "TraitId": 257
+  },
+  {
+    "ItemTraitId": 80,
+    "ItemId": 197,
+    "TraitId": 257
+  },
+  {
+    "ItemTraitId": 84,
+    "ItemId": 198,
+    "TraitId": 257
+  },
+  {
+    "ItemTraitId": 85,
+    "ItemId": 199,
+    "TraitId": 257
+  },
+  {
+    "ItemTraitId": 77,
+    "ItemId": 214,
+    "TraitId": 257
+  },
+  {
+    "ItemTraitId": 78,
+    "ItemId": 215,
+    "TraitId": 257
+  },
+  {
+    "ItemTraitId": 31,
+    "ItemId": 90,
+    "TraitId": 258
+  },
+  {
+    "ItemTraitId": 83,
+    "ItemId": 229,
+    "TraitId": 258
+  },
+  {
+    "ItemTraitId": 32,
+    "ItemId": 91,
+    "TraitId": 259
+  },
+  {
+    "ItemTraitId": 126,
+    "ItemId": 238,
+    "TraitId": 259
+  },
+  {
+    "ItemTraitId": 124,
+    "ItemId": 239,
+    "TraitId": 259
+  },
+  {
+    "ItemTraitId": 125,
+    "ItemId": 240,
+    "TraitId": 259
+  },
+  {
+    "ItemTraitId": 34,
+    "ItemId": 93,
+    "TraitId": 260
+  },
+  {
+    "ItemTraitId": 37,
+    "ItemId": 194,
+    "TraitId": 260
+  },
+  {
+    "ItemTraitId": 41,
+    "ItemId": 195,
+    "TraitId": 260
+  },
+  {
+    "ItemTraitId": 42,
+    "ItemId": 196,
+    "TraitId": 260
+  },
+  {
+    "ItemTraitId": 45,
+    "ItemId": 216,
+    "TraitId": 260
+  },
+  {
+    "ItemTraitId": 46,
+    "ItemId": 217,
+    "TraitId": 260
+  },
+  {
+    "ItemTraitId": 35,
+    "ItemId": 94,
+    "TraitId": 261
+  },
+  {
+    "ItemTraitId": 40,
+    "ItemId": 226,
+    "TraitId": 261
+  },
+  {
+    "ItemTraitId": 38,
+    "ItemId": 227,
+    "TraitId": 261
+  },
+  {
+    "ItemTraitId": 39,
+    "ItemId": 228,
+    "TraitId": 261
+  }
+]

@@ -1,0 +1,681 @@
+[
+  {
+    "MetalSlimeLocationId": 157,
+    "LocationId": 9,
+    "Longitude": -84.081596374512,
+    "Latitude": 145.055907718223,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 158,
+    "LocationId": 9,
+    "Longitude": -122.331596374511,
+    "Latitude": 162.305594068086,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 159,
+    "LocationId": 9,
+    "Longitude": -6.581596374512,
+    "Latitude": 117.556407740180,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 160,
+    "LocationId": 9,
+    "Longitude": -53.581596374512,
+    "Latitude": 90.806894125175,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 161,
+    "LocationId": 9,
+    "Longitude": -156.581596374511,
+    "Latitude": 122.306321372751,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 162,
+    "LocationId": 9,
+    "Longitude": -172.831596374511,
+    "Latitude": 118.056398648872,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 163,
+    "LocationId": 9,
+    "Longitude": -143.581596374511,
+    "Latitude": 86.556971401296,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 164,
+    "LocationId": 9,
+    "Longitude": -171.107650756835,
+    "Latitude": 149.613251863159,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 165,
+    "LocationId": 9,
+    "Longitude": -101.218751907348,
+    "Latitude": 131.613579150259,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 166,
+    "LocationId": 13,
+    "Longitude": -23.660156250000,
+    "Latitude": 106.000000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 167,
+    "LocationId": 13,
+    "Longitude": -33.410156250000,
+    "Latitude": 75.250000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 168,
+    "LocationId": 13,
+    "Longitude": -47.410156250000,
+    "Latitude": 56.000000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 169,
+    "LocationId": 13,
+    "Longitude": -77.910156250000,
+    "Latitude": 57.750000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 170,
+    "LocationId": 13,
+    "Longitude": -109.910156250000,
+    "Latitude": 95.000000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 171,
+    "LocationId": 13,
+    "Longitude": -123.910156250000,
+    "Latitude": 89.750000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 172,
+    "LocationId": 13,
+    "Longitude": -42.160156250000,
+    "Latitude": 130.500000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 173,
+    "LocationId": 13,
+    "Longitude": -66.660156250000,
+    "Latitude": 121.000000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 174,
+    "LocationId": 13,
+    "Longitude": -77.410156250000,
+    "Latitude": 142.000000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 175,
+    "LocationId": 13,
+    "Longitude": -74.160156250000,
+    "Latitude": 51.750000000000,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 176,
+    "LocationId": 13,
+    "Longitude": -125.410156250000,
+    "Latitude": 77.250000000000,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 177,
+    "LocationId": 13,
+    "Longitude": -83.410156250000,
+    "Latitude": 116.500000000000,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 178,
+    "LocationId": 10,
+    "Longitude": -29.137149810791,
+    "Latitude": 57.001876178879,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 179,
+    "LocationId": 10,
+    "Longitude": -35.887149810791,
+    "Latitude": 44.002112552896,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 180,
+    "LocationId": 10,
+    "Longitude": -61.887149810791,
+    "Latitude": 45.502085278971,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 181,
+    "LocationId": 10,
+    "Longitude": -68.887149810791,
+    "Latitude": 79.751462524351,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 182,
+    "LocationId": 10,
+    "Longitude": -37.887149810791,
+    "Latitude": 111.000894317581,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 183,
+    "LocationId": 10,
+    "Longitude": -75.387149810791,
+    "Latitude": 129.500557939173,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 184,
+    "LocationId": 10,
+    "Longitude": -108.664928436279,
+    "Latitude": 136.749967004133,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 185,
+    "LocationId": 14,
+    "Longitude": -73.331597208977,
+    "Latitude": 84.000780676227,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 186,
+    "LocationId": 14,
+    "Longitude": -23.414928436279,
+    "Latitude": 95.250576121790,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 187,
+    "LocationId": 14,
+    "Longitude": -29.914928436279,
+    "Latitude": 110.500298836886,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 188,
+    "LocationId": 14,
+    "Longitude": -60.164928436279,
+    "Latitude": 137.999798814929,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 189,
+    "LocationId": 14,
+    "Longitude": -99.331597208977,
+    "Latitude": 126.750003369366,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 190,
+    "LocationId": 14,
+    "Longitude": -77.331597208977,
+    "Latitude": 86.000744310994,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 191,
+    "LocationId": 14,
+    "Longitude": -49.831597208977,
+    "Latitude": 63.251157965523,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 192,
+    "LocationId": 14,
+    "Longitude": -64.831597208977,
+    "Latitude": 42.751530709163,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 193,
+    "LocationId": 14,
+    "Longitude": -67.081597208977,
+    "Latitude": 28.501789811451,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 194,
+    "LocationId": 14,
+    "Longitude": -66.581597208977,
+    "Latitude": 33.501698898367,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 195,
+    "LocationId": 14,
+    "Longitude": -53.581597208977,
+    "Latitude": 61.001198876410,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 196,
+    "LocationId": 14,
+    "Longitude": -92.831597208977,
+    "Latitude": 122.000089736795,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 197,
+    "LocationId": 11,
+    "Longitude": -50.248260498047,
+    "Latitude": 63.001762537526,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 198,
+    "LocationId": 11,
+    "Longitude": -20.498260498047,
+    "Latitude": 79.001471615659,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 199,
+    "LocationId": 11,
+    "Longitude": -56.998260498047,
+    "Latitude": 101.251067052439,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 200,
+    "LocationId": 11,
+    "Longitude": -85.998260498047,
+    "Latitude": 63.751748900563,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 201,
+    "LocationId": 11,
+    "Longitude": -88.998260498047,
+    "Latitude": 120.250721582723,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 202,
+    "LocationId": 11,
+    "Longitude": -103.748260498046,
+    "Latitude": 126.750603395715,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 203,
+    "LocationId": 11,
+    "Longitude": -140.498260498046,
+    "Latitude": 71.501607985284,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 204,
+    "LocationId": 11,
+    "Longitude": -142.248260498046,
+    "Latitude": 119.250739765340,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 205,
+    "LocationId": 11,
+    "Longitude": -100.498260498046,
+    "Latitude": 153.750112465066,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 206,
+    "LocationId": 11,
+    "Longitude": -128.998260498046,
+    "Latitude": 155.500080645487,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 207,
+    "LocationId": 17,
+    "Longitude": -91.137152671814,
+    "Latitude": 35.002276196445,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 208,
+    "LocationId": 17,
+    "Longitude": -34.637152671814,
+    "Latitude": 105.001003413281,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 209,
+    "LocationId": 17,
+    "Longitude": -68.137152671814,
+    "Latitude": 45.752080733317,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 210,
+    "LocationId": 17,
+    "Longitude": -71.137152671814,
+    "Latitude": 60.751807994067,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 211,
+    "LocationId": 17,
+    "Longitude": -68.387152671814,
+    "Latitude": 102.501048869822,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 212,
+    "LocationId": 17,
+    "Longitude": -81.387152671814,
+    "Latitude": 104.001021595897,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 213,
+    "LocationId": 17,
+    "Longitude": -89.137152671814,
+    "Latitude": 71.751607985284,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 214,
+    "LocationId": 17,
+    "Longitude": -98.887152671814,
+    "Latitude": 48.252035276775,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 215,
+    "LocationId": 17,
+    "Longitude": -137.387152671813,
+    "Latitude": 108.000948865431,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 216,
+    "LocationId": 17,
+    "Longitude": -142.887152671813,
+    "Latitude": 75.751535254818,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 217,
+    "LocationId": 17,
+    "Longitude": -45.887152671814,
+    "Latitude": 138.500394295624,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 218,
+    "LocationId": 17,
+    "Longitude": -130.387152671813,
+    "Latitude": 119.250744310994,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 219,
+    "LocationId": 17,
+    "Longitude": -34.137152671814,
+    "Latitude": 44.252108007242,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 220,
+    "LocationId": 12,
+    "Longitude": -60.410156250000,
+    "Latitude": 41.750000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 221,
+    "LocationId": 12,
+    "Longitude": -99.410156250000,
+    "Latitude": 24.750000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 222,
+    "LocationId": 12,
+    "Longitude": -117.410156250000,
+    "Latitude": 56.250000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 223,
+    "LocationId": 12,
+    "Longitude": -111.660156250000,
+    "Latitude": 88.750000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 224,
+    "LocationId": 12,
+    "Longitude": -63.160156250000,
+    "Latitude": 78.500000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 225,
+    "LocationId": 12,
+    "Longitude": -110.660156250000,
+    "Latitude": 124.000000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 226,
+    "LocationId": 12,
+    "Longitude": -107.660156250000,
+    "Latitude": 128.750000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 227,
+    "LocationId": 12,
+    "Longitude": -37.160156250000,
+    "Latitude": 126.500000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 228,
+    "LocationId": 12,
+    "Longitude": -19.410156250000,
+    "Latitude": 114.500000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 229,
+    "LocationId": 18,
+    "Longitude": -74.660156250000,
+    "Latitude": 59.750000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 230,
+    "LocationId": 18,
+    "Longitude": -95.910156250000,
+    "Latitude": 86.250000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 231,
+    "LocationId": 18,
+    "Longitude": -44.910156250000,
+    "Latitude": 78.000000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 232,
+    "LocationId": 18,
+    "Longitude": -51.160156250000,
+    "Latitude": 80.250000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 233,
+    "LocationId": 18,
+    "Longitude": -60.660156250000,
+    "Latitude": 104.500000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 234,
+    "LocationId": 18,
+    "Longitude": -91.660156250000,
+    "Latitude": 128.000000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 235,
+    "LocationId": 18,
+    "Longitude": -117.160156250000,
+    "Latitude": 64.250000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 236,
+    "LocationId": 18,
+    "Longitude": -57.660156250000,
+    "Latitude": 96.000000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 237,
+    "LocationId": 18,
+    "Longitude": -45.660156250000,
+    "Latitude": 86.000000000000,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 238,
+    "LocationId": 18,
+    "Longitude": -72.410156250000,
+    "Latitude": 69.750000000000,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 239,
+    "LocationId": 18,
+    "Longitude": -98.410156250000,
+    "Latitude": 128.750000000000,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 240,
+    "LocationId": 18,
+    "Longitude": -46.652343750000,
+    "Latitude": 120.125000000000,
+    "Type": "King"
+  },
+  {
+    "MetalSlimeLocationId": 241,
+    "LocationId": 8,
+    "Longitude": -52.910156250000,
+    "Latitude": 125.250000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 242,
+    "LocationId": 8,
+    "Longitude": -62.410156250000,
+    "Latitude": 129.250000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 243,
+    "LocationId": 8,
+    "Longitude": -93.410156250000,
+    "Latitude": 52.750000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 244,
+    "LocationId": 8,
+    "Longitude": -137.160156250000,
+    "Latitude": 35.750000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 245,
+    "LocationId": 8,
+    "Longitude": -120.910156250000,
+    "Latitude": 139.750000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 246,
+    "LocationId": 8,
+    "Longitude": -145.660156250000,
+    "Latitude": 69.000000000000,
+    "Type": "Metal"
+  },
+  {
+    "MetalSlimeLocationId": 247,
+    "LocationId": 19,
+    "Longitude": -50.910156250000,
+    "Latitude": 135.250000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 248,
+    "LocationId": 19,
+    "Longitude": -69.160156250000,
+    "Latitude": 46.500000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 249,
+    "LocationId": 19,
+    "Longitude": -86.410156250000,
+    "Latitude": 36.000000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 250,
+    "LocationId": 19,
+    "Longitude": -117.910156250000,
+    "Latitude": 63.000000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 251,
+    "LocationId": 19,
+    "Longitude": -106.910156250000,
+    "Latitude": 113.750000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 252,
+    "LocationId": 19,
+    "Longitude": -115.910156250000,
+    "Latitude": 119.500000000000,
+    "Type": "Liquid"
+  },
+  {
+    "MetalSlimeLocationId": 253,
+    "LocationId": 19,
+    "Longitude": -44.660156250000,
+    "Latitude": 140.750000000000,
+    "Type": "King"
+  }
+]

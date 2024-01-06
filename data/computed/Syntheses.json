@@ -59,7 +59,7 @@
   {
     "Result": "Alarmour",
     "Parent1": "Harmour",
-    "Parent2": "Grim keeper"
+    "Parent2": "Grim Keeper"
   },
   {
     "Result": "Alarmour",
@@ -88,7 +88,7 @@
   },
   {
     "Result": "Archdemon",
-    "Parent1": "Grim keeper",
+    "Parent1": "Grim Keeper",
     "Parent2": "Dessert Demon"
   },
   {
@@ -301,7 +301,7 @@
   {
     "Result": "Black Dragon",
     "Parent1": "Great Argon Lizard",
-    "Parent2": "Grim keeper"
+    "Parent2": "Grim Keeper"
   },
   {
     "Result": "Blinkster",
@@ -1469,12 +1469,12 @@
     "Parent2": "Dragon Family (C)"
   },
   {
-    "Result": "Grim keeper",
+    "Result": "Grim Keeper",
     "Parent1": "Beleth",
     "Parent2": "Low Djinks"
   },
   {
-    "Result": "Grim keeper",
+    "Result": "Grim Keeper",
     "Parent1": "Demon Family (C)",
     "Parent2": "Undead Family (C)"
   },
@@ -3029,11 +3029,6 @@
     "Result": "Skeleton Swordsman",
     "Parent1": "Skeleton Soldier",
     "Parent2": "Skeleton Soldier"
-  },
-  {
-    "Result": "Skeleton Swordsman",
-    "Parent1": "Skeleton Soldier",
-    "Parent2": "Demon Family (Any)"
   },
   {
     "Result": "Skellyfish",

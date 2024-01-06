@@ -2227,7 +2227,7 @@
     "Identifier": "ice-age",
     "JapaneseName": "絶対零度",
     "Description": "Inflicts outrageous ice-elemental breath damage on all enemies and occasionally stuns them for 1 turn.",
-    "MPCost": 32,
+    "MPCost": 64,
     "MPCostTypeId": 1,
     "DamageTypeId": 6,
     "AttackTypeId": 3,

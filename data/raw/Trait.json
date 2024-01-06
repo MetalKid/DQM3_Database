@@ -249,7 +249,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases resistance by 25%."
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 142,
@@ -476,18 +476,32 @@
     "Notes": null
   },
   {
-    "TraitId": 26,
-    "Name": "Bangmeister",
-    "Identifier": "bangmeister",
-    "JapaneseName": "爆発のコツ",
-    "Description": "Increases the potency of explosie attacks and decreases their MP consumption.",
+    "TraitId": 247,
+    "Name": "Bang Ward",
+    "Identifier": "bang-ward",
+    "JapaneseName": null,
+    "Description": "Slightly increases resistance to explosion attacks.",
     "HPBonus": null,
     "MPBonus": null,
     "AttackBonus": null,
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases resistance by 10%."
+  },
+  {
+    "TraitId": 26,
+    "Name": "Bangmeister",
+    "Identifier": "bangmeister",
+    "JapaneseName": "爆発のコツ",
+    "Description": "Increases the potency of explosion attacks and decreases their MP consumption.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Increases damage by 15%."
   },
   {
     "TraitId": 52,
@@ -501,7 +515,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 100%. Lowers all resistances by 5%."
   },
   {
     "TraitId": 88,
@@ -529,7 +543,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 20%."
   },
   {
     "TraitId": 82,
@@ -557,7 +571,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 100%. Lowers all resistances by 5%."
   },
   {
     "TraitId": 51,
@@ -585,7 +599,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases resistance by 25%."
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 84,
@@ -630,6 +644,20 @@
     "Notes": null
   },
   {
+    "TraitId": 244,
+    "Name": "Crack Ward",
+    "Identifier": "crack-ward",
+    "JapaneseName": null,
+    "Description": "Slightly increases resistance to ice-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Increases resistance by 10%."
+  },
+  {
     "TraitId": 27,
     "Name": "Crackmeister",
     "Identifier": "crackmeister",
@@ -641,7 +669,49 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 15%."
+  },
+  {
+    "TraitId": 248,
+    "Name": "Crafty Banger",
+    "Identifier": "crafty-banger",
+    "JapaneseName": null,
+    "Description": "Slightly increases the damage inflicted by explosion attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Reduces enemy resistance by 10%."
+  },
+  {
+    "TraitId": 245,
+    "Name": "Crafty Cracker",
+    "Identifier": "crafty-cracker",
+    "JapaneseName": null,
+    "Description": "Slightly increases the damage inflicted by ice-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Reduces enemy resistance by 10%."
+  },
+  {
+    "TraitId": 258,
+    "Name": "Crafty Cragger",
+    "Identifier": "crafty-cragger",
+    "JapaneseName": null,
+    "Description": "Slightly increases the damage inflicted by earth-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Reduces enemy resistance by 10%."
   },
   {
     "TraitId": 121,
@@ -655,7 +725,105 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Reduces enemy resistance by 25%."
+  },
+  {
+    "TraitId": 255,
+    "Name": "Crafty Frizzer",
+    "Identifier": "crafty-frizzer",
+    "JapaneseName": null,
+    "Description": "Slightly increases the damage inflicted by fire-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Reduces enemy resistance by 10%."
+  },
+  {
+    "TraitId": 256,
+    "Name": "Crafty Sizzer",
+    "Identifier": "crafty-sizzer",
+    "JapaneseName": null,
+    "Description": "Slightly increases the damage inflicted by light-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Reduces enemy resistance by 10%."
+  },
+  {
+    "TraitId": 254,
+    "Name": "Crafty Splasher",
+    "Identifier": "crafty-spalsher",
+    "JapaneseName": null,
+    "Description": "Slightly increases the damage inflicted by water-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Reduces enemy resistance by 10%."
+  },
+  {
+    "TraitId": 261,
+    "Name": "Crafty Woosher",
+    "Identifier": null,
+    "JapaneseName": null,
+    "Description": "Slightly increases the damage inflicted by wind-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Reduces enemy resistance by 10%."
+  },
+  {
+    "TraitId": 250,
+    "Name": "Crafty Zammer",
+    "Identifier": "crafty-zammer",
+    "JapaneseName": null,
+    "Description": "Slightly increases the damage inflicted by dark-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Reduces enemy resistance by 10%."
+  },
+  {
+    "TraitId": 259,
+    "Name": "Crafty Zapper",
+    "Identifier": "crafty-zapper",
+    "JapaneseName": null,
+    "Description": "Slightly increases the damage inflicted by electrical attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Reduces enemy resistance by 10%."
+  },
+  {
+    "TraitId": 257,
+    "Name": "Crag Ward",
+    "Identifier": "crag-ward",
+    "JapaneseName": null,
+    "Description": "Slightly increases resistance to earth-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 25,
@@ -669,7 +837,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 15%."
   },
   {
     "TraitId": 238,
@@ -767,7 +935,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases resistance by 25%."
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 230,
@@ -977,7 +1145,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 100%. Lowers all resistances by 5%."
   },
   {
     "TraitId": 48,
@@ -1033,7 +1201,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 100%. Lowers all resistances by 5%."
   },
   {
     "TraitId": 203,
@@ -1047,7 +1215,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases resistance by 25%."
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 99,
@@ -1089,7 +1257,21 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases resistance by 25%."
+    "Notes": "Increases resistance by 10%."
+  },
+  {
+    "TraitId": 246,
+    "Name": "Frizz Ward",
+    "Identifier": "frizz-ward",
+    "JapaneseName": null,
+    "Description": "Slightly increases resistance to fire-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 22,
@@ -1103,7 +1285,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 15%."
   },
   {
     "TraitId": 188,
@@ -1117,7 +1299,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases resistance by 25%."
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 31,
@@ -1131,7 +1313,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases healing by 25%."
   },
   {
     "TraitId": 233,
@@ -1215,7 +1397,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases resistance by 25%."
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 7,
@@ -1369,7 +1551,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 20%."
   },
   {
     "TraitId": 18,
@@ -1425,7 +1607,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 100%. Lowers all resistances by 5%."
   },
   {
     "TraitId": 124,
@@ -1831,7 +2013,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "This also reduces the effective base HP by 1/3 as well. The true max value is reflected on the site."
+    "Notes": "This also reduces the effective base HP to 1/3 as well. The true max value is reflected on the site."
   },
   {
     "TraitId": 68,
@@ -1873,7 +2055,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 100%. Lowers all resistances by 5%."
   },
   {
     "TraitId": 66,
@@ -2058,6 +2240,20 @@
     "Notes": null
   },
   {
+    "TraitId": 251,
+    "Name": "Sizz Ward",
+    "Identifier": "sizz-ward",
+    "JapaneseName": null,
+    "Description": "Slightly increases resistance to light-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Increases resistance by 10%."
+  },
+  {
     "TraitId": 29,
     "Name": "Sizzmeister",
     "Identifier": "sizzmeister",
@@ -2069,7 +2265,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 15%."
   },
   {
     "TraitId": 78,
@@ -2125,7 +2321,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 100%. Lowers all resistances by 5%."
   },
   {
     "TraitId": 86,
@@ -2181,7 +2377,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases resistance by 25%."
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 33,
@@ -2198,6 +2394,20 @@
     "Notes": null
   },
   {
+    "TraitId": 253,
+    "Name": "Splish Ward",
+    "Identifier": "splish-wrd",
+    "JapaneseName": null,
+    "Description": "Slightly increases resistance to water-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Increases resistance by 10%."
+  },
+  {
     "TraitId": 23,
     "Name": "Splishmeister",
     "Identifier": "splishmeister",
@@ -2209,7 +2419,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 15%."
   },
   {
     "TraitId": 39,
@@ -2405,7 +2615,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases resistance by 25%."
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 101,
@@ -2433,7 +2643,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
+    "Notes": "Increases damage by 200%. Lowers all resistances by 10%."
   },
   {
     "TraitId": 231,
@@ -2447,7 +2657,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
+    "Notes": "Increases damage by 200%. Lowers all resistances by 10%."
   },
   {
     "TraitId": 242,
@@ -2461,7 +2671,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
+    "Notes": "Increases damage by 200%. Lowers all resistances by 10%."
   },
   {
     "TraitId": 55,
@@ -2475,7 +2685,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
+    "Notes": "Increases damage by 200%. Lowers all resistances by 10%."
   },
   {
     "TraitId": 61,
@@ -2489,7 +2699,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
+    "Notes": "Increases damage by 200%. Lowers all resistances by 10%."
   },
   {
     "TraitId": 57,
@@ -2503,7 +2713,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
+    "Notes": "Increases damage by 200%. Lowers all resistances by 10%."
   },
   {
     "TraitId": 232,
@@ -2517,7 +2727,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
+    "Notes": "Increases damage by 200%. Lowers all resistances by 10%."
   },
   {
     "TraitId": 60,
@@ -2531,7 +2741,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%. Lowers all resistatnces by 25%."
+    "Notes": "Increases damage by 200%. Lowers all resistances by 10%."
   },
   {
     "TraitId": 186,
@@ -2573,7 +2783,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases resistance by 50%. "
+    "Notes": "Increases resistance by 50%."
   },
   {
     "TraitId": 181,
@@ -2601,7 +2811,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 115,
@@ -2615,7 +2825,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Decreases resistance by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 107,
@@ -2629,7 +2839,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 105,
@@ -2643,7 +2853,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 112,
@@ -2657,7 +2867,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Decreases resistance by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 111,
@@ -2671,7 +2881,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Decreases resistance by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 102,
@@ -2685,7 +2895,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 114,
@@ -2699,7 +2909,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Decreases resistance by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 117,
@@ -2713,7 +2923,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Decreases resistance by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 119,
@@ -2727,7 +2937,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Decreases resistance by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 109,
@@ -2741,7 +2951,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 116,
@@ -2755,7 +2965,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Decreases resistance by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 113,
@@ -2769,7 +2979,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Decreases resistance by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 103,
@@ -2783,7 +2993,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 118,
@@ -2797,7 +3007,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Decreases resistance by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 120,
@@ -2811,7 +3021,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Decreases resistance by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 104,
@@ -2825,7 +3035,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 110,
@@ -2839,7 +3049,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 108,
@@ -2853,7 +3063,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases damage by 50%."
+    "Notes": "Reduces enemy resistance by 50%."
   },
   {
     "TraitId": 179,
@@ -3091,7 +3301,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": "Increases resistance by 25%."
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 169,
@@ -3290,6 +3500,20 @@
     "Notes": null
   },
   {
+    "TraitId": 260,
+    "Name": "Woosh Ward",
+    "Identifier": "woosh-ward",
+    "JapaneseName": null,
+    "Description": "Slightly increases resistance to wind-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Increases resistance by 10%."
+  },
+  {
     "TraitId": 24,
     "Name": "Wooshmeister",
     "Identifier": "wooshmeister",
@@ -3301,7 +3525,21 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 15%."
+  },
+  {
+    "TraitId": 249,
+    "Name": "Zam Ward",
+    "Identifier": "zam-ward",
+    "JapaneseName": null,
+    "Description": "Slightly increases resistance to dark-elemental attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 30,
@@ -3315,7 +3553,21 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 15%."
+  },
+  {
+    "TraitId": 252,
+    "Name": "Zap Ward",
+    "Identifier": "zap-ward",
+    "JapaneseName": null,
+    "Description": "Slightly increases resistance to electrical attacks.",
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": "Increases resistance by 10%."
   },
   {
     "TraitId": 28,
@@ -3329,7 +3581,7 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 15%."
   },
   {
     "TraitId": 53,
@@ -3343,6 +3595,6 @@
     "DefenceBonus": null,
     "AgilityBonus": null,
     "WisdomBonus": null,
-    "Notes": null
+    "Notes": "Increases damage by 100%. Lowers all resistances by 5%."
   }
 ]

@@ -21,7 +21,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 80,
@@ -45,7 +46,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 86,
@@ -69,7 +71,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 85,
@@ -93,7 +96,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 84,
@@ -117,7 +121,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 83,
@@ -141,7 +146,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 82,
@@ -165,7 +171,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 81,
@@ -189,7 +196,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 88,
@@ -213,7 +221,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 89,
@@ -237,7 +246,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 466,
@@ -261,7 +271,8 @@
     "MaxAgi": 530,
     "MaxWis": 570,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 503,
@@ -285,7 +296,8 @@
     "MaxAgi": 610,
     "MaxWis": 770,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 433,
@@ -309,7 +321,8 @@
     "MaxAgi": 610,
     "MaxWis": 390,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 443,
@@ -320,12 +333,12 @@
     "JapaneseName": "サブナック",
     "FrenchName": "Abracadabraque",
     "Identifier": "abracadabrador",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1350,
     "MaxMP": 430,
     "MaxAtt": 570,
@@ -333,7 +346,8 @@
     "MaxAgi": 370,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 359,
@@ -344,12 +358,12 @@
     "JapaneseName": "ヘルダイバー",
     "FrenchName": "Abyssaure",
     "Identifier": "abyss-diver",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 1,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 3,
+    "Wis": 1,
     "MaxHP": 1350,
     "MaxMP": 320,
     "MaxAtt": 580,
@@ -357,7 +371,8 @@
     "MaxAgi": 550,
     "MaxWis": 290,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 382,
@@ -381,7 +396,8 @@
     "MaxAgi": 500,
     "MaxWis": 560,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 594,
@@ -392,12 +408,12 @@
     "JapaneseName": "ジェリーマン",
     "FrenchName": "Viscaire",
     "Identifier": "admirer",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 3,
+    "Att": 1,
+    "Def": 1,
+    "Agi": 4,
+    "Wis": 3,
     "MaxHP": 1420,
     "MaxMP": 460,
     "MaxAtt": 380,
@@ -405,7 +421,8 @@
     "MaxAgi": 580,
     "MaxWis": 510,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 107,
@@ -429,7 +446,8 @@
     "MaxAgi": 390,
     "MaxWis": 340,
     "Trivia": "Dragons who love giving humans a good fright by inflating themselves and then making themselves burst. In order to get the biggest bang they can, they inhale huge volumes of air but occasionally wimp out before they pop.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 593,
@@ -440,12 +458,12 @@
     "JapaneseName": "サタンメイル",
     "FrenchName": "Alarmure",
     "Identifier": "alarmour",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1320,
     "MaxMP": 440,
     "MaxAtt": 580,
@@ -453,7 +471,8 @@
     "MaxAgi": 420,
     "MaxWis": 510,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 289,
@@ -477,7 +496,8 @@
     "MaxAgi": 590,
     "MaxWis": 670,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 108,
@@ -501,7 +521,8 @@
     "MaxAgi": 440,
     "MaxWis": 450,
     "Trivia": "These long-snouted  monsters resemble spiny anteaters. Their lengthy tongues are well-adapted to slurping army ants up from their nests.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 488,
@@ -512,12 +533,12 @@
     "JapaneseName": "アークデーモン",
     "FrenchName": "Archidémon",
     "Identifier": "archdemon",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1360,
     "MaxMP": 400,
     "MaxAtt": 580,
@@ -525,7 +546,8 @@
     "MaxAgi": 400,
     "MaxWis": 570,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 398,
@@ -536,12 +558,12 @@
     "JapaneseName": "さそりアーマー",
     "FrenchName": "Scorpion blindé",
     "Identifier": "armoured-scorpion",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 1,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1350,
     "MaxMP": 300,
     "MaxAtt": 620,
@@ -549,7 +571,8 @@
     "MaxAgi": 450,
     "MaxWis": 390,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 109,
@@ -573,7 +596,8 @@
     "MaxAgi": 300,
     "MaxWis": 660,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 495,
@@ -597,7 +621,8 @@
     "MaxAgi": 430,
     "MaxWis": 250,
     "Trivia": null,
-    "EggTypeId": 4
+    "EggTypeId": 4,
+    "Notes": null
   },
   {
     "MonsterId": 601,
@@ -621,7 +646,8 @@
     "MaxAgi": 390,
     "MaxWis": 680,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 110,
@@ -645,7 +671,8 @@
     "MaxAgi": 630,
     "MaxWis": 340,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 111,
@@ -669,7 +696,8 @@
     "MaxAgi": 540,
     "MaxWis": 440,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 356,
@@ -680,12 +708,12 @@
     "JapaneseName": "アックスドラゴン",
     "FrenchName": "Eskintosaure",
     "Identifier": "axesaurus",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1420,
     "MaxMP": 330,
     "MaxAtt": 560,
@@ -693,7 +721,8 @@
     "MaxAgi": 420,
     "MaxWis": 310,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 113,
@@ -717,7 +746,8 @@
     "MaxAgi": 530,
     "MaxWis": 590,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 454,
@@ -741,7 +771,8 @@
     "MaxAgi": 630,
     "MaxWis": 570,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 301,
@@ -752,12 +783,12 @@
     "JapaneseName": "ふくぶくろ",
     "FrenchName": "Sacaveine",
     "Identifier": "bag-o-tricks",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1330,
     "MaxMP": 450,
     "MaxAtt": 590,
@@ -765,7 +796,8 @@
     "MaxAgi": 510,
     "MaxWis": 510,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 114,
@@ -789,7 +821,8 @@
     "MaxAgi": 400,
     "MaxWis": 550,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 407,
@@ -800,12 +833,12 @@
     "JapaneseName": "ホエールマージ",
     "FrenchName": "Sorciétacé",
     "Identifier": "baleen-mage",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 3,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1420,
     "MaxMP": 420,
     "MaxAtt": 480,
@@ -813,7 +846,8 @@
     "MaxAgi": 350,
     "MaxWis": 580,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 463,
@@ -824,12 +858,12 @@
     "JapaneseName": "ゴールデンゴーレム",
     "FrenchName": "Phix",
     "Identifier": "balhib",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 5,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1350,
     "MaxMP": 280,
     "MaxAtt": 590,
@@ -837,7 +871,8 @@
     "MaxAgi": 460,
     "MaxWis": 440,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 614,
@@ -861,7 +896,8 @@
     "MaxAgi": 410,
     "MaxWis": 390,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 460,
@@ -885,7 +921,8 @@
     "MaxAgi": 440,
     "MaxWis": 600,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 115,
@@ -909,7 +946,8 @@
     "MaxAgi": 490,
     "MaxWis": 410,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 116,
@@ -933,7 +971,8 @@
     "MaxAgi": 690,
     "MaxWis": 600,
     "Trivia": "These thumping great chickens have learned how to fly. Thanks to their highly-developed flight muscles, they can strike with the power of trained puglist.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 534,
@@ -957,7 +996,8 @@
     "MaxAgi": 460,
     "MaxWis": 780,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 383,
@@ -981,7 +1021,8 @@
     "MaxAgi": 460,
     "MaxWis": 610,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 634,
@@ -992,12 +1033,12 @@
     "JapaneseName": "ヘルバトラー",
     "FrenchName": "Barbatos",
     "Identifier": "barbatos",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1400,
     "MaxMP": 380,
     "MaxAtt": 600,
@@ -1005,7 +1046,8 @@
     "MaxAgi": 420,
     "MaxWis": 520,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 582,
@@ -1029,7 +1071,8 @@
     "MaxAgi": 500,
     "MaxWis": 320,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 290,
@@ -1053,7 +1096,8 @@
     "MaxAgi": 460,
     "MaxWis": 550,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 47,
@@ -1077,7 +1121,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 40,
@@ -1101,7 +1146,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 46,
@@ -1125,7 +1171,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 45,
@@ -1149,7 +1196,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 44,
@@ -1173,7 +1221,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 43,
@@ -1197,7 +1246,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 42,
@@ -1221,7 +1271,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 41,
@@ -1245,7 +1296,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 48,
@@ -1269,7 +1321,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 49,
@@ -1293,7 +1346,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 274,
@@ -1317,7 +1371,8 @@
     "MaxAgi": 460,
     "MaxWis": 320,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 117,
@@ -1341,7 +1396,8 @@
     "MaxAgi": 550,
     "MaxWis": 570,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 502,
@@ -1365,7 +1421,8 @@
     "MaxAgi": 430,
     "MaxWis": 650,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 403,
@@ -1376,12 +1433,12 @@
     "JapaneseName": "アカイライ",
     "FrenchName": "Rapacepasse",
     "Identifier": "belisha-beakon",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 1,
+    "Agi": 3,
+    "Wis": 5,
     "MaxHP": 1370,
     "MaxMP": 320,
     "MaxAtt": 470,
@@ -1389,7 +1446,8 @@
     "MaxAgi": 540,
     "MaxWis": 780,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 332,
@@ -1413,7 +1471,8 @@
     "MaxAgi": 250,
     "MaxWis": 340,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 595,
@@ -1424,12 +1483,12 @@
     "JapaneseName": "セルゲイナス",
     "FrenchName": "Chiron",
     "Identifier": "bilhaw",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 2,
+    "Def": 4,
+    "Agi": 4,
+    "Wis": 4,
     "MaxHP": 1240,
     "MaxMP": 380,
     "MaxAtt": 470,
@@ -1437,7 +1496,8 @@
     "MaxAgi": 630,
     "MaxWis": 720,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 584,
@@ -1461,7 +1521,8 @@
     "MaxAgi": 390,
     "MaxWis": 810,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 373,
@@ -1472,12 +1533,12 @@
     "JapaneseName": "ブラックドラゴン",
     "FrenchName": "Dragon noir",
     "Identifier": "black-dragon",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1410,
     "MaxMP": 290,
     "MaxAtt": 580,
@@ -1485,7 +1546,8 @@
     "MaxAgi": 470,
     "MaxWis": 400,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 118,
@@ -1509,7 +1571,8 @@
     "MaxAgi": 480,
     "MaxWis": 610,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 456,
@@ -1533,7 +1596,8 @@
     "MaxAgi": 500,
     "MaxWis": 480,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 487,
@@ -1544,12 +1608,12 @@
     "JapaneseName": "レッドイーター",
     "FrenchName": "Frappe-capuche",
     "Identifier": "assassin-circle",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1300,
     "MaxMP": 350,
     "MaxAtt": 650,
@@ -1557,7 +1621,8 @@
     "MaxAgi": 560,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 511,
@@ -1568,12 +1633,12 @@
     "JapaneseName": "ブラッドハンド",
     "FrenchName": "Main sanglante",
     "Identifier": "bloody-hand",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1410,
     "MaxMP": 310,
     "MaxAtt": 630,
@@ -1581,7 +1646,8 @@
     "MaxAgi": 440,
     "MaxWis": 430,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 119,
@@ -1605,7 +1671,8 @@
     "MaxAgi": 550,
     "MaxWis": 490,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 620,
@@ -1629,7 +1696,8 @@
     "MaxAgi": 390,
     "MaxWis": 630,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 624,
@@ -1640,12 +1708,12 @@
     "JapaneseName": "ボボンガー",
     "FrenchName": "Cobonga",
     "Identifier": "bobonga",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1420,
     "MaxMP": 320,
     "MaxAtt": 600,
@@ -1653,7 +1721,8 @@
     "MaxAgi": 440,
     "MaxWis": 350,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 120,
@@ -1677,7 +1746,8 @@
     "MaxAgi": 460,
     "MaxWis": 340,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 295,
@@ -1701,7 +1771,8 @@
     "MaxAgi": 550,
     "MaxWis": 540,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 458,
@@ -1712,12 +1783,12 @@
     "JapaneseName": "メガザルロック",
     "FrenchName": "Vulcanobombe",
     "Identifier": "bomboulder",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 2,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1390,
     "MaxMP": 460,
     "MaxAtt": 440,
@@ -1725,7 +1796,8 @@
     "MaxAgi": 400,
     "MaxWis": 560,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 523,
@@ -1736,12 +1808,12 @@
     "JapaneseName": "しにがみきぞく",
     "FrenchName": "Baron d'os",
     "Identifier": "bone-baron",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1340,
     "MaxMP": 390,
     "MaxAtt": 530,
@@ -1749,7 +1821,8 @@
     "MaxAgi": 510,
     "MaxWis": 540,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 514,
@@ -1760,12 +1833,12 @@
     "JapaneseName": "ほねリーダー",
     "FrenchName": "Tue-tête",
     "Identifier": "bone-idol",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1280,
     "MaxMP": 520,
     "MaxAtt": 520,
@@ -1773,7 +1846,8 @@
     "MaxAgi": 570,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 532,
@@ -1797,7 +1871,8 @@
     "MaxAgi": 480,
     "MaxWis": 310,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 121,
@@ -1821,7 +1896,8 @@
     "MaxAgi": 410,
     "MaxWis": 450,
     "Trivia": "Sturdy spirits in the thrall of their large-faced bongos. All manner of monsters are drawn in by their deft drumming, entranced by the intricate rhapsody of rhythm.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 625,
@@ -1832,12 +1908,12 @@
     "JapaneseName": "ホワイトビート",
     "FrenchName": "Big bongo",
     "Identifier": "bongo-fandango",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1370,
     "MaxMP": 510,
     "MaxAtt": 590,
@@ -1845,7 +1921,8 @@
     "MaxAgi": 420,
     "MaxWis": 390,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 122,
@@ -1869,7 +1946,8 @@
     "MaxAgi": 510,
     "MaxWis": 420,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 579,
@@ -1880,12 +1958,12 @@
     "JapaneseName": "スノードラゴン",
     "FrenchName": "Serpolaire",
     "Identifier": "boreal-serpent",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 1,
+    "Att": 2,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1330,
     "MaxMP": 290,
     "MaxAtt": 520,
@@ -1893,7 +1971,8 @@
     "MaxAgi": 490,
     "MaxWis": 670,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 476,
@@ -1904,12 +1983,12 @@
     "JapaneseName": "ボストロール",
     "FrenchName": "Chef troll",
     "Identifier": "boss-troll",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 4,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1400,
     "MaxMP": 300,
     "MaxAtt": 670,
@@ -1917,7 +1996,8 @@
     "MaxAgi": 390,
     "MaxWis": 240,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 123,
@@ -1941,7 +2021,8 @@
     "MaxAgi": 280,
     "MaxWis": 650,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 390,
@@ -1952,12 +2033,12 @@
     "JapaneseName": "じごくのたまねぎ",
     "FrenchName": "Monstropoiro",
     "Identifier": "brimstone-bulb",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1400,
     "MaxMP": 410,
     "MaxAtt": 470,
@@ -1965,7 +2046,8 @@
     "MaxAgi": 540,
     "MaxWis": 460,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 124,
@@ -1989,7 +2071,8 @@
     "MaxAgi": 510,
     "MaxWis": 470,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 308,
@@ -2013,7 +2096,8 @@
     "MaxAgi": 460,
     "MaxWis": 580,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 307,
@@ -2037,7 +2121,8 @@
     "MaxAgi": 490,
     "MaxWis": 390,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 103,
@@ -2061,7 +2146,8 @@
     "MaxAgi": 420,
     "MaxWis": 350,
     "Trivia": "These unfortunate creatures were once normal slimes until permeated by swamp poison, causing their bodies to collapse like underbaked meringue.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 126,
@@ -2085,7 +2171,8 @@
     "MaxAgi": 490,
     "MaxWis": 680,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 432,
@@ -2109,7 +2196,8 @@
     "MaxAgi": 480,
     "MaxWis": 270,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 127,
@@ -2133,7 +2221,8 @@
     "MaxAgi": 493,
     "MaxWis": 480,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 128,
@@ -2157,7 +2246,8 @@
     "MaxAgi": 540,
     "MaxWis": 420,
     "Trivia": "These creatures might resemble rabbits, but meet one of their horns head-on and you'll understand the difference rather sharpish. They pass the long nights huddled together in their warrens.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 461,
@@ -2168,12 +2258,12 @@
     "JapaneseName": "ギャスモン",
     "FrenchName": "Brûle-pourprin",
     "Identifier": "buntzenberner",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 2,
+    "Def": 1,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1400,
     "MaxMP": 490,
     "MaxAtt": 470,
@@ -2181,7 +2271,8 @@
     "MaxAgi": 420,
     "MaxWis": 730,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 129,
@@ -2205,7 +2296,8 @@
     "MaxAgi": 460,
     "MaxWis": 440,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 537,
@@ -2229,7 +2321,8 @@
     "MaxAgi": 380,
     "MaxWis": 620,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 419,
@@ -2240,12 +2333,12 @@
     "JapaneseName": "トロピカキング",
     "FrenchName": "Troubalourd",
     "Identifier": "calypso-king",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1360,
     "MaxMP": 470,
     "MaxAtt": 630,
@@ -2253,7 +2346,8 @@
     "MaxAgi": 410,
     "MaxWis": 300,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 130,
@@ -2277,7 +2371,8 @@
     "MaxAgi": 450,
     "MaxWis": 490,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 131,
@@ -2301,7 +2396,8 @@
     "MaxAgi": 450,
     "MaxWis": 390,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 132,
@@ -2325,7 +2421,8 @@
     "MaxAgi": 460,
     "MaxWis": 350,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 133,
@@ -2349,7 +2446,8 @@
     "MaxAgi": 480,
     "MaxWis": 460,
     "Trivia": "These terrible twins are in fact born already skewered. Always butting heads, they are often witnessed mid-argument.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 394,
@@ -2360,12 +2458,12 @@
     "JapaneseName": "ひとくいそう",
     "FrenchName": "Morchidée",
     "Identifier": "carnivine",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1370,
     "MaxMP": 340,
     "MaxAtt": 590,
@@ -2373,7 +2471,8 @@
     "MaxAgi": 470,
     "MaxWis": 530,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 276,
@@ -2397,7 +2496,8 @@
     "MaxAgi": 460,
     "MaxWis": 410,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 530,
@@ -2408,12 +2508,12 @@
     "JapaneseName": "ホエールロード",
     "FrenchName": "Orcus-pocus",
     "Identifier": "cetacean-sorcerer",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 5,
+    "Att": 1,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 5,
     "MaxHP": 1380,
     "MaxMP": 740,
     "MaxAtt": 360,
@@ -2421,7 +2521,8 @@
     "MaxAgi": 400,
     "MaxWis": 800,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 420,
@@ -2432,12 +2533,12 @@
     "JapaneseName": "ベンガル",
     "FrenchName": "Tigrrr",
     "Identifier": "cheater-cheetah",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1380,
     "MaxMP": 300,
     "MaxAtt": 580,
@@ -2445,7 +2546,8 @@
     "MaxAgi": 480,
     "MaxWis": 530,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 567,
@@ -2456,12 +2558,12 @@
     "JapaneseName": "ウルフドラゴン",
     "FrenchName": "Dracorniaud",
     "Identifier": "chihuawyrm",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 1,
     "MaxHP": 1360,
     "MaxMP": 310,
     "MaxAtt": 600,
@@ -2469,7 +2571,8 @@
     "MaxAgi": 600,
     "MaxWis": 320,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 134,
@@ -2493,7 +2596,8 @@
     "MaxAgi": 500,
     "MaxWis": 550,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 135,
@@ -2517,7 +2621,8 @@
     "MaxAgi": 440,
     "MaxWis": 340,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 293,
@@ -2541,7 +2646,8 @@
     "MaxAgi": 510,
     "MaxWis": 610,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 376,
@@ -2552,12 +2658,12 @@
     "JapaneseName": "クームヤーガ",
     "FrenchName": "Dracorneille",
     "Identifier": "clawvus",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 2,
     "MaxHP": 1380,
     "MaxMP": 430,
     "MaxAtt": 550,
@@ -2565,7 +2671,8 @@
     "MaxAgi": 560,
     "MaxWis": 340,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 592,
@@ -2576,12 +2683,12 @@
     "JapaneseName": "荒野シュリンプ",
     "FrenchName": "Gombaroudeur",
     "Identifier": "clobster",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 2,
+    "Def": 5,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1400,
     "MaxMP": 430,
     "MaxAtt": 530,
@@ -2589,7 +2696,8 @@
     "MaxAgi": 380,
     "MaxWis": 370,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 136,
@@ -2613,7 +2721,8 @@
     "MaxAgi": 520,
     "MaxWis": 300,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 137,
@@ -2637,7 +2746,8 @@
     "MaxAgi": 460,
     "MaxWis": 430,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 329,
@@ -2661,7 +2771,8 @@
     "MaxAgi": 600,
     "MaxWis": 480,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 444,
@@ -2672,12 +2783,12 @@
     "JapaneseName": "シーゴーレム",
     "FrenchName": "Corosse",
     "Identifier": "coralossus",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1380,
     "MaxMP": 380,
     "MaxAtt": 630,
@@ -2685,7 +2796,8 @@
     "MaxAgi": 380,
     "MaxWis": 390,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 512,
@@ -2696,12 +2808,12 @@
     "JapaneseName": "ポイズンゾンビ",
     "FrenchName": "Outretombe",
     "Identifier": "corpsickle",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1440,
     "MaxMP": 330,
     "MaxAtt": 590,
@@ -2709,7 +2821,8 @@
     "MaxAgi": 430,
     "MaxWis": 370,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 540,
@@ -2733,7 +2846,8 @@
     "MaxAgi": 390,
     "MaxWis": 630,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 404,
@@ -2744,12 +2858,12 @@
     "JapaneseName": "スターキメラ",
     "FrenchName": "Chimère cosmique",
     "Identifier": "cosmic-chimaera",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 3,
     "MaxHP": 1310,
     "MaxMP": 450,
     "MaxAtt": 570,
@@ -2757,7 +2871,8 @@
     "MaxAgi": 560,
     "MaxWis": 520,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 570,
@@ -2768,12 +2883,12 @@
     "JapaneseName": "じごくのハサミ",
     "FrenchName": "Crabject",
     "Identifier": "crabber-dabber-doo",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 2,
+    "Def": 5,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1320,
     "MaxMP": 340,
     "MaxAtt": 540,
@@ -2781,7 +2896,8 @@
     "MaxAgi": 430,
     "MaxWis": 550,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 306,
@@ -2805,7 +2921,8 @@
     "MaxAgi": 520,
     "MaxWis": 380,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 336,
@@ -2829,7 +2946,8 @@
     "MaxAgi": 290,
     "MaxWis": 430,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 138,
@@ -2853,7 +2971,8 @@
     "MaxAgi": 460,
     "MaxWis": 380,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 278,
@@ -2877,7 +2996,8 @@
     "MaxAgi": 300,
     "MaxWis": 510,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 365,
@@ -2888,12 +3008,12 @@
     "JapaneseName": "シャンタク",
     "FrenchName": "Dracorvidé",
     "Identifier": "crowgre",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1350,
     "MaxMP": 340,
     "MaxAtt": 580,
@@ -2901,7 +3021,8 @@
     "MaxAgi": 550,
     "MaxWis": 520,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 139,
@@ -2925,7 +3046,8 @@
     "MaxAgi": 490,
     "MaxWis": 480,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 140,
@@ -2949,7 +3071,8 @@
     "MaxAgi": 510,
     "MaxWis": 600,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 331,
@@ -2973,7 +3096,8 @@
     "MaxAgi": 530,
     "MaxWis": 660,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 509,
@@ -2984,12 +3108,12 @@
     "JapaneseName": "タタリ御前",
     "FrenchName": "Ténori",
     "Identifier": "cursed-crooner",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 1,
+    "MP": 3,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1250,
     "MaxMP": 520,
     "MaxAtt": 630,
@@ -2997,7 +3121,8 @@
     "MaxAgi": 420,
     "MaxWis": 660,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 337,
@@ -3008,12 +3133,12 @@
     "JapaneseName": "スライムボーグ",
     "FrenchName": "Cybergluant",
     "Identifier": "cyber-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1360,
     "MaxMP": 340,
     "MaxAtt": 590,
@@ -3021,7 +3146,8 @@
     "MaxAgi": 420,
     "MaxWis": 570,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 314,
@@ -3045,7 +3171,8 @@
     "MaxAgi": 380,
     "MaxWis": 300,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 141,
@@ -3069,7 +3196,8 @@
     "MaxAgi": 500,
     "MaxWis": 430,
     "Trivia": "These wicked wing spirits sport their whirlwinds like work attire. Their greatest desire is to welcome wanders into their whirling worlds.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 142,
@@ -3093,7 +3221,8 @@
     "MaxAgi": 800,
     "MaxWis": 500,
     "Trivia": "These dragons  like to ensorcell travellers with their beautiful fairy wings. Not only bewitching to behold, their wings release a fine powder which puts their prey in a trance.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 143,
@@ -3117,7 +3246,8 @@
     "MaxAgi": 540,
     "MaxWis": 580,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 451,
@@ -3128,12 +3258,12 @@
     "JapaneseName": "フレイム",
     "FrenchName": "Brûleflamme",
     "Identifier": "dancing-flame",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1330,
     "MaxMP": 410,
     "MaxAtt": 560,
@@ -3141,7 +3271,8 @@
     "MaxAgi": 500,
     "MaxWis": 500,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 387,
@@ -3165,7 +3296,8 @@
     "MaxAgi": 510,
     "MaxWis": 620,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 428,
@@ -3176,12 +3308,12 @@
     "JapaneseName": "ブラバニクイーン",
     "FrenchName": "Lièvrecorne noir",
     "Identifier": "dark-hare",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 4,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1300,
     "MaxMP": 330,
     "MaxAtt": 710,
@@ -3189,7 +3321,8 @@
     "MaxAgi": 570,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 328,
@@ -3213,7 +3346,8 @@
     "MaxAgi": 530,
     "MaxWis": 750,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 431,
@@ -3224,12 +3358,12 @@
     "JapaneseName": "シャドウパンサー",
     "FrenchName": "Smilodon noir",
     "Identifier": "dark-sabrecat",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 4,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 1,
     "MaxHP": 1340,
     "MaxMP": 310,
     "MaxAtt": 670,
@@ -3237,7 +3371,8 @@
     "MaxAgi": 580,
     "MaxWis": 340,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 144,
@@ -3261,7 +3396,8 @@
     "MaxAgi": 610,
     "MaxWis": 380,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 145,
@@ -3285,7 +3421,8 @@
     "MaxAgi": 530,
     "MaxWis": 670,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 146,
@@ -3309,7 +3446,8 @@
     "MaxAgi": 530,
     "MaxWis": 390,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 67,
@@ -3333,7 +3471,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 60,
@@ -3357,7 +3496,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 66,
@@ -3381,7 +3521,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 65,
@@ -3405,7 +3546,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 64,
@@ -3429,7 +3571,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 63,
@@ -3453,7 +3596,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 62,
@@ -3477,7 +3621,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 61,
@@ -3501,7 +3646,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 68,
@@ -3525,7 +3671,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 69,
@@ -3549,7 +3696,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 527,
@@ -3560,12 +3708,12 @@
     "JapaneseName": "まおうのつかい",
     "FrenchName": "Shivattak",
     "Identifier": "demon-at-arms",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1320,
     "MaxMP": 370,
     "MaxAtt": 600,
@@ -3573,7 +3721,8 @@
     "MaxAgi": 410,
     "MaxWis": 750,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 147,
@@ -3597,7 +3746,8 @@
     "MaxAgi": 460,
     "MaxWis": 510,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 587,
@@ -3621,7 +3771,8 @@
     "MaxAgi": 470,
     "MaxWis": 680,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 342,
@@ -3645,7 +3796,8 @@
     "MaxAgi": 380,
     "MaxWis": 700,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 515,
@@ -3656,12 +3808,12 @@
     "JapaneseName": "ポムポムボム",
     "FrenchName": "Boumbone",
     "Identifier": "discombombulator",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1350,
     "MaxMP": 420,
     "MaxAtt": 580,
@@ -3669,7 +3821,8 @@
     "MaxAgi": 470,
     "MaxWis": 520,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 148,
@@ -3693,7 +3846,8 @@
     "MaxAgi": 510,
     "MaxWis": 480,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 599,
@@ -3717,7 +3871,8 @@
     "MaxAgi": 440,
     "MaxWis": 330,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 528,
@@ -3728,12 +3883,12 @@
     "JapaneseName": "メルトア",
     "FrenchName": "Chiaravaggia",
     "Identifier": "dora-in-grey",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1250,
     "MaxMP": 510,
     "MaxAtt": 610,
@@ -3741,7 +3896,8 @@
     "MaxAgi": 410,
     "MaxWis": 710,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 297,
@@ -3765,7 +3921,8 @@
     "MaxAgi": 550,
     "MaxWis": 600,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 149,
@@ -3789,7 +3946,8 @@
     "MaxAgi": 750,
     "MaxWis": 410,
     "Trivia": "These flapping pains in the neck only come out at night. They love nothing more than slurping up human blood, the fresher the better.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 484,
@@ -3800,12 +3958,12 @@
     "JapaneseName": "ドラキーマ",
     "FrenchName": "Vampivolle",
     "Identifier": "drackyma",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1260,
     "MaxMP": 530,
     "MaxAtt": 520,
@@ -3813,7 +3971,8 @@
     "MaxAgi": 570,
     "MaxWis": 650,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 151,
@@ -3837,7 +3996,8 @@
     "MaxAgi": 610,
     "MaxWis": 300,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 27,
@@ -3861,7 +4021,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 20,
@@ -3885,7 +4046,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 26,
@@ -3909,7 +4071,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 25,
@@ -3933,7 +4096,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 24,
@@ -3957,7 +4121,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 23,
@@ -3981,7 +4146,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 22,
@@ -4005,7 +4171,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 21,
@@ -4029,7 +4196,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 28,
@@ -4053,7 +4221,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 29,
@@ -4077,7 +4246,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 358,
@@ -4088,12 +4258,12 @@
     "JapaneseName": "ドラゴンライダー",
     "FrenchName": "Dragonier",
     "Identifier": "dragon-rider",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1370,
     "MaxMP": 310,
     "MaxAtt": 570,
@@ -4101,7 +4271,8 @@
     "MaxAgi": 530,
     "MaxWis": 440,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 326,
@@ -4125,7 +4296,8 @@
     "MaxAgi": 530,
     "MaxWis": 390,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 150,
@@ -4149,7 +4321,8 @@
     "MaxAgi": 530,
     "MaxWis": 310,
     "Trivia": "Cursed thickets of thorn tangled into draconic shape. Those entwine in their terrifying clutches have no hope of escape.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 591,
@@ -4160,12 +4333,12 @@
     "JapaneseName": "ゲリュオン",
     "FrenchName": "Draguar",
     "Identifier": "draguar",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1320,
     "MaxMP": 340,
     "MaxAtt": 620,
@@ -4173,7 +4346,8 @@
     "MaxAgi": 540,
     "MaxWis": 500,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 152,
@@ -4197,7 +4371,8 @@
     "MaxAgi": 550,
     "MaxWis": 360,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 589,
@@ -4208,12 +4383,12 @@
     "JapaneseName": "ギガントドラゴン",
     "FrenchName": "Draculard",
     "Identifier": "drakulard",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1400,
     "MaxMP": 270,
     "MaxAtt": 610,
@@ -4221,7 +4396,8 @@
     "MaxAgi": 420,
     "MaxWis": 330,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 313,
@@ -4245,7 +4421,8 @@
     "MaxAgi": 450,
     "MaxWis": 270,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 378,
@@ -4256,12 +4433,12 @@
     "JapaneseName": "ダースドラゴン",
     "FrenchName": "Dragorange",
     "Identifier": "dread-dragon",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1350,
     "MaxMP": 280,
     "MaxAtt": 560,
@@ -4269,7 +4446,8 @@
     "MaxAgi": 470,
     "MaxWis": 590,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 371,
@@ -4280,12 +4458,12 @@
     "JapaneseName": "ハデスナイト",
     "FrenchName": "Dragonier de l'enfer",
     "Identifier": "dread-dragooner",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 3,
     "MaxHP": 1280,
     "MaxMP": 370,
     "MaxAtt": 630,
@@ -4293,7 +4471,8 @@
     "MaxAgi": 600,
     "MaxWis": 520,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 153,
@@ -4317,7 +4496,8 @@
     "MaxAgi": 590,
     "MaxWis": 420,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 524,
@@ -4328,12 +4508,12 @@
     "JapaneseName": "スモールグール",
     "FrenchName": "Sméagoule",
     "Identifier": "drooling-ghoul",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1290,
     "MaxMP": 490,
     "MaxAtt": 570,
@@ -4341,7 +4521,8 @@
     "MaxAgi": 520,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 606,
@@ -4352,12 +4533,12 @@
     "JapaneseName": "デュラハーン",
     "FrenchName": "Décapitête",
     "Identifier": "dullahan",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1320,
     "MaxMP": 400,
     "MaxAtt": 500,
@@ -4365,7 +4546,8 @@
     "MaxAgi": 480,
     "MaxWis": 670,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 154,
@@ -4389,7 +4571,8 @@
     "MaxAgi": 510,
     "MaxWis": 380,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 351,
@@ -4413,7 +4596,8 @@
     "MaxAgi": 420,
     "MaxWis": 520,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 437,
@@ -4437,7 +4621,8 @@
     "MaxAgi": 570,
     "MaxWis": 350,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 155,
@@ -4461,7 +4646,8 @@
     "MaxAgi": 570,
     "MaxWis": 450,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 156,
@@ -4485,7 +4671,8 @@
     "MaxAgi": 450,
     "MaxWis": 360,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 632,
@@ -4509,7 +4696,8 @@
     "MaxAgi": 470,
     "MaxWis": 550,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 354,
@@ -4520,12 +4708,12 @@
     "JapaneseName": "スカイドラゴン",
     "FrenchName": "Serpenlair",
     "Identifier": "ethereal-serpent",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 1,
+    "MP": 1,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1340,
     "MaxMP": 320,
     "MaxAtt": 590,
@@ -4533,7 +4721,8 @@
     "MaxAgi": 530,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 617,
@@ -4544,12 +4733,12 @@
     "JapaneseName": "魔犬レオパルド",
     "FrenchName": "Monsieur Léopold possédé",
     "Identifier": "evil-sir-leopold",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 4,
+    "Wis": 2,
     "MaxHP": 1310,
     "MaxMP": 440,
     "MaxAtt": 590,
@@ -4557,7 +4746,8 @@
     "MaxAgi": 580,
     "MaxWis": 350,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 421,
@@ -4581,7 +4771,8 @@
     "MaxAgi": 520,
     "MaxWis": 690,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 459,
@@ -4592,12 +4783,12 @@
     "JapaneseName": "ルバンカ",
     "FrenchName": "Obstructueur",
     "Identifier": "face-invader",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 1,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1350,
     "MaxMP": 530,
     "MaxAtt": 420,
@@ -4605,7 +4796,8 @@
     "MaxAgi": 500,
     "MaxWis": 670,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 400,
@@ -4616,12 +4808,12 @@
     "JapaneseName": "ダンスニードル",
     "FrenchName": "Cactak",
     "Identifier": "fandangow",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1310,
     "MaxMP": 430,
     "MaxAtt": 580,
@@ -4629,7 +4821,8 @@
     "MaxAgi": 560,
     "MaxWis": 540,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 157,
@@ -4653,7 +4846,8 @@
     "MaxAgi": 550,
     "MaxWis": 420,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 159,
@@ -4677,7 +4871,8 @@
     "MaxAgi": 430,
     "MaxWis": 450,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 158,
@@ -4701,7 +4896,8 @@
     "MaxAgi": 370,
     "MaxWis": 610,
     "Trivia": "This fluffball is covered in green fur from top to toe. Though easily spooked, those with sharp eyes might spot something funny where this beastie's nose should be before it scrapers.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 516,
@@ -4712,12 +4908,12 @@
     "JapaneseName": "メトロゴースト",
     "FrenchName": "Esprit tapeur",
     "Identifier": "fightgeist",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1360,
     "MaxMP": 340,
     "MaxAtt": 520,
@@ -4725,7 +4921,8 @@
     "MaxAgi": 540,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 405,
@@ -4736,12 +4933,12 @@
     "JapaneseName": "ひくいどり",
     "FrenchName": "Aiglefeu",
     "Identifier": "firebird",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 4,
+    "Wis": 3,
     "MaxHP": 1310,
     "MaxMP": 340,
     "MaxAtt": 560,
@@ -4749,7 +4946,8 @@
     "MaxAgi": 610,
     "MaxWis": 490,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 160,
@@ -4773,7 +4971,8 @@
     "MaxAgi": 470,
     "MaxWis": 630,
     "Trivia": "No-one knows for certain how these monsters came to be. Some believe they were born of the fiery 'Frizz' spell, while others thing they are the soulds of those who died with a burning desire for revenge.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 449,
@@ -4784,12 +4983,12 @@
     "JapaneseName": "ひょうがまじん",
     "FrenchName": "Glaglator",
     "Identifier": "firn-fiend",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1360,
     "MaxMP": 370,
     "MaxAtt": 570,
@@ -4797,7 +4996,8 @@
     "MaxAgi": 440,
     "MaxWis": 550,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 457,
@@ -4808,12 +5008,12 @@
     "JapaneseName": "ほのおのせんし",
     "FrenchName": "Tizon",
     "Identifier": "flamethrower",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1360,
     "MaxMP": 450,
     "MaxAtt": 540,
@@ -4821,7 +5021,8 @@
     "MaxAgi": 500,
     "MaxWis": 550,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 364,
@@ -4832,12 +5033,12 @@
     "JapaneseName": "コアトル",
     "FrenchName": "Toutouïvre",
     "Identifier": "flapdragon",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 1,
     "MaxHP": 1350,
     "MaxMP": 310,
     "MaxAtt": 630,
@@ -4845,7 +5046,8 @@
     "MaxAgi": 580,
     "MaxWis": 300,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 506,
@@ -4869,7 +5071,8 @@
     "MaxAgi": 500,
     "MaxWis": 680,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 546,
@@ -4893,7 +5096,8 @@
     "MaxAgi": 540,
     "MaxWis": 400,
     "Trivia": null,
-    "EggTypeId": 4
+    "EggTypeId": 4,
+    "Notes": null
   },
   {
     "MonsterId": 571,
@@ -4917,7 +5121,8 @@
     "MaxAgi": 540,
     "MaxWis": 670,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 640,
@@ -4928,12 +5133,12 @@
     "JapaneseName": "スライムフェアリー",
     "FrenchName": "Slurpillon jaune",
     "Identifier": "flutter-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 1,
+    "Agi": 4,
+    "Wis": 3,
     "MaxHP": 1320,
     "MaxMP": 500,
     "MaxAtt": 510,
@@ -4941,7 +5146,8 @@
     "MaxAgi": 610,
     "MaxWis": 550,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 455,
@@ -4952,12 +5158,12 @@
     "JapaneseName": "デスソーサー",
     "FrenchName": "Soucoupes volantes",
     "Identifier": "flying-saucers",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1390,
     "MaxMP": 280,
     "MaxAtt": 620,
@@ -4965,7 +5171,8 @@
     "MaxAgi": 480,
     "MaxWis": 460,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 161,
@@ -4989,7 +5196,8 @@
     "MaxAgi": 722,
     "MaxWis": 450,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 602,
@@ -5013,7 +5221,8 @@
     "MaxAgi": 480,
     "MaxWis": 430,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 162,
@@ -5037,7 +5246,8 @@
     "MaxAgi": 489,
     "MaxWis": 550,
     "Trivia": "Hellish hounds employed in the underworld as ghastly guard dogs. Bloodthirsty to the bone, even fellow monsters give these mutts a wide berth.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 406,
@@ -5048,12 +5258,12 @@
     "JapaneseName": "ブラッドオックス",
     "FrenchName": "Ptaurodactyle",
     "Identifier": "fowl-beast",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1330,
     "MaxMP": 380,
     "MaxAtt": 630,
@@ -5061,7 +5271,8 @@
     "MaxAgi": 490,
     "MaxWis": 440,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 281,
@@ -5085,7 +5296,8 @@
     "MaxAgi": 540,
     "MaxWis": 690,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 106,
@@ -5109,7 +5321,8 @@
     "MaxAgi": 510,
     "MaxWis": 490,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 522,
@@ -5120,12 +5333,12 @@
     "JapaneseName": "ナイトリッチ",
     "FrenchName": "Seigneur malheur",
     "Identifier": "fright-knight",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1350,
     "MaxMP": 300,
     "MaxAtt": 630,
@@ -5133,7 +5346,8 @@
     "MaxAgi": 510,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 605,
@@ -5157,7 +5371,8 @@
     "MaxAgi": 510,
     "MaxWis": 680,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 311,
@@ -5181,7 +5396,8 @@
     "MaxAgi": 550,
     "MaxWis": 450,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 441,
@@ -5205,7 +5421,8 @@
     "MaxAgi": 450,
     "MaxWis": 580,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 164,
@@ -5229,7 +5446,8 @@
     "MaxAgi": 480,
     "MaxWis": 580,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 450,
@@ -5240,12 +5458,12 @@
     "JapaneseName": "ブリザード",
     "FrenchName": "Brûlegel",
     "Identifier": "frostburn",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1350,
     "MaxMP": 390,
     "MaxAtt": 580,
@@ -5253,7 +5471,8 @@
     "MaxAgi": 520,
     "MaxWis": 410,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 165,
@@ -5277,7 +5496,8 @@
     "MaxAgi": 500,
     "MaxWis": 410,
     "Trivia": "These great big gurning mushrooms spring up in their dozens in damp locales. They propagate by putting travellers to sleep and seeding them with their spores.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 585,
@@ -5288,12 +5508,12 @@
     "JapaneseName": "ぴぴぼう",
     "FrenchName": "Pilou",
     "Identifier": "fuzzy",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 4,
     "MaxHP": 1330,
     "MaxMP": 460,
     "MaxAtt": 540,
@@ -5301,7 +5521,8 @@
     "MaxAgi": 520,
     "MaxWis": 690,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 557,
@@ -5312,12 +5533,12 @@
     "JapaneseName": "デスペクテル",
     "FrenchName": "Vudœil",
     "Identifier": "gander",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1340,
     "MaxMP": 530,
     "MaxAtt": 540,
@@ -5325,7 +5546,8 @@
     "MaxAgi": 490,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 409,
@@ -5336,12 +5558,12 @@
     "JapaneseName": "ロックちょう",
     "FrenchName": "Serrial-killer",
     "Identifier": "gangleclaw",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1340,
     "MaxMP": 400,
     "MaxAtt": 600,
@@ -5349,7 +5571,8 @@
     "MaxAgi": 540,
     "MaxWis": 430,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 580,
@@ -5360,12 +5583,12 @@
     "JapaneseName": "ガーゴイル",
     "FrenchName": "Gargouille",
     "Identifier": "gargoyle",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1340,
     "MaxMP": 420,
     "MaxAtt": 580,
@@ -5373,7 +5596,8 @@
     "MaxAgi": 520,
     "MaxWis": 410,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 272,
@@ -5397,7 +5621,8 @@
     "MaxAgi": 580,
     "MaxWis": 490,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 355,
@@ -5408,12 +5633,12 @@
     "JapaneseName": "フーセンドラゴン",
     "FrenchName": "Butanosaure",
     "Identifier": "gasbagon",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 1,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1400,
     "MaxMP": 300,
     "MaxAtt": 590,
@@ -5421,7 +5646,8 @@
     "MaxAgi": 410,
     "MaxWis": 410,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 349,
@@ -5432,12 +5658,12 @@
     "JapaneseName": "ゴールデンスライム",
     "FrenchName": "Gluandor",
     "Identifier": "gem-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 1,
+    "MP": 5,
+    "Att": 2,
+    "Def": 5,
+    "Agi": 5,
+    "Wis": 5,
     "MaxHP": 280,
     "MaxMP": 750,
     "MaxAtt": 430,
@@ -5445,7 +5671,8 @@
     "MaxAgi": 850,
     "MaxWis": 1030,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 166,
@@ -5469,7 +5696,8 @@
     "MaxAgi": 560,
     "MaxWis": 570,
     "Trivia": "Unfinished business in their previous lives prevents these poltergeists from ever being at peace. They're always trying to inflict to a fright one way or another, just for the attention.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 491,
@@ -5480,12 +5708,12 @@
     "JapaneseName": "ギガンテス",
     "FrenchName": "Géant",
     "Identifier": "gigantes",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1400,
     "MaxMP": 270,
     "MaxAtt": 630,
@@ -5493,7 +5721,8 @@
     "MaxAgi": 430,
     "MaxWis": 280,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 563,
@@ -5504,12 +5733,12 @@
     "JapaneseName": "ジラフマスター",
     "FrenchName": "Scélérafe",
     "Identifier": "giruffian",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1350,
     "MaxMP": 340,
     "MaxAtt": 580,
@@ -5517,7 +5746,8 @@
     "MaxAgi": 440,
     "MaxWis": 610,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 626,
@@ -5528,12 +5758,12 @@
     "JapaneseName": "まかいじゅう",
     "FrenchName": "Gnoumésis",
     "Identifier": "gnumesis",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1390,
     "MaxMP": 340,
     "MaxAtt": 620,
@@ -5541,7 +5771,8 @@
     "MaxAgi": 460,
     "MaxWis": 280,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 610,
@@ -5552,12 +5783,12 @@
     "JapaneseName": "デスゴーゴン",
     "FrenchName": "Gnoucifer",
     "Identifier": "gnuriel",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1360,
     "MaxMP": 280,
     "MaxAtt": 610,
@@ -5565,7 +5796,8 @@
     "MaxAgi": 460,
     "MaxWis": 400,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 464,
@@ -5576,12 +5808,12 @@
     "JapaneseName": "ゴーレム",
     "FrenchName": "Golem",
     "Identifier": "golem",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 5,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1370,
     "MaxMP": 280,
     "MaxAtt": 630,
@@ -5589,7 +5821,8 @@
     "MaxAgi": 400,
     "MaxWis": 390,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 486,
@@ -5600,12 +5833,12 @@
     "JapaneseName": "ブルーイーター",
     "FrenchName": "Casse-caboche",
     "Identifier": "ice-breaker",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 2,
     "MaxHP": 1300,
     "MaxMP": 330,
     "MaxAtt": 660,
@@ -5613,7 +5846,8 @@
     "MaxAgi": 580,
     "MaxWis": 460,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 282,
@@ -5637,7 +5871,8 @@
     "MaxAgi": 530,
     "MaxWis": 630,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 347,
@@ -5648,12 +5883,12 @@
     "JapaneseName": "ふうらいスライム",
     "FrenchName": "Glumulonimbus",
     "Identifier": "goomulonimbus",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 1,
+    "Agi": 4,
+    "Wis": 2,
     "MaxHP": 1340,
     "MaxMP": 430,
     "MaxAtt": 590,
@@ -5661,7 +5896,8 @@
     "MaxAgi": 610,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 167,
@@ -5685,7 +5921,8 @@
     "MaxAgi": 420,
     "MaxWis": 510,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 353,
@@ -5709,7 +5946,8 @@
     "MaxAgi": 480,
     "MaxWis": 780,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 568,
@@ -5720,12 +5958,12 @@
     "JapaneseName": "王のはかもり",
     "FrenchName": "Reliqtus",
     "Identifier": "graven-idol",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1310,
     "MaxMP": 500,
     "MaxAtt": 460,
@@ -5733,7 +5971,8 @@
     "MaxAgi": 450,
     "MaxWis": 710,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 357,
@@ -5757,7 +5996,8 @@
     "MaxAgi": 420,
     "MaxWis": 250,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 369,
@@ -5781,7 +6021,8 @@
     "MaxAgi": 450,
     "MaxWis": 360,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 611,
@@ -5805,7 +6046,8 @@
     "MaxAgi": 380,
     "MaxWis": 270,
     "Trivia": null,
-    "EggTypeId": 4
+    "EggTypeId": 4,
+    "Notes": null
   },
   {
     "MonsterId": 552,
@@ -5816,12 +6058,12 @@
     "JapaneseName": "キラーパンサー",
     "FrenchName": "Smilodon",
     "Identifier": "great-sabercat",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 2,
     "MaxHP": 1340,
     "MaxMP": 300,
     "MaxAtt": 640,
@@ -5829,7 +6071,8 @@
     "MaxAgi": 580,
     "MaxWis": 360,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 168,
@@ -5853,7 +6096,8 @@
     "MaxAgi": 530,
     "MaxWis": 270,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 312,
@@ -5877,7 +6121,8 @@
     "MaxAgi": 380,
     "MaxWis": 440,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 427,
@@ -5901,7 +6146,8 @@
     "MaxAgi": 380,
     "MaxWis": 290,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 590,
@@ -5925,7 +6171,8 @@
     "MaxAgi": 500,
     "MaxWis": 630,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 321,
@@ -5949,7 +6196,8 @@
     "MaxAgi": 510,
     "MaxWis": 440,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 169,
@@ -5973,7 +6221,8 @@
     "MaxAgi": 500,
     "MaxWis": 640,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 380,
@@ -5997,7 +6246,8 @@
     "MaxAgi": 500,
     "MaxWis": 570,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 569,
@@ -6008,12 +6258,12 @@
     "JapaneseName": "かえんムカデ",
     "FrenchName": "Charbombyx",
     "Identifier": "grillerpillar",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1400,
     "MaxMP": 330,
     "MaxAtt": 530,
@@ -6021,23 +6271,24 @@
     "MaxAgi": 460,
     "MaxWis": 440,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 480,
     "FamilyId": 6,
     "RankId": 5,
     "Number": 395,
-    "Name": "Grim keeper",
+    "Name": "Grim Keeper",
     "JapaneseName": "じごくのもんばん",
     "FrenchName": "Grand faucheur",
     "Identifier": "grim-keeper",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1320,
     "MaxMP": 390,
     "MaxAtt": 590,
@@ -6045,7 +6296,8 @@
     "MaxAgi": 560,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 513,
@@ -6056,12 +6308,12 @@
     "JapaneseName": "ボーンナイト",
     "FrenchName": "Cavalier fantôme",
     "Identifier": "grim-rider",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1360,
     "MaxMP": 350,
     "MaxAtt": 570,
@@ -6069,7 +6321,8 @@
     "MaxAgi": 560,
     "MaxWis": 400,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 619,
@@ -6080,12 +6333,12 @@
     "JapaneseName": "黄泉のほのお",
     "FrenchName": "Vert follet",
     "Identifier": "grincinerator",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 1,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1400,
     "MaxMP": 400,
     "MaxAtt": 420,
@@ -6093,7 +6346,8 @@
     "MaxAgi": 530,
     "MaxWis": 410,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 310,
@@ -6117,7 +6371,8 @@
     "MaxAgi": 530,
     "MaxWis": 450,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 412,
@@ -6141,7 +6396,8 @@
     "MaxAgi": 250,
     "MaxWis": 690,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 526,
@@ -6152,12 +6408,12 @@
     "JapaneseName": "ドラゴンコープス",
     "FrenchName": "Décomposaure",
     "Identifier": "grotwyrm",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1380,
     "MaxMP": 370,
     "MaxAtt": 570,
@@ -6165,7 +6421,8 @@
     "MaxAgi": 470,
     "MaxWis": 490,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 494,
@@ -6176,12 +6433,12 @@
     "JapaneseName": "ホラービースト",
     "FrenchName": "Grrrgouille",
     "Identifier": "grrrgoyle",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1390,
     "MaxMP": 380,
     "MaxAtt": 520,
@@ -6189,7 +6446,8 @@
     "MaxAgi": 550,
     "MaxWis": 440,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 470,
@@ -6200,12 +6458,12 @@
     "JapaneseName": "サイレス",
     "FrenchName": "Griffon",
     "Identifier": "gryphon",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1350,
     "MaxMP": 470,
     "MaxAtt": 600,
@@ -6213,7 +6471,8 @@
     "MaxAgi": 460,
     "MaxWis": 420,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 170,
@@ -6237,7 +6496,8 @@
     "MaxAgi": 450,
     "MaxWis": 490,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 372,
@@ -6248,12 +6508,12 @@
     "JapaneseName": "バトルレックス",
     "FrenchName": "Hachosaure",
     "Identifier": "hacksaurus",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 4,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1320,
     "MaxMP": 300,
     "MaxAtt": 680,
@@ -6261,7 +6521,8 @@
     "MaxAgi": 550,
     "MaxWis": 380,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 395,
@@ -6272,12 +6533,12 @@
     "JapaneseName": "ヘルコンドル",
     "FrenchName": "Condor Infernal",
     "Identifier": "hades-condor",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1410,
     "MaxMP": 400,
     "MaxAtt": 550,
@@ -6285,7 +6546,8 @@
     "MaxAgi": 480,
     "MaxWis": 330,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 280,
@@ -6309,7 +6571,8 @@
     "MaxAgi": 435,
     "MaxWis": 570,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 171,
@@ -6333,7 +6596,8 @@
     "MaxAgi": 440,
     "MaxWis": 310,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 462,
@@ -6344,12 +6608,12 @@
     "JapaneseName": "グレイトボンバー",
     "FrenchName": "Mécanœuf dur",
     "Identifier": "hard-boiled-eggsoskeleton",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1410,
     "MaxMP": 340,
     "MaxAtt": 560,
@@ -6357,7 +6621,8 @@
     "MaxAgi": 430,
     "MaxWis": 350,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 542,
@@ -6381,7 +6646,8 @@
     "MaxAgi": 440,
     "MaxWis": 690,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 316,
@@ -6405,7 +6671,8 @@
     "MaxAgi": 420,
     "MaxWis": 420,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 172,
@@ -6429,7 +6696,8 @@
     "MaxAgi": 560,
     "MaxWis": 430,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 562,
@@ -6440,12 +6708,12 @@
     "JapaneseName": "デュラハンナイト",
     "FrenchName": "Décapiteur",
     "Identifier": "headless-horseman",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1320,
     "MaxMP": 330,
     "MaxAtt": 580,
@@ -6453,7 +6721,8 @@
     "MaxAgi": 530,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 104,
@@ -6477,7 +6746,8 @@
     "MaxAgi": 630,
     "MaxWis": 650,
     "Trivia": "These soft-centred slimes simply cannot stand by when they spy someone in need. Word has it there's one in particular who travels far and wide in pursuit of his dreams of becoming human.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 367,
@@ -6488,12 +6758,12 @@
     "JapaneseName": "ワニバーン",
     "FrenchName": "Aligatueur",
     "Identifier": "heligator",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1400,
     "MaxMP": 330,
     "MaxAtt": 610,
@@ -6501,7 +6771,8 @@
     "MaxAgi": 410,
     "MaxWis": 290,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 529,
@@ -6512,12 +6783,12 @@
     "JapaneseName": "ヘルクラッシャー",
     "FrenchName": "Gladiateur infernal",
     "Identifier": "hell-gladiator",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1310,
     "MaxMP": 440,
     "MaxAtt": 600,
@@ -6525,7 +6796,8 @@
     "MaxAgi": 520,
     "MaxWis": 590,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 174,
@@ -6549,7 +6821,8 @@
     "MaxAgi": 570,
     "MaxWis": 630,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 517,
@@ -6560,12 +6833,12 @@
     "JapaneseName": "サンダーシャウト",
     "FrenchName": "Ligotonnerre",
     "Identifier": "hellbound-hair-raiser",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1380,
     "MaxMP": 300,
     "MaxAtt": 520,
@@ -6573,7 +6846,8 @@
     "MaxAgi": 460,
     "MaxWis": 560,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 173,
@@ -6597,7 +6871,8 @@
     "MaxAgi": 520,
     "MaxWis": 610,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 422,
@@ -6608,12 +6883,12 @@
     "JapaneseName": "アームライオン",
     "FrenchName": "Trublion",
     "Identifier": "hellion",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1390,
     "MaxMP": 340,
     "MaxAtt": 570,
@@ -6621,7 +6896,8 @@
     "MaxAgi": 440,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 550,
@@ -6632,12 +6908,12 @@
     "JapaneseName": "フェイスボール",
     "FrenchName": "Rejeton de l'enfer",
     "Identifier": "hellspawn",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 1,
+    "Def": 5,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1290,
     "MaxMP": 480,
     "MaxAtt": 420,
@@ -6645,7 +6921,8 @@
     "MaxAgi": 540,
     "MaxWis": 650,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 489,
@@ -6656,12 +6933,12 @@
     "JapaneseName": "アークマージ",
     "FrenchName": "Manipulatueur",
     "Identifier": "hocus-poker",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1350,
     "MaxMP": 420,
     "MaxAtt": 470,
@@ -6669,7 +6946,8 @@
     "MaxAgi": 510,
     "MaxWis": 670,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 175,
@@ -6693,7 +6971,8 @@
     "MaxAgi": 500,
     "MaxWis": 300,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 176,
@@ -6717,7 +6996,8 @@
     "MaxAgi": 460,
     "MaxWis": 660,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 177,
@@ -6741,7 +7021,8 @@
     "MaxAgi": 470,
     "MaxWis": 420,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 178,
@@ -6765,7 +7046,8 @@
     "MaxAgi": 510,
     "MaxWis": 360,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 603,
@@ -6789,7 +7071,8 @@
     "MaxAgi": 520,
     "MaxWis": 600,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 423,
@@ -6813,7 +7096,8 @@
     "MaxAgi": 480,
     "MaxWis": 300,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 471,
@@ -6824,12 +7108,12 @@
     "JapaneseName": "シャドーサタン",
     "FrenchName": "Hypothermiox",
     "Identifier": "hypothermion",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1320,
     "MaxMP": 430,
     "MaxAtt": 530,
@@ -6837,7 +7121,8 @@
     "MaxAgi": 540,
     "MaxWis": 580,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 179,
@@ -6861,7 +7146,8 @@
     "MaxAgi": 540,
     "MaxWis": 670,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 608,
@@ -6872,12 +7158,12 @@
     "JapaneseName": "サラマンダー",
     "FrenchName": "Serpenfer",
     "Identifier": "infernal-serpent",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 2,
+    "Att": 4,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1410,
     "MaxMP": 350,
     "MaxAtt": 630,
@@ -6885,7 +7171,8 @@
     "MaxAgi": 390,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 286,
@@ -6909,7 +7196,8 @@
     "MaxAgi": 470,
     "MaxWis": 590,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 374,
@@ -6920,12 +7208,12 @@
     "JapaneseName": "ランドアーマー",
     "FrenchName": "Tortueféroce",
     "Identifier": "iron-tortoise",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 5,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1370,
     "MaxMP": 320,
     "MaxAtt": 590,
@@ -6933,7 +7221,8 @@
     "MaxAgi": 380,
     "MaxWis": 470,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 180,
@@ -6957,7 +7246,8 @@
     "MaxAgi": 530,
     "MaxWis": 560,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 181,
@@ -6981,7 +7271,8 @@
     "MaxAgi": 430,
     "MaxWis": 310,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 543,
@@ -7005,7 +7296,8 @@
     "MaxAgi": 460,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": 4
+    "EggTypeId": 4,
+    "Notes": null
   },
   {
     "MonsterId": 334,
@@ -7016,12 +7308,12 @@
     "JapaneseName": "スライムジョーカー",
     "FrenchName": "Slurpitre",
     "Identifier": "jester-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 4,
+    "Att": 1,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1300,
     "MaxMP": 660,
     "MaxAtt": 400,
@@ -7029,7 +7321,8 @@
     "MaxAgi": 570,
     "MaxWis": 690,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 288,
@@ -7053,7 +7346,8 @@
     "MaxAgi": 530,
     "MaxWis": 630,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 429,
@@ -7064,12 +7358,12 @@
     "JapaneseName": "マムー",
     "FrenchName": "Crinocéphale",
     "Identifier": "jowler",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1410,
     "MaxMP": 300,
     "MaxAtt": 620,
@@ -7077,7 +7371,8 @@
     "MaxAgi": 440,
     "MaxWis": 300,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 492,
@@ -7088,12 +7383,12 @@
     "JapaneseName": "キラージャック",
     "FrenchName": "Grobouffon",
     "Identifier": "jugular-joker",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 4,
+    "Wis": 2,
     "MaxHP": 1330,
     "MaxMP": 350,
     "MaxAtt": 580,
@@ -7101,7 +7396,8 @@
     "MaxAgi": 590,
     "MaxWis": 380,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 182,
@@ -7125,7 +7421,8 @@
     "MaxAgi": 590,
     "MaxWis": 310,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 183,
@@ -7149,7 +7446,8 @@
     "MaxAgi": 400,
     "MaxWis": 480,
     "Trivia": "These squid-like squirts are baby khalamari. Though small in stature, they're as tough as any full-grown sea-dweller.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 184,
@@ -7173,7 +7471,8 @@
     "MaxAgi": 420,
     "MaxWis": 500,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 185,
@@ -7197,7 +7496,8 @@
     "MaxAgi": 500,
     "MaxWis": 490,
     "Trivia": "Though these creepy-crawlies might look like larvae, they are in fact fully grown. They keep themselves warm in cold weather by rolling up into snug little balls.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 442,
@@ -7221,7 +7521,8 @@
     "MaxAgi": 540,
     "MaxWis": 470,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 330,
@@ -7232,12 +7533,12 @@
     "JapaneseName": "バブルキング",
     "FrenchName": "Roi gluanbulle",
     "Identifier": "king-bubble-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 1,
+    "Wis": 3,
     "MaxHP": 1450,
     "MaxMP": 480,
     "MaxAtt": 470,
@@ -7245,7 +7546,8 @@
     "MaxAgi": 270,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 344,
@@ -7256,12 +7558,12 @@
     "JapaneseName": "スライムベホマズン",
     "FrenchName": "Roi guérigluant",
     "Identifier": "king-cureslime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 1,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1410,
     "MaxMP": 490,
     "MaxAtt": 350,
@@ -7269,7 +7571,8 @@
     "MaxAgi": 420,
     "MaxWis": 660,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 555,
@@ -7280,12 +7583,12 @@
     "JapaneseName": "ヘルシーサー",
     "FrenchName": "Chienfernal enragé",
     "Identifier": "king-foo-dog",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1350,
     "MaxMP": 400,
     "MaxAtt": 600,
@@ -7293,7 +7596,8 @@
     "MaxAgi": 460,
     "MaxWis": 530,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 564,
@@ -7317,7 +7621,8 @@
     "MaxAgi": 500,
     "MaxWis": 360,
     "Trivia": null,
-    "EggTypeId": 4
+    "EggTypeId": 4,
+    "Notes": null
   },
   {
     "MonsterId": 340,
@@ -7328,12 +7633,12 @@
     "JapaneseName": "キングジョーカー",
     "FrenchName": "Roi Slurpitre",
     "Identifier": "king-jester-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 4,
     "MaxHP": 1270,
     "MaxMP": 510,
     "MaxAtt": 530,
@@ -7341,7 +7646,8 @@
     "MaxAgi": 570,
     "MaxWis": 680,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 186,
@@ -7365,7 +7671,8 @@
     "MaxAgi": 500,
     "MaxWis": 640,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 345,
@@ -7376,12 +7683,12 @@
     "JapaneseName": "タールキング",
     "FrenchName": "Roi gluant de poix",
     "Identifier": "king-slick-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 2,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1430,
     "MaxMP": 370,
     "MaxAtt": 470,
@@ -7389,7 +7696,8 @@
     "MaxAgi": 400,
     "MaxWis": 610,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 324,
@@ -7413,7 +7721,8 @@
     "MaxAgi": 370,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 399,
@@ -7424,12 +7733,12 @@
     "JapaneseName": "だいおうイカ",
     "FrenchName": "Calamaroi",
     "Identifier": "king-squid",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1420,
     "MaxMP": 300,
     "MaxAtt": 610,
@@ -7437,7 +7746,8 @@
     "MaxAgi": 490,
     "MaxWis": 260,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 474,
@@ -7448,12 +7758,12 @@
     "JapaneseName": "ブチュチュンパ",
     "FrenchName": "Lèchebave",
     "Identifier": "kisser",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1370,
     "MaxMP": 410,
     "MaxAtt": 440,
@@ -7461,7 +7771,8 @@
     "MaxAgi": 510,
     "MaxWis": 730,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 499,
@@ -7472,12 +7783,12 @@
     "JapaneseName": "しにがみのきし",
     "FrenchName": "Chevalier atterrant",
     "Identifier": "knight-abhorrent",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 1,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1370,
     "MaxMP": 280,
     "MaxAtt": 580,
@@ -7485,7 +7796,8 @@
     "MaxAgi": 480,
     "MaxWis": 380,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 478,
@@ -7496,12 +7808,12 @@
     "JapaneseName": "よろいのきし",
     "FrenchName": "Chevalier errant",
     "Identifier": "knight-errant",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 2,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1360,
     "MaxMP": 350,
     "MaxAtt": 520,
@@ -7509,7 +7821,8 @@
     "MaxAgi": 470,
     "MaxWis": 530,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 187,
@@ -7533,7 +7846,8 @@
     "MaxAgi": 560,
     "MaxWis": 270,
     "Trivia": "Nippy little dragons who have learned to stand on their highly-developed hind legs. At full pelt, they can outpace a racehorse, but haven't yet mastered the subtle art of slowing down.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 535,
@@ -7557,7 +7871,8 @@
     "MaxAgi": 510,
     "MaxWis": 770,
     "Trivia": null,
-    "EggTypeId": 4
+    "EggTypeId": 4,
+    "Notes": null
   },
   {
     "MonsterId": 188,
@@ -7581,7 +7896,8 @@
     "MaxAgi": 430,
     "MaxWis": 510,
     "Trivia": "These sparky spirits inhabit lanterns that have been discarded by their owners. They like to terrify unfortunate adventurers who tramp their terrain at night.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 189,
@@ -7605,7 +7921,8 @@
     "MaxAgi": 560,
     "MaxWis": 350,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 190,
@@ -7629,7 +7946,8 @@
     "MaxAgi": 450,
     "MaxWis": 490,
     "Trivia": "These shy scoundrels dish out damage from behind their smirking shields, which are precious family heirlooms, passed down from father to son.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 363,
@@ -7640,12 +7958,12 @@
     "JapaneseName": "キングリザード",
     "FrenchName": "Lézard suzerain",
     "Identifier": "liege-lizard",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 4,
+    "Def": 1,
+    "Agi": 3,
+    "Wis": 1,
     "MaxHP": 1410,
     "MaxMP": 280,
     "MaxAtt": 680,
@@ -7653,7 +7971,8 @@
     "MaxAgi": 510,
     "MaxWis": 320,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 498,
@@ -7677,7 +7996,8 @@
     "MaxAgi": 410,
     "MaxWis": 330,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 496,
@@ -7701,7 +8021,8 @@
     "MaxAgi": 580,
     "MaxWis": 460,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 497,
@@ -7725,7 +8046,8 @@
     "MaxAgi": 560,
     "MaxWis": 700,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 191,
@@ -7749,7 +8071,8 @@
     "MaxAgi": 370,
     "MaxWis": 360,
     "Trivia": "Who could resist that king-sized kisser? Protective of their prime assets, you won't catch one of these full-lipped fiends without their trusty lip balm.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 338,
@@ -7760,12 +8083,12 @@
     "JapaneseName": "はぐれメタル",
     "FrenchName": "Gluant de mercure",
     "Identifier": "liquid-metal-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 1,
+    "MP": 4,
+    "Att": 2,
+    "Def": 5,
+    "Agi": 5,
+    "Wis": 4,
     "MaxHP": 277,
     "MaxMP": 560,
     "MaxAtt": 550,
@@ -7773,7 +8096,8 @@
     "MaxAgi": 1000,
     "MaxWis": 720,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 453,
@@ -7784,12 +8108,12 @@
     "JapaneseName": "うごくせきぞう",
     "FrenchName": "Statue vivante",
     "Identifier": "living-statue",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1370,
     "MaxMP": 290,
     "MaxAtt": 580,
@@ -7797,7 +8121,8 @@
     "MaxAgi": 420,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 628,
@@ -7821,7 +8146,8 @@
     "MaxAgi": 480,
     "MaxWis": 390,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 479,
@@ -7832,12 +8158,12 @@
     "JapaneseName": "ランプのまじん",
     "FrenchName": "Cumulogénie",
     "Identifier": "low-djinks",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 1,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1390,
     "MaxMP": 360,
     "MaxAtt": 610,
@@ -7845,7 +8171,8 @@
     "MaxAgi": 460,
     "MaxWis": 500,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 192,
@@ -7869,7 +8196,8 @@
     "MaxAgi": 385,
     "MaxWis": 430,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 440,
@@ -7893,7 +8221,8 @@
     "MaxAgi": 450,
     "MaxWis": 620,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 283,
@@ -7917,7 +8246,8 @@
     "MaxAgi": 460,
     "MaxWis": 690,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 193,
@@ -7941,7 +8271,8 @@
     "MaxAgi": 520,
     "MaxWis": 680,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 194,
@@ -7965,7 +8296,8 @@
     "MaxAgi": 460,
     "MaxWis": 570,
     "Trivia": "These curious monsters' enormous eyeballs afford them excellent vision, even in absolute darkness. Once they set their sights on their prey, they will not give up until they wrap their tentacles around it.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 430,
@@ -7976,12 +8308,12 @@
     "JapaneseName": "ムーンフェイス",
     "FrenchName": "Endœil",
     "Identifier": "luneyetic",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 1,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1390,
     "MaxMP": 300,
     "MaxAtt": 420,
@@ -7989,7 +8321,8 @@
     "MaxAgi": 500,
     "MaxWis": 610,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 613,
@@ -8013,7 +8346,8 @@
     "MaxAgi": 500,
     "MaxWis": 370,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 195,
@@ -8037,7 +8371,8 @@
     "MaxAgi": 410,
     "MaxWis": 430,
     "Trivia": "These monsters have two mouths, one at each end. The one at the front is a strict vegetarian, while the one on the tail is meat mad.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 452,
@@ -8048,12 +8383,12 @@
     "JapaneseName": "ようがんまじん",
     "FrenchName": "Magmasse",
     "Identifier": "magmalice",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1350,
     "MaxMP": 370,
     "MaxAtt": 580,
@@ -8061,7 +8396,8 @@
     "MaxAgi": 450,
     "MaxWis": 540,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 536,
@@ -8085,7 +8421,8 @@
     "MaxAgi": 410,
     "MaxWis": 790,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 299,
@@ -8109,7 +8446,8 @@
     "MaxAgi": 470,
     "MaxWis": 580,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 370,
@@ -8120,12 +8458,12 @@
     "JapaneseName": "シュプリンガー",
     "FrenchName": "Général mandragor",
     "Identifier": "mandrake-marshal",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1340,
     "MaxMP": 390,
     "MaxAtt": 580,
@@ -8133,7 +8471,8 @@
     "MaxAgi": 490,
     "MaxWis": 480,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 391,
@@ -8144,12 +8483,12 @@
     "JapaneseName": "スノーグリフォン",
     "FrenchName": "Serratoès",
     "Identifier": "mangleclaw",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 4,
+    "Att": 2,
+    "Def": 1,
+    "Agi": 4,
+    "Wis": 3,
     "MaxHP": 1320,
     "MaxMP": 560,
     "MaxAtt": 520,
@@ -8157,7 +8496,8 @@
     "MaxAgi": 580,
     "MaxWis": 590,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 425,
@@ -8168,12 +8508,12 @@
     "JapaneseName": "キラーピッケル",
     "FrenchName": "Taupe-toc",
     "Identifier": "maniacal-mole",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 1,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 4,
+    "Wis": 1,
     "MaxHP": 1360,
     "MaxMP": 300,
     "MaxAtt": 590,
@@ -8181,7 +8521,8 @@
     "MaxAgi": 580,
     "MaxWis": 320,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 635,
@@ -8192,12 +8533,12 @@
     "JapaneseName": "キングレオ",
     "FrenchName": "Lord Lionel",
     "Identifier": "marquis-de-leon",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1360,
     "MaxMP": 320,
     "MaxAtt": 520,
@@ -8205,7 +8546,8 @@
     "MaxAgi": 450,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": 4
+    "EggTypeId": 4,
+    "Notes": "Only available in the post-game."
   },
   {
     "MonsterId": 622,
@@ -8229,7 +8571,8 @@
     "MaxAgi": 420,
     "MaxWis": 410,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 57,
@@ -8253,7 +8596,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 50,
@@ -8277,7 +8621,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 56,
@@ -8301,7 +8646,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 55,
@@ -8325,7 +8671,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 54,
@@ -8349,7 +8696,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 53,
@@ -8373,7 +8721,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 52,
@@ -8397,7 +8746,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 51,
@@ -8421,7 +8771,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 58,
@@ -8445,7 +8796,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 59,
@@ -8469,7 +8821,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 196,
@@ -8493,7 +8846,8 @@
     "MaxAgi": 410,
     "MaxWis": 360,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 554,
@@ -8517,7 +8871,8 @@
     "MaxAgi": 390,
     "MaxWis": 420,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 197,
@@ -8541,7 +8896,8 @@
     "MaxAgi": 520,
     "MaxWis": 640,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 198,
@@ -8565,7 +8921,8 @@
     "MaxAgi": 520,
     "MaxWis": 400,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 360,
@@ -8576,12 +8933,12 @@
     "JapaneseName": "メタルドラゴン",
     "FrenchName": "Dragon de métal",
     "Identifier": "metal-dragon",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1350,
     "MaxMP": 370,
     "MaxAtt": 560,
@@ -8589,7 +8946,8 @@
     "MaxAgi": 450,
     "MaxWis": 470,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 348,
@@ -8600,12 +8958,12 @@
     "JapaneseName": "メタルキング",
     "FrenchName": "Roi gluant de métal",
     "Identifier": "metal-king-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 1,
+    "MP": 3,
+    "Att": 1,
+    "Def": 5,
+    "Agi": 5,
+    "Wis": 2,
     "MaxHP": 297,
     "MaxMP": 510,
     "MaxAtt": 380,
@@ -8613,7 +8971,8 @@
     "MaxAgi": 1200,
     "MaxWis": 470,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 411,
@@ -8637,7 +8996,8 @@
     "MaxAgi": 540,
     "MaxWis": 460,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 323,
@@ -8648,12 +9008,12 @@
     "JapaneseName": "メタルスライム",
     "FrenchName": "Gluant de métal",
     "Identifier": "metal-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 1,
+    "MP": 4,
+    "Att": 3,
+    "Def": 5,
+    "Agi": 5,
+    "Wis": 3,
     "MaxHP": 247,
     "MaxMP": 660,
     "MaxAtt": 610,
@@ -8661,7 +9021,8 @@
     "MaxAgi": 1110,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 339,
@@ -8685,7 +9046,8 @@
     "MaxAgi": 500,
     "MaxWis": 400,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 302,
@@ -8696,12 +9058,12 @@
     "JapaneseName": "ミミック",
     "FrenchName": "Imitapeur",
     "Identifier": "mimic",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1310,
     "MaxMP": 360,
     "MaxAtt": 610,
@@ -8709,7 +9071,8 @@
     "MaxAgi": 520,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 548,
@@ -8733,7 +9096,8 @@
     "MaxAgi": 520,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 477,
@@ -8744,12 +9108,12 @@
     "JapaneseName": "ミニデーモン",
     "FrenchName": "Mini démon",
     "Identifier": "minidemon",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1300,
     "MaxMP": 490,
     "MaxAtt": 480,
@@ -8757,7 +9121,8 @@
     "MaxAgi": 550,
     "MaxWis": 680,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 199,
@@ -8781,7 +9146,8 @@
     "MaxAgi": 520,
     "MaxWis": 400,
     "Trivia": "These tunnelling tykes traditionally loved to play pranks, but these days tend to keep their heads down and focus on digging.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 553,
@@ -8792,12 +9158,12 @@
     "JapaneseName": "ウイングタイガー",
     "FrenchName": "Ailéopard",
     "Identifier": "missing-lynx",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 1,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1360,
     "MaxMP": 290,
     "MaxAtt": 550,
@@ -8805,7 +9171,8 @@
     "MaxAgi": 570,
     "MaxWis": 420,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 200,
@@ -8829,7 +9196,8 @@
     "MaxAgi": 350,
     "MaxWis": 410,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 551,
@@ -8840,12 +9208,12 @@
     "JapaneseName": "ダークペルシャ",
     "FrenchName": "Chacromancien",
     "Identifier": "mogus",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1290,
     "MaxMP": 520,
     "MaxAtt": 500,
@@ -8853,7 +9221,8 @@
     "MaxAgi": 510,
     "MaxWis": 690,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 434,
@@ -8864,12 +9233,12 @@
     "JapaneseName": "モヒカント",
     "FrenchName": "Sangliogre",
     "Identifier": "mohawker",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1390,
     "MaxMP": 300,
     "MaxAtt": 560,
@@ -8877,7 +9246,8 @@
     "MaxAgi": 500,
     "MaxWis": 420,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 201,
@@ -8901,7 +9271,8 @@
     "MaxAgi": 390,
     "MaxWis": 430,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 549,
@@ -8912,12 +9283,12 @@
     "JapaneseName": "アンクルホーン",
     "FrenchName": "Belzébik",
     "Identifier": "moosifer",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1390,
     "MaxMP": 330,
     "MaxAtt": 540,
@@ -8925,7 +9296,8 @@
     "MaxAgi": 420,
     "MaxWis": 600,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 539,
@@ -8949,7 +9321,8 @@
     "MaxAgi": 420,
     "MaxWis": 500,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 284,
@@ -8973,7 +9346,8 @@
     "MaxAgi": 470,
     "MaxWis": 480,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 541,
@@ -8997,7 +9371,8 @@
     "MaxAgi": 530,
     "MaxWis": 760,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 388,
@@ -9021,7 +9396,8 @@
     "MaxAgi": 500,
     "MaxWis": 490,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 641,
@@ -9032,12 +9408,12 @@
     "JapaneseName": "ぶちスライムベス",
     "FrenchName": "Gluante mouchetée",
     "Identifier": "mottle-she-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 1,
+    "Def": 1,
+    "Agi": 4,
+    "Wis": 1,
     "MaxHP": 1460,
     "MaxMP": 460,
     "MaxAtt": 410,
@@ -9045,7 +9421,8 @@
     "MaxAgi": 600,
     "MaxWis": 310,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 202,
@@ -9069,7 +9446,8 @@
     "MaxAgi": 510,
     "MaxWis": 370,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 275,
@@ -9093,7 +9471,8 @@
     "MaxAgi": 410,
     "MaxWis": 520,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 203,
@@ -9117,7 +9496,8 @@
     "MaxAgi": 570,
     "MaxWis": 410,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 205,
@@ -9141,7 +9521,8 @@
     "MaxAgi": 480,
     "MaxWis": 260,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 204,
@@ -9165,7 +9546,8 @@
     "MaxAgi": 410,
     "MaxWis": 370,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 206,
@@ -9189,7 +9571,8 @@
     "MaxAgi": 310,
     "MaxWis": 540,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 207,
@@ -9213,7 +9596,8 @@
     "MaxAgi": 450,
     "MaxWis": 340,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 544,
@@ -9224,12 +9608,12 @@
     "JapaneseName": "ムドー",
     "FrenchName": "Meurtor",
     "Identifier": "murdaw",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 3,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1350,
     "MaxMP": 410,
     "MaxAtt": 470,
@@ -9237,7 +9621,8 @@
     "MaxAgi": 510,
     "MaxWis": 670,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 208,
@@ -9261,7 +9646,8 @@
     "MaxAgi": 480,
     "MaxWis": 600,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 209,
@@ -9285,7 +9671,8 @@
     "MaxAgi": 450,
     "MaxWis": 270,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 37,
@@ -9309,7 +9696,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 30,
@@ -9333,7 +9721,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 36,
@@ -9357,7 +9746,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 35,
@@ -9381,7 +9771,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 34,
@@ -9405,7 +9796,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 33,
@@ -9429,7 +9821,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 32,
@@ -9453,7 +9846,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 31,
@@ -9477,7 +9871,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 38,
@@ -9501,7 +9896,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 39,
@@ -9525,7 +9921,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 597,
@@ -9536,12 +9933,12 @@
     "JapaneseName": "デスホール",
     "FrenchName": "Puissanfond",
     "Identifier": "neer-do-well",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1410,
     "MaxMP": 330,
     "MaxAtt": 510,
@@ -9549,7 +9946,8 @@
     "MaxAgi": 440,
     "MaxWis": 560,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 545,
@@ -9573,7 +9971,8 @@
     "MaxAgi": 510,
     "MaxWis": 630,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 588,
@@ -9584,12 +9983,12 @@
     "JapaneseName": "おにこんぼう",
     "FrenchName": "Bastonnier",
     "Identifier": "night-clubber",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 4,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1370,
     "MaxMP": 280,
     "MaxAtt": 700,
@@ -9597,7 +9996,8 @@
     "MaxAgi": 430,
     "MaxWis": 250,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 574,
@@ -9621,7 +10021,8 @@
     "MaxAgi": 430,
     "MaxWis": 500,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 612,
@@ -9645,7 +10046,8 @@
     "MaxAgi": 440,
     "MaxWis": 590,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 510,
@@ -9656,12 +10058,12 @@
     "JapaneseName": "ナイトウォーカー",
     "FrenchName": "Bottœil nocturne",
     "Identifier": "night-sneaker",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 4,
     "MaxHP": 1320,
     "MaxMP": 390,
     "MaxAtt": 490,
@@ -9669,7 +10071,8 @@
     "MaxAgi": 620,
     "MaxWis": 660,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 586,
@@ -9693,7 +10096,8 @@
     "MaxAgi": 460,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 366,
@@ -9704,12 +10108,12 @@
     "JapaneseName": "バルンバ",
     "FrenchName": "Gazosaure",
     "Identifier": "noble-gasbagon",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1390,
     "MaxMP": 290,
     "MaxAtt": 640,
@@ -9717,7 +10121,8 @@
     "MaxAgi": 440,
     "MaxWis": 350,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 636,
@@ -9741,7 +10146,8 @@
     "MaxAgi": 480,
     "MaxWis": 440,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 426,
@@ -9752,12 +10158,12 @@
     "JapaneseName": "ダンビラムーチョ",
     "FrenchName": "Meno macho",
     "Identifier": "notso-macho",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 4,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1380,
     "MaxMP": 300,
     "MaxAtt": 670,
@@ -9765,7 +10171,8 @@
     "MaxAgi": 460,
     "MaxWis": 290,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 210,
@@ -9789,7 +10196,8 @@
     "MaxAgi": 320,
     "MaxWis": 640,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 211,
@@ -9813,7 +10221,8 @@
     "MaxAgi": 610,
     "MaxWis": 410,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 294,
@@ -9837,7 +10246,8 @@
     "MaxAgi": 460,
     "MaxWis": 410,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 525,
@@ -9848,12 +10258,12 @@
     "JapaneseName": "ソードイド",
     "FrenchName": "Squelétripe",
     "Identifier": "one-man-army",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 2,
     "MaxHP": 1350,
     "MaxMP": 340,
     "MaxAtt": 630,
@@ -9861,7 +10271,8 @@
     "MaxAgi": 560,
     "MaxWis": 350,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 212,
@@ -9885,7 +10296,8 @@
     "MaxAgi": 570,
     "MaxWis": 220,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 213,
@@ -9909,7 +10321,8 @@
     "MaxAgi": 493,
     "MaxWis": 520,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 424,
@@ -9920,12 +10333,12 @@
     "JapaneseName": "オークキング",
     "FrenchName": "Roi orque",
     "Identifier": "orc-king",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1400,
     "MaxMP": 330,
     "MaxAtt": 580,
@@ -9933,7 +10346,8 @@
     "MaxAgi": 435,
     "MaxWis": 530,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 642,
@@ -9957,7 +10371,8 @@
     "MaxAgi": 490,
     "MaxWis": 830,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 214,
@@ -9981,7 +10396,8 @@
     "MaxAgi": 330,
     "MaxWis": 660,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 559,
@@ -10005,7 +10421,8 @@
     "MaxAgi": 390,
     "MaxWis": 630,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 467,
@@ -10016,12 +10433,12 @@
     "JapaneseName": "キラーマシン2",
     "FrenchName": "Mékanotoké",
     "Identifier": "overkilling-machine",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 4,
+    "Def": 4,
+    "Agi": 4,
+    "Wis": 2,
     "MaxHP": 1280,
     "MaxMP": 370,
     "MaxAtt": 670,
@@ -10029,7 +10446,8 @@
     "MaxAgi": 580,
     "MaxWis": 350,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 604,
@@ -10040,12 +10458,12 @@
     "JapaneseName": "だいおうガマ",
     "FrenchName": "Massacrapaud",
     "Identifier": "overtoad",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1360,
     "MaxMP": 360,
     "MaxAtt": 580,
@@ -10053,7 +10471,8 @@
     "MaxAgi": 510,
     "MaxWis": 470,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 392,
@@ -10064,12 +10483,12 @@
     "JapaneseName": "ダンジョンえび",
     "FrenchName": "Gambastonneur",
     "Identifier": "palooka-prawn",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1400,
     "MaxMP": 420,
     "MaxAtt": 590,
@@ -10077,7 +10496,8 @@
     "MaxAgi": 390,
     "MaxWis": 280,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 215,
@@ -10101,7 +10521,8 @@
     "MaxAgi": 460,
     "MaxWis": 570,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 615,
@@ -10112,12 +10533,12 @@
     "JapaneseName": "パンドラボックス",
     "FrenchName": "Boîte de pandore",
     "Identifier": "pandoras-box",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 2,
+    "Att": 2,
+    "Def": 4,
+    "Agi": 4,
+    "Wis": 1,
     "MaxHP": 1420,
     "MaxMP": 340,
     "MaxAtt": 430,
@@ -10125,7 +10546,8 @@
     "MaxAgi": 560,
     "MaxWis": 290,
     "Trivia": null,
-    "EggTypeId": 4
+    "EggTypeId": 4,
+    "Notes": null
   },
   {
     "MonsterId": 445,
@@ -10136,12 +10558,12 @@
     "JapaneseName": "しびれだんびら",
     "FrenchName": "Paralysabre",
     "Identifier": "paralyslicer",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 1,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1350,
     "MaxMP": 320,
     "MaxAtt": 590,
@@ -10149,7 +10571,8 @@
     "MaxAgi": 470,
     "MaxWis": 540,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 318,
@@ -10173,7 +10596,8 @@
     "MaxAgi": 550,
     "MaxWis": 450,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 333,
@@ -10184,12 +10608,12 @@
     "JapaneseName": "コロネホワイト",
     "FrenchName": "Gluenroulé",
     "Identifier": "pasty-pastry",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1390,
     "MaxMP": 450,
     "MaxAtt": 510,
@@ -10197,7 +10621,8 @@
     "MaxAgi": 420,
     "MaxWis": 630,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 501,
@@ -10208,12 +10633,12 @@
     "JapaneseName": "バズズ",
     "FrenchName": "Pazuzu",
     "Identifier": "pazuzu",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 4,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1340,
     "MaxMP": 350,
     "MaxAtt": 510,
@@ -10221,7 +10646,8 @@
     "MaxAgi": 490,
     "MaxWis": 630,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 287,
@@ -10245,7 +10671,8 @@
     "MaxAgi": 400,
     "MaxWis": 390,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 315,
@@ -10269,7 +10696,8 @@
     "MaxAgi": 560,
     "MaxWis": 460,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 519,
@@ -10280,12 +10708,12 @@
     "JapaneseName": "ソードファントム",
     "FrenchName": "Épéiste fantôme",
     "Identifier": "phantom-swordsman",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1300,
     "MaxMP": 440,
     "MaxAtt": 600,
@@ -10293,7 +10721,8 @@
     "MaxAgi": 560,
     "MaxWis": 460,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 410,
@@ -10304,12 +10733,12 @@
     "JapaneseName": "ほうおう",
     "FrenchName": "Phénix",
     "Identifier": "phoenix",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 5,
+    "Wis": 3,
     "MaxHP": 1320,
     "MaxMP": 450,
     "MaxAtt": 470,
@@ -10317,7 +10746,8 @@
     "MaxAgi": 630,
     "MaxWis": 600,
     "Trivia": null,
-    "EggTypeId": 4
+    "EggTypeId": 4,
+    "Notes": null
   },
   {
     "MonsterId": 216,
@@ -10341,7 +10771,8 @@
     "MaxAgi": 490,
     "MaxWis": 490,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 217,
@@ -10365,7 +10796,8 @@
     "MaxAgi": 530,
     "MaxWis": 380,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 218,
@@ -10389,7 +10821,8 @@
     "MaxAgi": 490,
     "MaxWis": 360,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 219,
@@ -10413,7 +10846,8 @@
     "MaxAgi": 490,
     "MaxWis": 610,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 220,
@@ -10437,7 +10871,8 @@
     "MaxAgi": 580,
     "MaxWis": 470,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 221,
@@ -10461,7 +10896,8 @@
     "MaxAgi": 511,
     "MaxWis": 430,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 298,
@@ -10485,7 +10921,8 @@
     "MaxAgi": 450,
     "MaxWis": 480,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 413,
@@ -10509,7 +10946,8 @@
     "MaxAgi": 490,
     "MaxWis": 350,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 565,
@@ -10533,7 +10971,8 @@
     "MaxAgi": 370,
     "MaxWis": 400,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 633,
@@ -10557,7 +10996,8 @@
     "MaxAgi": 510,
     "MaxWis": 430,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 473,
@@ -10581,7 +11021,8 @@
     "MaxAgi": 460,
     "MaxWis": 600,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 222,
@@ -10605,7 +11046,8 @@
     "MaxAgi": 610,
     "MaxWis": 390,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 305,
@@ -10629,7 +11071,8 @@
     "MaxAgi": 460,
     "MaxWis": 500,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 436,
@@ -10653,7 +11096,8 @@
     "MaxAgi": 660,
     "MaxWis": 470,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 223,
@@ -10677,7 +11121,8 @@
     "MaxAgi": 470,
     "MaxWis": 300,
     "Trivia": "These cadaverous canines originally died of exhaustion before being brought back to life by the powers of darkness, though any smarts they had are long gone.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 341,
@@ -10688,12 +11133,12 @@
     "JapaneseName": "クイーンスライム",
     "FrenchName": "Reine gluante",
     "Identifier": "queen-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 5,
+    "Att": 1,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 5,
     "MaxHP": 1360,
     "MaxMP": 650,
     "MaxAtt": 390,
@@ -10701,7 +11146,8 @@
     "MaxAgi": 440,
     "MaxWis": 800,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 500,
@@ -10725,7 +11171,8 @@
     "MaxAgi": 520,
     "MaxWis": 770,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 629,
@@ -10749,7 +11196,8 @@
     "MaxAgi": 450,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 224,
@@ -10773,7 +11221,8 @@
     "MaxAgi": 620,
     "MaxWis": 340,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 561,
@@ -10784,12 +11233,12 @@
     "JapaneseName": "アンドレアル",
     "FrenchName": "Rashaverak",
     "Identifier": "rashaverak",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1330,
     "MaxMP": 350,
     "MaxAtt": 590,
@@ -10797,7 +11246,8 @@
     "MaxAgi": 510,
     "MaxWis": 520,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 225,
@@ -10821,7 +11271,8 @@
     "MaxAgi": 560,
     "MaxWis": 420,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 538,
@@ -10845,7 +11296,8 @@
     "MaxAgi": 510,
     "MaxWis": 600,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 226,
@@ -10869,7 +11321,8 @@
     "MaxAgi": 470,
     "MaxWis": 430,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 618,
@@ -10893,7 +11346,8 @@
     "MaxAgi": 370,
     "MaxWis": 790,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 560,
@@ -10904,12 +11358,12 @@
     "JapaneseName": "ライノソルジャー",
     "FrenchName": "Rhinocérache",
     "Identifier": "rhinoceraxe",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1320,
     "MaxMP": 450,
     "MaxAtt": 590,
@@ -10917,7 +11371,8 @@
     "MaxAgi": 500,
     "MaxWis": 360,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 416,
@@ -10928,12 +11383,12 @@
     "JapaneseName": "あらくれチャッピー",
     "FrenchName": "Pikostaud",
     "Identifier": "ripped-rabbit",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 1,
     "MaxHP": 1390,
     "MaxMP": 290,
     "MaxAtt": 640,
@@ -10941,7 +11396,8 @@
     "MaxAgi": 550,
     "MaxWis": 290,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 227,
@@ -10965,7 +11421,8 @@
     "MaxAgi": 570,
     "MaxWis": 440,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 533,
@@ -10989,7 +11446,8 @@
     "MaxAgi": 520,
     "MaxWis": 390,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 309,
@@ -11013,7 +11471,8 @@
     "MaxAgi": 320,
     "MaxWis": 560,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 385,
@@ -11024,12 +11483,12 @@
     "JapaneseName": "岩とびあくま",
     "FrenchName": "Bandit manchot",
     "Identifier": "rockin-rockhopper",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 1,
+    "MP": 3,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 5,
+    "Wis": 3,
     "MaxHP": 1190,
     "MaxMP": 450,
     "MaxAtt": 560,
@@ -11037,7 +11496,8 @@
     "MaxAgi": 730,
     "MaxWis": 600,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 402,
@@ -11048,12 +11508,12 @@
     "JapaneseName": "レッドシャモ",
     "FrenchName": "Ergo-go-go",
     "Identifier": "roistering-rooster",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 4,
+    "Wis": 4,
     "MaxHP": 1260,
     "MaxMP": 350,
     "MaxAtt": 540,
@@ -11061,7 +11521,8 @@
     "MaxAgi": 640,
     "MaxWis": 650,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 438,
@@ -11085,7 +11546,8 @@
     "MaxAgi": 620,
     "MaxWis": 390,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 558,
@@ -11096,12 +11558,12 @@
     "JapaneseName": "ピサロナイト",
     "FrenchName": "Sire Rosegarde",
     "Identifier": "roseguardin",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1350,
     "MaxMP": 360,
     "MaxAtt": 580,
@@ -11109,7 +11571,8 @@
     "MaxAgi": 420,
     "MaxWis": 490,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 291,
@@ -11133,7 +11596,8 @@
     "MaxAgi": 545,
     "MaxWis": 470,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 375,
@@ -11157,7 +11621,8 @@
     "MaxAgi": 390,
     "MaxWis": 590,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 228,
@@ -11181,7 +11646,8 @@
     "MaxAgi": 400,
     "MaxWis": 510,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 448,
@@ -11192,12 +11658,12 @@
     "JapaneseName": "ハニーイーター",
     "FrenchName": "Sacamiel",
     "Identifier": "saccharine-sacksquatch",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 4,
+    "Att": 1,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1410,
     "MaxMP": 540,
     "MaxAtt": 420,
@@ -11205,7 +11671,8 @@
     "MaxAgi": 410,
     "MaxWis": 530,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 229,
@@ -11229,7 +11696,8 @@
     "MaxAgi": 430,
     "MaxWis": 520,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 575,
@@ -11240,12 +11708,12 @@
     "JapaneseName": "ドラゴンポップ",
     "FrenchName": "Destrier de l'estran",
     "Identifier": "saltwater-stallion",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 4,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1350,
     "MaxMP": 600,
     "MaxAtt": 490,
@@ -11253,7 +11721,8 @@
     "MaxAgi": 550,
     "MaxWis": 420,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 230,
@@ -11277,7 +11746,8 @@
     "MaxAgi": 490,
     "MaxWis": 550,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 231,
@@ -11301,7 +11771,8 @@
     "MaxAgi": 510,
     "MaxWis": 580,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 232,
@@ -11325,7 +11796,8 @@
     "MaxAgi": 410,
     "MaxWis": 290,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 233,
@@ -11349,7 +11821,8 @@
     "MaxAgi": 680,
     "MaxWis": 380,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 401,
@@ -11373,7 +11846,8 @@
     "MaxAgi": 470,
     "MaxWis": 720,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 547,
@@ -11397,7 +11871,8 @@
     "MaxAgi": 560,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 475,
@@ -11408,12 +11883,12 @@
     "JapaneseName": "ヘルビースト",
     "FrenchName": "Glargouille",
     "Identifier": "sculptrice",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1360,
     "MaxMP": 350,
     "MaxAtt": 600,
@@ -11421,7 +11896,8 @@
     "MaxAgi": 410,
     "MaxWis": 450,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 327,
@@ -11445,7 +11921,8 @@
     "MaxAgi": 440,
     "MaxWis": 380,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 271,
@@ -11469,7 +11946,8 @@
     "MaxAgi": 690,
     "MaxWis": 620,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 518,
@@ -11480,12 +11958,12 @@
     "JapaneseName": "しにがみ",
     "FrenchName": "Berserkerlette",
     "Identifier": "sekerleton",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 1,
+    "Agi": 4,
+    "Wis": 1,
     "MaxHP": 1390,
     "MaxMP": 320,
     "MaxAtt": 620,
@@ -11493,7 +11971,8 @@
     "MaxAgi": 580,
     "MaxWis": 300,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 616,
@@ -11504,12 +11983,12 @@
     "JapaneseName": "ひかりの番人",
     "FrenchName": "Serpent des sentences",
     "Identifier": "serpent-of-the-scales",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 2,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1430,
     "MaxMP": 320,
     "MaxAtt": 590,
@@ -11517,7 +11996,8 @@
     "MaxAgi": 370,
     "MaxWis": 330,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 234,
@@ -11541,7 +12021,8 @@
     "MaxAgi": 670,
     "MaxWis": 610,
     "Trivia": "These monsters are said to have been born in the depths of an unfathomably deep darkness. Adept at imitation, they can even forget their natural appearance if they spend long enough shadowing someone else.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 335,
@@ -11552,12 +12033,12 @@
     "JapaneseName": "スライムダーク",
     "FrenchName": "Gluant de l'ombre",
     "Identifier": "shadow-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 2,
     "MaxHP": 1290,
     "MaxMP": 470,
     "MaxAtt": 560,
@@ -11565,7 +12046,8 @@
     "MaxAgi": 600,
     "MaxWis": 500,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 235,
@@ -11589,7 +12071,8 @@
     "MaxAgi": 485,
     "MaxWis": 560,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 236,
@@ -11613,7 +12096,8 @@
     "MaxAgi": 280,
     "MaxWis": 500,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 105,
@@ -11637,7 +12121,8 @@
     "MaxAgi": 450,
     "MaxWis": 270,
     "Trivia": "These slimes are proud of their quirky colouration, which is likely the product of a genetic fluke. They feel faintly warm to the touch.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 447,
@@ -11648,12 +12133,12 @@
     "JapaneseName": "デビルスノー",
     "FrenchName": "Cryfolia",
     "Identifier": "shivery-shrubbery",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 3,
     "MaxHP": 1290,
     "MaxMP": 450,
     "MaxAtt": 530,
@@ -11661,7 +12146,8 @@
     "MaxAgi": 590,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 343,
@@ -11672,12 +12158,12 @@
     "JapaneseName": "スライムジェネラル",
     "FrenchName": "Monte-gluancien",
     "Identifier": "shogum",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 4,
+    "Att": 4,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1260,
     "MaxMP": 580,
     "MaxAtt": 660,
@@ -11685,7 +12171,8 @@
     "MaxAgi": 460,
     "MaxWis": 590,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 472,
@@ -11696,12 +12183,12 @@
     "JapaneseName": "シルバーデビル",
     "FrenchName": "Silvapithèque",
     "Identifier": "silvapithecus",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1340,
     "MaxMP": 450,
     "MaxAtt": 440,
@@ -11709,7 +12196,8 @@
     "MaxAgi": 500,
     "MaxWis": 650,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 377,
@@ -11733,7 +12221,8 @@
     "MaxAgi": 580,
     "MaxWis": 440,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 481,
@@ -11744,12 +12233,12 @@
     "JapaneseName": "ずしおうまる",
     "FrenchName": "Troublosaure",
     "Identifier": "sintaur",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1370,
     "MaxMP": 350,
     "MaxAtt": 620,
@@ -11757,7 +12246,8 @@
     "MaxAgi": 460,
     "MaxWis": 460,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 415,
@@ -11781,7 +12271,8 @@
     "MaxAgi": 440,
     "MaxWis": 340,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 238,
@@ -11805,7 +12296,8 @@
     "MaxAgi": 420,
     "MaxWis": 410,
     "Trivia": "Recycled from the bodies of fallen warriors, these unfortunate cadavers truly get worked to the bone.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 296,
@@ -11829,7 +12321,8 @@
     "MaxAgi": 480,
     "MaxWis": 360,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 508,
@@ -11840,12 +12333,12 @@
     "JapaneseName": "がいこつけんし",
     "FrenchName": "Squelépéiste",
     "Identifier": "skeleton-swordsman",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 1,
+    "Agi": 3,
+    "Wis": 1,
     "MaxHP": 1410,
     "MaxMP": 310,
     "MaxAtt": 660,
@@ -11853,7 +12346,8 @@
     "MaxAgi": 500,
     "MaxWis": 320,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 520,
@@ -11864,12 +12358,12 @@
     "JapaneseName": "どくろクラゲ",
     "FrenchName": "Squelméduse",
     "Identifier": "skellyfish",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 4,
+    "Att": 2,
+    "Def": 1,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1360,
     "MaxMP": 620,
     "MaxAtt": 550,
@@ -11877,7 +12371,8 @@
     "MaxAgi": 430,
     "MaxWis": 610,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 273,
@@ -11901,7 +12396,8 @@
     "MaxAgi": 530,
     "MaxWis": 430,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 239,
@@ -11925,7 +12421,8 @@
     "MaxAgi": 470,
     "MaxWis": 600,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 240,
@@ -11949,7 +12446,8 @@
     "MaxAgi": 630,
     "MaxWis": 510,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 101,
@@ -11973,7 +12471,8 @@
     "MaxAgi": 640,
     "MaxWis": 260,
     "Trivia": "Adored by all for its flexy physique and funny face, this little monster is something of an icon. Who wouldn't want one for a pal?",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 17,
@@ -11997,7 +12496,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 10,
@@ -12021,7 +12521,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 16,
@@ -12045,7 +12546,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 15,
@@ -12069,7 +12571,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 14,
@@ -12093,7 +12596,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 13,
@@ -12117,7 +12621,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 12,
@@ -12141,7 +12646,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 11,
@@ -12165,7 +12671,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 18,
@@ -12189,7 +12696,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 19,
@@ -12213,7 +12721,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 241,
@@ -12237,7 +12746,8 @@
     "MaxAgi": 470,
     "MaxWis": 520,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 346,
@@ -12248,12 +12758,12 @@
     "JapaneseName": "だんごスライム",
     "FrenchName": "Gluocube",
     "Identifier": "slime-snack",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1400,
     "MaxMP": 380,
     "MaxAtt": 500,
@@ -12261,7 +12771,8 @@
     "MaxAgi": 430,
     "MaxWis": 430,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 243,
@@ -12285,7 +12796,8 @@
     "MaxAgi": 490,
     "MaxWis": 520,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 578,
@@ -12296,12 +12808,12 @@
     "JapaneseName": "つららスライム",
     "FrenchName": "Stalagluant",
     "Identifier": "slimecicle",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 4,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1330,
     "MaxMP": 560,
     "MaxAtt": 510,
@@ -12309,7 +12821,8 @@
     "MaxAgi": 410,
     "MaxWis": 600,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 242,
@@ -12333,7 +12846,8 @@
     "MaxAgi": 480,
     "MaxWis": 510,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 350,
@@ -12344,12 +12858,12 @@
     "JapaneseName": "ゴッドライダー",
     "FrenchName": "Monte-gluancêtre",
     "Identifier": "slionheart",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 4,
+    "Def": 4,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1270,
     "MaxMP": 420,
     "MaxAtt": 630,
@@ -12357,7 +12871,8 @@
     "MaxAgi": 520,
     "MaxWis": 510,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 244,
@@ -12381,7 +12896,8 @@
     "MaxAgi": 470,
     "MaxWis": 320,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 245,
@@ -12405,7 +12921,8 @@
     "MaxAgi": 210,
     "MaxWis": 630,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 414,
@@ -12429,7 +12946,8 @@
     "MaxAgi": 360,
     "MaxWis": 680,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 408,
@@ -12440,12 +12958,12 @@
     "JapaneseName": "ホークブリザード",
     "FrenchName": "Rapaglace",
     "Identifier": "snowbird",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 3,
     "MaxHP": 1320,
     "MaxMP": 400,
     "MaxAtt": 570,
@@ -12453,7 +12971,8 @@
     "MaxAgi": 550,
     "MaxWis": 540,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 465,
@@ -12464,12 +12983,12 @@
     "JapaneseName": "スノーホムンクルス",
     "FrenchName": "Yépire",
     "Identifier": "snowgre",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1410,
     "MaxMP": 430,
     "MaxAtt": 540,
@@ -12477,7 +12996,8 @@
     "MaxAgi": 390,
     "MaxWis": 360,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 246,
@@ -12501,7 +13021,8 @@
     "MaxAgi": 390,
     "MaxWis": 580,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 247,
@@ -12525,7 +13046,8 @@
     "MaxAgi": 460,
     "MaxWis": 460,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 507,
@@ -12536,12 +13058,12 @@
     "JapaneseName": "エビルスピリッツ",
     "FrenchName": "Grouillâme",
     "Identifier": "soulspawn",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 1,
+    "Def": 4,
+    "Agi": 4,
+    "Wis": 3,
     "MaxHP": 1300,
     "MaxMP": 470,
     "MaxAtt": 410,
@@ -12549,7 +13071,8 @@
     "MaxAgi": 580,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 581,
@@ -12560,12 +13083,12 @@
     "JapaneseName": "ソイソルジャー",
     "FrenchName": "Flageolaid",
     "Identifier": "soy-soldier",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 1,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1350,
     "MaxMP": 530,
     "MaxAtt": 610,
@@ -12573,7 +13096,8 @@
     "MaxAgi": 520,
     "MaxWis": 380,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 279,
@@ -12597,7 +13121,8 @@
     "MaxAgi": 640,
     "MaxWis": 400,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 386,
@@ -12608,12 +13133,12 @@
     "JapaneseName": "うずしおキング",
     "FrenchName": "Glacyclone",
     "Identifier": "spinchilla",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1370,
     "MaxMP": 320,
     "MaxAtt": 530,
@@ -12621,7 +13146,8 @@
     "MaxAgi": 505,
     "MaxWis": 440,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 248,
@@ -12645,7 +13171,8 @@
     "MaxAgi": 420,
     "MaxWis": 410,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 249,
@@ -12669,7 +13196,8 @@
     "MaxAgi": 490,
     "MaxWis": 330,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 250,
@@ -12693,7 +13221,8 @@
     "MaxAgi": 520,
     "MaxWis": 400,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 292,
@@ -12717,7 +13246,8 @@
     "MaxAgi": 430,
     "MaxWis": 560,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 322,
@@ -12741,7 +13271,8 @@
     "MaxAgi": 600,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 251,
@@ -12765,7 +13296,8 @@
     "MaxAgi": 510,
     "MaxWis": 390,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 252,
@@ -12789,7 +13321,8 @@
     "MaxAgi": 550,
     "MaxWis": 480,
     "Trivia": "These creepy corvids can't resist scooping up skulls from ancient battlefields. Fledgling ravens like to clamber through the eye-holes to hide from predators.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 446,
@@ -12800,12 +13333,12 @@
     "JapaneseName": "ストーンマン",
     "FrenchName": "Golem de pierre",
     "Identifier": "stone-golem",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1400,
     "MaxMP": 330,
     "MaxAtt": 550,
@@ -12813,7 +13346,8 @@
     "MaxAgi": 390,
     "MaxWis": 410,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 493,
@@ -12824,12 +13358,12 @@
     "JapaneseName": "トロルボンバー",
     "FrenchName": "Gigatroll",
     "Identifier": "stout-troll",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 1,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 1,
     "MaxHP": 1420,
     "MaxMP": 310,
     "MaxAtt": 670,
@@ -12837,7 +13371,8 @@
     "MaxAgi": 490,
     "MaxWis": 250,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 253,
@@ -12861,7 +13396,8 @@
     "MaxAgi": 540,
     "MaxWis": 570,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 254,
@@ -12885,7 +13421,8 @@
     "MaxAgi": 460,
     "MaxWis": 330,
     "Trivia": "The tragic remains of chopped-down trees whose deep-seated malice has made them morph into monsters. They attack travellers who try to sit on them, sucking out all their nutrients before discarding the husk.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 256,
@@ -12909,7 +13446,8 @@
     "MaxAgi": 600,
     "MaxWis": 560,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 257,
@@ -12933,7 +13471,8 @@
     "MaxAgi": 433,
     "MaxWis": 410,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 469,
@@ -12957,7 +13496,8 @@
     "MaxAgi": 420,
     "MaxWis": 570,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 304,
@@ -12981,7 +13521,8 @@
     "MaxAgi": 640,
     "MaxWis": 630,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 258,
@@ -13005,7 +13546,8 @@
     "MaxAgi": 430,
     "MaxWis": 490,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 352,
@@ -13016,12 +13558,12 @@
     "JapaneseName": "マスタースライム",
     "FrenchName": "Gluant supérieur",
     "Identifier": "superior-slime",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 4,
+    "Wis": 3,
     "MaxHP": 1350,
     "MaxMP": 330,
     "MaxAtt": 480,
@@ -13029,7 +13571,8 @@
     "MaxAgi": 580,
     "MaxWis": 570,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 418,
@@ -13040,12 +13583,12 @@
     "JapaneseName": "デザートゴースト",
     "FrenchName": "Yéti des sables",
     "Identifier": "sweaty-yeti",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1410,
     "MaxMP": 350,
     "MaxAtt": 640,
@@ -13053,7 +13596,8 @@
     "MaxAgi": 380,
     "MaxWis": 350,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 483,
@@ -13064,12 +13608,12 @@
     "JapaneseName": "てっきゅうまじん",
     "FrenchName": "Fléogre",
     "Identifier": "swingre",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1430,
     "MaxMP": 310,
     "MaxAtt": 590,
@@ -13077,7 +13621,8 @@
     "MaxAgi": 400,
     "MaxWis": 270,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 435,
@@ -13088,12 +13633,12 @@
     "JapaneseName": "れんごく天馬",
     "FrenchName": "Tempétalon",
     "Identifier": "tantamount",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1370,
     "MaxMP": 350,
     "MaxAtt": 560,
@@ -13101,7 +13646,8 @@
     "MaxAgi": 470,
     "MaxWis": 500,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 396,
@@ -13112,12 +13658,12 @@
     "JapaneseName": "アンズー",
     "FrenchName": "Busard bizarre",
     "Identifier": "tartarus-eagle",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 4,
+    "Wis": 2,
     "MaxHP": 1280,
     "MaxMP": 430,
     "MaxAtt": 590,
@@ -13125,7 +13671,8 @@
     "MaxAgi": 600,
     "MaxWis": 420,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 259,
@@ -13149,7 +13696,8 @@
     "MaxAgi": 680,
     "MaxWis": 490,
     "Trivia": "Baby monsters known for their distinctive bovine markings. Considered to be fully-grown once the black fur grows out, replaced entirely with a ravishing shade of rose pink.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 607,
@@ -13160,12 +13708,12 @@
     "JapaneseName": "クラーゴン",
     "FrenchName": "Tentapieuvre",
     "Identifier": "tentacular",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 4,
+    "MP": 2,
+    "Att": 4,
+    "Def": 1,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1450,
     "MaxMP": 320,
     "MaxAtt": 660,
@@ -13173,7 +13721,8 @@
     "MaxAgi": 420,
     "MaxWis": 360,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 630,
@@ -13197,7 +13746,8 @@
     "MaxAgi": 470,
     "MaxWis": 660,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 504,
@@ -13221,7 +13771,8 @@
     "MaxAgi": 510,
     "MaxWis": 630,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 379,
@@ -13245,7 +13796,8 @@
     "MaxAgi": 490,
     "MaxWis": 630,
     "Trivia": null,
-    "EggTypeId": 4
+    "EggTypeId": 4,
+    "Notes": null
   },
   {
     "MonsterId": 482,
@@ -13256,12 +13808,12 @@
     "JapaneseName": "タイムマスター",
     "FrenchName": "Titemps",
     "Identifier": "the-time-being",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 4,
+    "Att": 1,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 5,
     "MaxHP": 1340,
     "MaxMP": 650,
     "MaxAtt": 380,
@@ -13269,7 +13821,8 @@
     "MaxAgi": 480,
     "MaxWis": 820,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 609,
@@ -13293,7 +13846,8 @@
     "MaxAgi": 590,
     "MaxWis": 570,
     "Trivia": null,
-    "EggTypeId": 4
+    "EggTypeId": 4,
+    "Notes": null
   },
   {
     "MonsterId": 598,
@@ -13317,7 +13871,8 @@
     "MaxAgi": 540,
     "MaxWis": 420,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 260,
@@ -13341,7 +13896,8 @@
     "MaxAgi": 505,
     "MaxWis": 390,
     "Trivia": "These ample amphibians might have mutated into mega-sized monsters, but they retain their original love for croaking out a tune. They like to put on evening concerts just after the rain lets up.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 485,
@@ -13352,12 +13908,12 @@
     "JapaneseName": "ネクロバルサ",
     "FrenchName": "Togre",
     "Identifier": "togre",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1370,
     "MaxMP": 450,
     "MaxAtt": 590,
@@ -13365,7 +13921,8 @@
     "MaxAgi": 400,
     "MaxWis": 610,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 261,
@@ -13389,7 +13946,8 @@
     "MaxAgi": 450,
     "MaxWis": 420,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 576,
@@ -13413,7 +13971,8 @@
     "MaxAgi": 540,
     "MaxWis": 670,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 572,
@@ -13437,7 +13996,8 @@
     "MaxAgi": 600,
     "MaxWis": 430,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 505,
@@ -13461,7 +14021,8 @@
     "MaxAgi": 480,
     "MaxWis": 650,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 566,
@@ -13472,12 +14033,12 @@
     "JapaneseName": "ウドラー",
     "FrenchName": "Arbomination",
     "Identifier": "treevil",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1340,
     "MaxMP": 510,
     "MaxAtt": 490,
@@ -13485,7 +14046,8 @@
     "MaxAgi": 390,
     "MaxWis": 680,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 303,
@@ -13509,7 +14071,8 @@
     "MaxAgi": 490,
     "MaxWis": 520,
     "Trivia": "The ripe tomato slime, juicy burger slime and lightly toasted bun slime are a match made in slime heaven. They might look like a tempting meal in waiting, but they don't appreciate being bitten.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 384,
@@ -13533,7 +14096,8 @@
     "MaxAgi": 460,
     "MaxWis": 610,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 600,
@@ -13544,12 +14108,12 @@
     "JapaneseName": "ニードルフィン",
     "FrenchName": "Globa",
     "Identifier": "tuffpoise",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 4,
     "MaxHP": 1310,
     "MaxMP": 420,
     "MaxAtt": 530,
@@ -13557,7 +14121,8 @@
     "MaxAgi": 560,
     "MaxWis": 680,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 397,
@@ -13568,12 +14133,12 @@
     "JapaneseName": "ケセランパセラン",
     "FrenchName": "Étoupet",
     "Identifier": "tufty-tot",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 4,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 4,
     "MaxHP": 1310,
     "MaxMP": 570,
     "MaxAtt": 470,
@@ -13581,7 +14146,8 @@
     "MaxAgi": 540,
     "MaxWis": 710,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 577,
@@ -13592,12 +14158,12 @@
     "JapaneseName": "せつげんりゅう",
     "FrenchName": "Frigonosaure",
     "Identifier": "tundragster",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1420,
     "MaxMP": 330,
     "MaxAtt": 600,
@@ -13605,7 +14171,8 @@
     "MaxAgi": 490,
     "MaxWis": 250,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 393,
@@ -13616,12 +14183,12 @@
     "JapaneseName": "トドマン",
     "FrenchName": "Misamorse",
     "Identifier": "tuskateer",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 1,
+    "Att": 2,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1410,
     "MaxMP": 280,
     "MaxAtt": 540,
@@ -13629,7 +14196,8 @@
     "MaxAgi": 480,
     "MaxWis": 410,
     "Trivia": null,
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 621,
@@ -13640,12 +14208,12 @@
     "JapaneseName": "バザックス",
     "FrenchName": "Tyrannocératops",
     "Identifier": "tyrannoceratops",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 1,
     "MaxHP": 1400,
     "MaxMP": 390,
     "MaxAtt": 560,
@@ -13653,7 +14221,8 @@
     "MaxAgi": 390,
     "MaxWis": 350,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 468,
@@ -13677,7 +14246,8 @@
     "MaxAgi": 500,
     "MaxWis": 220,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 531,
@@ -13701,7 +14271,8 @@
     "MaxAgi": 480,
     "MaxWis": 640,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 77,
@@ -13725,7 +14296,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 70,
@@ -13749,7 +14321,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 76,
@@ -13773,7 +14346,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 75,
@@ -13797,7 +14371,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 74,
@@ -13821,7 +14396,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 73,
@@ -13845,7 +14421,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 72,
@@ -13869,7 +14446,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 71,
@@ -13893,7 +14471,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 78,
@@ -13917,7 +14496,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 79,
@@ -13941,7 +14521,8 @@
     "MaxAgi": null,
     "MaxWis": null,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 320,
@@ -13965,7 +14546,8 @@
     "MaxAgi": 550,
     "MaxWis": 490,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 596,
@@ -13976,12 +14558,12 @@
     "JapaneseName": "ダースリカント",
     "FrenchName": "Ursa méga",
     "Identifier": "ursa-mega",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 4,
+    "Wis": 3,
     "MaxHP": 1290,
     "MaxMP": 340,
     "MaxAtt": 640,
@@ -13989,7 +14571,8 @@
     "MaxAgi": 580,
     "MaxWis": 500,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 262,
@@ -14013,7 +14596,8 @@
     "MaxAgi": 700,
     "MaxWis": 600,
     "Trivia": "",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 263,
@@ -14037,7 +14621,8 @@
     "MaxAgi": 450,
     "MaxWis": 380,
     "Trivia": "Dragons which live in harmony with herbs and flowers. Theey love nothing more than basking in the sun and will get together to lap up the sun's rays on summer days.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 264,
@@ -14061,7 +14646,8 @@
     "MaxAgi": 400,
     "MaxWis": 390,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 417,
@@ -14072,12 +14658,12 @@
     "JapaneseName": "ソルジャーブル",
     "FrenchName": "Sanguinolier",
     "Identifier": "warhog",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 3,
+    "Def": 3,
+    "Agi": 2,
+    "Wis": 2,
     "MaxHP": 1350,
     "MaxMP": 330,
     "MaxAtt": 640,
@@ -14085,7 +14671,8 @@
     "MaxAgi": 490,
     "MaxWis": 400,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 265,
@@ -14109,7 +14696,8 @@
     "MaxAgi": 480,
     "MaxWis": 490,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 266,
@@ -14133,7 +14721,8 @@
     "MaxAgi": 540,
     "MaxWis": 410,
     "Trivia": "",
-    "EggTypeId": 2
+    "EggTypeId": 2,
+    "Notes": null
   },
   {
     "MonsterId": 267,
@@ -14157,7 +14746,8 @@
     "MaxAgi": 460,
     "MaxWis": 500,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 300,
@@ -14181,7 +14771,8 @@
     "MaxAgi": 440,
     "MaxWis": 530,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 268,
@@ -14205,7 +14796,8 @@
     "MaxAgi": 460,
     "MaxWis": 600,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 556,
@@ -14229,7 +14821,8 @@
     "MaxAgi": 610,
     "MaxWis": 680,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 325,
@@ -14253,7 +14846,8 @@
     "MaxAgi": 440,
     "MaxWis": 430,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 102,
@@ -14277,7 +14871,8 @@
     "MaxAgi": 600,
     "MaxWis": 530,
     "Trivia": "Slimes which sprouted wings aftrer dreaming of soaring through the sky. Their wings double up as a snug sleeping bag at night.",
-    "EggTypeId": 1
+    "EggTypeId": 1,
+    "Notes": null
   },
   {
     "MonsterId": 269,
@@ -14301,7 +14896,8 @@
     "MaxAgi": 500,
     "MaxWis": 480,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 270,
@@ -14325,7 +14921,8 @@
     "MaxAgi": 460,
     "MaxWis": 550,
     "Trivia": "These adorable vegetable-based monsters are proud of their ability to cut some rug. Any travaeller straying into their terrain should be prepared to see them strut their stuff.",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 490,
@@ -14336,12 +14933,12 @@
     "JapaneseName": "あくましんかん",
     "FrenchName": "Cyclomage",
     "Identifier": "wrecktor",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 3,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1370,
     "MaxMP": 480,
     "MaxAtt": 470,
@@ -14349,7 +14946,8 @@
     "MaxAgi": 450,
     "MaxWis": 680,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 381,
@@ -14373,7 +14971,8 @@
     "MaxAgi": 580,
     "MaxWis": 700,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 277,
@@ -14397,7 +14996,8 @@
     "MaxAgi": 400,
     "MaxWis": 700,
     "Trivia": "",
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 362,
@@ -14408,12 +15008,12 @@
     "JapaneseName": "ガメゴンロード",
     "FrenchName": "Dracarapace",
     "Identifier": "wyrtoise",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 2,
+    "MP": 2,
+    "Att": 2,
+    "Def": 4,
+    "Agi": 2,
+    "Wis": 4,
     "MaxHP": 1280,
     "MaxMP": 350,
     "MaxAtt": 550,
@@ -14421,7 +15021,8 @@
     "MaxAgi": 470,
     "MaxWis": 730,
     "Trivia": null,
-    "EggTypeId": 3
+    "EggTypeId": 3,
+    "Notes": null
   },
   {
     "MonsterId": 361,
@@ -14432,12 +15033,12 @@
     "JapaneseName": "ライバーン",
     "FrenchName": "Wyverne",
     "Identifier": "wyvern",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 3,
+    "Def": 2,
+    "Agi": 3,
+    "Wis": 2,
     "MaxHP": 1380,
     "MaxMP": 340,
     "MaxAtt": 580,
@@ -14445,7 +15046,8 @@
     "MaxAgi": 510,
     "MaxWis": 380,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 627,
@@ -14469,7 +15071,8 @@
     "MaxAgi": 460,
     "MaxWis": 580,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 521,
@@ -14493,7 +15096,8 @@
     "MaxAgi": 530,
     "MaxWis": 720,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 389,
@@ -14504,12 +15108,12 @@
     "JapaneseName": "サンダーフロッグ",
     "FrenchName": "Gaizard",
     "Identifier": "zaptile",
-    "HP": null,
-    "MP": null,
-    "Att": null,
-    "Def": null,
-    "Agi": null,
-    "Wis": null,
+    "HP": 3,
+    "MP": 2,
+    "Att": 2,
+    "Def": 2,
+    "Agi": 2,
+    "Wis": 3,
     "MaxHP": 1390,
     "MaxMP": 390,
     "MaxAtt": 530,
@@ -14517,7 +15121,8 @@
     "MaxAgi": 460,
     "MaxWis": 520,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   },
   {
     "MonsterId": 631,
@@ -14541,6 +15146,7 @@
     "MaxAgi": 470,
     "MaxWis": 760,
     "Trivia": null,
-    "EggTypeId": null
+    "EggTypeId": null,
+    "Notes": null
   }
 ]
