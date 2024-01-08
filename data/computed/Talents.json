@@ -1,0 +1,1693 @@
+[
+  {
+    "Name": "Aamon",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Agent Provocateur",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Agility Booster I",
+    "IsEggOnly": false,
+    "Children": [
+      "Agility Booster II"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Agility Booster II",
+    "IsEggOnly": false,
+    "Children": [
+      "Agility Booster III"
+    ],
+    "Parents": [
+      "Agility Booster I"
+    ]
+  },
+  {
+    "Name": "Agility Booster III",
+    "IsEggOnly": false,
+    "Children": [
+      "Agility Booster IV"
+    ],
+    "Parents": [
+      "Agility Booster II"
+    ]
+  },
+  {
+    "Name": "Agility Booster IV",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Agility Booster III"
+    ]
+  },
+  {
+    "Name": "Air Fryer",
+    "IsEggOnly": false,
+    "Children": [
+      "Hair Splitter"
+    ],
+    "Parents": [
+      "Spicy Slasher + Blowy Slasher"
+    ]
+  },
+  {
+    "Name": "Airhead",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Altruist",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Anaesthetist",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Antimagic Avoider",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Antimagician",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Aquapothecary",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Assassin",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Attack Booster I",
+    "IsEggOnly": false,
+    "Children": [
+      "Attack Booster II"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Attack Booster II",
+    "IsEggOnly": false,
+    "Children": [
+      "Attack Booster III"
+    ],
+    "Parents": [
+      "Attack Booster I"
+    ]
+  },
+  {
+    "Name": "Attack Booster III",
+    "IsEggOnly": false,
+    "Children": [
+      "Attack Booster IV"
+    ],
+    "Parents": [
+      "Attack Booster II"
+    ]
+  },
+  {
+    "Name": "Attack Booster IV",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Attack Booster III"
+    ]
+  },
+  {
+    "Name": "Bad Breather",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Bang Afficionado",
+    "IsEggOnly": false,
+    "Children": [
+      "Bang Virtuoso"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Bang Virtuoso",
+    "IsEggOnly": false,
+    "Children": [
+      "Impactor"
+    ],
+    "Parents": [
+      "Bang Afficionado"
+    ]
+  },
+  {
+    "Name": "Bang Ward",
+    "IsEggOnly": false,
+    "Children": [
+      "Tremor Shield",
+      "Cyclone Shield"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Baramos",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Barbarus",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Barricade",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Bedazzlement Blocker",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Bishop Ladja",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Blade Maven",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Blazer",
+    "IsEggOnly": false,
+    "Children": [
+      "Smart Blazer"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Blighter",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Blowhard",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Deep Breather + Smart Blazer",
+      "Deep Breather + Frosty Receptionist",
+      "Smart Blazer + Frosty Receptionist"
+    ]
+  },
+  {
+    "Name": "Blowy Slasher",
+    "IsEggOnly": false,
+    "Children": [
+      "Air Fryer",
+      "Storm Brewer"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Blusterer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Bobby-Dazzler",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Bombshell",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Breath Taker",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Breath Worker",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Calasmos",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Charge Leader",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Charmer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Cheesy Grin",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Chiaroscuro Shield",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Zam Ward + Sizz Ward"
+    ]
+  },
+  {
+    "Name": "Chilly Receptionist",
+    "IsEggOnly": false,
+    "Children": [
+      "Frosty Receptionist"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Choreographer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Cleric",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Cold Snapper",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Confusion Controller",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Cool Customer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Corvus",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Crack Afficionado",
+    "IsEggOnly": false,
+    "Children": [
+      "Crack Virtuoso"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Crack Virtuoso",
+    "IsEggOnly": false,
+    "Children": [
+      "Polariser"
+    ],
+    "Parents": [
+      "Crack Afficionado"
+    ]
+  },
+  {
+    "Name": "Crack Ward",
+    "IsEggOnly": false,
+    "Children": [
+      "Glacier Shield"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Crag Afficionado",
+    "IsEggOnly": false,
+    "Children": [
+      "Crag Virtuoso"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Crag Virtuoso",
+    "IsEggOnly": false,
+    "Children": [
+      "Impactor"
+    ],
+    "Parents": [
+      "Crag Afficionado"
+    ]
+  },
+  {
+    "Name": "Crag Ward",
+    "IsEggOnly": false,
+    "Children": [
+      "Tremor Shield",
+      "Magma Shield"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Cupid",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Cure-All",
+    "IsEggOnly": false,
+    "Children": [
+      "Supreme Healer"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Cutpurse",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Cyclone Shield",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Woosh Ward + Bang Ward"
+    ]
+  },
+  {
+    "Name": "Dancer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Dark Artist",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Dark Horse",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Death Defier",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Debilitation Ducker",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Deep Breather",
+    "IsEggOnly": false,
+    "Children": [
+      "Blowhard"
+    ],
+    "Parents": [
+      "Shallow Breather"
+    ]
+  },
+  {
+    "Name": "Defence Booster I",
+    "IsEggOnly": false,
+    "Children": [
+      "Defence Booster II"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Defence Booster II",
+    "IsEggOnly": false,
+    "Children": [
+      "Defence Booster III"
+    ],
+    "Parents": [
+      "Defence Booster I"
+    ]
+  },
+  {
+    "Name": "Defence Booster III",
+    "IsEggOnly": false,
+    "Children": [
+      "Defence Booster IV"
+    ],
+    "Parents": [
+      "Defence Booster II"
+    ]
+  },
+  {
+    "Name": "Defence Booster IV",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Defence Booster III"
+    ]
+  },
+  {
+    "Name": "Defender",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Demoniac",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Destroyer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Devil's Advocate",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Dhoulmagus",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Doomsayer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Dragonheart",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Drain Dodger",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Duelist",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Empath",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Enfeebler",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Enigma",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Estark",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Evil Genius",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Fighter",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Fire Chief",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Firebrand",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Fluffy",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Fortifier",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Freeze Popper",
+    "IsEggOnly": false,
+    "Children": [
+      "Hair Splitter"
+    ],
+    "Parents": [
+      "Stony Slasher + Soggy Slasher"
+    ]
+  },
+  {
+    "Name": "Freezer Burner",
+    "IsEggOnly": false,
+    "Children": [
+      "Hair Splitter"
+    ],
+    "Parents": [
+      "Spicy Slasher + Soggy Slasher"
+    ]
+  },
+  {
+    "Name": "Frizz Afficionado",
+    "IsEggOnly": false,
+    "Children": [
+      "Frizz Virtuoso"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Frizz Virtuoso",
+    "IsEggOnly": false,
+    "Children": [
+      "Impactor"
+    ],
+    "Parents": [
+      "Frizz Afficionado"
+    ]
+  },
+  {
+    "Name": "Frizz Ward",
+    "IsEggOnly": false,
+    "Children": [
+      "Magma Shield"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Frosty Receptionist",
+    "IsEggOnly": false,
+    "Children": [
+      "Blowhard"
+    ],
+    "Parents": [
+      "Chilly Receptionist"
+    ]
+  },
+  {
+    "Name": "Fulgurite Shield",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Zap Ward + Sizz Ward"
+    ]
+  },
+  {
+    "Name": "Fuzzy Thinker",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Glacier Shield",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Crack Ward + Splish Ward"
+    ]
+  },
+  {
+    "Name": "Good Knight",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Graveheart",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Greygnarl",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Grump",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Hair Splitter",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Freezer Burner + Air Fryer",
+      "Freezer Burner + Freeze Popper",
+      "Freezer Burner + Storm Brewer",
+      "Air Fryer + Freeze Popper",
+      "Air Fryer + Storm Brewer",
+      "Freeze Popper + Storm Brewer"
+    ]
+  },
+  {
+    "Name": "Hard Warder",
+    "IsEggOnly": true,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Hardliner",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Hargon",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Hater",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Healer",
+    "IsEggOnly": false,
+    "Children": [
+      "Supreme Healer"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Heavenly Herald",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Heretic",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Hexcommunicator",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Hive Mind",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Holy Warder",
+    "IsEggOnly": true,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Hottie",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "HP Booster I",
+    "IsEggOnly": false,
+    "Children": [
+      "HP Booster II"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "HP Booster II",
+    "IsEggOnly": false,
+    "Children": [
+      "HP Booster III"
+    ],
+    "Parents": [
+      "HP Booster I"
+    ]
+  },
+  {
+    "Name": "HP Booster III",
+    "IsEggOnly": false,
+    "Children": [
+      "HP Booster IV"
+    ],
+    "Parents": [
+      "HP Booster II"
+    ]
+  },
+  {
+    "Name": "HP Booster IV",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "HP Booster III"
+    ]
+  },
+  {
+    "Name": "Hulk",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Impactor",
+    "IsEggOnly": false,
+    "Children": [
+      "Perfect Speller"
+    ],
+    "Parents": [
+      "Crag Virtuoso + Bang Virtuoso",
+      "Crag Virtuoso + Frizz Virtuoso",
+      "Crag Virtuoso + Zam Virtuoso",
+      "Frizz Virtuoso + Zam Virtuoso",
+      "Frizz Virtuoso + Bang Virtuoso",
+      "Zam Virtuoso + Bang Virtuoso"
+    ]
+  },
+  {
+    "Name": "Irritant",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Jasper Unbound",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Just Ruler",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Leading Light",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Lightning Rod",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Lord of the Dragovians",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Mad Scientist",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Magic Maven",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Magma Shield",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Crag Ward + Frizz Ward"
+    ]
+  },
+  {
+    "Name": "Malroth",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Maniac",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Mariner",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Martial Maven",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Martyr",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Materialist",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Mordegon, Lord of Shadows",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Mortamor",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Mouth Guard",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "MP Booster I",
+    "IsEggOnly": false,
+    "Children": [
+      "MP Booster II"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "MP Booster II",
+    "IsEggOnly": false,
+    "Children": [
+      "MP Booster III"
+    ],
+    "Parents": [
+      "MP Booster I"
+    ]
+  },
+  {
+    "Name": "MP Booster III",
+    "IsEggOnly": false,
+    "Children": [
+      "MP Booster IV"
+    ],
+    "Parents": [
+      "MP Booster II"
+    ]
+  },
+  {
+    "Name": "MP Booster IV",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "MP Booster III"
+    ]
+  },
+  {
+    "Name": "Multidisciplinarian",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Murdaw",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Musclehead",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Mystic",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Naturalist",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Nature Child",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Nelgel the Netherfiend",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Nimzo",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Nokturnus",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Nuisance",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Orgodemir",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Outlaw",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Paragon",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Paralysis Protector",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Paramedic",
+    "IsEggOnly": false,
+    "Children": [
+      "Supreme Healer"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Party Monster",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Perfect Speller",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Polariser + Impactor"
+    ]
+  },
+  {
+    "Name": "Pest Controller",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Poison Preventer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Polariser",
+    "IsEggOnly": false,
+    "Children": [
+      "Perfect Speller"
+    ],
+    "Parents": [
+      "Woosh Virtuoso + Crack Virtuoso",
+      "Woosh Virtuoso + Sizz Virtuoso",
+      "Woosh Virtuoso + Zap Virtuoso",
+      "Woosh Virtuoso + Splash Virtuoso",
+      "Crack Virtuoso + Zap Virtuoso",
+      "Crack Virtuoso + Sizz Virtuoso",
+      "Crack Virtuoso + Splash Virtuoso",
+      "Zap Virtuoso + Sizz Virtuoso",
+      "Zap Virtuoso + Splash Virtuoso",
+      "Sizz Virtuoso + Splash Virtuoso"
+    ]
+  },
+  {
+    "Name": "Pop Diva",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Pop Idol",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Power Player",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Prankster",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Protector",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Psaro the Manslayer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Pyrotechnician",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Rainmaker",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Ramia",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Razerburn",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Refrigerator",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Respirator",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Rhapthorne",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Rockin' Roller",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Rug Cutter",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Sage",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Scruffy",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Shallow Breather",
+    "IsEggOnly": false,
+    "Children": [
+      "Deep Breather"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Sizz Afficionado",
+    "IsEggOnly": false,
+    "Children": [
+      "Sizz Virtuoso"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Sizz Virtuoso",
+    "IsEggOnly": false,
+    "Children": [
+      "Polariser"
+    ],
+    "Parents": [
+      "Sizz Afficionado"
+    ]
+  },
+  {
+    "Name": "Sizz Ward",
+    "IsEggOnly": false,
+    "Children": [
+      "Fulgurite Shield",
+      "Chiaroscuro Shield"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Slayer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Sleep Counsellor",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Sleep Suppressor",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Slimer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Smart Blazer",
+    "IsEggOnly": false,
+    "Children": [
+      "Blowhard"
+    ],
+    "Parents": [
+      "Blazer"
+    ]
+  },
+  {
+    "Name": "Smarty-Pants",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Snow Drifer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Soggy Slasher",
+    "IsEggOnly": false,
+    "Children": [
+      "Freeze Popper",
+      "Freezer Burner"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Soothsayer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Sovereign",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Sparkling Warder",
+    "IsEggOnly": true,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Speedster",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Spicy Slasher",
+    "IsEggOnly": false,
+    "Children": [
+      "Air Fryer",
+      "Freezer Burner"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Splash Afficionado",
+    "IsEggOnly": false,
+    "Children": [
+      "Splash Virtuoso"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Splash Virtuoso",
+    "IsEggOnly": false,
+    "Children": [
+      "Polariser"
+    ],
+    "Parents": [
+      "Splash Afficionado"
+    ]
+  },
+  {
+    "Name": "Splish Ward",
+    "IsEggOnly": false,
+    "Children": [
+      "Glacier Shield"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Stinker",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Stony Slasher",
+    "IsEggOnly": false,
+    "Children": [
+      "Freeze Popper",
+      "Storm Brewer"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Storm Brewer",
+    "IsEggOnly": false,
+    "Children": [
+      "Hair Splitter"
+    ],
+    "Parents": [
+      "Stony Slasher + Blowy Slasher"
+    ]
+  },
+  {
+    "Name": "Storm Chaser",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Strong Speller",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Stun Stopper",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Super Naturalist",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Supreme Healer",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Cure-All + Healer",
+      "Cure-All + Paramedic"
+    ]
+  },
+  {
+    "Name": "Sweet-Talker",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Swirling Dervish",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Taste Buddies",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "The Almighty",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "The Dragonlord",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Thrill-Seeker",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Tongue Twister",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Toxicologist",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Tremor Shield",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Crag Ward + Bang Ward"
+    ]
+  },
+  {
+    "Name": "Uberkilling Machine",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Vagabond",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Vaudevillian",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Vexologist",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Walking Disaster",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Warmonger",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Water Baby",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Wild Child",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Willing Helper",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Wisdom Booster I",
+    "IsEggOnly": false,
+    "Children": [
+      "Wisdom Booster II"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Wisdom Booster II",
+    "IsEggOnly": false,
+    "Children": [
+      "Wisdom Booster III"
+    ],
+    "Parents": [
+      "Wisdom Booster I"
+    ]
+  },
+  {
+    "Name": "Wisdom Booster III",
+    "IsEggOnly": false,
+    "Children": [
+      "Wisdom Booster IV"
+    ],
+    "Parents": [
+      "Wisdom Booster II"
+    ]
+  },
+  {
+    "Name": "Wisdom Booster IV",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": [
+      "Wisdom Booster III"
+    ]
+  },
+  {
+    "Name": "Woosh Afficionado",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Woosh Virtuoso",
+    "IsEggOnly": false,
+    "Children": [
+      "Polariser"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Woosh Ward",
+    "IsEggOnly": false,
+    "Children": [
+      "Cyclone Shield"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Wrecker",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Wyrmhole Dragon",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Xenlon",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Zam Afficionado",
+    "IsEggOnly": false,
+    "Children": [
+      "Zam Virtuoso"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Zam Virtuoso",
+    "IsEggOnly": false,
+    "Children": [
+      "Impactor"
+    ],
+    "Parents": [
+      "Zam Afficionado"
+    ]
+  },
+  {
+    "Name": "Zam Ward",
+    "IsEggOnly": false,
+    "Children": [
+      "Chiaroscuro Shield"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Zap Afficionado",
+    "IsEggOnly": false,
+    "Children": [
+      "Zap Virtuoso"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Zap Virtuoso",
+    "IsEggOnly": false,
+    "Children": [
+      "Polariser"
+    ],
+    "Parents": [
+      "Zap Afficionado"
+    ]
+  },
+  {
+    "Name": "Zap Ward",
+    "IsEggOnly": false,
+    "Children": [
+      "Fulgurite Shield"
+    ],
+    "Parents": []
+  },
+  {
+    "Name": "Zoma",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  }
+]
