@@ -3111,6 +3111,23 @@
     "Notes": null
   },
   {
+    "ItemId": 246,
+    "Name": "Scout's Badge",
+    "Identifier": "scounts-badge",
+    "JapaneseName": null,
+    "Description": "Improves the likelihood of a show of Force succeeding",
+    "ItemTypeId": 5,
+    "BuyPrice": null,
+    "SellPrice": null,
+    "HPBonus": null,
+    "MPBonus": null,
+    "AttackBonus": null,
+    "DefenceBonus": null,
+    "AgilityBonus": null,
+    "WisdomBonus": null,
+    "Notes": null
+  },
+  {
     "ItemId": 57,
     "Name": "Scuba Earrings",
     "Identifier": "scuba-earrings",

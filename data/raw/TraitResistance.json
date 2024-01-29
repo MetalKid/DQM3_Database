@@ -1,60 +1,8 @@
 [
   {
-    "TraitResistanceId": 1,
-    "TraitId": 185,
-    "DamageTypeId": 18,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": null,
-    "IsForHealing": null,
-    "IsForSmallMonsters": null,
-    "IsForLargeMonsters": null,
-    "AppliesToSelf": null,
-    "Value": 10
-  },
-  {
-    "TraitResistanceId": 2,
-    "TraitId": 247,
-    "DamageTypeId": 5,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": null,
-    "IsForHealing": null,
-    "IsForSmallMonsters": null,
-    "IsForLargeMonsters": null,
-    "AppliesToSelf": null,
-    "Value": 10
-  },
-  {
-    "TraitResistanceId": 3,
-    "TraitId": 26,
-    "DamageTypeId": 5,
-    "FamilyId": null,
-    "IsForDamage": true,
-    "IsForResistance": null,
-    "IsForHealing": null,
-    "IsForSmallMonsters": null,
-    "IsForLargeMonsters": null,
-    "AppliesToSelf": null,
-    "Value": 115
-  },
-  {
     "TraitResistanceId": 7,
     "TraitId": 185,
     "DamageTypeId": 18,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": true,
-    "IsForHealing": null,
-    "IsForSmallMonsters": null,
-    "IsForLargeMonsters": null,
-    "AppliesToSelf": true,
-    "Value": 10
-  },
-  {
-    "TraitResistanceId": 8,
-    "TraitId": 247,
-    "DamageTypeId": 5,
     "FamilyId": null,
     "IsForDamage": false,
     "IsForResistance": true,
@@ -624,19 +572,6 @@
     "Value": 10
   },
   {
-    "TraitResistanceId": 52,
-    "TraitId": 244,
-    "DamageTypeId": 6,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": true,
-    "IsForHealing": null,
-    "IsForSmallMonsters": false,
-    "IsForLargeMonsters": false,
-    "AppliesToSelf": true,
-    "Value": 10
-  },
-  {
     "TraitResistanceId": 53,
     "TraitId": 27,
     "DamageTypeId": 6,
@@ -648,32 +583,6 @@
     "IsForLargeMonsters": false,
     "AppliesToSelf": true,
     "Value": 115
-  },
-  {
-    "TraitResistanceId": 54,
-    "TraitId": 248,
-    "DamageTypeId": 5,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": true,
-    "IsForHealing": null,
-    "IsForSmallMonsters": false,
-    "IsForLargeMonsters": false,
-    "AppliesToSelf": false,
-    "Value": -10
-  },
-  {
-    "TraitResistanceId": 55,
-    "TraitId": 245,
-    "DamageTypeId": 6,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": true,
-    "IsForHealing": null,
-    "IsForSmallMonsters": false,
-    "IsForLargeMonsters": false,
-    "AppliesToSelf": false,
-    "Value": -10
   },
   {
     "TraitResistanceId": 56,
@@ -791,32 +700,6 @@
     "IsForLargeMonsters": false,
     "AppliesToSelf": false,
     "Value": -25
-  },
-  {
-    "TraitResistanceId": 65,
-    "TraitId": 254,
-    "DamageTypeId": 2,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": true,
-    "IsForHealing": null,
-    "IsForSmallMonsters": false,
-    "IsForLargeMonsters": false,
-    "AppliesToSelf": false,
-    "Value": -10
-  },
-  {
-    "TraitResistanceId": 66,
-    "TraitId": 250,
-    "DamageTypeId": 9,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": true,
-    "IsForHealing": null,
-    "IsForSmallMonsters": false,
-    "IsForLargeMonsters": false,
-    "AppliesToSelf": false,
-    "Value": -10
   },
   {
     "TraitResistanceId": 67,
@@ -1381,19 +1264,6 @@
     "TraitResistanceId": 110,
     "TraitId": 193,
     "DamageTypeId": 16,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": true,
-    "IsForHealing": null,
-    "IsForSmallMonsters": false,
-    "IsForLargeMonsters": false,
-    "AppliesToSelf": true,
-    "Value": 10
-  },
-  {
-    "TraitResistanceId": 111,
-    "TraitId": 246,
-    "DamageTypeId": 1,
     "FamilyId": null,
     "IsForDamage": false,
     "IsForResistance": true,
@@ -2002,19 +1872,6 @@
     "Value": -5
   },
   {
-    "TraitResistanceId": 158,
-    "TraitId": 251,
-    "DamageTypeId": 8,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": true,
-    "IsForHealing": false,
-    "IsForSmallMonsters": false,
-    "IsForLargeMonsters": false,
-    "AppliesToSelf": true,
-    "Value": 10
-  },
-  {
     "TraitResistanceId": 159,
     "TraitId": 29,
     "DamageTypeId": 8,
@@ -2291,19 +2148,6 @@
     "TraitResistanceId": 180,
     "TraitId": 201,
     "DamageTypeId": 12,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": true,
-    "IsForHealing": false,
-    "IsForSmallMonsters": false,
-    "IsForLargeMonsters": false,
-    "AppliesToSelf": true,
-    "Value": 10
-  },
-  {
-    "TraitResistanceId": 181,
-    "TraitId": 253,
-    "DamageTypeId": 2,
     "FamilyId": null,
     "IsForDamage": false,
     "IsForResistance": true,
@@ -4940,19 +4784,6 @@
     "Value": 15
   },
   {
-    "TraitResistanceId": 385,
-    "TraitId": 249,
-    "DamageTypeId": 9,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": true,
-    "IsForHealing": false,
-    "IsForSmallMonsters": false,
-    "IsForLargeMonsters": false,
-    "AppliesToSelf": true,
-    "Value": 10
-  },
-  {
     "TraitResistanceId": 386,
     "TraitId": 30,
     "DamageTypeId": 9,
@@ -4964,19 +4795,6 @@
     "IsForLargeMonsters": false,
     "AppliesToSelf": true,
     "Value": 15
-  },
-  {
-    "TraitResistanceId": 387,
-    "TraitId": 252,
-    "DamageTypeId": 7,
-    "FamilyId": null,
-    "IsForDamage": false,
-    "IsForResistance": true,
-    "IsForHealing": false,
-    "IsForSmallMonsters": false,
-    "IsForLargeMonsters": false,
-    "AppliesToSelf": true,
-    "Value": 10
   },
   {
     "TraitResistanceId": 388,
