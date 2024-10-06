@@ -1482,12 +1482,6 @@
     "IsPrimary": true
   },
   {
-    "MonsterTalentId": 249,
-    "MonsterId": 274,
-    "TalentId": 17,
-    "IsPrimary": true
-  },
-  {
     "MonsterTalentId": 250,
     "MonsterId": 277,
     "TalentId": 89,
