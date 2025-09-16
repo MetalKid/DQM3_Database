@@ -1,0 +1,36 @@
+LocationId,Name,Identifier,JapaneseName,MapLongitudeMax,MapLatitudeMax,MapLongitudeStart,MapLatitudeStart
+31,Aamon's Sanctum,aamons-sanctum,エビルプリーストの隠れ家,,,,
+27,Barbatos's Bastion,barbatoss-bastion,ヘルバトラー城,,,,
+25,Battenburg,battenburg,お菓子の城,,,,
+32,Caverns of Conflagration,caverns-of-conflagration,烈火の洞窟,,,,
+5,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,流神殿の魔界 - 初級,-218.461000000000,177.500000000000,-109.230000000000,88.750000000000
+12,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,流神殿の魔界 - 中級,-145.589000000000,177.500000000000,-72.794000000000,88.750000000000
+18,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,流神殿の魔界 - 上級,-148.716000000000,177.500000000000,-74.358000000000,88.750000000000
+2,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,覇王城の魔界 - 初級,-108.790000000000,177.500000000000,-54.395000000000,88.750000000000
+9,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,覇王城の魔界 - 中級,-210.370000000000,177.500000000000,-105.185000000000,88.750000000000
+13,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,覇王城の魔界 - 上級,-177.500000000000,177.500000000000,-88.750000000000,88.750000000000
+6,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,鉄鋼砦の魔界 - 初級,-125.663000000000,177.500000000000,-62.831000000000,88.750000000000
+8,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,鉄鋼砦の魔界 - 中級,-248.500000000000,177.500000000000,-124.250000000000,88.750000000000
+19,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,鉄鋼砦の魔界 - 上級,-171.774000000000,177.500000000000,-85.887000000000,88.750000000000
+4,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,甘味楼の魔界 - 初級,-110.937000000000,177.500000000000,-55.468000000000,88.750000000000
+11,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,甘味楼の魔界 - 中級,-148.813000000000,177.500000000000,-74.406000000000,88.750000000000
+17,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,甘味楼の魔界 - 上級,-165.075000000000,177.500000000000,-82.537000000000,88.750000000000
+3,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,煉獄峠の魔界 - 初級,-123.896000000000,177.500000000000,-61.948000000000,88.750000000000
+10,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,煉獄峠の魔界 - 中級,-147.325000000000,177.500000000000,-73.662000000000,88.750000000000
+14,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,煉獄峠の魔界 - 上級,-119.619000000000,177.500000000000,-59.809000000000,88.750000000000
+22,Conqueror's Keep,conquerors-keep,覇王城,,,,
+35,Cradle of Corruption - Lower Level,circle-of-corruption-lower-level,災厄の魔宮 - 低層,,,,
+36,Cradle of Corruption - Middle Level,circle-of-corruption-middle-level,災厄の魔宮 - 中層,,,,
+30,Cradle of Corruption - Upper Level,circle-of-corruption-upper-level,災厄の魔宮 - 高層,,,,
+34,Desserted Dungeon,desserted-dungeon,アイスの迷宮,,,,
+26,Dragonspate,dragonspate,竜の首,,,,
+24,Fort Nox,fort-nox,常夜の要塞,,,,
+20,Gleaming Grotto,gleaming-grotto,大結晶の洞窟,,,,
+21,Grimglow Cave,grimglow-cave,白冥の洞窟,,,,
+28,Hotcake Heap,hotcake-heap,パンケーキ山の洞窟,,,,
+29,House of Shifting Sands,house-of-shifting-sands,流砂の宮殿,,,,
+23,Sepulchre of Flames,sepulchre-of-flames,炎の神殿,,,,
+1,Terrestria,terrestria,人間界,-223.804000000000,177.500000000000,-111.902000000000,88.750000000000
+38,Terrestria - Forest,terrestria-forest,人間界 - 森,,,,
+33,The Watchtower,the-watchtower,大監視塔,,,,
+37,The Whispwoods,the-whispwoods,精霊樹の森,,,,

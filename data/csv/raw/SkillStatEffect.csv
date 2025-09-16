@@ -1,0 +1,13 @@
+SkillStatEffectId,Name,Identifier
+12,Accuracy Down,accuracy-down
+11,Accuracy Up,accuracy-up
+6,Agility Down,agility-down
+5,Agility Up,agility-up
+2,Attack Down,attack-down
+1,Attack Up,attack-up
+4,Defence Down,defence-down
+3,Defence Up,defence-up
+10,Evasion Down,evasion-down
+9,Evasion Up,evasion-up
+8,Wisdom Down,wisdom-down
+7,Wisdom Up,wisdom-up

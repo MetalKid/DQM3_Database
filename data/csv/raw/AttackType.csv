@@ -1,0 +1,10 @@
+AttackTypeId,Name,Identifier
+3,Breath,breath
+5,Dance,dance
+6,Focus,focus
+2,Impact,impact
+8,Kick,kick
+7,Punch,punch
+9,Shout,shout
+1,Slash,slash
+4,Spell,spell

@@ -8021,7 +8021,7 @@
     "MaxAgi": 580,
     "MaxWis": 460,
     "Trivia": null,
-    "EggTypeId": null,
+    "EggTypeId": 4,
     "Notes": null
   },
   {

@@ -1,0 +1,9 @@
+FamilyId,Name,Identifier,JapaneseName,BonusHP,BonusMP,BonusAtt,BonusDef,BonusAgi,BonusWis,Order
+8,???,boss,？？？,1,,1,,,1,8
+4,Beast,beast,魔獣,,1,,1,1,,4
+6,Demon,demon,悪魔,,1,1,1,,,6
+2,Dragon,dragon,ドラゴン,1,1,1,,,,2
+5,Material,material,物質,,,1,1,,1,5
+3,Nature,nature,自然,,,,1,1,1,3
+1,Slime,slime,スライム,1,,,,1,1,1
+7,Undead,undead,ゾンビ,1,1,,,1,,7

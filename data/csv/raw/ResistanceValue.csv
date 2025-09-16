@@ -1,0 +1,7 @@
+ResistanceValueId,Name,Identifier,AmountMin,AmountMax
+6,Absorb,absorb,101,200
+5,Immune,immune,100,100
+2,Normal,normal,0,0
+3,Strong,strong,1,25
+4,Very Strong,very-strong,26,99
+1,Weak,weak,-25,-1

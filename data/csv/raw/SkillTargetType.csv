@@ -1,0 +1,9 @@
+SkillTargetTypeId,Name,Identifier
+4,All Allies,all-allies
+2,All Enemies,all-enemies
+8,Random Allies,random-allies
+7,Random Enemies,random-enemies
+6,Random Enemy or Ally,random-enemy-or-ally
+5,Self,self
+3,Single Ally,single-ally
+1,Single Enemy,single-enemy

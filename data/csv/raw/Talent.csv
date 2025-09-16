@@ -1,0 +1,242 @@
+TalentId,Name,Identifier,JapaneseName,IsEggOnly
+202,Aamon,aamon,エビルプリースト,False
+209,Agent Provocateur,agent-provocateur,カオス,False
+64,Agility Booster I,agility-booster-i,すばやさアップ1,False
+65,Agility Booster II,agility-booster-ii,すばやさアップ2,False
+122,Agility Booster III,agility-booster-iii,すばやさアップ3,False
+123,Agility Booster IV,agility-booster-iv,すばやさアップ4,False
+91,Air Fryer,air-fryer,風炎の剣技,False
+201,Airhead,airhead,エスパー,False
+211,Altruist,altruist,守護神,False
+142,Anaesthetist,anaesthetist,スタン,False
+79,Antimagic Avoider,antimagic-avoider,封じガード,False
+113,Antimagician,antimagician,アンチスペル,False
+32,Aquapothecary,aquapothecary,みずげい,False
+44,Assassin,assassin,アサシン,False
+60,Attack Booster I,attack-booster-i,攻撃力アップ1,False
+61,Attack Booster II,attack-booster-ii,攻撃力アップ2,False
+118,Attack Booster III,attack-booster-iii,攻撃力アップ3,False
+119,Attack Booster IV,attack-booster-iv,攻撃力アップ4,False
+205,Bad Breather,bad-breather,息じごく,False
+9,Bang Afficionado,bang-afficionado,爆発の心,False
+10,Bang Virtuoso,bang-virtuoso,爆発の極意,False
+72,Bang Ward,bang-ward,爆発ガード,False
+206,Baramos,baramos,バラモス,False
+223,Barbarus,barbarus,闇竜バルボロス,False
+89,Barricade,barricade,てっぺき,False
+78,Bedazzlement Blocker,bedazzlement-blocker,幻惑ガード,False
+228,Bishop Ladja,bishop-ladja,ゲマ,False
+41,Blade Maven,blade-maven,剣術,False
+19,Blazer,blazer,火炎,False
+143,Blighter,blighter,暗闇,False
+127,Blowhard,blowhard,グランドブレスSP,False
+34,Blowy Slasher,blowy-slasher,グリーンソード,False
+30,Blusterer,blusterer,つむじ風,False
+207,Bobby-Dazzler,bobby-dazzler,カリスマ,False
+170,Bombshell,bombshell,ボマー,False
+111,Breath Taker,breath-taker,アンチブレス,False
+183,Breath Worker,breath-worker,ゴッドブレス,False
+230,Calasmos,calasmos,邪神ニズゼルファ,False
+184,Charge Leader,charge-leader,ヒーロー,False
+112,Charmer,charmer,みわく,False
+193,Cheesy Grin,cheesy-grin,もぐもぐスマイル,False
+133,Chiaroscuro Shield,chiaroscuro-shield,白黒ガードSP,False
+110,Chilly Receptionist,chilly-receptionist,吹雪,False
+109,Choreographer,choreographer,エンターテイナー,False
+212,Cleric,cleric,ゆうき,False
+152,Cold Snapper,cold-snapper,アイスバーン,False
+84,Confusion Controller,confusion-controller,こんらんガード,False
+194,Cool Customer,cool-customer,つめたいまなざし,False
+233,Corvus,corvus,堕天使エルギオス,False
+11,Crack Afficionado,crack-afficionado,氷結の心,False
+12,Crack Virtuoso,crack-virtuoso,氷結の極意,False
+73,Crack Ward,crack-ward,氷結ガード,False
+7,Crag Afficionado,crag-afficionado,地の心,False
+8,Crag Virtuoso,crag-virtuoso,地の極意,False
+71,Crag Ward,crag-ward,地ガード,False
+96,Cupid,cupid,キューピット,False
+154,Cure-All,cure-all,全体回復,False
+42,Cutpurse,cutpurse,ぬすっと,False
+134,Cyclone Shield,cyclone-shield,爆風ガードSP,False
+22,Dancer,dancer,ダンサー,False
+29,Dark Artist,dark-artist,悪魔のささやき,False
+153,Dark Horse,dark-horse,ダークホース,False
+86,Death Defier,death-defier,即死ガード,False
+77,Debilitation Ducker,debilitation-ducker,弱体化ガード,False
+21,Deep Breather,deep-breather,ブレスマスター,False
+62,Defence Booster I,defence-booster-i,守備力アップ1,False
+63,Defence Booster II,defence-booster-ii,守備力アップ2,False
+120,Defence Booster III,defense-booster-iii,守備力アップ3,False
+121,Defence Booster IV,defense-booster-iv,守備力アップ4,False
+54,Defender,defender,ぼうぎょ,False
+146,Demoniac,demoniac,魔氷壁,False
+186,Destroyer,destroyer,デストロイ,False
+180,Devil's Advocate,devils-advocate,デビルスマイル,False
+236,Dhoulmagus,dhoulmagus,ドルマゲス,False
+165,Doomsayer,doomsayer,死の誘い,False
+24,Dragonheart,dragonheart,ドラゴンソウル,False
+80,Drain Dodger,drain-dodger,MP吸収ガード,False
+167,Duelist,duelist,剣闘士,False
+161,Empath,empath,ジャスティス,False
+52,Enfeebler,enfeebler,ダウナー,False
+156,Enigma,enigma,ミステリアス,False
+242,Estark,estark,エスターク,False
+137,Evil Genius,evil-genius,邪悪,False
+40,Fighter,fighter,ウォリアー,False
+162,Fire Chief,fire-chief,フレア,False
+148,Firebrand,firebrand,バーニング,False
+219,Fluffy,fluffy,わたぼう,False
+51,Fortifier,fortifier,アッパー,False
+103,Freeze Popper,freeze-popper,爆氷の剣技,False
+129,Freezer Burner,freezer-burner,氷炎の剣技,False
+1,Frizz Afficionado,frizz-afficionado,火の心,False
+2,Frizz Virtuoso,frizz-virtuoso,火の極意,False
+68,Frizz Ward,frizz-ward,火ガード,False
+126,Frosty Receptionist,frosty-receptionist,氷獄,False
+131,Fulgurite Shield,fulgurite-shield,稲妻ガードSP,False
+188,Fuzzy Thinker,fuzzy-thinker,ぴぴぼう,False
+136,Glacier Shield,glacier-shield,流氷ガードSP,False
+88,Good Knight,good-knight,騎士道,False
+25,Graveheart,graveheart,アンデッド,False
+221,Greygnarl,greygnarl,グレイナル,False
+204,Grump,grump,絶望,False
+104,Hair Splitter,hair-splitter,けんごうSP,False
+197,Hard Warder,hard-warder,ウルトラガードSP,True
+151,Hardliner,hardliner,一文字,False
+237,Hargon,hargon,ハーゴン,False
+155,Hater,hater,怨念,False
+47,Healer,healer,HP回復,False
+216,Heavenly Herald,heavenly-hearld,神の使い,False
+226,Heretic,heretic,禁術,False
+37,Hexcommunicator,hexcommunicator,カース,False
+26,Hive Mind,hive-mind,むしのしらせ,False
+195,Holy Warder,holy-warder,ミラクルガードSP,True
+181,Hottie,hottie,トロピカル,False
+56,HP Booster I,hp-booster-i,HPアップ1,False
+57,HP Booster II,hp-booster-ii,HPアップ2,False
+114,HP Booster III,hp-booster-iii,HPアップ3,False
+115,HP Booster IV,hp-booster-iv,HPアップ4,False
+45,Hulk,hulk,巨漢,False
+93,Impactor,impactor,闇の爆炎SP,False
+97,Irritant,irritant,ジャマー,False
+238,Jasper Unbound,jasper-unbound,魔軍司令ホメロス,False
+139,Just Ruler,just-ruler,王道,False
+147,Leading Light,leading-light,ジェネラル,False
+159,Lightning Rod,lightning-rod,ライトニング,False
+217,Lord of the Dragovians,lord-of-the-dragovians,竜神王,False
+208,Mad Scientist,mad-scientist,かがくしゃ,False
+106,Magic Maven,magic-maven,魔術,False
+135,Magma Shield,magma-shield,流氷ガードSP,False
+229,Malroth,malroth,シドー,False
+164,Maniac,maniac,マッドキラー,False
+171,Mariner,mariner,水兵,False
+108,Martial Maven,martial-maven,武術,False
+99,Martyr,martyr,じこぎせい,False
+27,Materialist,materialist,いしあたま,False
+232,"Mordegon, Lord of Shadows",mordegon-lord-of-shadows,大魔王ウルノーガ,False
+234,Mortamor,mortamor,デスタムーア,False
+173,Mouth Guard,mouth-guard,プロテクト,False
+58,MP Booster I,mp-booster-i,MPアップ1,False
+59,MP Booster II,mp-booster-ii,MPアップ2,False
+116,MP Booster III,mp-booster-iii,MPアップ3,False
+117,MP Booster IV,mp-booster-iv,MPアップ4,False
+189,Multidisciplinarian,multidisciplinarian,武芸百般,False
+240,Murdaw,murdaw,ムドー,False
+179,Musclehead,musclehead,マッスル,False
+192,Mystic,mystic,神秘,False
+28,Naturalist,naturalist,けもの道,False
+31,Nature Child,nature-child,ナチュラル,False
+241,Nelgel the Netherfiend,nelgel-the-netherfiend,冥獣王ネルゲル,False
+239,Nimzo,nimzo,ミルドラース,False
+244,Nokturnus,nokturnus,ダークドレアム,False
+140,Nuisance,nuisance,おじゃま虫,False
+214,Orgodemir,orgodemir,オルゴ・デミーラ,False
+107,Outlaw,outlaw,バンデッド,False
+176,Paragon,paragon,ごうけつ,False
+85,Paralysis Protector,paralysis-protector,マヒガード,False
+48,Paramedic,paramedic,異常回復,False
+163,Party Monster,party-monster,カーニバル,False
+94,Perfect Speller,perfect-speller,グランスペルSP,False
+213,Pest Controller,pest-controller,ターミネーター,False
+81,Poison Preventer,poison-preventer,どくガード,False
+92,Polariser,polariser,聖なる吹雪SP,False
+172,Pop Diva,pop-diva,アイドル,False
+144,Pop Idol,pop-idol,ポップスター,False
+38,Power Player,power-player,ちからもち,False
+46,Prankster,prankster,いたずら,False
+182,Protector,protector,ガーディアン,False
+235,Psaro the Manslayer,psaro-the-manslayer,デスピサロ,False
+185,Pyrotechnician,pyrotechnician,業火,False
+190,Rainmaker,rainmaker,てんのめぐみ,False
+245,Ramia,ramia,ラーミア,False
+231,Razerburn,razerburn,守護者ラズバーン,False
+203,Refrigerator,refrigerator,フリーズ,False
+199,Respirator,respirator,呼吸術,False
+227,Rhapthorne,rhapthorne,暗黒神ラプソーン,False
+178,Rockin' Roller,rockin-roller,ロックスター,False
+145,Rug Cutter,rug-cutter,神舞,False
+175,Sage,sage,賢者,False
+220,Scruffy,scruffy,ワルぼう,False
+20,Shallow Breather,shallow-breather,息吹,False
+15,Sizz Afficionado,sizz-afficionado,光の心,False
+16,Sizz Virtuoso,sizz-virtuoso,光の極意,False
+75,Sizz Ward,sizz-ward,光ガード,False
+141,Slayer,slayer,スレイヤー,False
+100,Sleep Counsellor,sleep-counsellor,睡魔,False
+83,Sleep Suppressor,sleep-suppressor,ねむりガード,False
+23,Slimer,slimer,スラフォース,False
+105,Smart Blazer,smart-blazer,獄炎,False
+187,Smarty-Pants,smarty-pants,インテリ,False
+149,Snow Drifer,snow-drifter,暴風,False
+87,Soggy Slasher,soggy-slasher,ブルーソード,False
+49,Soothsayer,soothsayer,妖精,False
+191,Sovereign,sovereign,皇帝,False
+196,Sparkling Warder,sparkling-warder,スーパーガードSP,True
+95,Speedster,speedster,しんそく,False
+33,Spicy Slasher,spicy-slasher,レッドソード,False
+3,Splash Afficionado,splash-afficionado,水の心,False
+4,Splash Virtuoso,splash-virtuoso,水の極意,False
+69,Splish Ward,splish-ward,水ガード,False
+55,Stinker,stinker,あくしゅう,False
+35,Stony Slasher,stony-slasher,イエローソード,False
+130,Storm Brewer,storm-brewer,風雷の剣技,False
+160,Storm Chaser,storm-chaser,ストーム,False
+158,Strong Speller,strong-speller,ソーサラー,False
+82,Stun Stopper,stun-stopper,休みガード,False
+168,Super Naturalist,super-naturalist,ワイルド,False
+174,Supreme Healer,supreme-healer,超回復SP,False
+98,Sweet-Talker,sweet-talker,スイート,False
+246,Swirling Dervish,swirling-dervish,ハラハラフルーリー,False
+138,Taste Buddies,taste-buddies,もりもりハッピー,False
+157,The Almighty,the-almighty,神さま,False
+218,The Dragonlord,the-dragonlord,竜王,False
+36,Thrill-Seeker,thrill-seeker,スリラー,False
+43,Tongue Twister,tongue-twister,ヌメヌメ,False
+50,Toxicologist,toxicologist,毒舌,False
+132,Tremor Shield,tremor-shield,流氷ガードSP,False
+225,Überkilling Machine,uberkilling-machine,キラーマジンガ,False
+198,Vagabond,vagabond,ふうらいぼう,False
+169,Vaudevillian,vaudevillian,アクロバット,False
+90,Vexologist,vexologist,トリッキー,False
+200,Walking Disaster,walking-disaster,ディザスター,False
+210,Warmonger,warmonger,闘神,False
+166,Water Baby,water-baby,水の安らぎ,False
+39,Wild Child,wild-child,あばれんぼう,False
+53,Willing Helper,willing-helper,サポーター,False
+66,Wisdom Booster I,wisdoom-booster-i,かしこさアップ1,False
+67,Wisdom Booster II,wisdom-booster-ii,かしこさアップ2,False
+124,Wisdom Booster III,wisdoom-booster-iii,かしこさアップ3,False
+125,Wisdom Booster IV,wisdoom-booster-iv,かしこさアップ4,False
+5,Woosh Afficionado,woosh-afficionado,風の心,False
+6,Woosh Virtuoso,woosh-virtuoso,風の極意,False
+70,Woosh Ward,woosh-ward,風ガード,False
+150,Wrecker,wrecker,クラッシャー,False
+222,Wyrmhole Dragon,wyrmhole-dragon,じげんりゅう,False
+224,Xenlon,xenlon,しんりゅう,False
+17,Zam Afficionado,zam-afficionado,闇の心,False
+18,Zam Virtuoso,zam-virtuoso,闇の極意,False
+76,Zam Ward,zam-ward,闇ガード,False
+13,Zap Afficionado,zap-afficionado,電撃の心,False
+14,Zap Virtuoso,zap-virtuoso,電撃の極意,False
+74,Zap Ward,zap-ward,電撃ガード,False
+243,Zoma,zoma,ゾーマ,False

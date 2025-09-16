@@ -715,7 +715,7 @@
   {
     "Result": "Crowgre",
     "Parent1": "Liege Lizard",
-    "Parent2": "Hades condor"
+    "Parent2": "Hades Condor"
   },
   {
     "Result": "Cruelcumber",
@@ -1017,7 +1017,7 @@
   {
     "Result": "Drooling Ghoul",
     "Parent1": "Frolicker",
-    "Parent2": "Shadow slime"
+    "Parent2": "Shadow Slime"
   },
   {
     "Result": "Drooling Ghoul",
@@ -1554,7 +1554,7 @@
     "Parent2": "Beast Family (B)"
   },
   {
-    "Result": "Hades condor",
+    "Result": "Hades Condor",
     "Parent1": "Garuda",
     "Parent2": "Abyss Diver"
   },
@@ -2234,7 +2234,7 @@
   {
     "Result": "Mogus",
     "Parent1": "Meowgician",
-    "Parent2": "Shadow slime"
+    "Parent2": "Shadow Slime"
   },
   {
     "Result": "Mohawker",
@@ -2926,12 +2926,12 @@
     "Parent2": "Spitnik"
   },
   {
-    "Result": "Shadow slime",
+    "Result": "Shadow Slime",
     "Parent1": "Slime",
     "Parent2": "Hypothermion"
   },
   {
-    "Result": "Shadow slime",
+    "Result": "Shadow Slime",
     "Parent1": "Slime Family (C)",
     "Parent2": "Dragon Family (C)"
   },
@@ -3292,7 +3292,7 @@
   },
   {
     "Result": "Tartarus Eagle",
-    "Parent1": "Hades condor",
+    "Parent1": "Hades Condor",
     "Parent2": "Gryphon"
   },
   {

@@ -1,0 +1,258 @@
+TraitId,Name,Identifier,JapaneseName,Description,HPBonus,MPBonus,AttackBonus,DefenceBonus,AgilityBonus,WisdomBonus,Notes
+69,Absorbent Touch,absorbent-touch,マホトラ攻撃,Regular attacks sometimes absorb a portion of the enemy's MP.,,,,,,,
+40,Ace Evader,ace-evader,みかわしアップ大,Makes it somewhat easier to avoid enemy attacks.,,,,,,,
+100,Adrenaline Rush,adrenaline-rush,ファイターズハイ,Greatly increases the attack after inflicting a critical hit.,,,,,,,
+77,Agent of Chaos,agent-of-chaos,きょうせんし,Always attacks an enemy when the monster is confused. Successful strikes inflict critical hits.,,,,,,,
+160,Agility +12,agility-12,すばやさ+12,Raises agility by 12.,,,,,12,,
+161,Agility +16,agility-16,かしこさ+16,Raises agility by 16.,,,,,16,,
+211,Agility +2,agility-2,すばやさ+2,Raises agility by 2.,,,,,2,,
+206,Agility +20,agility-20,すばやさ+20,Raises agility by 20.,,,,,20,,
+162,Agility +24,agility-24,すばやさ+24,Raises agility by 24.,,,,,24,,
+213,Agility +30,agility-30,すばやさ+30,Raises agility by 30.,,,,,30,,
+163,Agility +32,agility-32,,Raises agility by 32.,,,,,32,,
+214,Agility +36,agility-36,すばやさ+36,Raises agility by 36.,,,,,36,,
+158,Agility +4,agility-4,すばやさ+4,Raises agility by 4.,,,,,4,,
+164,Agility +40,agility-40,,Raises agility by 40.,,,,,40,,
+165,Agility +48,agility-48,すばやさ+48,Raises agility by 48.,,,,,48,,
+166,Agility +64,agility-64,,Raises agility by 64.,,,,,64,,
+159,Agility +8,agility-8,すばやさ+8,Raises agility by 8.,,,,,8,,
+185,Antitoxidant,antitoxidant,,Slightly increases resistance to poison and severe poison.,,,,,,,Increases resistance by 10%.
+142,Attack +12,attack-12,攻撃力+12,Raises attack by 12.,,,12,,,,
+143,Attack +16,attack-16,攻撃力+16,Raises attack by 16.,,,16,,,,
+226,Attack +2,attack-2,攻撃力+2,Raises attack by 2.,,,2,,,,
+222,Attack +20,attack-20,攻撃力+20,Raises attack by 20.,,,20,,,,
+144,Attack +24,attack-24,攻撃力+24,Raises attack by 24.,,,24,,,,
+228,Attack +30,attack-30,攻撃力+30,Raises attack by 30.,,,30,,,,
+145,Attack +32,attack-32,,Raises attack by 32.,,,32,,,,
+229,Attack +36,attack-36,攻撃力+36,Raises attack by 36.,,,36,,,,
+140,Attack +4,attack-4,攻撃力+4,Raises attack by 4.,,,4,,,,
+146,Attack +40,attack-40,,Raises attack by 40.,,,40,,,,
+147,Attack +48,attack-48,攻撃力+48,Raises attack by 48,,,48,,,,
+148,Attack +64,attack-64,,Raises attack by 64.,,,64,,,,
+141,Attack +8,attack-8,攻撃力+8,Raises attack by 8.,,,8,,,,
+93,Attacking Impulse,attacking-impulse,とうそうほんのう,Increases damage inflicted when HP drop to 1/2.,,,,,,,
+50,Auto-Cadabra,auto-cadabra,自動ＭＰ回復,Restores a small amount of MP after each action.,,,,,,,
+49,Auto-Restora,auto-restora,自動ＨＰ回復,Restores a small amount of HP after each action.,,,,,,,
+247,Bang Ward,bang-ward,,Slightly increases resistance to explosion attacks.,,,,,,,Increases resistance by 10%.
+26,Bangmeister,bangmeister,爆発のコツ,Increases the potency of explosion attacks and decreases their MP consumption.,,,,,,,Increases damage by 15%.
+52,Beastsbane,beastsbane,魔獣キラー,Increases damage inflicted on monsters from the beast family and slightly lowers all resistances.,,,,,,,Increases damage by 100%. Lowers all resistances by 5%.
+88,Benefaction,benefaction,最後の息吹,"Massively increases the attack, defence, agility and wisdom of allies when a killer blow is received.",,,,,,,
+73,Big Bully,big-bully,ラージキラー,Increases damage inflicted on L-size monsters,,,,,,,Increases damage by 20%.
+82,Bigger Upper,bigger-upper,おだてじょうず,"Extends the duration of skills that raise the strength, defence, agility or wisdom of allies to 5 turns. In addtion, randomly grants invincibility, the ability to reflect spells or breath attacks, or raises evasion.",,,,,,,
+243,Bossesbane,bossesbane,？？？キラー,Increases damage inflicted on monsters from the ??? family and slightly lowers all resistances.,,,,,,,Increases damage by 100%. Lowers all resistances by 5%.
+51,Castslasher,castslasher,消費MP半分,Reduces MP consumption by 1/2.,,,,,,,
+189,Clear Thinker,clear-thinker,,Slightly increases resistance to confusion.,,,,,,,Increases resistance by 10%.
+84,Close Scraper,close-scraper,くじけぬ心,Sometimes allows the monster to survive at 1 HP after suffering an attack that would otherwise kill it.,,,,,,,
+97,Collective Punishment,collective-punishment,全体攻撃,Attacks that do more damage as the attack attribute increases will strike all enemies insetead of a single target.,,,,,,,
+65,Confusing Touch,confusing-touch,こんらん攻撃,Regular attacks sometimes confuse the enemy.,,,,,,,
+244,Crack Ward,crack-ward,,Slightly increases resistance to ice-elemental attacks.,,,,,,,Increases resistance by 10%.
+27,Crackmeister,crackmeister,氷結のコツ,Increases the potency of ice-elemental attacks and decreases their MP consumption.,,,,,,,Increases damage by 15%.
+248,Crafty Banger,crafty-banger,,Slightly increases the damage inflicted by explosion attacks.,,,,,,,Reduces enemy resistance by 10%.
+245,Crafty Cracker,crafty-cracker,,Slightly increases the damage inflicted by ice-elemental attacks.,,,,,,,Reduces enemy resistance by 10%.
+258,Crafty Cragger,crafty-cragger,,Slightly increases the damage inflicted by earth-elemental attacks.,,,,,,,Reduces enemy resistance by 10%.
+121,Crafty Devil,crafty-devil,全ガードブレイク,Makes it moderately easier to inflict status ailments on the enemy.,,,,,,,Reduces enemy resistance by 25%.
+255,Crafty Frizzer,crafty-frizzer,,Slightly increases the damage inflicted by fire-elemental attacks.,,,,,,,Reduces enemy resistance by 10%.
+256,Crafty Sizzer,crafty-sizzer,,Slightly increases the damage inflicted by light-elemental attacks.,,,,,,,Reduces enemy resistance by 10%.
+254,Crafty Splasher,crafty-spalsher,,Slightly increases the damage inflicted by water-elemental attacks.,,,,,,,Reduces enemy resistance by 10%.
+261,Crafty Woosher,,,Slightly increases the damage inflicted by wind-elemental attacks.,,,,,,,Reduces enemy resistance by 10%.
+250,Crafty Zammer,crafty-zammer,,Slightly increases the damage inflicted by dark-elemental attacks.,,,,,,,Reduces enemy resistance by 10%.
+259,Crafty Zapper,crafty-zapper,,Slightly increases the damage inflicted by electrical attacks.,,,,,,,Reduces enemy resistance by 10%.
+257,Crag Ward,crag-ward,,Slightly increases resistance to earth-elemental attacks.,,,,,,,Increases resistance by 10%.
+25,Cragmeister,cragmeister,地のコツ,Increases the potency of earth-elemental attacks and decreases their MP consumption.,,,,,,,Increases damage by 15%.
+238,Critical Mastermind,critical-mastermind,超魔力暴走率アップ,Makes it much easier to cast critical spells.,,,,,,,
+45,Critical Moment,critical-moment,ピンチで会心,"Makes it easier to inflict critical hits when HP drops to 1/2, and even more so when HP drops to 1/4.",,,,,,,
+44,Critical Sensation,critical-sensation,超会心率アップ,Makes it much easier to inflict critical hits.,,,,,,,
+46,Critical Theorist,critical-theorist,魔力暴走率アップ大,Makes it somewhat easier to cast critical spells.,,,,,,,
+43,Critical Triumph,critical-triumph,会心率アップ大,Makes it somewhat easier to inflict critical hits.,,,,,,,
+67,Deadly Touch,deadly-touch,ザキ攻撃,Regular attacks sometimes kill the enemy instantly.,,,,,,,
+195,Death Defier,death-defier,,Slightly increases resistance to instant death.,,,,,,,Increases resistance by 10%.
+230,Decontaminate,decontaminate,医術士,"Sometimes cures allies of sleep, confusion, poison, severe poison, and paralysis durin battle.",,,,,,,
+151,Defence +12,defence-12,,Raises defence by 12.,,,,12,,,
+152,Defence +16,defence-16,守備力+16,Raises defence by 16.,,,,16,,,
+153,Defence +24,defence-24,守備力アップ+24,Raises defence by 24.,,,,24,,,
+154,Defence +32,defence-32,守備力アップ+32,Raises defence by 32.,,,,32,,,
+149,Defence +4,defence-4,守備力アップ+4,Raises defence by 4.,,,,4,,,
+155,Defence +40,defence-40,守備力+40,Raises defence by 40.,,,,40,,,
+156,Defence +48,defence-48,守備力アップ+48,Raises defence by 48.,,,,48,,,
+215,Defence +60,defence-60,守備力アップ+60,Raises defence by 60.,,,,60,,,
+157,Defence +64,defence-64,,Raises defence by 64.,,,,64,,,
+216,Defence +72,defence-72,守備力アップ+72,Raises defence by 72.,,,,72,,,
+150,Defence +8,defence-8,守備力+8,Raises defence by 8.,,,,8,,,
+217,Defence +96,defence-96,守備力アップ+96,Raises defence by 96.,,,,96,,,
+94,Defensive Impulse,defensive-impulse,ぼうえいほんのう,Reduces damage received when HP drop to 1/2.,,,,,,,
+240,Demonsbane,demonsbane,悪魔キラー,Increases damage inflicted on monsters from the demon family and slightly lowers all resistances.,,,,,,,Increases damage by 100%. Lowers all resistances by 5%.
+48,Desperate Measures,desperate-measures,会心かんぜんガード,Negates all damage suffered from critical hits and critical spells.,,,,,,,
+81,Detox,detox,セラピー,"Sometimes cures allies of poison, severe poison and paralysis during battle.",,,,,,,
+42,Dodge Denier,dodge-denier,みかわし無効,Ensures the enemy cannot avoid attacks.,,,,,,,
+59,Dragonsbane,dragonsbane,ドラゴンキラー,Increases damage inflicted on monsters from the dragon family and slightly lowers all resistances.,,,,,,,Increases damage by 100%. Lowers all resistances by 5%.
+203,Drain Blocker,drain-blocker,,Slightly increases resistance to MP absorption.,,,,,,,Increases resistance by 10%.
+99,Echonomist,echonomist,やまびこ,Sometimes casts the same spell twice. Consumes slightly more MP than usual.,,,,,,,
+95,Evasive Impulse,evasive-impulse,かいひほんのう,Sometimes increases evasion and greatly increases agility during battle when HP has dropped to 1/2. Only activates once per battle.,,,,,,,
+193,Fidget,fidget,,Slightly increases resistance to paralysis.,,,,,,,Increases resistance by 10%.
+246,Frizz Ward,frizz-ward,,Slightly increases resistance to fire-elemental attacks.,,,,,,,Increases resistance by 10%.
+22,Frizzmeister,frizzmeister,火のコツ,Increases the potency of fire-elemental attacks and decreases their MP consumption.,,,,,,,Increases damage by 15%.
+188,Granite Chin,granite-chin,,Slightly increases resistance to being stunned.,,,,,,,Increases resistance by 10%.
+31,Health Professional,health-professional,回復のコツ,Increases the potency of healing skills and decreases their MP consumption.,,,,,,,Increases healing by 25%.
+233,Heaven-Sent,heaven-sent,星のおくりもの,"Sometimes greatly increases attack, defense, agility or wisdom during battle.",,,,,,,
+19,High Heal,high-heal,癒しの大力,Sometimes restores 80 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerfull.,,,,,,,
+236,Hothead,hothead,バースト確率アップ,"Makes it easier to activate a frenzied state, turning the monster into a formidable fighting force.",,,,,,,
+34,Infected Skin,infected-skin,どくどくボディ,Sometimes poisons enemies that inflict indirect attacks.,,,,,,,
+38,Insensitive Skin,insensitive-skin,ビリビリボディ,Sometimes paralyses enemies that inflict direct attacks.,,,,,,,
+191,Insomniac,insomniac,,Slightly increases resistance to being put to sleep.,,,,,,,Increases resistance by 10%.
+7,Insta-Accel,insta-accel,いきなりピオラ,Monster sometimes casts Accelerate on itself at the start of battle.,,,,,,,
+9,Insta-Bounce,insta-bounce,いきなりマホカンタ,Monster sometimes casts Bounce on itself at the start of battle.,,,,,,,
+6,Insta-Buff,insta-buff,いきなりスカラ,Monster sometimes casts Buff on itself at the start of battle.,,,,,,,
+5,Insta-Oomph,insta-oomph,いきなりバイキルト,Monster sometimes casts Oomph on itself at the start of battle.,,,,,,,
+8,Insta-Ping,insta-ping,いきなりインテ,Monster sometimes casts Ping on itself at the start of battle.,,,,,,,
+74,Insult to Injury,insult-to-injury,おいうち,"Increases damage inflicted on enemies that are poisoned, severely poisoned, stunned, asleep, confused or paralysed.",,,,,,,
+75,Intimidating,intimidating,プレッシャー,Sometimes stuns the enemy during battle for 1 turn.,,,,,,,
+21,Last Gasp,last-gasp,ふっかつの祈り,Revives a single ally after it falls in battle. Only works once per battle.,,,,,,,
+85,Last Legs,last-legs,ラストスタンド,Allows the montser to survive at 1 HP after suffering an attack that would otherwise kill it.,,,,,,,
+90,Late Bloomer,late-bloomer,秘めたるチカラ,"Increases attack, defence, agility and wisdom from round 3 onwards, and even more so from round 6.",,,,,,,
+72,Little Menace,little-menace,スモールキラー,Increases damage inflicted on S-size monsters.,,,,,,,Increases damage by 20%.
+18,Low Heal,low-heal,癒しの力,Sometimes restores 30 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerfull.,,,,,,,
+47,Magical Moment,magical-moment,ピンチで魔力暴走,"Makes it easier to inflict cast critical spells when HP drops to 1/2, and even more so when HP drops to 1/4.",,,,,,,
+83,Major Downer,major-downer,いやがらせ,"Extends the duration of skills that lower the strength, defence, agility or wisdom of enemies to 5 turns. In addition, randomly prevents breath attacks, critical hits or the casting of magic, or bedazzles the enemy.",,,,,,,
+54,Matterbane,matterbane,物質キラー,Increases damage inflicted on monsters from the material family and slightly lowers all resistances.,,,,,,,Increases damage by 100%. Lowers all resistances by 5%.
+124,Max. HP +12,max-hp-12,最大HP+12,Raises max. HP by 12.,12,,,,,,
+125,Max. HP +16,max-hp-16,最大HP+16,Raises max. HP by 16.,16,,,,,,
+220,Max. HP +2,max-hp-2,最大HP+2,Raises max. HP by 2.,2,,,,,,
+209,Max. HP +20,max-hp-20,最大HP+20,Raises max. HP by 20.,20,,,,,,
+126,Max. HP +24,max-hp-24,最大HP+24,Raises max. HP by 24.,24,,,,,,
+221,Max. HP +30,max-hp-30,最大HP+30,Raises max. HP by 30.,30,,,,,,
+127,Max. HP +32,max-hp-32,,Raises max. HP by 32.,32,,,,,,
+210,Max. HP +36,max-hp-36,最大HP+36,Raises max. HP by 36.,36,,,,,,
+122,Max. HP +4,max-hp-4,最大HP+4,Raises max. HP by 4.,4,,,,,,
+128,Max. HP +40,max-hp-40,,Raises max. HP by 40.,40,,,,,,
+129,Max. HP +48,max-hp-48,最大HP+48,Raises max. HP by 48.,48,,,,,,
+130,Max. HP +64,max-hp-64,,Raises max. HP by 64.,64,,,,,,
+123,Max. HP +8,max-hp-8,最大HP+8,Raises max. HP by 8.,8,,,,,,
+133,Max. MP +12,max-mp-12,,Raises max. MP by 12.,,12,,,,,
+134,Max. MP +16,max-mp-16,最大MP+16,Raises max. MP by 16.,,16,,,,,
+207,Max. MP +20,max-mp-20,,Raises max. MP by 20.,,20,,,,,
+135,Max. MP +24,max-mp-24,最大MP+24,Raises max. MP by 24.,,24,,,,,
+136,Max. MP +32,max-mp-32,最大MP+32,Raises max. MP by 32.,,32,,,,,
+131,Max. MP +4,max-mp-4,最大MP+4,Raises max. MP by 4.,,4,,,,,
+137,Max. MP +40,max-mp-40,最大MP+40,Raises max. MP by 40.,,40,,,,,
+138,Max. MP +48,max-mp-48,最大MP+48,Raises max. MP by 48.,,48,,,,,
+218,Max. MP +60,max-mp-60,最大MP+60,Raises max. MP by 60.,,60,,,,,
+139,Max. MP +64,max-mp-64,最大MP+8,Raises max. MP by 64.,,64,,,,,
+208,Max. MP +72,max-mp-72,最大MP+72,Raises max. MP by 72.,,72,,,,,
+132,Max. MP +8,max-mp-8,最大MP+8,Raises max. MP by 8.,,8,,,,,
+219,Max. MP +96,max-mp-96,最大MP+96,Raises max. MP by 96.,,96,,,,,
+70,Metal Beater,metal-beater,メタルハンター,Inflicts additional damage on enemies. A higher level increases the effect. Works on enemies with the Metal Skin trait.,,,,,,,
+71,Metal Medley,metal-medley,メタルキラー,Ignores the damage-reducing effect that the Metal Skin trait provides.,,,,,,,
+239,Metal Skin,metal-skin,メタルボディ,"Reduces damage received by 1/3, but doubles the MP consumption of spells and abiltiies.",,,,,,,This also reduces the effective base HP to 1/3 as well. The true max value is reflected on the site.
+68,Miraculous Touch,miraculous-touch,ミラクル攻撃,Regular attacks restore 1/2 of the damage they inflict on the enemy as HP.,,,,,,,
+92,Naked Ambition,naked-ambition,徒手空拳,Increases the likelihood of critical hits and critical spells if no accessory is equipped.,,,,,,,
+58,Naturesbane,naturesbane,自然キラー,Increases damage inflicted on monsters from the nature family and slightly lowers all resistances.,,,,,,,Increases damage by 100%. Lowers all resistances by 5%.
+66,Paralysing Touch,paralysing-touch,マヒ攻撃,Regular attacks sometimes paralyse the enemy.,,,,,,,
+87,Parting Gift,parting-gift,最後のあがき,Inflicts damage back on all enemies when a killer blow is received. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero.,,,,,,,
+98,Personal Grudge,personal-grudge,根に持つタイプ,"Greatly decreases the attack, defence, agility and wisdom of an enemy that lands a killer blow, and stuns them for the next turn.",,,,,,,
+62,Poisonous Touch,poisonous-touch,どく攻撃,Regular attacks sometimes poison the enemy.,,,,,,,
+12,Rando-Accel,rando-accel,ときどきピオラ,Monster sometimes uses Accelerate on itself during battle.,,,,,,,
+11,Rando-Buff,rando-buff,ときどきスカラ,Monster sometimes uses Buff on itself during battle.,,,,,,,
+234,Rando-Disrupt,rando-disrupt,いてつくはどう,Sometimes uses Disruptive Wave during battle.,,,,,,,
+14,Rando-Mister,rando-mister,ときどきまもりの霧,Monster sometimes uses Mist Me on itself during battle.,,,,,,,
+17,Rando-Muster,rando-muster,ちからため,Sometimes uses Muster Strength during battle.,,,,,,,
+10,Rando-Oomph,rando-oomph,ときどきバイキルト,Monster sometimes uses Oomph on itself during battle.,,,,,,,
+16,Rando-Panic,rando-panic,やみのはどう,Sometimes uses Wave of Panic during battle.,,,,,,,
+13,Rando-Ping,rando-ping,ときどきインテ,Sometimes uses Ping on itself during battle.,,,,,,,
+15,Rando-Relief,rando-relief,ひかりのはどう,Sometimes uses Wave of Relief during battle.,,,,,,,
+251,Sizz Ward,sizz-ward,,Slightly increases resistance to light-elemental attacks.,,,,,,,Increases resistance by 10%.
+29,Sizzmeister,sizzmeister,光のコツ,Increases the potency of light-elemental attacks and decreases their MP consumption.,,,,,,,Increases damage by 15%.
+78,Sleep Twitch,sleep-twitch,ねがえり,Attacks all enemies when the monster is asleep.,,,,,,,
+64,Sleepy Touch,sleepy-touch,ねむり攻撃,Regular attacks sometimes put the enemy to sleep.,,,,,,,
+32,Slick Skin,slick-skin,ギャンブルボディ,Sometimes causes incoming direct attacks to miss.,,,,,,,
+241,Slimesbane,slimesbane,スライムキラー,Increases damage inflicted on monsters from the slime family and slightly lowers all resistances.,,,,,,,Increases damage by 100%. Lowers all resistances by 5%.
+86,Snappy Comeback,snappy-comeback,わるあがき,Inflicts damage back on an enemy that lands a killer blow. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero.,,,,,,,
+80,Sobering Slap,sobering-slap,ツッコミ,Sometimes cures allies of sleep and confusion during battle.,,,,,,,
+36,Somnolent Skin,somnolent-skin,スヤスヤボディ,Sometimes puts enemies that inflect direct attacks to sleep.,,,,,,,
+201,Spellbinder,spellbinder,,Slightly increases resistance to antimagic.,,,,,,,Increases resistance by 10%.
+33,Spiky Skin,spiky-skin,やいばのボディ,Returns 1/4 of the damage suffered from direct attacks back at the attacking enemy.,,,,,,,
+253,Splish Ward,splish-wrd,,Slightly increases resistance to water-elemental attacks.,,,,,,,Increases resistance by 10%.
+23,Splishmeister,splishmeister,水のコツ,Increases the potency of water-elemental attacks and decreases their MP consumption.,,,,,,,Increases damage by 15%.
+39,Spongy Skin,spongy-skin,マホキテボディ,Sometimes absorbs MP from enemies that inflict direct attacks.,,,,,,,
+79,Static Discharge,static-discharge,たいでんたいしつ,Sometimes paralyses enemies that inflict direct attacks when the monster is paralysed itself.,,,,,,,
+76,Strangely Alluring,strangely-alluring,ラブリー,Sometimes stuns the enemy during battle for 1 turn.,,,,,,,
+89,Strong Starter,strong-starter,ロケットスタート,"Raises damage inflicted on enemies up to round 3, but lowers it from round 4 onwards.",,,,,,,
+35,Stunning Skin,stunning-skin,ヘロヘロボディ,Sometimes stuns enemies that inflict direct attacks for 1 turn.,,,,,,,
+63,Stunning Touch,stunning-touch,ショック攻撃,Regular attacks sometimes stun the enemy for 1 turn.,,,,,,,
+37,Stupefying Skin,stupefying-skin,ぐるぐるボディ,Sometimes confuses enemies that inflict direct attacks.,,,,,,,
+41,Supreme Sidestepper,supreme-sidestepper,超みかわしアップ,Makes it much easier to avoid enemy attacks.,,,,,,,
+2,Tactical Commander,tactical-commander,2回行動,Performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes.,,,,,,,Reduces all stats by 20%.
+3,Tactical Genius,tactical-genius,1〜3回行動,Sometimes performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes.,,,,,,,Reduces all stats by 20%. Attacks 1 to 3 times.
+4,Tactical Titan,tactical-titan,2〜3回行動,Performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Lowers the monster's attribute.,,,,,,,Reduces all stats by 30%.
+1,Tactical Trooper,tactical-trooper,1〜2回行動,Sometimes performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Very slightly lowers the monster's attributes.,,,,,,,"Reduces all stats by 10%. Attacks 1 to 2 times. "
+91,Tit for Tat,tit-for-tat,しっぺがえし,"When a monster is inflicted with a status ailment, the attacking enemy will have the same ailment inflicted back on them.",,,,,,,
+197,Tough Customer,tough-customer,,Slightly increases resistance to debilitation.,,,,,,,Increases resistance by 10%.
+101,Trance State,trance-state,マジシャンズハイ,Greatly increases wisdom after casting a critical spell.,,,,,,,
+56,Über Beastsbane,uber-beastsbane,超魔獣キラー,Greatly increases damage inflicted on monsters from the beast family and somewhat lowers all resistances.,,,,,,,Increases damage by 200%. Lowers all resistances by 10%.
+231,Über Bossesbane,uber-bossesbane,超？？？キラー,Greatly increases damage inflicted on monsters from the ??? family and somewhat lowers all resistances.,,,,,,,Increases damage by 200%. Lowers all resistances by 10%.
+242,Über Demonsbane,uber-demonsbane,超悪魔キラー,Greatly increases damage inflicted on monsters from the demon family and somewhat lowers all resistances.,,,,,,,Increases damage by 200%. Lowers all resistances by 10%.
+55,Über Dragonsbane,uber-dragonsbane,超ドラゴンキラー,Greatly increases damage inflicted on monsters from the dragon family and somewhat lowers all resistances.,,,,,,,Increases damage by 200%. Lowers all resistances by 10%.
+61,Über Matterbane,uber-matterbane,超物質キラー,Greatly increases damage inflicted on monsters from the material family and somewhat lowers all resistances.,,,,,,,Increases damage by 200%. Lowers all resistances by 10%.
+57,Über Naturesbane,uber-naturesbane,超自然キラー,Greatly increases damage inflicted on monsters from the nature family and somewhat lowers all resistances.,,,,,,,Increases damage by 200%. Lowers all resistances by 10%.
+232,Über Slimesbane,ubber-slimesbane,超スライムキラー,Greatly increases damage inflicted on monsters from the slime family and somewhat lowers all resistances.,,,,,,,Increases damage by 200%. Lowers all resistances by 10%.
+60,Über Zombiesbane,uber-zombiesbane,超ゾンビキラー,Greatly increases damage inflicted on monsters from the undead family and somewhat lowers all resistances.,,,,,,,Increases damage by 200%. Lowers all resistances by 10%.
+186,Ultra Antitoxidant,ultra-antitoxidant,どくガード大,Greatly increases resistance to poison and severe poison.,,,,,,,Increases resistance by 50%.
+180,Ultra Bang Ward,ultra-bang-ward,爆発ガード大,Greatly increases resistance to explosive attacks.,,,,,,,Increases resistance by 50%.
+190,Ultra Clear Thinker,ultra-clear-thinker,こんらんガード大,Greatly increases resistance to confusion.,,,,,,,Increases resistance by 50%.
+181,Ultra Crack Ward,ultra-crack-ward,氷結ガード大,Greatly increases resistance to ice-elemental attacks.,,,,,,,Increases resistance by 50%.
+106,Ultra Crafty Banger,ultra-crafty-banger,爆発ブレイク大,Greatly increases the damage inflicted by explosive attacks.,,,,,,,Reduces enemy resistance by 50%.
+115,Ultra Crafty Confuser,ultra-crafty-confuser,こんらんブレイク大,Makes it much easier to confuse the enemy.,,,,,,,Reduces enemy resistance by 50%.
+107,Ultra Crafty Cracker,ultra-crafty-cracker,氷結ブレイク大,Greatly increases the damage inflicted by ice-elemental attacks.,,,,,,,Reduces enemy resistance by 50%.
+105,Ultra Crafty Cragger,ultra-crafty-cragger,地ブレイク大,Greatly increases the damage inflicted by earth-elemental attacks.,,,,,,,Reduces enemy resistance by 50%.
+112,Ultra Crafty Dazzler,ultra-crafty-dazzler,幻惑ブレイク大,Makes it much easier to bedazzle the enemy.,,,,,,,Reduces enemy resistance by 50%.
+111,Ultra Crafty Debilitator,ultra-crafty-debilitator,弱体化ブレイク大,"Makes it much easier to reduce an enemy's attack, defence, agility or wisdom.",,,,,,,Reduces enemy resistance by 50%.
+102,Ultra Crafty Frizzer,ultra-crafty-frizzer,火ブレイク大,Greatly increases the damage inflicted by fire-elemental attacks.,,,,,,,Reduces enemy resistance by 50%.
+114,Ultra Crafty Magic Drainer,ultra-crafty-magic-drainer,MP吸収ブレイク大,Makes it much easier to absorb MP.,,,,,,,Reduces enemy resistance by 50%.
+117,Ultra Crafty Paralyser,ultra-crafty-paralyser,マヒブレイク大,Makes it much easier to paralyse the enemy.,,,,,,,Reduces enemy resistance by 50%.
+119,Ultra Crafty Poisoner,ultra-crafty-poisoner,どくブレイク大,Makes it much easier to poison or severely poison the enemy.,,,,,,,Reduces enemy resistance by 50%.
+109,Ultra Crafty Sizzer,ultra-crafty-sizzer,光ブレイク大,Greatly increases the damage inflicted by light-elemental attacks.,,,,,,,Reduces enemy resistance by 50%.
+116,Ultra Crafty Sleeper,ultra-crafty-sleeper,ねむりブレイク大,Makes it much easier to put the enemy to sleep.,,,,,,,Reduces enemy resistance by 50%.
+113,Ultra Crafty Spellbinder,ultra-crafty-spellbinder,封じブレイク大,Makes it much easier to prevent spellcasting.,,,,,,,Reduces enemy resistance by 50%.
+103,Ultra Crafty Splasher,ultra-crafty-splasher,水ブレイク大,Greatly increases the damage inflicted by water-elemental attacks.,,,,,,,Reduces enemy resistance by 50%.
+118,Ultra Crafty Stunner,ultra-crafty-stunner,休みブレイク大,Makes it much easier to stun the enemy.,,,,,,,Reduces enemy resistance by 50%.
+120,Ultra Crafty Whacker,ultra-crafty-whacker,即死ブレイク大,Makes it much easier to kill the enemy instantly.,,,,,,,Reduces enemy resistance by 50%.
+104,Ultra Crafty Woosher,ultra-crafty-woosher,風ブレイク大,Greatly increases the damage inflicted by wind-elemental attacks.,,,,,,,Reduces enemy resistance by 50%.
+110,Ultra Crafty Zammer,ultra-crafty-zammer,闇ブレイク大,Greatly increases the damage inflicted by dark-elemental attacks.,,,,,,,Reduces enemy resistance by 50%.
+108,Ultra Crafty Zapper,ultra-crafty-zapper,電撃ブレイク大,Greatly increases the damage inflicted by electrical attacks.,,,,,,,Reduces enemy resistance by 50%.
+179,Ultra Crag Ward,ultra-crag-ward,地ガード大,Greatly increases resistance to earth-elemental attacks.,,,,,,,Increases resistance by 50%.
+196,Ultra Death Defier,ultra-death-defier,即死ガード大,Greatly increases resistance to instant death.,,,,,,,Increases resistance by 50%.
+204,Ultra Drain Blocker,ultra-drain-blocker,MP吸収ガード大,Greatly increases resistance to MP absorption.,,,,,,,Increases resistance by 50%.
+194,Ultra Fidget,ultra-fidget,マヒガード大,Greatly increases resistance to paralysis.,,,,,,,Increases resistance by 50%.
+176,Ultra Frizz Ward,ultra-frizz-ward,火ガード大,Greatly increases resistance to fire-elemental attacks.,,,,,,,Increases resistance by 50%.
+187,Ultra Granite Chin,ultra-granite-chin,休みガード大,Greatly increases resistance to being stunned.,,,,,,,Increases resistance by 50%.
+192,Ultra Insomniac,ultra-insomniac,ねむりガード大,Greatly increases resistance to being put to sleep.,,,,,,,Increases resistance by 50%.
+183,Ultra Sizz Ward,ultra-sizz-ward,光ガード大,Greatly increases resistance to light-elemental attacks.,,,,,,,Increases resistance by 50%.
+202,Ultra Spellbinder,ultra-spellbinder,封じガード大,Greatly increases resistance to antimagic.,,,,,,,Increases resistance by 50%.
+177,Ultra Splish Ward,ultra-splish-ward,水ガード大,Greatly increases resistance to water-elemental attacks.,,,,,,,Increases resistance by 50%.
+198,Ultra Tough Customer,ultra-tough-customer,弱体化ガード大,Greatly increases resistance to debilitation.,,,,,,,Increases resistance by 50%.
+200,Ultra Visionary,ultra-visionary,幻惑ガード大,Greatly increases resistance to bedazzlement.,,,,,,,Increases resistance by 50%.
+178,Ultra Woosh Ward,ultra-woosh-ward,風ガード大,Greatly increases resistance to wind-elemental attacks.,,,,,,,Increases resistance by 50%.
+184,Ultra Zam Ward,ultra-zam-ward,闇ガード大,Greatly increases resistance to dark-elemental attacks.,,,,,,,Increases resistance by 50%.
+182,Ultra Zap Ward,ultra-zap-ward,電撃ガード大,Greatly increases resistance to electrical attacks.,,,,,,,Increases resistance by 50%.
+96,Unhealthy Advantage,unhealthy-advantage,背水の陣,Inflicts increasing amounts of damage as remaining HP gets lower.,,,,,,,
+199,Visionary,visionary,,Slightly increases resistance to bedazzlement.,,,,,,,Increases resistance by 10%.
+169,Wisdom +12,wisdom-12,,Raises wisdom by 12.,,,,,,12,
+170,Wisdom +16,wisdom-16,かしこさ+16,Raises wisdom by 16.,,,,,,16,
+171,Wisdom +24,wisdom-24,かしこさ+24,Raises wisdom by 24.,,,,,,24,
+172,Wisdom +32,wisdom-32,かしこさ+32,Raises wisdom by 32.,,,,,,32,
+167,Wisdom +4,wisdom-4,かしこさ+4,Raises wisdom by 4.,,,,,,4,
+173,Wisdom +40,wisdom-40,かしこさ+40,Raises wisdom by 40.,,,,,,40,
+174,Wisdom +48,wisdom-48,かしこさ+48,Raises wisdom by 48.,,,,,,48,
+223,Wisdom +60,wisdom-60,かしこさ+60,Raises wisdom by 60.,,,,,,60,
+175,Wisdom +64,wisdom-64,,Raises wisdom by 64.,,,,,,64,
+224,Wisdom +72,wisdom-72,かしこさ+72,Raises wisdom by 72.,,,,,,72,
+168,Wisdom +8,wisdom-8,かしこさ+8,Raises wisdom by 8.,,,,,,8,
+225,Wisdom +96,wisdom-96,かしこさ+96,Raises wisdom by 96.,,,,,,96,
+205,Wizardly Waft,wizardly-waft,魔力の風,Sometimes restores 1 or more MP to all allies during battle. A higher level increases the restored amount.,,,,,,,
+20,Wizardly Wind,wizardly-wind,魔力の強風,Sometimes restores 5 or more MP to all allies during battle. Higher wisdom makes the healing effect more powerfull.,,,,,,,
+260,Woosh Ward,woosh-ward,,Slightly increases resistance to wind-elemental attacks.,,,,,,,Increases resistance by 10%.
+24,Wooshmeister,wooshmeister,風のコツ,Increases the potency of wind-elemental attacks and decreases their MP consumption.,,,,,,,Increases damage by 15%.
+249,Zam Ward,zam-ward,,Slightly increases resistance to dark-elemental attacks.,,,,,,,Increases resistance by 10%.
+30,Zammeister,zammeister,闇のコツ,Increases the potency of dark-elemental attacks and decreases their MP consumption.,,,,,,,Increases damage by 15%.
+252,Zap Ward,zap-ward,,Slightly increases resistance to electrical attacks.,,,,,,,Increases resistance by 10%.
+28,Zapmeister,zapmeister,電撃のコツ,Increases the potency of electrical attacks and decreases their MP consumption.,,,,,,,Increases damage by 15%.
+53,Zombiesbane,zombiesbane,ゾンビキラー,Increases damage inflicted on monsters from the undead family and slightly lowers all resistances.,,,,,,,Increases damage by 100%. Lowers all resistances by 5%.

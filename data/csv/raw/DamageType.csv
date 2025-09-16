@@ -1,0 +1,20 @@
+DamageTypeId,Name,Identifier,JapaneseName
+12,Antimagic,antimagic,封じ
+11,Bedazzlement,bedazzlement,幻惑
+14,Confusion,confusion,混乱
+9,Dark,dark,闇
+10,Debilitation,debilitation,弱体化
+4,Earth,earth,地
+7,Electricity,electricity,電撃
+5,Explosions,explosions,爆発
+1,Fire,fire,火
+6,Ice,ice,氷結
+19,Instant Death,instant-death,即死
+8,Light,light,光
+13,MP Absorption,mp-absorption,MP吸収
+16,Paralysis,paralysis,マヒ
+18,Poison,poison,毒
+15,Sleep,sleep,眠り
+17,Stun,stun,休み
+2,Water,water,水
+3,Wind,wind,風
