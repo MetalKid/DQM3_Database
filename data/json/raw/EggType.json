@@ -3,24 +3,45 @@
     "EggTypeId": 3,
     "Name": "Gold",
     "Identifier": "gold",
-    "JapaneseName": "金"
+    "JapaneseName": "金",
+    "LowerEchelonChance": 10.000,
+    "MiddleEchelonChance": 15.000,
+    "UpperEchelonChance": 30.000
   },
   {
     "EggTypeId": 4,
     "Name": "Rainbow",
     "Identifier": "rainbow",
-    "JapaneseName": "虹"
+    "JapaneseName": "虹",
+    "LowerEchelonChance": 3.000,
+    "MiddleEchelonChance": 5.000,
+    "UpperEchelonChance": 20.000
+  },
+  {
+    "EggTypeId": 5,
+    "Name": "Rainbow - Post Game Only",
+    "Identifier": "rainbowp",
+    "JapaneseName": "虹",
+    "LowerEchelonChance": 3.000,
+    "MiddleEchelonChance": 5.000,
+    "UpperEchelonChance": 20.000
   },
   {
     "EggTypeId": 2,
     "Name": "Silver",
     "Identifier": "silver",
-    "JapaneseName": "銀"
+    "JapaneseName": "銀",
+    "LowerEchelonChance": 27.000,
+    "MiddleEchelonChance": 40.000,
+    "UpperEchelonChance": 30.000
   },
   {
     "EggTypeId": 1,
     "Name": "White",
     "Identifier": "white",
-    "JapaneseName": "白"
+    "JapaneseName": "白",
+    "LowerEchelonChance": 60.000,
+    "MiddleEchelonChance": 40.000,
+    "UpperEchelonChance": 20.000
   }
 ]

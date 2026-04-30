@@ -340,7 +340,7 @@ MonsterId,FamilyId,RankId,Number,Name,JapaneseName,FrenchName,Identifier,HP,MP,A
 370,2,6,111,Mandrake Marshal,シュプリンガー,Général mandragor,mandrake-marshal,3,2,3,3,3,2,1340,390,580,530,490,480,,,
 391,3,4,174,Mangleclaw,スノーグリフォン,Serratoès,mangleclaw,2,4,2,1,4,3,1320,560,520,270,580,590,,,
 425,4,5,254,Maniacal Mole,キラーピッケル,Taupe-toc,maniacal-mole,2,1,3,3,4,1,1360,300,590,500,580,320,,,
-635,4,7,272,Marquis De Leon,キングレオ,Lord Lionel,marquis-de-leon,3,2,2,4,2,4,1360,320,520,560,450,640,,4,Only available in the post-game.
+635,4,7,272,Marquis De Leon,キングレオ,Lord Lionel,marquis-de-leon,3,2,2,4,2,4,1360,320,520,560,450,640,,5,Only available in the post-game.
 622,7,5,479,Marrow Escapee,ボーンプリズナー,Désosseur,marrow-escapee,3,1,3,2,2,2,1420,300,600,470,420,410,,,
 57,5,7,,Material Family (A),,,material-a,,,,,,,,,,,,,,,
 50,5,10,,Material Family (Any),,,material-any,,,,,,,,,,,,,,,

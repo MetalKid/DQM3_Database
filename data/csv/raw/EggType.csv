@@ -1,5 +1,6 @@
-EggTypeId,Name,Identifier,JapaneseName
-3,Gold,gold,金
-4,Rainbow,rainbow,虹
-2,Silver,silver,銀
-1,White,white,白
+EggTypeId,Name,Identifier,JapaneseName,LowerEchelonChance,MiddleEchelonChance,UpperEchelonChance
+3,Gold,gold,金,10.000,15.000,30.000
+4,Rainbow,rainbow,虹,3.000,5.000,20.000
+5,Rainbow - Post Game Only,rainbowp,虹,3.000,5.000,20.000
+2,Silver,silver,銀,27.000,40.000,30.000
+1,White,white,白,60.000,40.000,20.000
