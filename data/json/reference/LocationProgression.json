@@ -1,0 +1,212 @@
+[
+  {
+    "location": "Terrestria",
+    "unlock_order": 1,
+    "circle": null,
+    "echelon": null
+  },
+  {
+    "location": "Circle of Conquest - Lower Echelon",
+    "unlock_order": 2,
+    "circle": "Conquest",
+    "echelon": "Lower"
+  },
+  {
+    "location": "Circle of Temper - Lower Echelon",
+    "unlock_order": 3,
+    "circle": "Temper",
+    "echelon": "Lower"
+  },
+  {
+    "location": "Caverns of Conflagration",
+    "unlock_order": 4,
+    "circle": "Temper",
+    "echelon": "Lower"
+  },
+  {
+    "location": "Circle of Indulgence - Lower Echelon",
+    "unlock_order": 5,
+    "circle": "Indulgence",
+    "echelon": "Lower"
+  },
+  {
+    "location": "Hotcake Heap",
+    "unlock_order": 6,
+    "circle": "Indulgence",
+    "echelon": "Lower"
+  },
+  {
+    "location": "Circle of Caprice - Lower Echelon",
+    "unlock_order": 7,
+    "circle": "Caprice",
+    "echelon": "Lower"
+  },
+  {
+    "location": "Gleaming Grotto",
+    "unlock_order": 8,
+    "circle": "Caprice",
+    "echelon": "Lower"
+  },
+  {
+    "location": "Circle of Fortitude - Lower Echelon",
+    "unlock_order": 9,
+    "circle": "Fortitude",
+    "echelon": "Lower"
+  },
+  {
+    "location": "The Watchtower",
+    "unlock_order": 10,
+    "circle": "Fortitude",
+    "echelon": "Lower"
+  },
+  {
+    "location": "Cradle of Corruption - Lower Level",
+    "unlock_order": 11,
+    "circle": null,
+    "echelon": "Lower"
+  },
+  {
+    "location": "Circle of Fortitude - Middle Echelon",
+    "unlock_order": 12,
+    "circle": "Fortitude",
+    "echelon": "Middle"
+  },
+  {
+    "location": "Fort Nox",
+    "unlock_order": 13,
+    "circle": "Fortitude",
+    "echelon": "Middle"
+  },
+  {
+    "location": "Circle of Temper - Middle Echelon",
+    "unlock_order": 14,
+    "circle": "Temper",
+    "echelon": "Middle"
+  },
+  {
+    "location": "Sepulchre of Flames",
+    "unlock_order": 15,
+    "circle": "Temper",
+    "echelon": "Middle"
+  },
+  {
+    "location": "Circle of Indulgence - Middle Echelon",
+    "unlock_order": 16,
+    "circle": "Indulgence",
+    "echelon": "Middle"
+  },
+  {
+    "location": "Desserted Dungeon",
+    "unlock_order": 17,
+    "circle": "Indulgence",
+    "echelon": "Middle"
+  },
+  {
+    "location": "Circle of Caprice - Middle Echelon",
+    "unlock_order": 18,
+    "circle": "Caprice",
+    "echelon": "Middle"
+  },
+  {
+    "location": "House of Shifting Sands",
+    "unlock_order": 19,
+    "circle": "Caprice",
+    "echelon": "Middle"
+  },
+  {
+    "location": "Circle of Conquest - Middle Echelon",
+    "unlock_order": 20,
+    "circle": "Conquest",
+    "echelon": "Middle"
+  },
+  {
+    "location": "Grimglow Cave",
+    "unlock_order": 21,
+    "circle": "Conquest",
+    "echelon": "Middle"
+  },
+  {
+    "location": "Cradle of Corruption - Middle Level",
+    "unlock_order": 22,
+    "circle": null,
+    "echelon": "Middle"
+  },
+  {
+    "location": "Circle of Temper - Upper Echelon",
+    "unlock_order": 23,
+    "circle": "Temper",
+    "echelon": "Upper"
+  },
+  {
+    "location": "Dragonspate",
+    "unlock_order": 24,
+    "circle": "Temper",
+    "echelon": "Upper"
+  },
+  {
+    "location": "Circle of Indulgence - Upper Echelon",
+    "unlock_order": 25,
+    "circle": "Indulgence",
+    "echelon": "Upper"
+  },
+  {
+    "location": "Battenburg",
+    "unlock_order": 26,
+    "circle": "Indulgence",
+    "echelon": "Upper"
+  },
+  {
+    "location": "Circle of Fortitude - Upper Echelon",
+    "unlock_order": 27,
+    "circle": "Fortitude",
+    "echelon": "Upper"
+  },
+  {
+    "location": "Barbatos's Bastion",
+    "unlock_order": 28,
+    "circle": "Fortitude",
+    "echelon": "Upper"
+  },
+  {
+    "location": "Cradle of Corruption - Upper Level",
+    "unlock_order": 29,
+    "circle": null,
+    "echelon": "Upper"
+  },
+  {
+    "location": "Circle of Caprice - Upper Echelon",
+    "unlock_order": 30,
+    "circle": "Caprice",
+    "echelon": "Upper"
+  },
+  {
+    "location": "Aamon's Sanctum",
+    "unlock_order": 31,
+    "circle": "Caprice",
+    "echelon": "Upper"
+  },
+  {
+    "location": "Circle of Conquest - Upper Echelon",
+    "unlock_order": 32,
+    "circle": "Conquest",
+    "echelon": "Upper"
+  },
+  {
+    "location": "Conqueror's Keep",
+    "unlock_order": 33,
+    "circle": "Conquest",
+    "echelon": "Upper"
+  },
+  {
+    "location": "The Whispwoods",
+    "unlock_order": 34,
+    "circle": null,
+    "echelon": null
+  },
+  {
+    "location": "Terrestria - Forest",
+    "unlock_order": 35,
+    "circle": null,
+    "echelon": null
+  }
+]
