@@ -1,0 +1,470 @@
+Monster,MonsterIdentifier,Location,LocationIdentifier,Seasons,Weathers,MiniBoss
+Abominable Showman,abominable-showman,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Precipitation,False
+Abracadabrador,abracadabrador,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring,Sun,False
+Abracadabrador,abracadabrador,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring,Sun,False
+Abracadabrador,abracadabrador,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring,Sun,False
+Admirer,admirer,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Summer,Precipitation,False
+Airbagon,airbagon,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Spring|Summer|Winter,Precipitation,False
+Airbagon,airbagon,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Winter,Precipitation,False
+Airbagon,airbagon,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Winter,Precipitation,False
+Airbagon,airbagon,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Summer,Sun,False
+Airbagon,airbagon,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Summer,Sun,False
+Angel Slime,angel-slime,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Summer,Sun,False
+Antguzzler,antguzzler,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Winter,Sun,False
+Antguzzler,antguzzler,Terrestria,terrestria,Winter,Sun,False
+Archdemon,archdemon,Conqueror's Keep,conquerors-keep,Spring|Summer|Fall|Winter,Sun,False
+Armoured Scorpion,armoured-scorpion,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring|Summer|Fall|Winter,Sun,True
+Armoured Wartoise,armoured-wartoise,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Fall,Precipitation,False
+Armoured Wartoise,armoured-wartoise,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Fall,Precipitation,False
+Awebergine,awebergine,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Fall,Sun,False
+Bag o' Tricks,bag-o-tricks,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bag o' Tricks,bag-o-tricks,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bag o' Tricks,bag-o-tricks,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bag o' Tricks,bag-o-tricks,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bag o' Tricks,bag-o-tricks,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bag o' Tricks,bag-o-tricks,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bag o' Tricks,bag-o-tricks,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bag o' Tricks,bag-o-tricks,Grimglow Cave,grimglow-cave,Spring|Summer|Fall|Winter,Sun,False
+Bagworm,bagworm,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Fall,Sun,False
+Baleen Mage,baleen-mage,Aamon's Sanctum,aamons-sanctum,Spring|Summer|Fall|Winter,Sun,False
+Baleen Mage,baleen-mage,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bambooligan,bambooligan,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring,Sun,False
+Bantamweight,bantamweight,Terrestria,terrestria,Spring|Summer|Fall|Winter,Sun,False
+Beleth,beleth,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Beleth,beleth,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Beshemoth Slime,beshemoth-slime,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Fall,Sun,False
+Beshemoth Slime,beshemoth-slime,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Fall,Sun,False
+Blinkster,blinkster,Caverns of Conflagration,caverns-of-conflagration,Spring|Summer|Fall|Winter,Sun,False
+Blinkster,blinkster,Hotcake Heap,hotcake-heap,Spring|Summer|Fall|Winter,Sun,False
+Blinkster,blinkster,The Watchtower,the-watchtower,Spring|Summer|Fall|Winter,Sun,False
+Bloodbonnet,assassin-circle,Battenburg,battenburg,Spring|Summer|Fall|Winter,Sun,False
+Bodkin Fletcher,bodkin-fletcher,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bodkin Fletcher,bodkin-fletcher,Grimglow Cave,grimglow-cave,Spring|Summer|Fall|Winter,Sun,False
+Bone Idol,bone-idol,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Fall,Sun,False
+Bone Idol,bone-idol,Dragonspate,dragonspate,Spring|Summer|Fall|Winter,Sun,False
+Bongo Drongo,bongo-drongo,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Winter,Precipitation,False
+Bongo Drongo,bongo-drongo,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Winter,Precipitation,False
+Bongo Drongo,bongo-drongo,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Briny Bronco,briny-bronco,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Brollygagger,brollygagger,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Fall,Precipitation,False
+Brollygagger,brollygagger,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Fall,Precipitation,False
+Brownie,brownie,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Brownie,brownie,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Brownie,brownie,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bubble Slime,bubble-slime,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Summer,Precipitation,False
+Bubble Slime,bubble-slime,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Summer,Precipitation,False
+Bunicorn,bunicorn,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bunicorn,bunicorn,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Bunicorn,bunicorn,Terrestria,terrestria,Spring|Summer|Fall|Winter,Sun,False
+Cactiball,cactiball,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Calypso King,calypso-king,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Summer,Sun,False
+Calypso King,calypso-king,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Summer,Sun,False
+Candy Cat,candy-cat,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Spring,Sun,False
+Candy Cat,candy-cat,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Barbatos's Bastion,barbatoss-bastion,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Battenburg,battenburg,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Cradle of Corruption - Upper Level,circle-of-corruption-upper-level,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Desserted Dungeon,desserted-dungeon,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Fort Nox,fort-nox,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Grimglow Cave,grimglow-cave,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Hotcake Heap,hotcake-heap,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,House of Shifting Sands,house-of-shifting-sands,Spring|Summer|Fall|Winter,Sun,False
+Cannibox,cannibox,Sepulchre of Flames,sepulchre-of-flames,Spring|Summer|Fall|Winter,Sun,False
+Cannonbrawler,cannonbrawler,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cannonbrawler,cannonbrawler,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cannonbrawler,cannonbrawler,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Capsichum,capsichum,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Fall,Sun,False
+Capsichum,capsichum,Terrestria,terrestria,Fall,Sun,False
+Carnivine,carnivine,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cauldragon,cauldragon,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Sun,True
+Cheater Cheetah,cheater-cheetah,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cheater Cheetah,cheater-cheetah,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cheater Cheetah,cheater-cheetah,Cradle of Corruption - Upper Level,circle-of-corruption-upper-level,Spring|Summer|Fall|Winter,Sun,False
+Cheater Cheetah,cheater-cheetah,The Whispwoods,the-whispwoods,Spring|Summer|Fall|Winter,Sun,False
+Chocolate Whisp,chocolate-whisp,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Fall,Precipitation,False
+Clockwork Cuckoo,clockwork-cuckoo,Barbatos's Bastion,barbatoss-bastion,Spring|Summer|Fall|Winter,Sun,False
+Clockwork Cuckoo,clockwork-cuckoo,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Clockwork Cuckoo,clockwork-cuckoo,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cococoa Blobelisk,cococoa-blobelisk,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cococoa Blobelisk,cococoa-blobelisk,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Corpsickle,corpsickle,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Fall|Winter,Precipitation,False
+Corpsickle,corpsickle,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring,Sun,False
+Cosmic Chimaera,cosmic-chimaera,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cosmic Chimaera,cosmic-chimaera,The Whispwoods,the-whispwoods,Spring|Summer|Fall|Winter,Sun,False
+Crabber Dabber Doo,crabber-dabber-doo,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Summer,Sun,False
+Crabid,crabid,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Crabid,crabid,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Crabid,crabid,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Crabid,crabid,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Croc-a-Bugle-Doo,croc-a-bugle-doo,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Winter,Precipitation,False
+Croc-a-Bugle-Doo,croc-a-bugle-doo,Hotcake Heap,hotcake-heap,Spring|Summer|Fall|Winter,Sun,False
+Crème Caraslime,creme-caraslime,Battenburg,battenburg,Spring|Summer|Fall|Winter,Sun,False
+Crème Caraslime,creme-caraslime,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Winter,Precipitation,False
+Cumaulus,cumaulus,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Spring|Summer|Winter,Precipitation,False
+Cumaulus,cumaulus,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Winter,Precipitation,False
+Cureslime,cureslime,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring,Sun,False
+Cureslime,cureslime,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring,Sun,False
+Cureslime,cureslime,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring,Sun,False
+Cyber Slime,cyber-slime,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Cyclops,cyclops,Terrestria,terrestria,Spring|Summer|Fall|Winter,Sun,True
+Cyclown,cyclown,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Spring,Sun,False
+Cyclown,cyclown,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Spring,Sun,False
+Damselfly,damselfly,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Damselfly,damselfly,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Damselfly,damselfly,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Dancing Flame,dancing-flame,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Summer,Sun,False
+Dancing Flame,dancing-flame,Dragonspate,dragonspate,Spring|Summer|Fall|Winter,Sun,False
+Dark Hare,dark-hare,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring,Sun,False
+Dark Hare,dark-hare,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring,Sun,False
+Dark Sabrecat,dark-sabrecat,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Summer|Fall|Winter,Sun,True
+Dark Sabrecub,dark-sabrecub,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Dark Slime,dark-slime,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Winter,Precipitation,False
+Dark Slime,dark-slime,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Winter,Precipitation,False
+Dead Resident,dead-resident,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Fall|Winter,Precipitation,False
+Dead Resident,dead-resident,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Fall|Winter,Precipitation,False
+Disfigurine,disfigurine,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring,Sun,False
+Drackolyte,drackolyte,Aamon's Sanctum,aamons-sanctum,Spring|Summer|Fall|Winter,Sun,False
+Drackolyte,drackolyte,Barbatos's Bastion,barbatoss-bastion,Spring|Summer|Fall|Winter,Sun,False
+Drackolyte,drackolyte,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Drackolyte,drackolyte,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Fall,Precipitation,False
+Drackolyte,drackolyte,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Drackolyte,drackolyte,Desserted Dungeon,desserted-dungeon,Spring|Summer|Fall|Winter,Sun,False
+Drackolyte,drackolyte,Grimglow Cave,grimglow-cave,Spring|Summer|Fall|Winter,Sun,False
+Dracky,dracky,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Dracky,dracky,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Dracky,dracky,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Dracky,dracky,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Dracky,dracky,Gleaming Grotto,gleaming-grotto,Spring|Summer|Fall|Winter,Sun,False
+Dracky,dracky,Terrestria,terrestria,Spring|Summer|Fall|Winter,Sun,False
+Dragon Rider,dragon-rider,Cradle of Corruption - Upper Level,circle-of-corruption-upper-level,Spring|Summer|Fall|Winter,Sun,False
+Dragon Slime,dragon-slime,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Winter,Precipitation,False
+Dragonthorn,dragonthorn,Terrestria,terrestria,Summer,Sun,False
+Drake Slime,drake-slime,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Drakularge,drakularge,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Fall,Precipitation,False
+Drakularge,drakularge,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Fall,Sun,False
+Dullahan,dullahan,Conqueror's Keep,conquerors-keep,Spring|Summer|Fall|Winter,Sun,False
+Eggsoskeleton,eggsoskeleton,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Spring|Summer|Fall|Winter,Precipitation,False
+Eggsoskeleton,eggsoskeleton,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Eggsoskeleton,eggsoskeleton,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Winter,Precipitation,False
+Eggsoskeleton,eggsoskeleton,Fort Nox,fort-nox,Spring|Summer|Fall|Winter,Sun,False
+Eggsoskeleton,eggsoskeleton,The Watchtower,the-watchtower,Spring|Summer|Fall|Winter,Sun,False
+Erazor Blade,erazor-blade,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring,Sun,False
+Escudogre,escudogre,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Face Invader,face-invader,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Fall,Precipitation,False
+Feralball,feralball,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring,Precipitation,False
+Feralball,feralball,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Spring,Sun,False
+Feralball,feralball,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Spring,Sun,False
+Feralball,feralball,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Spring,Sun,False
+Feralball,feralball,Terrestria,terrestria,Spring,Sun,False
+Firebird,firebird,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Summer,Sun,False
+Firebird,firebird,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Summer,Sun,False
+Firespirit,firespirit,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Spring|Summer|Fall,Precipitation|Sun,False
+Firespirit,firespirit,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall,Precipitation,False
+Firn Fiend,firn-fiend,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Winter,Precipitation,False
+Flapdragon,flapdragon,Conqueror's Keep,conquerors-keep,Spring|Summer|Fall|Winter,Sun,False
+Flutter Slime,flutter-slime,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Flying Saucers,flying-saucers,Battenburg,battenburg,Spring|Summer|Fall|Winter,Sun,False
+Foo Dog,foo-dog,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Winter,Sun,False
+Fowl Beast,fowl-beast,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Fowl Beast,fowl-beast,The Whispwoods,the-whispwoods,Spring|Summer|Fall|Winter,Sun,False
+Freezing Fog,freezing-fog,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Winter,Precipitation,False
+Freezing Fog,freezing-fog,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Winter,Sun,False
+Freezing Fog,freezing-fog,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Winter,Precipitation,False
+Freezing Fog,freezing-fog,Desserted Dungeon,desserted-dungeon,Spring|Summer|Fall|Winter,Sun,False
+Frolicker,frolicker,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Frolicker,frolicker,Desserted Dungeon,desserted-dungeon,Spring|Summer|Fall|Winter,Sun,False
+Frolicker,frolicker,Sepulchre of Flames,sepulchre-of-flames,Spring|Summer|Fall|Winter,Sun,False
+Fromage Fey,fromage-fey,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Winter,Precipitation,False
+Fromage Fray,fromage-fray,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Spring|Summer|Winter,Precipitation,False
+Fromage Fray,fromage-fray,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Winter,Precipitation,False
+Funghoul,funghoul,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Funghoul,funghoul,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Gargoyle,gargoyle,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Summer,Sun,False
+Garuda,garuda,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Fall,Sun,False
+Garuda,garuda,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring|Summer|Fall,Precipitation,False
+Gasbagon,gasbagon,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Gasbagon,gasbagon,House of Shifting Sands,house-of-shifting-sands,Spring|Summer|Fall|Winter,Sun,False
+Gasbagon,gasbagon,Sepulchre of Flames,sepulchre-of-flames,Spring|Summer|Fall|Winter,Sun,False
+Ghost,ghost,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Summer,Sun,False
+Ghost,ghost,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Summer,Sun,False
+Ghost,ghost,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Summer,Sun,False
+Ghost,ghost,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Fall,Precipitation,False
+Ghost,ghost,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Fall,Precipitation,False
+Ghost,ghost,Terrestria,terrestria,Summer,Sun,False
+Gnumesis,gnumesis,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Summer|Fall|Winter,Sun,True
+Goobonce,ice-breaker,Battenburg,battenburg,Spring|Summer|Fall|Winter,Sun,False
+Goomulonimbus,goomulonimbus,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,True
+Goonache Goodie,goonache-goodie,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Goonache Goodie,goonache-goodie,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Graven Idol,graven-idol,Conqueror's Keep,conquerors-keep,Spring|Summer|Fall|Winter,Sun,False
+Great Sabrecub,great-sabrecub,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Great Sabrecub,great-sabrecub,Gleaming Grotto,gleaming-grotto,Spring|Summer|Fall|Winter,Sun,False
+Greater Platypunk,greater-platypunk,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Green Dragon,green-dragon,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Spring|Summer|Fall|Winter,Sun,True
+Gremlin,gremlin,Fort Nox,fort-nox,Spring|Summer|Fall|Winter,Sun,False
+Gremlin,gremlin,Hotcake Heap,hotcake-heap,Spring|Summer|Fall|Winter,Sun,False
+Grillerpillar,grillerpillar,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Grim Keeper,grim-keeper,Barbatos's Bastion,barbatoss-bastion,Spring|Summer|Fall|Winter,Sun,False
+Grim Rider,grim-rider,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Grinferno,grinferno,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Summer,Sun,False
+Guaardvark,guaardvark,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Harmour,harmour,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Spring|Summer|Fall|Winter,Sun,True
+Healslime,healslime,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Winter,Precipitation,False
+Healslime,healslime,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Precipitation,False
+Healslime,healslime,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Heligator,heligator,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring,Sun,False
+Hell Niño,hell-nino,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall,Precipitation,False
+Hell Niño,hell-nino,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall,Precipitation,False
+Hellbound Horror,hellbound-horror,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Summer,Sun,False
+Hellbound Horror,hellbound-horror,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Summer,Sun,False
+Hellspawn,hellspawn,The Whispwoods,the-whispwoods,Spring|Summer|Fall|Winter,Sun,False
+Hocus-Poker,hocus-poker,Conqueror's Keep,conquerors-keep,Spring|Summer|Fall|Winter,Sun,False
+Hooper Trooper,hooper-trooper,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring,Sun,False
+Hooper Trooper,hooper-trooper,Sepulchre of Flames,sepulchre-of-flames,Spring|Summer|Fall|Winter,Sun,False
+Hypothermion,hypothermion,House of Shifting Sands,house-of-shifting-sands,Spring|Summer|Fall|Winter,Sun,False
+Imp,imp,Battenburg,battenburg,Spring|Summer|Fall|Winter,Sun,False
+Imp,imp,Desserted Dungeon,desserted-dungeon,Spring|Summer|Fall|Winter,Sun,False
+Iron Maiden,iron-maiden,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Spring|Summer|Fall|Winter,Sun,True
+Jailcat,jailcat,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Jailcat,jailcat,Grimglow Cave,grimglow-cave,Spring|Summer|Fall|Winter,Sun,False
+Jailcat,jailcat,Sepulchre of Flames,sepulchre-of-flames,Spring|Summer|Fall|Winter,Sun,False
+Jinkster,jinkster,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Fall,Sun,False
+Jinkster,jinkster,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Fall,Sun,False
+Jinkster,jinkster,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Fall,Sun,False
+Jinkster,jinkster,Fort Nox,fort-nox,Spring|Summer|Fall|Winter,Sun,False
+Jumping Jackal,jumping-jackal,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring,Sun,False
+Khalamari Kid,khalamari-kid,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Winter,Sun,False
+Khalamari Kid,khalamari-kid,Terrestria,terrestria,Winter,Sun,False
+Killerpillar,killerpillar,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring,Sun,False
+Killerpillar,killerpillar,Terrestria,terrestria,Spring,Sun,False
+King Bubble Slime,king-bubble-slime,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Summer,Precipitation,False
+King Bubble Slime,king-bubble-slime,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Summer,Precipitation,False
+King Slick Slime,king-slick-slime,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Fall|Winter,Sun,True
+Kisser,kisser,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Kisser,kisser,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Summer,Precipitation,False
+Knight Errant,knight-errant,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Fall|Winter,Sun,True
+Komodo,komodo,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Komodo,komodo,Terrestria,terrestria,Spring|Summer|Fall|Winter,Sun,False
+Lampling,lampling,Caverns of Conflagration,caverns-of-conflagration,Spring|Summer|Fall|Winter,Sun,False
+Lampling,lampling,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Lampling,lampling,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall,Precipitation,False
+Lampling,lampling,Sepulchre of Flames,sepulchre-of-flames,Spring|Summer|Fall|Winter,Sun,False
+Leafy Larrikin,leafy-larrikin,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Fall,Sun,False
+Leery Lout,leery-lout,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Spring,Sun,False
+Leery Lout,leery-lout,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Spring|Summer|Winter,Precipitation,False
+Leery Lout,leery-lout,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Winter,Precipitation,False
+Leery Lout,leery-lout,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Winter,Precipitation,False
+Leery Lout,leery-lout,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Spring,Sun,False
+Lips,lips,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Lips,lips,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Liquid Metal Slime,liquid-metal-slime,Barbatos's Bastion,barbatoss-bastion,Spring|Summer|Fall|Winter,Sun,False
+Liquid Metal Slime,liquid-metal-slime,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Liquid Metal Slime,liquid-metal-slime,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Liquid Metal Slime,liquid-metal-slime,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Liquid Metal Slime,liquid-metal-slime,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Liquid Metal Slime,liquid-metal-slime,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Liquid Metal Slime,liquid-metal-slime,Conqueror's Keep,conquerors-keep,Spring|Summer|Fall|Winter,Sun,False
+Liquid Metal Slime,liquid-metal-slime,Dragonspate,dragonspate,Spring|Summer|Fall|Winter,Sun,False
+Living Statue,living-statue,Aamon's Sanctum,aamons-sanctum,Spring|Summer|Fall|Winter,Sun,False
+Living Statue,living-statue,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Lumbering Lizard,lumbering-lizard,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Spring|Summer|Fall|Winter,Sun,True
+Lump Shaman,lump-shaman,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Winter,Sun,False
+Lunatick,lunatick,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Precipitation,False
+Lunatick,lunatick,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Winter,Precipitation,False
+Lunatick,lunatick,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Precipitation,False
+Lunatick,lunatick,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Fall,Sun,False
+Lunatick,lunatick,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Fall,Sun,False
+Mad Mollusk,mad-mollusk,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Mad Mollusk,mad-mollusk,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Mad Mollusk,mad-mollusk,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Fall|Winter,Precipitation,False
+Mandrake Major,mandrake-major,Barbatos's Bastion,barbatoss-bastion,Spring|Summer|Fall|Winter,Sun,False
+Mandrake Major,mandrake-major,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Mandrake Major,mandrake-major,Fort Nox,fort-nox,Spring|Summer|Fall|Winter,Sun,False
+Mandrake Major,mandrake-major,House of Shifting Sands,house-of-shifting-sands,Spring|Summer|Fall|Winter,Sun,False
+Mangleclaw,mangleclaw,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Winter,Sun,False
+Maniacal Mole,maniacal-mole,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Fall,Sun,False
+Maniacal Mole,maniacal-mole,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Summer,Sun,False
+Mecha-Mynah,mecha-mynah,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Mecha-Mynah,mecha-mynah,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Mecha-Mynah,mecha-mynah,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Fall,Precipitation,False
+Metal Dragon,metal-dragon,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal King Slime,metal-king-slime,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal King Slime,metal-king-slime,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal King Slime,metal-king-slime,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal King Slime,metal-king-slime,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal King Slime,metal-king-slime,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal Slime,metal-slime,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal Slime,metal-slime,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal Slime,metal-slime,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal Slime,metal-slime,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal Slime,metal-slime,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal Slime,metal-slime,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal Slime,metal-slime,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Metal Slime,metal-slime,Conqueror's Keep,conquerors-keep,Spring|Summer|Fall|Winter,Precipitation|Sun,False
+Metal Slime,metal-slime,Fort Nox,fort-nox,Spring|Summer|Fall|Winter,Sun,False
+Metal Slime,metal-slime,Grimglow Cave,grimglow-cave,Spring|Summer|Fall|Winter,Precipitation|Sun,False
+Metal Slime,metal-slime,Sepulchre of Flames,sepulchre-of-flames,Spring|Summer|Fall|Winter,Precipitation|Sun,False
+Mimic,mimic,The Whispwoods,the-whispwoods,Spring|Summer|Fall|Winter,Sun,False
+Mischievous Mole,mischievous-mole,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Mischievous Mole,mischievous-mole,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Mischievous Mole,mischievous-mole,Terrestria,terrestria,Spring|Summer|Fall|Winter,Sun,False
+Missing Lynx,missing-lynx,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall|Winter,Sun,True
+Mogus,mogus,Conqueror's Keep,conquerors-keep,Spring|Summer|Fall|Winter,Sun,False
+Monolog,monolog,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Fall,Sun,False
+Morphean Mushroom,morphean-mushroom,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Fall|Winter,Precipitation,False
+Morphean Mushroom,morphean-mushroom,Grimglow Cave,grimglow-cave,Spring|Summer|Fall|Winter,Sun,False
+Mouseflap,mouseflap,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Summer,Sun,False
+Mouseflap,mouseflap,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Mouseflap,mouseflap,Hotcake Heap,hotcake-heap,Spring|Summer|Fall|Winter,Sun,False
+Mummy Boy,mummy-boy,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Fall,Precipitation,False
+Mummy Boy,mummy-boy,House of Shifting Sands,house-of-shifting-sands,Spring|Summer|Fall|Winter,Sun,False
+Night Sneaker,night-sneaker,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Fall,Precipitation,False
+Night Sneaker,night-sneaker,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Fall,Precipitation,False
+Noble Gasbagon,noble-gasbagon,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Odd Cob,odd-cob,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Odd Cob,odd-cob,Hotcake Heap,hotcake-heap,Spring|Summer|Fall|Winter,Sun,False
+Orc King,orc-king,Barbatos's Bastion,barbatoss-bastion,Spring|Summer|Fall|Winter,Sun,False
+Orc King,orc-king,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Winter,Sun,False
+Orc King,orc-king,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Winter,Sun,False
+Overtoad,overtoad,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Fall,Sun,False
+Pasty Pastry,pasty-pastry,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Peeper,peeper,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Fall,Sun,False
+Peeper,peeper,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Fall,Sun,False
+Peeper,peeper,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Fall,Sun,False
+Phantom Fencer,phantom-fencer,Cradle of Corruption - Lower Level,circle-of-corruption-lower-level,Spring|Summer|Fall|Winter,Sun,False
+Phantom Fencer,phantom-fencer,Cradle of Corruption - Middle Level,circle-of-corruption-middle-level,Spring|Summer|Fall|Winter,Sun,False
+Phantom Fencer,phantom-fencer,Cradle of Corruption - Upper Level,circle-of-corruption-upper-level,Spring|Summer|Fall|Winter,Sun,False
+Pocus Poppet,pocus-poppet,Cradle of Corruption - Lower Level,circle-of-corruption-lower-level,Spring|Summer|Fall|Winter,Sun,False
+Pocus Poppet,pocus-poppet,Cradle of Corruption - Middle Level,circle-of-corruption-middle-level,Spring|Summer|Fall|Winter,Sun,False
+Pocus Poppet,pocus-poppet,Cradle of Corruption - Upper Level,circle-of-corruption-upper-level,Spring|Summer|Fall|Winter,Sun,False
+Pogoin' Penguin,pogoin-penguin,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Winter,Precipitation,False
+Pogoin' Penguin,pogoin-penguin,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Winter,Precipitation,False
+Puffpoise,puffpoise,Aamon's Sanctum,aamons-sanctum,Spring|Summer|Fall|Winter,Sun,False
+Puffpoise,puffpoise,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Fall|Winter,Sun,False
+Puffpoise,puffpoise,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Putrefido,putrefido,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Winter,Sun,False
+Putrefido,putrefido,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Fall,Precipitation,False
+Putrefido,putrefido,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Fall,Precipitation,False
+Putrefido,putrefido,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Fall,Precipitation,False
+Restless Armour,restless-armour,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Restless Armour,restless-armour,Fort Nox,fort-nox,Spring|Summer|Fall|Winter,Sun,False
+Restless Armour,restless-armour,The Watchtower,the-watchtower,Spring|Summer|Fall|Winter,Sun,False
+Rockbomb,rockbomb,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Rockbomb,rockbomb,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Rockbomb,rockbomb,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Rockbomb,rockbomb,Sepulchre of Flames,sepulchre-of-flames,Spring|Summer|Fall|Winter,Sun,False
+Roistering Rooster,roistering-rooster,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Fall|Winter,Sun,True
+Ronin Raccoon,ronin-raccoon,The Whispwoods,the-whispwoods,Spring|Summer|Fall|Winter,Sun,False
+Rubble Slime,rubble-slime,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Saccharine Sacksquatch,saccharine-sacksquatch,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Fall,Sun,False
+Saccharine Sacksquatch,saccharine-sacksquatch,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Fall,Sun,False
+Sacksquatch,sacksquatch,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Fall|Winter,Sun,False
+Sacksquatch,sacksquatch,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Winter,Sun,False
+Scallop Slime,scallop-slime,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Scallop Slime,scallop-slime,Gleaming Grotto,gleaming-grotto,Spring|Summer|Fall|Winter,Precipitation|Sun,False
+Sculptrice,sculptrice,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Winter,Sun,False
+Sculptrice,sculptrice,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Winter,Sun,False
+Sculptrice,sculptrice,Grimglow Cave,grimglow-cave,Spring|Summer|Fall|Winter,Sun,False
+Scuttle Slime,scuttle-slime,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall,Precipitation,False
+See Urchin,see-urchin,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Precipitation,False
+See Urchin,see-urchin,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Winter,Precipitation,False
+Sekerleton,sekerleton,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Fall|Winter,Precipitation,False
+Shadow,shadow,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Summer,Sun,False
+Shadow,shadow,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Summer,Sun,False
+Shadow,shadow,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Summer,Sun,False
+Shadow,shadow,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Summer,Sun,False
+Shadow,shadow,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Summer,Sun,False
+Shadow,shadow,Dragonspate,dragonspate,Spring|Summer|Fall|Winter,Sun,False
+Shadow,shadow,Sepulchre of Flames,sepulchre-of-flames,Spring|Summer|Fall|Winter,Sun,False
+Sham Hatwitch,sham-hatwitch,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring,Sun,False
+She-Slime,she-slime,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+She-Slime,she-slime,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+She-Slime,she-slime,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall,Precipitation,False
+She-Slime,she-slime,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall,Precipitation,False
+Shivery Shrubbery,shivery-shrubbery,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Winter,Sun,False
+Shivery Shrubbery,shivery-shrubbery,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Winter,Sun,False
+Shivery Shrubbery,shivery-shrubbery,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Winter,Sun,False
+Shivery Shrubbery,shivery-shrubbery,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Winter,Precipitation,False
+Shivery Shrubbery,shivery-shrubbery,Desserted Dungeon,desserted-dungeon,Spring|Summer|Fall|Winter,Sun,False
+Sintaur,sintaur,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Skelegon,skelegon,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Skeleton,skeleton,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Spring|Fall|Winter,Precipitation|Sun,False
+Skeleton,skeleton,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Fall|Winter,Precipitation,False
+Skeleton Swordsman,skeleton-swordsman,Aamon's Sanctum,aamons-sanctum,Spring|Summer|Fall|Winter,Sun,False
+Skeleton Swordsman,skeleton-swordsman,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Fall|Winter,Precipitation,False
+Skeleton Swordsman,skeleton-swordsman,Dragonspate,dragonspate,Spring|Summer|Fall|Winter,Sun,False
+Skellyfish,skellyfish,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Summer,Sun,False
+Skipper,skipper,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Fall,Sun,False
+Skipper,skipper,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Fall,Sun,False
+Slime,slime,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Slime,slime,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Slime,slime,Terrestria,terrestria,Spring|Summer|Fall|Winter,Sun,False
+Slime Knight,slime-knight,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Spring|Summer|Fall|Winter,Sun,False
+Slime Knight,slime-knight,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Slime Stack,slime-stack,Circle of Fortitude - Lower Echelon,circle-of-fortitude-lower-echelon,Fall,Sun,False
+Snail Slime,snail-slime,Circle of Caprice - Lower Echelon,circle-of-caprice-lower-echelon,Winter,Sun,False
+Snowbird,snowbird,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Winter,Sun,False
+Snowbird,snowbird,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Winter,Sun,False
+Snowmangler,snowmangler,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Winter,Sun,False
+Snowmangler,snowmangler,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Winter,Precipitation,False
+Snowmangler,snowmangler,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Winter,Precipitation,False
+Soft Serve Spook,soft-serve-spook,Circle of Indulgence - Lower Echelon,circle-of-indulgence-lower-echelon,Fall,Precipitation,False
+Soft Serve Spook,soft-serve-spook,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Fall,Precipitation,False
+Soulspawn,soulspawn,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Winter,Precipitation,False
+Soulspawn,soulspawn,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Precipitation,False
+Spinchilla,spinchilla,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring|Summer|Fall|Winter,Precipitation,False
+Spiny Slime,spiny-slime,Circle of Fortitude - Middle Echelon,circle-of-fortitude-middle-echelon,Winter,Sun,False
+Spiny Slime,spiny-slime,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Winter,Sun,False
+Spiny Slime,spiny-slime,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Winter,Sun,False
+Spiny Slime,spiny-slime,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Winter,Sun,False
+Splatypunk,splatypunk,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Splatypunk,splatypunk,House of Shifting Sands,house-of-shifting-sands,Spring|Summer|Fall|Winter,Sun,False
+Stark Raven,stark-raven,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Winter,Precipitation|Sun,False
+Stark Raven,stark-raven,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Winter,Precipitation,False
+Stone Golem,stone-golem,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Stone Golem,stone-golem,House of Shifting Sands,house-of-shifting-sands,Spring|Summer|Fall|Winter,Sun,False
+Stout Troll,stout-troll,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,True
+Stump Chump,stump-chump,Terrestria,terrestria,Summer,Sun,False
+Succubat,succubat,Cradle of Corruption - Lower Level,circle-of-corruption-lower-level,Spring|Summer|Fall|Winter,Sun,False
+Succubat,succubat,Cradle of Corruption - Upper Level,circle-of-corruption-upper-level,Spring|Summer|Fall|Winter,Sun,False
+Sugar Baddie,sugar-baddie,Battenburg,battenburg,Spring|Summer|Fall|Winter,Sun,False
+Sugar Baddie,sugar-baddie,Circle of Indulgence - Middle Echelon,circle-of-indulgence-middle-echelon,Spring|Summer|Winter,Precipitation,False
+Sugar Baddie,sugar-baddie,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Winter,Precipitation,False
+Sugarstar Slime,sugarstar-slime,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Winter,Precipitation,False
+Sugarstar Slime,sugarstar-slime,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Precipitation,False
+Sweaty Yeti,sweaty-yeti,Circle of Caprice - Middle Echelon,circle-of-caprice-middle-echelon,Spring,Precipitation,False
+Tantamount,tantamount,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring,Sun,False
+Teeny Sanguini,teeny-sanguini,Terrestria,terrestria,Winter,Precipitation|Sun,False
+Toady,toady,Circle of Temper - Lower Echelon,circle-of-temper-lower-echelon,Fall,Sun,False
+Toady,toady,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Fall,Sun,False
+Togre,togre,Barbatos's Bastion,barbatoss-bastion,Spring|Summer|Fall|Winter,Sun,False
+Togre,togre,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Togre,togre,Cradle of Corruption - Middle Level,circle-of-corruption-middle-level,Spring|Summer|Fall|Winter,Sun,False
+Togre,togre,Cradle of Corruption - Upper Level,circle-of-corruption-upper-level,Spring|Summer|Fall|Winter,Sun,False
+Tufty Tot,tufty-tot,Circle of Caprice - Upper Echelon,circle-of-caprice-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Tufty Tot,tufty-tot,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Tufty Tot,tufty-tot,Circle of Fortitude - Upper Echelon,circle-of-fortitude-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Tufty Tot,tufty-tot,Circle of Indulgence - Upper Echelon,circle-of-indulgence-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Tufty Tot,tufty-tot,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Spring|Summer|Fall|Winter,Sun,False
+Ursa Major,ursa-major,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Winter,Sun,False
+Ursa Major,ursa-major,Grimglow Cave,grimglow-cave,Spring|Summer|Fall|Winter,Sun,False
+Vampire Cat,vampire-cat,Caverns of Conflagration,caverns-of-conflagration,Spring|Summer|Fall|Winter,Sun,False
+Vampire Cat,vampire-cat,Circle of Temper - Middle Echelon,circle-of-temper-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Vampire Cat,vampire-cat,Sepulchre of Flames,sepulchre-of-flames,Spring|Summer|Fall|Winter,Sun,False
+Vegandragora,vegandragora,Terrestria,terrestria,Spring|Summer|Fall|Winter,Sun,False
+Wing Slime,wing-slime,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Summer,Precipitation,False
+Wing Slime,wing-slime,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Summer,Precipitation,False
+Wing Slime,wing-slime,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Summer,Precipitation,False
+Wing Slime,wing-slime,Terrestria,terrestria,Spring|Summer|Fall,Precipitation|Sun,False
+Woebergine,woebergine,Circle of Conquest - Lower Echelon,circle-of-conquest-lower-echelon,Fall,Sun,False
+Woebergine,woebergine,Terrestria,terrestria,Fall,Sun,False
+Wyrtoise,wyrtoise,Circle of Temper - Upper Echelon,circle-of-temper-upper-echelon,Winter,Sun,False
+Zaptile,zaptile,Circle of Conquest - Middle Echelon,circle-of-conquest-middle-echelon,Spring|Summer|Fall|Winter,Sun,False
+Zaptile,zaptile,Circle of Conquest - Upper Echelon,circle-of-conquest-upper-echelon,Summer,Precipitation,False

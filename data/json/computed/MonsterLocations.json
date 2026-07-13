@@ -1,0 +1,7546 @@
+[
+  {
+    "monster_id": 433,
+    "monster": "Abominable Showman",
+    "monster_identifier": "abominable-showman",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 443,
+    "monster": "Abracadabrador",
+    "monster_identifier": "abracadabrador",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 594,
+    "monster": "Admirer",
+    "monster_identifier": "admirer",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 107,
+    "monster": "Airbagon",
+    "monster_identifier": "airbagon",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 289,
+    "monster": "Angel Slime",
+    "monster_identifier": "angel-slime",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 108,
+    "monster": "Antguzzler",
+    "monster_identifier": "antguzzler",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 488,
+    "monster": "Archdemon",
+    "monster_identifier": "archdemon",
+    "locations": [
+      {
+        "location": "Conqueror's Keep",
+        "location_identifier": "conquerors-keep",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 398,
+    "monster": "Armoured Scorpion",
+    "monster_identifier": "armoured-scorpion",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 109,
+    "monster": "Armoured Wartoise",
+    "monster_identifier": "armoured-wartoise",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 111,
+    "monster": "Awebergine",
+    "monster_identifier": "awebergine",
+    "locations": [
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 301,
+    "monster": "Bag o' Tricks",
+    "monster_identifier": "bag-o-tricks",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Grimglow Cave",
+        "location_identifier": "grimglow-cave",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 114,
+    "monster": "Bagworm",
+    "monster_identifier": "bagworm",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 407,
+    "monster": "Baleen Mage",
+    "monster_identifier": "baleen-mage",
+    "locations": [
+      {
+        "location": "Aamon's Sanctum",
+        "location_identifier": "aamons-sanctum",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 115,
+    "monster": "Bambooligan",
+    "monster_identifier": "bambooligan",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 116,
+    "monster": "Bantamweight",
+    "monster_identifier": "bantamweight",
+    "locations": [
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 117,
+    "monster": "Beleth",
+    "monster_identifier": "beleth",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 332,
+    "monster": "Beshemoth Slime",
+    "monster_identifier": "beshemoth-slime",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 118,
+    "monster": "Blinkster",
+    "monster_identifier": "blinkster",
+    "locations": [
+      {
+        "location": "Caverns of Conflagration",
+        "location_identifier": "caverns-of-conflagration",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Hotcake Heap",
+        "location_identifier": "hotcake-heap",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "The Watchtower",
+        "location_identifier": "the-watchtower",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 487,
+    "monster": "Bloodbonnet",
+    "monster_identifier": "assassin-circle",
+    "locations": [
+      {
+        "location": "Battenburg",
+        "location_identifier": "battenburg",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 295,
+    "monster": "Bodkin Fletcher",
+    "monster_identifier": "bodkin-fletcher",
+    "locations": [
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Grimglow Cave",
+        "location_identifier": "grimglow-cave",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 514,
+    "monster": "Bone Idol",
+    "monster_identifier": "bone-idol",
+    "locations": [
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Dragonspate",
+        "location_identifier": "dragonspate",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 121,
+    "monster": "Bongo Drongo",
+    "monster_identifier": "bongo-drongo",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 124,
+    "monster": "Briny Bronco",
+    "monster_identifier": "briny-bronco",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 308,
+    "monster": "Brollygagger",
+    "monster_identifier": "brollygagger",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 307,
+    "monster": "Brownie",
+    "monster_identifier": "brownie",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 103,
+    "monster": "Bubble Slime",
+    "monster_identifier": "bubble-slime",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 128,
+    "monster": "Bunicorn",
+    "monster_identifier": "bunicorn",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 129,
+    "monster": "Cactiball",
+    "monster_identifier": "cactiball",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 419,
+    "monster": "Calypso King",
+    "monster_identifier": "calypso-king",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 130,
+    "monster": "Candy Cat",
+    "monster_identifier": "candy-cat",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 131,
+    "monster": "Cannibox",
+    "monster_identifier": "cannibox",
+    "locations": [
+      {
+        "location": "Barbatos's Bastion",
+        "location_identifier": "barbatoss-bastion",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Battenburg",
+        "location_identifier": "battenburg",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Cradle of Corruption - Upper Level",
+        "location_identifier": "circle-of-corruption-upper-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Desserted Dungeon",
+        "location_identifier": "desserted-dungeon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Fort Nox",
+        "location_identifier": "fort-nox",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Grimglow Cave",
+        "location_identifier": "grimglow-cave",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Hotcake Heap",
+        "location_identifier": "hotcake-heap",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "House of Shifting Sands",
+        "location_identifier": "house-of-shifting-sands",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Sepulchre of Flames",
+        "location_identifier": "sepulchre-of-flames",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 132,
+    "monster": "Cannonbrawler",
+    "monster_identifier": "cannonbrawler",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 133,
+    "monster": "Capsichum",
+    "monster_identifier": "capsichum",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 394,
+    "monster": "Carnivine",
+    "monster_identifier": "carnivine",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 276,
+    "monster": "Cauldragon",
+    "monster_identifier": "cauldragon",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 420,
+    "monster": "Cheater Cheetah",
+    "monster_identifier": "cheater-cheetah",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Cradle of Corruption - Upper Level",
+        "location_identifier": "circle-of-corruption-upper-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "The Whispwoods",
+        "location_identifier": "the-whispwoods",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 293,
+    "monster": "Chocolate Whisp",
+    "monster_identifier": "chocolate-whisp",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 136,
+    "monster": "Clockwork Cuckoo",
+    "monster_identifier": "clockwork-cuckoo",
+    "locations": [
+      {
+        "location": "Barbatos's Bastion",
+        "location_identifier": "barbatoss-bastion",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 329,
+    "monster": "Cococoa Blobelisk",
+    "monster_identifier": "cococoa-blobelisk",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 512,
+    "monster": "Corpsickle",
+    "monster_identifier": "corpsickle",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 404,
+    "monster": "Cosmic Chimaera",
+    "monster_identifier": "cosmic-chimaera",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "The Whispwoods",
+        "location_identifier": "the-whispwoods",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 570,
+    "monster": "Crabber Dabber Doo",
+    "monster_identifier": "crabber-dabber-doo",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 306,
+    "monster": "Crabid",
+    "monster_identifier": "crabid",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 138,
+    "monster": "Croc-a-Bugle-Doo",
+    "monster_identifier": "croc-a-bugle-doo",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Hotcake Heap",
+        "location_identifier": "hotcake-heap",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 336,
+    "monster": "Crème Caraslime",
+    "monster_identifier": "creme-caraslime",
+    "locations": [
+      {
+        "location": "Battenburg",
+        "location_identifier": "battenburg",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 140,
+    "monster": "Cumaulus",
+    "monster_identifier": "cumaulus",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 331,
+    "monster": "Cureslime",
+    "monster_identifier": "cureslime",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 337,
+    "monster": "Cyber Slime",
+    "monster_identifier": "cyber-slime",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 314,
+    "monster": "Cyclops",
+    "monster_identifier": "cyclops",
+    "locations": [
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 141,
+    "monster": "Cyclown",
+    "monster_identifier": "cyclown",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 142,
+    "monster": "Damselfly",
+    "monster_identifier": "damselfly",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 451,
+    "monster": "Dancing Flame",
+    "monster_identifier": "dancing-flame",
+    "locations": [
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Dragonspate",
+        "location_identifier": "dragonspate",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 428,
+    "monster": "Dark Hare",
+    "monster_identifier": "dark-hare",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 431,
+    "monster": "Dark Sabrecat",
+    "monster_identifier": "dark-sabrecat",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 144,
+    "monster": "Dark Sabrecub",
+    "monster_identifier": "dark-sabrecub",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 145,
+    "monster": "Dark Slime",
+    "monster_identifier": "dark-slime",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 146,
+    "monster": "Dead Resident",
+    "monster_identifier": "dead-resident",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 148,
+    "monster": "Disfigurine",
+    "monster_identifier": "disfigurine",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 297,
+    "monster": "Drackolyte",
+    "monster_identifier": "drackolyte",
+    "locations": [
+      {
+        "location": "Aamon's Sanctum",
+        "location_identifier": "aamons-sanctum",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Barbatos's Bastion",
+        "location_identifier": "barbatoss-bastion",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Desserted Dungeon",
+        "location_identifier": "desserted-dungeon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Grimglow Cave",
+        "location_identifier": "grimglow-cave",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 149,
+    "monster": "Dracky",
+    "monster_identifier": "dracky",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Gleaming Grotto",
+        "location_identifier": "gleaming-grotto",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 358,
+    "monster": "Dragon Rider",
+    "monster_identifier": "dragon-rider",
+    "locations": [
+      {
+        "location": "Cradle of Corruption - Upper Level",
+        "location_identifier": "circle-of-corruption-upper-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 326,
+    "monster": "Dragon Slime",
+    "monster_identifier": "dragon-slime",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 150,
+    "monster": "Dragonthorn",
+    "monster_identifier": "dragonthorn",
+    "locations": [
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 152,
+    "monster": "Drake Slime",
+    "monster_identifier": "drake-slime",
+    "locations": [
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 313,
+    "monster": "Drakularge",
+    "monster_identifier": "drakularge",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 606,
+    "monster": "Dullahan",
+    "monster_identifier": "dullahan",
+    "locations": [
+      {
+        "location": "Conqueror's Keep",
+        "location_identifier": "conquerors-keep",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 154,
+    "monster": "Eggsoskeleton",
+    "monster_identifier": "eggsoskeleton",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Fort Nox",
+        "location_identifier": "fort-nox",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "The Watchtower",
+        "location_identifier": "the-watchtower",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 155,
+    "monster": "Erazor Blade",
+    "monster_identifier": "erazor-blade",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 156,
+    "monster": "Escudogre",
+    "monster_identifier": "escudogre",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 459,
+    "monster": "Face Invader",
+    "monster_identifier": "face-invader",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 158,
+    "monster": "Feralball",
+    "monster_identifier": "feralball",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 405,
+    "monster": "Firebird",
+    "monster_identifier": "firebird",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 160,
+    "monster": "Firespirit",
+    "monster_identifier": "firespirit",
+    "locations": [
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation",
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 449,
+    "monster": "Firn Fiend",
+    "monster_identifier": "firn-fiend",
+    "locations": [
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 364,
+    "monster": "Flapdragon",
+    "monster_identifier": "flapdragon",
+    "locations": [
+      {
+        "location": "Conqueror's Keep",
+        "location_identifier": "conquerors-keep",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 640,
+    "monster": "Flutter Slime",
+    "monster_identifier": "flutter-slime",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 455,
+    "monster": "Flying Saucers",
+    "monster_identifier": "flying-saucers",
+    "locations": [
+      {
+        "location": "Battenburg",
+        "location_identifier": "battenburg",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 162,
+    "monster": "Foo Dog",
+    "monster_identifier": "foo-dog",
+    "locations": [
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 406,
+    "monster": "Fowl Beast",
+    "monster_identifier": "fowl-beast",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "The Whispwoods",
+        "location_identifier": "the-whispwoods",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 281,
+    "monster": "Freezing Fog",
+    "monster_identifier": "freezing-fog",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Desserted Dungeon",
+        "location_identifier": "desserted-dungeon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 311,
+    "monster": "Frolicker",
+    "monster_identifier": "frolicker",
+    "locations": [
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Desserted Dungeon",
+        "location_identifier": "desserted-dungeon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Sepulchre of Flames",
+        "location_identifier": "sepulchre-of-flames",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 441,
+    "monster": "Fromage Fey",
+    "monster_identifier": "fromage-fey",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 164,
+    "monster": "Fromage Fray",
+    "monster_identifier": "fromage-fray",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 165,
+    "monster": "Funghoul",
+    "monster_identifier": "funghoul",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 580,
+    "monster": "Gargoyle",
+    "monster_identifier": "gargoyle",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 272,
+    "monster": "Garuda",
+    "monster_identifier": "garuda",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 355,
+    "monster": "Gasbagon",
+    "monster_identifier": "gasbagon",
+    "locations": [
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "House of Shifting Sands",
+        "location_identifier": "house-of-shifting-sands",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Sepulchre of Flames",
+        "location_identifier": "sepulchre-of-flames",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 166,
+    "monster": "Ghost",
+    "monster_identifier": "ghost",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 626,
+    "monster": "Gnumesis",
+    "monster_identifier": "gnumesis",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 486,
+    "monster": "Goobonce",
+    "monster_identifier": "ice-breaker",
+    "locations": [
+      {
+        "location": "Battenburg",
+        "location_identifier": "battenburg",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 347,
+    "monster": "Goomulonimbus",
+    "monster_identifier": "goomulonimbus",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 167,
+    "monster": "Goonache Goodie",
+    "monster_identifier": "goonache-goodie",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 568,
+    "monster": "Graven Idol",
+    "monster_identifier": "graven-idol",
+    "locations": [
+      {
+        "location": "Conqueror's Keep",
+        "location_identifier": "conquerors-keep",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 168,
+    "monster": "Great Sabrecub",
+    "monster_identifier": "great-sabrecub",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Gleaming Grotto",
+        "location_identifier": "gleaming-grotto",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 427,
+    "monster": "Greater Platypunk",
+    "monster_identifier": "greater-platypunk",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 321,
+    "monster": "Green Dragon",
+    "monster_identifier": "green-dragon",
+    "locations": [
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 169,
+    "monster": "Gremlin",
+    "monster_identifier": "gremlin",
+    "locations": [
+      {
+        "location": "Fort Nox",
+        "location_identifier": "fort-nox",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Hotcake Heap",
+        "location_identifier": "hotcake-heap",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 569,
+    "monster": "Grillerpillar",
+    "monster_identifier": "grillerpillar",
+    "locations": [
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 480,
+    "monster": "Grim Keeper",
+    "monster_identifier": "grim-keeper",
+    "locations": [
+      {
+        "location": "Barbatos's Bastion",
+        "location_identifier": "barbatoss-bastion",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 513,
+    "monster": "Grim Rider",
+    "monster_identifier": "grim-rider",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 310,
+    "monster": "Grinferno",
+    "monster_identifier": "grinferno",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 170,
+    "monster": "Guaardvark",
+    "monster_identifier": "guaardvark",
+    "locations": [
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 316,
+    "monster": "Harmour",
+    "monster_identifier": "harmour",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 104,
+    "monster": "Healslime",
+    "monster_identifier": "healslime",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 367,
+    "monster": "Heligator",
+    "monster_identifier": "heligator",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 174,
+    "monster": "Hell Niño",
+    "monster_identifier": "hell-nino",
+    "locations": [
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 173,
+    "monster": "Hellbound Horror",
+    "monster_identifier": "hellbound-horror",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 550,
+    "monster": "Hellspawn",
+    "monster_identifier": "hellspawn",
+    "locations": [
+      {
+        "location": "The Whispwoods",
+        "location_identifier": "the-whispwoods",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 489,
+    "monster": "Hocus-Poker",
+    "monster_identifier": "hocus-poker",
+    "locations": [
+      {
+        "location": "Conqueror's Keep",
+        "location_identifier": "conquerors-keep",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 176,
+    "monster": "Hooper Trooper",
+    "monster_identifier": "hooper-trooper",
+    "locations": [
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Sepulchre of Flames",
+        "location_identifier": "sepulchre-of-flames",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 471,
+    "monster": "Hypothermion",
+    "monster_identifier": "hypothermion",
+    "locations": [
+      {
+        "location": "House of Shifting Sands",
+        "location_identifier": "house-of-shifting-sands",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 179,
+    "monster": "Imp",
+    "monster_identifier": "imp",
+    "locations": [
+      {
+        "location": "Battenburg",
+        "location_identifier": "battenburg",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Desserted Dungeon",
+        "location_identifier": "desserted-dungeon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 286,
+    "monster": "Iron Maiden",
+    "monster_identifier": "iron-maiden",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 180,
+    "monster": "Jailcat",
+    "monster_identifier": "jailcat",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Grimglow Cave",
+        "location_identifier": "grimglow-cave",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Sepulchre of Flames",
+        "location_identifier": "sepulchre-of-flames",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 288,
+    "monster": "Jinkster",
+    "monster_identifier": "jinkster",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Fort Nox",
+        "location_identifier": "fort-nox",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 182,
+    "monster": "Jumping Jackal",
+    "monster_identifier": "jumping-jackal",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 183,
+    "monster": "Khalamari Kid",
+    "monster_identifier": "khalamari-kid",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 185,
+    "monster": "Killerpillar",
+    "monster_identifier": "killerpillar",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 330,
+    "monster": "King Bubble Slime",
+    "monster_identifier": "king-bubble-slime",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 345,
+    "monster": "King Slick Slime",
+    "monster_identifier": "king-slick-slime",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 474,
+    "monster": "Kisser",
+    "monster_identifier": "kisser",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 478,
+    "monster": "Knight Errant",
+    "monster_identifier": "knight-errant",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 187,
+    "monster": "Komodo",
+    "monster_identifier": "komodo",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 188,
+    "monster": "Lampling",
+    "monster_identifier": "lampling",
+    "locations": [
+      {
+        "location": "Caverns of Conflagration",
+        "location_identifier": "caverns-of-conflagration",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Sepulchre of Flames",
+        "location_identifier": "sepulchre-of-flames",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 189,
+    "monster": "Leafy Larrikin",
+    "monster_identifier": "leafy-larrikin",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 190,
+    "monster": "Leery Lout",
+    "monster_identifier": "leery-lout",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 191,
+    "monster": "Lips",
+    "monster_identifier": "lips",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 338,
+    "monster": "Liquid Metal Slime",
+    "monster_identifier": "liquid-metal-slime",
+    "locations": [
+      {
+        "location": "Barbatos's Bastion",
+        "location_identifier": "barbatoss-bastion",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Conqueror's Keep",
+        "location_identifier": "conquerors-keep",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Dragonspate",
+        "location_identifier": "dragonspate",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 453,
+    "monster": "Living Statue",
+    "monster_identifier": "living-statue",
+    "locations": [
+      {
+        "location": "Aamon's Sanctum",
+        "location_identifier": "aamons-sanctum",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 192,
+    "monster": "Lumbering Lizard",
+    "monster_identifier": "lumbering-lizard",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 283,
+    "monster": "Lump Shaman",
+    "monster_identifier": "lump-shaman",
+    "locations": [
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 194,
+    "monster": "Lunatick",
+    "monster_identifier": "lunatick",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 195,
+    "monster": "Mad Mollusk",
+    "monster_identifier": "mad-mollusk",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 299,
+    "monster": "Mandrake Major",
+    "monster_identifier": "mandrake-major",
+    "locations": [
+      {
+        "location": "Barbatos's Bastion",
+        "location_identifier": "barbatoss-bastion",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Fort Nox",
+        "location_identifier": "fort-nox",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "House of Shifting Sands",
+        "location_identifier": "house-of-shifting-sands",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 391,
+    "monster": "Mangleclaw",
+    "monster_identifier": "mangleclaw",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 425,
+    "monster": "Maniacal Mole",
+    "monster_identifier": "maniacal-mole",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 196,
+    "monster": "Mecha-Mynah",
+    "monster_identifier": "mecha-mynah",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 360,
+    "monster": "Metal Dragon",
+    "monster_identifier": "metal-dragon",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 348,
+    "monster": "Metal King Slime",
+    "monster_identifier": "metal-king-slime",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 323,
+    "monster": "Metal Slime",
+    "monster_identifier": "metal-slime",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Conqueror's Keep",
+        "location_identifier": "conquerors-keep",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation",
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Fort Nox",
+        "location_identifier": "fort-nox",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Grimglow Cave",
+        "location_identifier": "grimglow-cave",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation",
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Sepulchre of Flames",
+        "location_identifier": "sepulchre-of-flames",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation",
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 302,
+    "monster": "Mimic",
+    "monster_identifier": "mimic",
+    "locations": [
+      {
+        "location": "The Whispwoods",
+        "location_identifier": "the-whispwoods",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 199,
+    "monster": "Mischievous Mole",
+    "monster_identifier": "mischievous-mole",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 553,
+    "monster": "Missing Lynx",
+    "monster_identifier": "missing-lynx",
+    "locations": [
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 551,
+    "monster": "Mogus",
+    "monster_identifier": "mogus",
+    "locations": [
+      {
+        "location": "Conqueror's Keep",
+        "location_identifier": "conquerors-keep",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 201,
+    "monster": "Monolog",
+    "monster_identifier": "monolog",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 284,
+    "monster": "Morphean Mushroom",
+    "monster_identifier": "morphean-mushroom",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Grimglow Cave",
+        "location_identifier": "grimglow-cave",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 203,
+    "monster": "Mouseflap",
+    "monster_identifier": "mouseflap",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Hotcake Heap",
+        "location_identifier": "hotcake-heap",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 207,
+    "monster": "Mummy Boy",
+    "monster_identifier": "mummy-boy",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "House of Shifting Sands",
+        "location_identifier": "house-of-shifting-sands",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 510,
+    "monster": "Night Sneaker",
+    "monster_identifier": "night-sneaker",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 366,
+    "monster": "Noble Gasbagon",
+    "monster_identifier": "noble-gasbagon",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 211,
+    "monster": "Odd Cob",
+    "monster_identifier": "odd-cob",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Hotcake Heap",
+        "location_identifier": "hotcake-heap",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 424,
+    "monster": "Orc King",
+    "monster_identifier": "orc-king",
+    "locations": [
+      {
+        "location": "Barbatos's Bastion",
+        "location_identifier": "barbatoss-bastion",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 604,
+    "monster": "Overtoad",
+    "monster_identifier": "overtoad",
+    "locations": [
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 333,
+    "monster": "Pasty Pastry",
+    "monster_identifier": "pasty-pastry",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 287,
+    "monster": "Peeper",
+    "monster_identifier": "peeper",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 315,
+    "monster": "Phantom Fencer",
+    "monster_identifier": "phantom-fencer",
+    "locations": [
+      {
+        "location": "Cradle of Corruption - Lower Level",
+        "location_identifier": "circle-of-corruption-lower-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Cradle of Corruption - Middle Level",
+        "location_identifier": "circle-of-corruption-middle-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Cradle of Corruption - Upper Level",
+        "location_identifier": "circle-of-corruption-upper-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 219,
+    "monster": "Pocus Poppet",
+    "monster_identifier": "pocus-poppet",
+    "locations": [
+      {
+        "location": "Cradle of Corruption - Lower Level",
+        "location_identifier": "circle-of-corruption-lower-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Cradle of Corruption - Middle Level",
+        "location_identifier": "circle-of-corruption-middle-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Cradle of Corruption - Upper Level",
+        "location_identifier": "circle-of-corruption-upper-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 220,
+    "monster": "Pogoin' Penguin",
+    "monster_identifier": "pogoin-penguin",
+    "locations": [
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 305,
+    "monster": "Puffpoise",
+    "monster_identifier": "puffpoise",
+    "locations": [
+      {
+        "location": "Aamon's Sanctum",
+        "location_identifier": "aamons-sanctum",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 223,
+    "monster": "Putrefido",
+    "monster_identifier": "putrefido",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 226,
+    "monster": "Restless Armour",
+    "monster_identifier": "restless-armour",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Fort Nox",
+        "location_identifier": "fort-nox",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "The Watchtower",
+        "location_identifier": "the-watchtower",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 309,
+    "monster": "Rockbomb",
+    "monster_identifier": "rockbomb",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Sepulchre of Flames",
+        "location_identifier": "sepulchre-of-flames",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 402,
+    "monster": "Roistering Rooster",
+    "monster_identifier": "roistering-rooster",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 438,
+    "monster": "Ronin Raccoon",
+    "monster_identifier": "ronin-raccoon",
+    "locations": [
+      {
+        "location": "The Whispwoods",
+        "location_identifier": "the-whispwoods",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 228,
+    "monster": "Rubble Slime",
+    "monster_identifier": "rubble-slime",
+    "locations": [
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 448,
+    "monster": "Saccharine Sacksquatch",
+    "monster_identifier": "saccharine-sacksquatch",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 229,
+    "monster": "Sacksquatch",
+    "monster_identifier": "sacksquatch",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 230,
+    "monster": "Scallop Slime",
+    "monster_identifier": "scallop-slime",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Gleaming Grotto",
+        "location_identifier": "gleaming-grotto",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation",
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 475,
+    "monster": "Sculptrice",
+    "monster_identifier": "sculptrice",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Grimglow Cave",
+        "location_identifier": "grimglow-cave",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 327,
+    "monster": "Scuttle Slime",
+    "monster_identifier": "scuttle-slime",
+    "locations": [
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 271,
+    "monster": "See Urchin",
+    "monster_identifier": "see-urchin",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 518,
+    "monster": "Sekerleton",
+    "monster_identifier": "sekerleton",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 234,
+    "monster": "Shadow",
+    "monster_identifier": "shadow",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Dragonspate",
+        "location_identifier": "dragonspate",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Sepulchre of Flames",
+        "location_identifier": "sepulchre-of-flames",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 235,
+    "monster": "Sham Hatwitch",
+    "monster_identifier": "sham-hatwitch",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 105,
+    "monster": "She-Slime",
+    "monster_identifier": "she-slime",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 447,
+    "monster": "Shivery Shrubbery",
+    "monster_identifier": "shivery-shrubbery",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Desserted Dungeon",
+        "location_identifier": "desserted-dungeon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 481,
+    "monster": "Sintaur",
+    "monster_identifier": "sintaur",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 415,
+    "monster": "Skelegon",
+    "monster_identifier": "skelegon",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 238,
+    "monster": "Skeleton",
+    "monster_identifier": "skeleton",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation",
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 508,
+    "monster": "Skeleton Swordsman",
+    "monster_identifier": "skeleton-swordsman",
+    "locations": [
+      {
+        "location": "Aamon's Sanctum",
+        "location_identifier": "aamons-sanctum",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Dragonspate",
+        "location_identifier": "dragonspate",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 520,
+    "monster": "Skellyfish",
+    "monster_identifier": "skellyfish",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 273,
+    "monster": "Skipper",
+    "monster_identifier": "skipper",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 101,
+    "monster": "Slime",
+    "monster_identifier": "slime",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 241,
+    "monster": "Slime Knight",
+    "monster_identifier": "slime-knight",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 243,
+    "monster": "Slime Stack",
+    "monster_identifier": "slime-stack",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Lower Echelon",
+        "location_identifier": "circle-of-fortitude-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 245,
+    "monster": "Snail Slime",
+    "monster_identifier": "snail-slime",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Lower Echelon",
+        "location_identifier": "circle-of-caprice-lower-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 408,
+    "monster": "Snowbird",
+    "monster_identifier": "snowbird",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 246,
+    "monster": "Snowmangler",
+    "monster_identifier": "snowmangler",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 247,
+    "monster": "Soft Serve Spook",
+    "monster_identifier": "soft-serve-spook",
+    "locations": [
+      {
+        "location": "Circle of Indulgence - Lower Echelon",
+        "location_identifier": "circle-of-indulgence-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 507,
+    "monster": "Soulspawn",
+    "monster_identifier": "soulspawn",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 386,
+    "monster": "Spinchilla",
+    "monster_identifier": "spinchilla",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 248,
+    "monster": "Spiny Slime",
+    "monster_identifier": "spiny-slime",
+    "locations": [
+      {
+        "location": "Circle of Fortitude - Middle Echelon",
+        "location_identifier": "circle-of-fortitude-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 292,
+    "monster": "Splatypunk",
+    "monster_identifier": "splatypunk",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "House of Shifting Sands",
+        "location_identifier": "house-of-shifting-sands",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 252,
+    "monster": "Stark Raven",
+    "monster_identifier": "stark-raven",
+    "locations": [
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation",
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 446,
+    "monster": "Stone Golem",
+    "monster_identifier": "stone-golem",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "House of Shifting Sands",
+        "location_identifier": "house-of-shifting-sands",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 493,
+    "monster": "Stout Troll",
+    "monster_identifier": "stout-troll",
+    "locations": [
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": true
+      }
+    ]
+  },
+  {
+    "monster_id": 254,
+    "monster": "Stump Chump",
+    "monster_identifier": "stump-chump",
+    "locations": [
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 256,
+    "monster": "Succubat",
+    "monster_identifier": "succubat",
+    "locations": [
+      {
+        "location": "Cradle of Corruption - Lower Level",
+        "location_identifier": "circle-of-corruption-lower-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Cradle of Corruption - Upper Level",
+        "location_identifier": "circle-of-corruption-upper-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 469,
+    "monster": "Sugar Baddie",
+    "monster_identifier": "sugar-baddie",
+    "locations": [
+      {
+        "location": "Battenburg",
+        "location_identifier": "battenburg",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Middle Echelon",
+        "location_identifier": "circle-of-indulgence-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 304,
+    "monster": "Sugarstar Slime",
+    "monster_identifier": "sugarstar-slime",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 418,
+    "monster": "Sweaty Yeti",
+    "monster_identifier": "sweaty-yeti",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Middle Echelon",
+        "location_identifier": "circle-of-caprice-middle-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 435,
+    "monster": "Tantamount",
+    "monster_identifier": "tantamount",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 259,
+    "monster": "Teeny Sanguini",
+    "monster_identifier": "teeny-sanguini",
+    "locations": [
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Precipitation",
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 260,
+    "monster": "Toady",
+    "monster_identifier": "toady",
+    "locations": [
+      {
+        "location": "Circle of Temper - Lower Echelon",
+        "location_identifier": "circle-of-temper-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 485,
+    "monster": "Togre",
+    "monster_identifier": "togre",
+    "locations": [
+      {
+        "location": "Barbatos's Bastion",
+        "location_identifier": "barbatoss-bastion",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Cradle of Corruption - Middle Level",
+        "location_identifier": "circle-of-corruption-middle-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Cradle of Corruption - Upper Level",
+        "location_identifier": "circle-of-corruption-upper-level",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 397,
+    "monster": "Tufty Tot",
+    "monster_identifier": "tufty-tot",
+    "locations": [
+      {
+        "location": "Circle of Caprice - Upper Echelon",
+        "location_identifier": "circle-of-caprice-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Fortitude - Upper Echelon",
+        "location_identifier": "circle-of-fortitude-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Indulgence - Upper Echelon",
+        "location_identifier": "circle-of-indulgence-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 320,
+    "monster": "Ursa Major",
+    "monster_identifier": "ursa-major",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Grimglow Cave",
+        "location_identifier": "grimglow-cave",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 262,
+    "monster": "Vampire Cat",
+    "monster_identifier": "vampire-cat",
+    "locations": [
+      {
+        "location": "Caverns of Conflagration",
+        "location_identifier": "caverns-of-conflagration",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Temper - Middle Echelon",
+        "location_identifier": "circle-of-temper-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Sepulchre of Flames",
+        "location_identifier": "sepulchre-of-flames",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 263,
+    "monster": "Vegandragora",
+    "monster_identifier": "vegandragora",
+    "locations": [
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 102,
+    "monster": "Wing Slime",
+    "monster_identifier": "wing-slime",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall"
+        ],
+        "weathers": [
+          "Precipitation",
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 270,
+    "monster": "Woebergine",
+    "monster_identifier": "woebergine",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Lower Echelon",
+        "location_identifier": "circle-of-conquest-lower-echelon",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Terrestria",
+        "location_identifier": "terrestria",
+        "seasons": [
+          "Fall"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 362,
+    "monster": "Wyrtoise",
+    "monster_identifier": "wyrtoise",
+    "locations": [
+      {
+        "location": "Circle of Temper - Upper Echelon",
+        "location_identifier": "circle-of-temper-upper-echelon",
+        "seasons": [
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      }
+    ]
+  },
+  {
+    "monster_id": 389,
+    "monster": "Zaptile",
+    "monster_identifier": "zaptile",
+    "locations": [
+      {
+        "location": "Circle of Conquest - Middle Echelon",
+        "location_identifier": "circle-of-conquest-middle-echelon",
+        "seasons": [
+          "Spring",
+          "Summer",
+          "Fall",
+          "Winter"
+        ],
+        "weathers": [
+          "Sun"
+        ],
+        "mini_boss": false
+      },
+      {
+        "location": "Circle of Conquest - Upper Echelon",
+        "location_identifier": "circle-of-conquest-upper-echelon",
+        "seasons": [
+          "Summer"
+        ],
+        "weathers": [
+          "Precipitation"
+        ],
+        "mini_boss": false
+      }
+    ]
+  }
+]

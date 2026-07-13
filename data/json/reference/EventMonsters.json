@@ -1,0 +1,8 @@
+{
+  "note": "Monsters obtainable only via an expired real-world event; treated as unobtainable (removed from egg pools) since the event has ended.",
+  "monsters": [
+    "Triple Splatty",
+    "Flurry Fiend",
+    "Mimic with Cheese"
+  ]
+}
